@@ -11,7 +11,7 @@ More languages are coming. Missing your language? Suggest it (see LINKS).
 LINKS
 -----
 Nexus Mods:  (coming soon)
-GitHub:      (coming soon)
+GitHub:      https://github.com/Mr-CyPh3R/Melvor-Idle-2-Localization-Pack
 Steam Guide: (coming soon)
 
 
