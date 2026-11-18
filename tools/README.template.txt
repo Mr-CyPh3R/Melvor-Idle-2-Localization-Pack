@@ -10,7 +10,7 @@ More languages are coming. Missing your language? Suggest it (see LINKS).
 
 LINKS
 -----
-Nexus Mods:  (coming soon)
+Nexus Mods:  https://www.nexusmods.com/melvoridle2/mods/7
 GitHub:      https://github.com/Mr-CyPh3R/Melvor-Idle-2-Localization-Pack
 Steam Guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3841947675
 

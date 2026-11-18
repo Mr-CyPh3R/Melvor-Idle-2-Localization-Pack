@@ -7,7 +7,7 @@ Not affiliated with or endorsed by Games By Malcs or Jagex.
 
 ## Links
 
-* Nexus Mods: (coming soon)
+* Nexus Mods: [Localization Pack on Nexus Mods](https://www.nexusmods.com/melvoridle2/mods/7)
 * Steam Guide: [Localization Pack on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3841947675)
 * Download: see [Releases](../../releases)
 
