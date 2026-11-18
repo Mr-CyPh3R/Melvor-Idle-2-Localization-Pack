@@ -8,7 +8,7 @@ Not affiliated with or endorsed by Games By Malcs or Jagex.
 ## Links
 
 * Nexus Mods: (coming soon)
-* Steam Guide: (coming soon)
+* Steam Guide: [Localization Pack on Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3841947675)
 * Download: see [Releases](../../releases)
 
 ## How these translations were made

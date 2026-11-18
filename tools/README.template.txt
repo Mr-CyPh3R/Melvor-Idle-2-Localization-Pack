@@ -12,7 +12,7 @@ LINKS
 -----
 Nexus Mods:  (coming soon)
 GitHub:      https://github.com/Mr-CyPh3R/Melvor-Idle-2-Localization-Pack
-Steam Guide: (coming soon)
+Steam Guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3841947675
 
 
 TRANSPARENCY: HOW THESE TRANSLATIONS WERE MADE
