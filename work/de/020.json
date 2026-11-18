@@ -1,0 +1,590 @@
+{
+ "03712": [
+  "Meteorit-Barren",
+  "Meteorit-Barren"
+ ],
+ "03713": [
+  "Meteorit-Morgenstern",
+  "Meteorit-Morgensterne"
+ ],
+ "03714": [
+  "Meteorit-Wurfspeerspitze",
+  "Meteorit-Wurfspeerspitzen"
+ ],
+ "03715": [
+  "Meteorit-Handschuhe",
+  "Meteorit-Handschuhe"
+ ],
+ "03716": [
+  "Meteorit-Stange",
+  "Meteorit-Stangen"
+ ],
+ "03717": [
+  "Meteorit-Helm",
+  "Meteorit-Helme"
+ ],
+ "03718": [
+  "Meteorit-Stiefel",
+  "Meteorit-Stiefel"
+ ],
+ "03719": [
+  "Meteorit-Zwillingsklingen",
+  "Meteorit-Zwillingsklingen"
+ ],
+ "03720": [
+  "Meteorit-Plattenbeinlinge",
+  "Meteorit-Plattenbeinlinge"
+ ],
+ "03721": [
+  "Meteorit-Plattenpanzer",
+  "Meteorit-Plattenpanzer"
+ ],
+ "03722": [
+  "Veredelter Meteorit-Barren",
+  "Veredelte Meteorit-Barren"
+ ],
+ "03723": [
+  "Veredelter Meteorit-Morgenstern",
+  "Veredelte Meteorit-Morgensterne"
+ ],
+ "03724": [
+  "Veredelte Meteorit-Wurfspeerspitze",
+  "Veredelte Meteorit-Wurfspeerspitzen"
+ ],
+ "03725": [
+  "Veredelte Meteorit-Handschuhe",
+  "Veredelte Meteorit-Handschuhe"
+ ],
+ "03726": [
+  "Veredelte Meteorit-Stange",
+  "Veredelte Meteorit-Stangen"
+ ],
+ "03727": [
+  "Veredelter Meteorit-Helm",
+  "Veredelte Meteorit-Helme"
+ ],
+ "03728": [
+  "Veredelte Meteorit-Stiefel",
+  "Veredelte Meteorit-Stiefel"
+ ],
+ "03729": [
+  "Veredelte Meteorit-Zwillingsklingen",
+  "Veredelte Meteorit-Zwillingsklingen"
+ ],
+ "03730": [
+  "Veredelte Meteorit-Plattenbeinlinge",
+  "Veredelte Meteorit-Plattenbeinlinge"
+ ],
+ "03731": [
+  "Veredelter Meteorit-Plattenpanzer",
+  "Veredelter Meteorit-Plattenpanzer"
+ ],
+ "03732": [
+  "Eisenstahl-Barren",
+  "Eisenstahl-Barren"
+ ],
+ "03733": [
+  "Eisenstahl-Handschuhe",
+  "Eisenstahl-Handschuhe"
+ ],
+ "03734": [
+  "Eisenstahl-Helm",
+  "Eisenstahl-Helme"
+ ],
+ "03735": [
+  "Eisenstahl-Stiefel",
+  "Eisenstahl-Stiefel"
+ ],
+ "03736": [
+  "Eisenstahl-Stachel",
+  "Eisenstahl-Stacheln"
+ ],
+ "03737": [
+  "Eisenstahl-Stachelschild",
+  "Eisenstahl-Stachelschilde"
+ ],
+ "03738": [
+  "Eisenstahl-Stangenwaffe",
+  "Eisenstahl-Stangenwaffen"
+ ],
+ "03739": [
+  "Eisenstahl-Plattenbeinlinge",
+  "Eisenstahl-Plattenbeinlinge"
+ ],
+ "03740": [
+  "Eisenstahl-Plattenpanzer",
+  "Eisenstahl-Plattenpanzer"
+ ],
+ "03741": [
+  "Drachenrunen-Barren",
+  "Drachenrunen-Barren"
+ ],
+ "03742": [
+  "Drachenrunen-Handschuhe",
+  "Drachenrunen-Handschuhe"
+ ],
+ "03743": [
+  "Drachenrunen-Helm",
+  "Drachenrunen-Helme"
+ ],
+ "03744": [
+  "Drachenrunen-Stiefel",
+  "Drachenrunen-Stiefel"
+ ],
+ "03745": [
+  "Drachenrunen-Großschwert",
+  "Drachenrunen-Großschwert"
+ ],
+ "03746": [
+  "Drachenrunen-Plattenbeinlinge",
+  "Drachenrunen-Plattenbeinlinge"
+ ],
+ "03747": [
+  "Drachenrunen-Plattenpanzer",
+  "Drachenrunen-Plattenpanzer"
+ ],
+ "03748": [
+  "Eisenstahl-Fallgrube",
+  "Eisenstahl-Fallgruben"
+ ],
+ "03749": [
+  "Drachenrunen-Schlinge",
+  "Drachenrunen-Schlingen"
+ ],
+ "03750": [
+  "Glühwürmchen",
+  "Glühwürmchen"
+ ],
+ "03751": [
+  "Glühwürmchen im Glas (Landwirtschaft)",
+  "Glühwürmchen im Glas (Landwirtschaft)"
+ ],
+ "03752": [
+  "Glühwürmchen im Glas (Viehzucht)",
+  "Glühwürmchen im Glas (Viehzucht)"
+ ],
+ "03753": [
+  "Glühwürmchen im Glas (Funkenschlagen)",
+  "Glühwürmchen im Glas (Funkenschlagen)"
+ ],
+ "03754": [
+  "Glühwürmchen-Schlingenstab",
+  "Glühwürmchen-Schlingenstäbe"
+ ],
+ "03755": [
+  "Einfache Gabe des Ceedyr",
+  "Einfache Gaben des Ceedyr"
+ ],
+ "03756": [
+  "Großzügige Gabe des Ceedyr",
+  "Großzügige Gaben des Ceedyr"
+ ],
+ "03757": [
+  "Ceedyr-Messer",
+  "Ceedyr-Messer"
+ ],
+ "03758": [
+  "Ceedyr-Umhang",
+  "Ceedyr-Umhang"
+ ],
+ "03759": [
+  "Ceedyr-Hut",
+  "Ceedyr-Hüte"
+ ],
+ "03760": [
+  "Rohe Mondlicht-Elritze",
+  "Rohe Mondlicht-Elritze"
+ ],
+ "03761": [
+  "Rohe Streifenmeeräsche",
+  "Rohe Streifenmeeräsche"
+ ],
+ "03762": [
+  "Mondlicht-Talisman",
+  "Mondlicht-Talismane"
+ ],
+ "03763": [
+  "Mondlicht-Elritze",
+  "Mondlicht-Elritzen"
+ ],
+ "03764": [
+  "Streifenmeeräsche",
+  "Streifenmeeräschen"
+ ],
+ "03765": [
+  "Elritzenpastete",
+  "Elritzenpastete"
+ ],
+ "03766": [
+  "Meeräscheneintopf",
+  "Meeräscheneintopf"
+ ],
+ "03767": [
+  "Sichelfalter im Glas",
+  "Sichelfalter im Glas"
+ ],
+ "03768": [
+  "Nachtschilf-Samen",
+  "Nachtschilf-Samen"
+ ],
+ "03769": [
+  "Nachtschilf",
+  "Nachtschilfhalme"
+ ],
+ "03770": [
+  "Nachtschilf-Geflecht",
+  "Nachtschilf-Geflechte"
+ ],
+ "03771": [
+  "Mondschuppe",
+  "Mondschuppen"
+ ],
+ "03772": [
+  "Schattenfuchsfell",
+  "Schattenfuchsfell"
+ ],
+ "03773": [
+  "Nachtschuppen-Hut",
+  "Nachtschuppen-Hut"
+ ],
+ "03774": [
+  "Nachtschuppen-Unterteil",
+  "Nachtschuppen-Unterteil"
+ ],
+ "03775": [
+  "Nachtschuppen-Oberteil",
+  "Nachtschuppen-Oberteil"
+ ],
+ "03776": [
+  "Mondschuppen-Netz",
+  "Mondschuppen-Netze"
+ ],
+ "03777": [
+  "Umhang der Schatten",
+  "Umhang der Schatten"
+ ],
+ "03778": [
+  "Leuchtender Sichelfalter im Glas (c)",
+  "Leuchtender Sichelfalter im Glas (c)"
+ ],
+ "03779": [
+  "Weiße Rabenfeder (c)",
+  "Weiße Rabenfeder (c)"
+ ],
+ "03780": [
+  "Silberschuppe (c)",
+  "Silberschuppen (c)"
+ ],
+ "03781": [
+  "Zwielicht-Fuchsschwanz (c)",
+  "Zwielicht-Fuchsschwanz (c)"
+ ],
+ "03782": [
+  "Astral-Rune",
+  "Astral-Runen"
+ ],
+ "03783": [
+  "Meteorit-Luftzepter",
+  "Meteorit-Luftzepter"
+ ],
+ "03784": [
+  "Meteorit-Wasserzepter",
+  "Meteorit-Wasserzepter"
+ ],
+ "03785": [
+  "Meteorit-Erdzepter",
+  "Meteorit-Erdzepter"
+ ],
+ "03786": [
+  "Meteorit-Feuerzepter",
+  "Meteorit-Feuerzepter"
+ ],
+ "03787": [
+  "Meteorit-Bogen",
+  "Meteorit-Bogen"
+ ],
+ "03788": [
+  "Meteorit-Wurfspeer",
+  "Meteorit-Wurfspeere"
+ ],
+ "03789": [
+  "Veredeltes Meteorit-Luftzepter",
+  "Veredeltes Meteorit-Luftzepter"
+ ],
+ "03790": [
+  "Veredeltes Meteorit-Wasserzepter",
+  "Veredeltes Meteorit-Wasserzepter"
+ ],
+ "03791": [
+  "Veredeltes Meteorit-Erdzepter",
+  "Veredeltes Meteorit-Erdzepter"
+ ],
+ "03792": [
+  "Veredeltes Meteorit-Feuerzepter",
+  "Veredeltes Meteorit-Feuerzepter"
+ ],
+ "03793": [
+  "Veredelter Meteorit-Bogen",
+  "Veredelter Meteorit-Bogen"
+ ],
+ "03794": [
+  "Veredelter Meteorit-Wurfspeer",
+  "Veredelte Meteorit-Wurfspeere"
+ ],
+ "03795": [
+  "Schutzbrechertrank P1-A",
+  "Schutzbrechertrank P1-A"
+ ],
+ "03796": [
+  "Sternenschnitt-Katana",
+  "Sternenschnitt-Katana"
+ ],
+ "03797": [
+  "Schutzbrechertrank P2-A",
+  "Schutzbrechertrank P2-A"
+ ],
+ "03798": [
+  "Schutzbrechertrank P2-B",
+  "Schutzbrechertrank P2-B"
+ ],
+ "03799": [
+  "Super-Schutzbrechertrank P1-A",
+  "Super-Schutzbrechertrank P1-A"
+ ],
+ "03800": [
+  "Super-Schutzbrechertrank P2-A",
+  "Super-Schutzbrechertrank P2-B"
+ ],
+ "03801": [
+  "Super-Schutzbrechertrank P2-B",
+  "Super-Schutzbrechertrank P2-B"
+ ],
+ "03802": [
+  "Nachtzahn-Dolch",
+  "Nachtzahn-Dolche"
+ ],
+ "03803": [
+  "Culfisch-Schild",
+  "Culfisch-Schild"
+ ],
+ "03804": [
+  "Torfisch-Plattenpanzer",
+  "Torfisch-Plattenpanzer"
+ ],
+ "03805": [
+  "Sternenbefall-Pulversack",
+  "Sternenbefall-Pulversack"
+ ],
+ "03806": [
+  "Sternenbefall-Zauberstab",
+  "Sternenbefall-Zauberstäbe"
+ ],
+ "03807": [
+  "Sternenbefall-Schwert",
+  "Sternenbefall-Schwerter"
+ ],
+ "03808": [
+  "Sternenbefall-Armbrust",
+  "Sternenbefall-Armbrust"
+ ],
+ "03809": [
+  "Mondgucker-Brille",
+  "Mondgucker-Brille"
+ ],
+ "03810": [
+  "Resonierender Narbenstein",
+  "Resonierende Narbensteine"
+ ],
+ "03811": [
+  "Drachenrunen-Laterne",
+  "Drachenrunen-Laternen"
+ ],
+ "03812": [
+  "Drachenrunen-Laterne (brennend)",
+  "Drachenrunen-Laterne (brennend)"
+ ],
+ "03813": [
+  "Glühwürmchen im Glas (Kampf)",
+  "Glühwürmchen im Glas (Kampf)"
+ ],
+ "03814": [
+  "Schattenschweif-Hose",
+  "Schattenschweif-Hose"
+ ],
+ "03815": [
+  "Schattenflammen-Zunderbüchse",
+  "Schattenflammen-Zunderbüchse"
+ ],
+ "03816": [
+  "Einfacher Magierschild",
+  "Einfacher Magierschild"
+ ],
+ "03817": [
+  "Mittlerer Magierschild",
+  "Mittlerer Magierschild"
+ ],
+ "03818": [
+  "Fortgeschrittener Magierschild",
+  "Fortgeschrittener Magierschild"
+ ],
+ "03819": [
+  "Nachtschilf-Umhang",
+  "Nachtschilf-Umhang"
+ ],
+ "03820": [
+  "Astral-Umhang",
+  "Astral-Umhang"
+ ],
+ "03821": [
+  "Meteorit-Runenritzer",
+  "Meteorit-Runenritzer"
+ ],
+ "03822": [
+  "Nachtschilf-Halbhandschuhe",
+  "Nachtschilf-Halbhandschuhe"
+ ],
+ "03823": [
+  "Kampfmagier-Halbhandschuhe",
+  "Kampfmagier-Halbhandschuhe"
+ ],
+ "03824": [
+  "Ceedyr-Handschuhe",
+  "Ceedyr-Handschuhe"
+ ],
+ "03825": [
+  "Buch der astralen Ehrfurcht",
+  "Bücher der astralen Ehrfurcht"
+ ],
+ "03826": "Stellas videmus et clamorem earum observamus. Echo quod nunc relinquunt, omnia nobis necessaria narrant, nam aliquando redibimus.",
+ "03827": [
+  "Sternbefallene Halbhandschuhe",
+  "Sternbefallene Halbhandschuhe"
+ ],
+ "03828": [
+  "Sternbefallene Armlinge",
+  "Sternbefallene Armlinge"
+ ],
+ "03829": [
+  "Sternbefallene Panzerhandschuhe",
+  "Sternbefallene Panzerhandschuhe"
+ ],
+ "03830": [
+  "Sternbefallener Ring",
+  "Sternbefallene Ringe"
+ ],
+ "03831": [
+  "Truhe der befallenen Narbe",
+  "Truhen der befallenen Narbe"
+ ],
+ "03832": [
+  "Astrolabium",
+  "Astrolabium"
+ ],
+ "03833": [
+  "Vergoldetes Zeichen",
+  "Vergoldete Zeichen"
+ ],
+ "03834": [
+  "Vergoldete flinke Kopfbedeckung",
+  "Vergoldete flinke Kopfbedeckung"
+ ],
+ "03835": "Setbonus (mit 3 flinken Ausrüstungsteilen): -4 % Gewandtheitsintervall, -4 % erlittener Schaden in Gewandtheit",
+ "03836": [
+  "Vergoldetes flinkes Oberteil",
+  "Vergoldetes flinkes Oberteil"
+ ],
+ "03837": [
+  "Vergoldete flinke Hose",
+  "Vergoldete flinke Hose"
+ ],
+ "03838": [
+  "Vergoldete flinke Stiefel",
+  "Vergoldete flinke Stiefel"
+ ],
+ "03839": [
+  "Vergoldete anmutige Kopfbedeckung",
+  "Vergoldete anmutige Kopfbedeckung"
+ ],
+ "03840": "Setbonus (mit 3 anmutigen Ausrüstungsteilen): -6 % Gewandtheitsintervall, -6 % erlittener Schaden in Gewandtheit",
+ "03841": [
+  "Vergoldetes anmutiges Oberteil",
+  "Vergoldetes anmutiges Oberteil"
+ ],
+ "03842": [
+  "Vergoldete anmutige Hose",
+  "Vergoldete anmutige Hose"
+ ],
+ "03843": [
+  "Vergoldete anmutige Stiefel",
+  "Vergoldete anmutige Stiefel"
+ ],
+ "03844": [
+  "Nachtaufstieg-Belohnungskiste",
+  "Nachtaufstieg-Belohnungskiste"
+ ],
+ "03845": [
+  "Mondlichtsprint-Belohnungskiste",
+  "Mondlichtsprint-Belohnungskiste"
+ ],
+ "03846": [
+  "Mitternachtsflucht-Belohnungskiste",
+  "Mitternachtsflucht-Belohnungskiste"
+ ],
+ "03847": [
+  "Köderkiste",
+  "Köderkiste"
+ ],
+ "03848": [
+  "Mithril-Helm (c)",
+  "Mithril-Helm (c)"
+ ],
+ "03849": [
+  "Mithril-Plattenpanzer (c)",
+  "Mithril-Plattenpanzer (c)"
+ ],
+ "03850": [
+  "Mithril-Plattenbeinlinge (c)",
+  "Mithril-Plattenbeinlinge (c)"
+ ],
+ "03851": [
+  "Mithril-Stiefel (c)",
+  "Mithril-Stiefel (c)"
+ ],
+ "03852": [
+  "Adamant-Helm (c)",
+  "Adamant-Helm (c)"
+ ],
+ "03853": [
+  "Adamant-Plattenpanzer (c)",
+  "Adamant-Plattenpanzer (c)"
+ ],
+ "03854": [
+  "Adamant-Plattenbeinlinge (c)",
+  "Adamant-Plattenbeinlinge (c)"
+ ],
+ "03855": [
+  "Adamant-Stiefel (c)",
+  "Adamant-Stiefel (c)"
+ ],
+ "03856": [
+  "Runit-Helm (c)",
+  "Runit-Helm (c)"
+ ],
+ "03857": [
+  "Runit-Plattenpanzer (c)",
+  "Runit-Plattenpanzer (c)"
+ ],
+ "03858": [
+  "Runit-Plattenbeinlinge (c)",
+  "Runit-Plattenbeinlinge (c)"
+ ],
+ "03859": [
+  "Runit-Stiefel (c)",
+  "Runit-Stiefel (c)"
+ ],
+ "03860": [
+  "Morgenstahl-Helm (c)",
+  "Morgenstahl-Helm (c)"
+ ],
+ "03861": "Setbonus (mit 3 Morgenstahl-(c)-Teilen außer Handschuhen & Schild): +8 Licht"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Localization Pack",
+  "version": "1.0.0",
+  "game_version": "0.11.6-alpha.1",
+  "description": "Unofficial community translations for Melvor Idle 2 in one mod",
+  "log_missing": false,
+  "languages": {
+    "de": {
+      "name": "Deutsch",
+      "english_name": "German",
+      "file": "Languages/de.po",
+      "units": {
+        "day": ["Tag", "Tage"],
+        "hour": ["Stunde", "Stunden"],
+        "minute": ["Minute", "Minuten"],
+        "second": ["Sekunde", "Sekunden"],
+        "turn": ["Zug", "Züge"]
+      }
+    }
+  }
+}

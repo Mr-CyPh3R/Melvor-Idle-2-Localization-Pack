@@ -1,0 +1,556 @@
+{
+ "03566": [
+  "Höllen-Spitzhacke (Beschädigt)",
+  "Höllen-Spitzhacken (Beschädigt)"
+ ],
+ "03567": [
+  "Höllen-Spitzhacke",
+  "Höllen-Spitzhacken"
+ ],
+ "03568": [
+  "Gewandtheitszeichen",
+  "Gewandtheitszeichen"
+ ],
+ "03569": [
+  "Leichte Kopfbedeckung",
+  "Leichte Kopfbedeckungen"
+ ],
+ "03570": "Setbonus (mit 3 leichten Ausrüstungsteilen): -2 % Gewandtheitsintervall",
+ "03571": [
+  "Leichtes Oberteil",
+  "Leichte Oberteile"
+ ],
+ "03572": [
+  "Leichte Hose",
+  "Leichte Hosen"
+ ],
+ "03573": [
+  "Leichte Stiefel",
+  "Leichte Stiefel"
+ ],
+ "03574": [
+  "Flinke Kopfbedeckung",
+  "Flinke Kopfbedeckungen"
+ ],
+ "03575": "Setbonus (mit 3 flinken Ausrüstungsteilen): -4 % Gewandtheitsintervall, -2 % erlittener Schaden in Gewandtheit",
+ "03576": [
+  "Flinkes Oberteil",
+  "Flinke Oberteile"
+ ],
+ "03577": [
+  "Flinke Hose",
+  "Flinke Hosen"
+ ],
+ "03578": [
+  "Flinke Stiefel",
+  "Flinke Stiefel"
+ ],
+ "03579": [
+  "Anmutige Kopfbedeckung",
+  "Anmutige Kopfbedeckungen"
+ ],
+ "03580": "Setbonus (mit 3 anmutigen Ausrüstungsteilen): -6 % Gewandtheitsintervall, -4 % erlittener Schaden in Gewandtheit",
+ "03581": [
+  "Anmutiges Oberteil",
+  "Anmutige Oberteile"
+ ],
+ "03582": [
+  "Anmutige Hose",
+  "Anmutige Hosen"
+ ],
+ "03583": [
+  "Anmutige Stiefel",
+  "Anmutige Stiefel"
+ ],
+ "03584": [
+  "Gepolsterte Kopfbedeckung",
+  "Gepolsterte Kopfbedeckungen"
+ ],
+ "03585": [
+  "Gelenkpolster",
+  "Gelenkpolster"
+ ],
+ "03586": [
+  "Kräutersamen-Paket I",
+  "Kräutersamen-Pakete I"
+ ],
+ "03587": [
+  "Kräutersamen-Paket II",
+  "Kräutersamen-Pakete II"
+ ],
+ "03588": [
+  "Elementarrunen-Paket I",
+  "Elementarrunen-Pakete I"
+ ],
+ "03589": [
+  "Elementarrunen-Paket II",
+  "Elementarrunen-Pakete II"
+ ],
+ "03590": [
+  "Sekundärrunen-Paket I",
+  "Sekundärrunen-Pakete I"
+ ],
+ "03591": [
+  "Sekundärrunen-Paket II",
+  "Sekundärrunen-Pakete II"
+ ],
+ "03592": [
+  "Munitionspaket I (Pfeile)",
+  "Munitionspakete I (Pfeile)"
+ ],
+ "03593": [
+  "Munitionspaket II (Pfeile)",
+  "Munitionspakete II (Pfeile)"
+ ],
+ "03594": [
+  "Munitionspaket I (Bolzen)",
+  "Munitionspakete I (Bolzen)"
+ ],
+ "03595": [
+  "Munitionspaket II (Bolzen)",
+  "Munitionspakete II (Bolzen)"
+ ],
+ "03596": [
+  "Munitionspaket I (Bumerangs)",
+  "Munitionspakete I (Bumerangs)"
+ ],
+ "03597": [
+  "Munitionspaket II (Bumerangs)",
+  "Munitionspakete II (Bumerangs)"
+ ],
+ "03598": [
+  "Nahkampf-Umgehungstalisman",
+  "Nahkampf-Umgehungstalismane"
+ ],
+ "03599": [
+  "Fernkampf-Umgehungstalisman",
+  "Fernkampf-Umgehungstalismane"
+ ],
+ "03600": [
+  "Magie-Umgehungstalisman",
+  "Magie-Umgehungstalismane"
+ ],
+ "03601": [
+  "Nahkampf-Genauigkeitstalisman",
+  "Nahkampf-Genauigkeitstalismane"
+ ],
+ "03602": [
+  "Fernkampf-Genauigkeitstalisman",
+  "Fernkampf-Genauigkeitstalismane"
+ ],
+ "03603": [
+  "Magie-Genauigkeitstalisman",
+  "Magie-Genauigkeitstalismane"
+ ],
+ "03604": [
+  "Schutztalisman",
+  "Schutztalismane"
+ ],
+ "03605": [
+  "Kletter-Spickzettel",
+  "Kletter-Spickzettel"
+ ],
+ "03606": [
+  "Spring-Spickzettel",
+  "Spring-Spickzettel"
+ ],
+ "03607": [
+  "Ausweich-Spickzettel",
+  "Ausweich-Spickzettel"
+ ],
+ "03608": [
+  "Balancier-Spickzettel",
+  "Balancier-Spickzettel"
+ ],
+ "03609": [
+  "Abseil-Spickzettel",
+  "Abseil-Spickzettel"
+ ],
+ "03610": [
+  "Neulings-Holzfällerhut",
+  "Neulings-Holzfällerhüte"
+ ],
+ "03611": [
+  "Neulings-Holzfälleroberteil",
+  "Neulings-Holzfälleroberteile"
+ ],
+ "03612": [
+  "Neulings-Holzfällerhose",
+  "Neulings-Holzfällerhosen"
+ ],
+ "03613": [
+  "Neulings-Holzfällerstiefel",
+  "Neulings-Holzfällerstiefel"
+ ],
+ "03614": [
+  "Neulings-Anglerhut",
+  "Neulings-Anglerhüte"
+ ],
+ "03615": [
+  "Neulings-Angleroberteil",
+  "Neulings-Angleroberteile"
+ ],
+ "03616": [
+  "Neulings-Anglerhose",
+  "Neulings-Anglerhosen"
+ ],
+ "03617": [
+  "Neulings-Anglerstiefel",
+  "Neulings-Anglerstiefel"
+ ],
+ "03618": [
+  "Neulings-Bergbauhut",
+  "Neulings-Bergbauhüte"
+ ],
+ "03619": [
+  "Neulings-Bergbauoberteil",
+  "Neulings-Bergbauoberteile"
+ ],
+ "03620": [
+  "Neulings-Bergbauhose",
+  "Neulings-Bergbauhosen"
+ ],
+ "03621": [
+  "Neulings-Bergbaustiefel",
+  "Neulings-Bergbaustiefel"
+ ],
+ "03622": [
+  "Fortgeschrittenen-Holzfällerhut",
+  "Fortgeschrittenen-Holzfällerhüte"
+ ],
+ "03623": "Setbonus (mit 3 fortgeschrittenen Holzfällerteilen): +0,025 % Chance auf Vogel-/Adlernester",
+ "03624": [
+  "Fortgeschrittenen-Holzfälleroberteil",
+  "Fortgeschrittenen-Holzfälleroberteile"
+ ],
+ "03625": [
+  "Fortgeschrittenen-Holzfällerhose",
+  "Fortgeschrittenen-Holzfällerhosen"
+ ],
+ "03626": [
+  "Fortgeschrittenen-Holzfällerstiefel",
+  "Fortgeschrittenen-Holzfällerstiefel"
+ ],
+ "03627": [
+  "Fortgeschrittenen-Anglerhut",
+  "Fortgeschrittenen-Anglerhüte"
+ ],
+ "03628": "Setbonus (mit 3 fortgeschrittenen Anglerteilen): 10 % erhöhte Spezialchance beim Fischen",
+ "03629": [
+  "Fortgeschrittenen-Angleroberteil",
+  "Fortgeschrittenen-Angleroberteile"
+ ],
+ "03630": [
+  "Fortgeschrittenen-Anglerhose",
+  "Fortgeschrittenen-Anglerhosen"
+ ],
+ "03631": [
+  "Fortgeschrittenen-Anglerstiefel",
+  "Fortgeschrittenen-Anglerstiefel"
+ ],
+ "03632": [
+  "Fortgeschrittenen-Bergbauhut",
+  "Fortgeschrittenen-Bergbauhüte"
+ ],
+ "03633": "Setbonus (mit 3 fortgeschrittenen Bergbauteilen): 20 % erhöhte Geodenchance",
+ "03634": [
+  "Fortgeschrittenen-Bergbauoberteil",
+  "Fortgeschrittenen-Bergbauoberteile"
+ ],
+ "03635": [
+  "Fortgeschrittenen-Bergbauhose",
+  "Fortgeschrittenen-Bergbauhosen"
+ ],
+ "03636": [
+  "Fortgeschrittenen-Bergbaustiefel",
+  "Fortgeschrittenen-Bergbaustiefel"
+ ],
+ "03637": [
+  "Elite-Holzfällerhut",
+  "Elite-Holzfällerhüte"
+ ],
+ "03638": "Setbonus (mit 3 Elite-Holzfällerteilen): +2 % Chance, Bäume & Büsche zu fällen",
+ "03639": [
+  "Elite-Holzfälleroberteil",
+  "Elite-Holzfälleroberteile"
+ ],
+ "03640": [
+  "Elite-Holzfällerhose",
+  "Elite-Holzfällerhosen"
+ ],
+ "03641": [
+  "Elite-Holzfällerstiefel",
+  "Elite-Holzfällerstiefel"
+ ],
+ "03642": [
+  "Elite-Anglerhut",
+  "Elite-Anglerhüte"
+ ],
+ "03643": "Setbonus (mit 3 Elite-Anglerteilen): 20 % erhöhte Spezialchance beim Fischen",
+ "03644": [
+  "Elite-Angleroberteil",
+  "Elite-Angleroberteile"
+ ],
+ "03645": [
+  "Elite-Anglerhose",
+  "Elite-Anglerhosen"
+ ],
+ "03646": [
+  "Elite-Anglerstiefel",
+  "Elite-Anglerstiefel"
+ ],
+ "03647": [
+  "Elite-Bergbauhut",
+  "Elite-Bergbauhüte"
+ ],
+ "03648": "Setbonus (mit 3 Elite-Bergbauteilen): +5 % Verdopplungschance im Bergbau",
+ "03649": [
+  "Elite-Bergbauoberteil",
+  "Elite-Bergbauoberteile"
+ ],
+ "03650": [
+  "Elite-Bergbauhose",
+  "Elite-Bergbauhosen"
+ ],
+ "03651": [
+  "Elite-Bergbaustiefel",
+  "Elite-Bergbaustiefel"
+ ],
+ "03652": [
+  "Schmiedehandschuhe I",
+  "Schmiedehandschuhe I"
+ ],
+ "03653": [
+  "Schmiedehandschuhe II",
+  "Schmiedehandschuhe II"
+ ],
+ "03654": [
+  "Handwerkshandschuhe I",
+  "Handwerkshandschuhe I"
+ ],
+ "03655": [
+  "Handwerkshandschuhe II",
+  "Handwerkshandschuhe II"
+ ],
+ "03656": [
+  "Bognereihandschuhe I",
+  "Bognereihandschuhe I"
+ ],
+ "03657": [
+  "Bognereihandschuhe II",
+  "Bognereihandschuhe II"
+ ],
+ "03658": [
+  "Runenfertigungshandschuhe I",
+  "Runenfertigungshandschuhe I"
+ ],
+ "03659": [
+  "Runenfertigungshandschuhe II",
+  "Runenfertigungshandschuhe II"
+ ],
+ "03660": [
+  "Bestienhandwerkshandschuhe I",
+  "Bestienhandwerkshandschuhe I"
+ ],
+ "03661": [
+  "Bestienhandwerkshandschuhe II",
+  "Bestienhandwerkshandschuhe II"
+ ],
+ "03662": [
+  "Pflanzenkundehandschuhe I",
+  "Pflanzenkundehandschuhe I"
+ ],
+ "03663": [
+  "Pflanzenkundehandschuhe II",
+  "Pflanzenkundehandschuhe II"
+ ],
+ "03664": [
+  "ToolbeltOPnessItem",
+  "ToolbeltOPnessItem"
+ ],
+ "03665": [
+  "Karte zu den Aschenlanden",
+  "Karten zu den Aschenlanden"
+ ],
+ "03666": [
+  "Karte zur dichten Höhle",
+  "Karten zur dichten Höhle"
+ ],
+ "03667": [
+  "Karte zu den Torag-Gründen",
+  "Karten zu den Torag-Gründen"
+ ],
+ "03668": [
+  "Torag-Leder",
+  "Torag-Leder"
+ ],
+ "03669": [
+  "Sturmluchsleder",
+  "Sturmluchsleder"
+ ],
+ "03670": [
+  "Einfache Torag-Falle",
+  "Einfache Torag-Fallen"
+ ],
+ "03671": [
+  "Verstärkte Torag-Falle",
+  "Verstärkte Torag-Fallen"
+ ],
+ "03672": [
+  "Befestigte Torag-Falle",
+  "Befestigte Torag-Fallen"
+ ],
+ "03673": [
+  "Rohes Greifensteak",
+  "Rohe Greifensteaks"
+ ],
+ "03674": [
+  "Greifensteak",
+  "Greifensteaks"
+ ],
+ "03675": [
+  "Riesige Honigwabe",
+  "Riesige Honigwaben"
+ ],
+ "03676": [
+  "Drachenknochen-Hülse",
+  "Drachenknochen-Hülsen"
+ ],
+ "03677": [
+  "Giftkapsel",
+  "Giftkapseln"
+ ],
+ "03678": [
+  "Wüstengewürzdose",
+  "Wüstengewürzdosen"
+ ],
+ "03679": [
+  "Sanddrachen-Schuppe",
+  "Sanddrachen-Schuppen"
+ ],
+ "03680": [
+  "Gleitender Sol",
+  "Gleitende Sols"
+ ],
+ "03681": [
+  "Meteorit-Erz",
+  "Meteorit-Erz"
+ ],
+ "03682": [
+  "Sternenstaub",
+  "Sternenstaub"
+ ],
+ "03683": [
+  "Goldener Sternenstaub",
+  "Goldener Sternenstaub"
+ ],
+ "03684": [
+  "Logbuch der Meteoritensichtungen",
+  "Logbücher der Meteoritensichtungen"
+ ],
+ "03685": "Rüste dies beim Bergbau aus, um Meteorit-Erz abzubauen",
+ "03686": [
+  "Logbuch der Sternschnuppensichtungen",
+  "Logbücher der Sternschnuppensichtungen"
+ ],
+ "03687": [
+  "Logbuch der goldenen Sternschnuppensichtungen",
+  "Logbücher der goldenen Sternschnuppensichtungen"
+ ],
+ "03688": [
+  "Astraler Silber-Topas-Ring",
+  "Astrale Silber-Topas-Ringe"
+ ],
+ "03689": [
+  "Astraler Silber-Saphir-Ring",
+  "Astrale Silber-Saphir-Ringe"
+ ],
+ "03690": [
+  "Astraler Silber-Rubin-Ring",
+  "Astrale Silber-Rubin-Ringe"
+ ],
+ "03691": [
+  "Astraler Silber-Smaragd-Ring",
+  "Astrale Silber-Smaragd-Ringe"
+ ],
+ "03692": [
+  "Astraler Silber-Diamant-Ring",
+  "Astrale Silber-Diamant-Ringe"
+ ],
+ "03693": [
+  "Astraler Silber-Jade-Ring",
+  "Astrale Silber-Jade-Ringe"
+ ],
+ "03694": [
+  "Astraler Gold-Topas-Ring",
+  "Astrale Gold-Topas-Ringe"
+ ],
+ "03695": [
+  "Astraler Gold-Saphir-Ring",
+  "Astrale Gold-Saphir-Ringe"
+ ],
+ "03696": [
+  "Astraler Gold-Rubin-Ring",
+  "Astrale Gold-Rubin-Ringe"
+ ],
+ "03697": [
+  "Astraler Gold-Smaragd-Ring",
+  "Astrale Gold-Smaragd-Ringe"
+ ],
+ "03698": [
+  "Astraler Gold-Diamant-Ring",
+  "Astrale Gold-Diamant-Ringe"
+ ],
+ "03699": [
+  "Astraler Gold-Jade-Ring",
+  "Astrale Gold-Jade-Ringe"
+ ],
+ "03700": [
+  "Astrales Silber-Topas-Amulett",
+  "Astrale Silber-Topas-Amulette"
+ ],
+ "03701": [
+  "Astrales Silber-Saphir-Amulett",
+  "Astrale Silber-Saphir-Amulette"
+ ],
+ "03702": [
+  "Astrales Silber-Rubin-Amulett",
+  "Astrale Silber-Rubin-Amulette"
+ ],
+ "03703": [
+  "Astrales Silber-Smaragd-Amulett",
+  "Astrale Silber-Smaragd-Amulette"
+ ],
+ "03704": [
+  "Astrales Silber-Diamant-Amulett",
+  "Astrale Silber-Diamant-Amulette"
+ ],
+ "03705": [
+  "Astrales Silber-Jade-Amulett",
+  "Astrale Silber-Jade-Amulette"
+ ],
+ "03706": [
+  "Astrales Gold-Topas-Amulett",
+  "Astrale Gold-Topas-Amulette"
+ ],
+ "03707": [
+  "Astrales Gold-Saphir-Amulett",
+  "Astrale Gold-Saphir-Amulette"
+ ],
+ "03708": [
+  "Astrales Gold-Rubin-Amulett",
+  "Astrale Gold-Rubin-Amulette"
+ ],
+ "03709": [
+  "Astrales Gold-Smaragd-Amulett",
+  "Astrale Gold-Smaragd-Amulette"
+ ],
+ "03710": [
+  "Astrales Gold-Diamant-Amulett",
+  "Astrale Gold-Diamant-Amulette"
+ ],
+ "03711": [
+  "Astrales Gold-Jade-Amulett",
+  "Astrale Gold-Jade-Amulette"
+ ]
+}

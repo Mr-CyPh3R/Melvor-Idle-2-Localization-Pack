@@ -1,0 +1,705 @@
+{
+ "02261": [
+  "Runit-Handschuhe",
+  "Runit-Handschuhe"
+ ],
+ "02262": [
+  "Runit-Krummsäbel",
+  "Runit-Krummsäbel"
+ ],
+ "02263": [
+  "Runit-Helm",
+  "Runit-Helme"
+ ],
+ "02264": [
+  "Runit-Stiefel",
+  "Runit-Stiefel"
+ ],
+ "02265": [
+  "Runit-Schild",
+  "Runit-Schilde"
+ ],
+ "02266": [
+  "Runit-Zweihänder",
+  "Runit-Zweihänder"
+ ],
+ "02267": [
+  "Runit-Hammer",
+  "Runit-Hämmer"
+ ],
+ "02268": [
+  "Runit-Armbrustbogen",
+  "Runit-Armbrustbögen"
+ ],
+ "02269": [
+  "Runit-Plattenbeinlinge",
+  "Runit-Plattenbeinlinge"
+ ],
+ "02270": [
+  "Runit-Plattenpanzer",
+  "Runit-Plattenpanzer"
+ ],
+ "02271": [
+  "Morgenstahl-Dolch",
+  "Morgenstahl-Dolche"
+ ],
+ "02272": [
+  "Morgenstahl-Parierdolch",
+  "Morgenstahl-Parierdolche"
+ ],
+ "02273": [
+  "Morgenstahl-Pfeilspitzen",
+  "Morgenstahl-Pfeilspitzen"
+ ],
+ "02274": [
+  "Morgenstahl-Wurfspeerspitzen",
+  "Morgenstahl-Wurfspeerspitzen"
+ ],
+ "02275": [
+  "Morgenstahl-Schwert",
+  "Morgenstahl-Schwerter"
+ ],
+ "02276": [
+  "Morgenstahl-Handschuhe",
+  "Morgenstahl-Handschuhe"
+ ],
+ "02277": [
+  "Morgenstahl-Krummsäbel",
+  "Morgenstahl-Krummsäbel"
+ ],
+ "02278": [
+  "Morgenstahl-Helm",
+  "Morgenstahl-Helme"
+ ],
+ "02279": "Set-Bonus (mit 3 Morgenstahl-Ausrüstungsteilen außer Handschuhen): +5 Licht",
+ "02280": [
+  "Morgenstahl-Stiefel",
+  "Morgenstahl-Stiefel"
+ ],
+ "02281": [
+  "Morgenstahl-Schild",
+  "Morgenstahl-Schilde"
+ ],
+ "02282": [
+  "Morgenstahl-Zweihänder",
+  "Morgenstahl-Zweihänder"
+ ],
+ "02283": [
+  "Morgenstahl-Hammer",
+  "Morgenstahl-Hämmer"
+ ],
+ "02284": [
+  "Morgenstahl-Armbrustbogen",
+  "Morgenstahl-Armbrustbögen"
+ ],
+ "02285": [
+  "Morgenstahl-Plattenbeinlinge",
+  "Morgenstahl-Plattenbeinlinge"
+ ],
+ "02286": "Set-Bonus (mit 3 Morgenstahl-Ausrüstungsteilen außer Handschuhen & Schild): +5 Licht",
+ "02287": [
+  "Morgenstahl-Plattenpanzer",
+  "Morgenstahl-Plattenpanzer"
+ ],
+ "02288": [
+  "Drachen-Dolch",
+  "Drachen-Dolche"
+ ],
+ "02289": [
+  "Drachen-Parierdolch",
+  "Drachen-Parierdolche"
+ ],
+ "02290": [
+  "Drachen-Pfeilspitzen",
+  "Drachen-Pfeilspitzen"
+ ],
+ "02291": [
+  "Drachen-Wurfspeerspitzen",
+  "Drachen-Wurfspeerspitzen"
+ ],
+ "02292": [
+  "Drachen-Schwert",
+  "Drachen-Schwerter"
+ ],
+ "02293": [
+  "Drachen-Handschuhe",
+  "Drachen-Handschuhe"
+ ],
+ "02294": [
+  "Drachen-Krummsäbel",
+  "Drachen-Krummsäbel"
+ ],
+ "02295": [
+  "Drachen-Helm",
+  "Drachen-Helme"
+ ],
+ "02296": [
+  "Drachen-Stiefel",
+  "Drachen-Stiefel"
+ ],
+ "02297": [
+  "Drachen-Schild",
+  "Drachen-Schilde"
+ ],
+ "02298": [
+  "Drachen-Zweihänder",
+  "Drachen-Zweihänder"
+ ],
+ "02299": [
+  "Drachen-Hammer",
+  "Drachen-Hämmer"
+ ],
+ "02300": [
+  "Drachen-Armbrustbogen",
+  "Drachen-Armbrustbögen"
+ ],
+ "02301": [
+  "Drachen-Plattenbeinlinge",
+  "Drachen-Plattenbeinlinge"
+ ],
+ "02302": [
+  "Drachen-Plattenpanzer",
+  "Drachen-Plattenpanzer"
+ ],
+ "02303": [
+  "Topas",
+  "Topase"
+ ],
+ "02304": [
+  "Saphir",
+  "Saphire"
+ ],
+ "02305": [
+  "Rubin",
+  "Rubine"
+ ],
+ "02306": [
+  "Smaragd",
+  "Smaragde"
+ ],
+ "02307": [
+  "Diamant",
+  "Diamanten"
+ ],
+ "02308": [
+  "Jade",
+  "Jade"
+ ],
+ "02309": [
+  "Silber-Barren",
+  "Silber-Barren"
+ ],
+ "02310": [
+  "Eichenbaum-Samen",
+  "Eichenbaum-Samen"
+ ],
+ "02311": [
+  "Weidenbaum-Samen",
+  "Weidenbaum-Samen"
+ ],
+ "02312": [
+  "Teakbaum-Samen",
+  "Teakbaum-Samen"
+ ],
+ "02313": [
+  "Ahornbaum-Samen",
+  "Ahornbaum-Samen"
+ ],
+ "02314": [
+  "Mahagonibaum-Samen",
+  "Mahagonibaum-Samen"
+ ],
+ "02315": [
+  "Eibenbaum-Samen",
+  "Eibenbaum-Samen"
+ ],
+ "02316": [
+  "Magiebaum-Samen",
+  "Magiebaum-Samen"
+ ],
+ "02317": [
+  "Harteichenbaum-Samen",
+  "Harteichenbaum-Samen"
+ ],
+ "02318": [
+  "Normaler Bogen",
+  "Normale Bögen"
+ ],
+ "02319": [
+  "Eichen-Bogen",
+  "Eichen-Bögen"
+ ],
+ "02320": [
+  "Weiden-Bogen",
+  "Weiden-Bögen"
+ ],
+ "02321": [
+  "Ahorn-Bogen",
+  "Ahorn-Bögen"
+ ],
+ "02322": [
+  "Eiben-Bogen",
+  "Eiben-Bögen"
+ ],
+ "02323": [
+  "Magie-Bogen",
+  "Magie-Bögen"
+ ],
+ "02324": [
+  "Mammut-Bogen",
+  "Mammut-Bögen"
+ ],
+ "02325": [
+  "Stein-Pfeile",
+  "Stein-Pfeile"
+ ],
+ "02326": [
+  "Kupfer-Pfeile",
+  "Kupfer-Pfeile"
+ ],
+ "02327": [
+  "Eisen-Pfeile",
+  "Eisen-Pfeile"
+ ],
+ "02328": [
+  "Stahl-Pfeile",
+  "Stahl-Pfeile"
+ ],
+ "02329": [
+  "Mithril-Pfeile",
+  "Mithril-Pfeile"
+ ],
+ "02330": [
+  "Adamant-Pfeile",
+  "Adamant-Pfeile"
+ ],
+ "02331": [
+  "Runit-Pfeile",
+  "Runit-Pfeile"
+ ],
+ "02332": [
+  "Morgenstahl-Pfeile",
+  "Morgenstahl-Pfeile"
+ ],
+ "02333": [
+  "Drachen-Pfeile",
+  "Drachen-Pfeile"
+ ],
+ "02334": [
+  "Spitzenlose Pfeile",
+  "Spitzenlose Pfeile"
+ ],
+ "02335": [
+  "Federn",
+  "Federn"
+ ],
+ "02336": [
+  "Bogensehne",
+  "Bogensehnen"
+ ],
+ "02337": [
+  "Leder",
+  "Leder"
+ ],
+ "02338": [
+  "Gründrachenhaut",
+  "Gründrachenhäute"
+ ],
+ "02339": [
+  "Gründrachenleder",
+  "Gründrachenleder"
+ ],
+ "02340": [
+  "Blaudrachenhaut",
+  "Blaudrachenhäute"
+ ],
+ "02341": [
+  "Blaudrachenleder",
+  "Blaudrachenleder"
+ ],
+ "02342": [
+  "Rotdrachenhaut",
+  "Rotdrachenhäute"
+ ],
+ "02343": [
+  "Rotdrachenleder",
+  "Rotdrachenleder"
+ ],
+ "02344": [
+  "Schwarzdrachenhaut",
+  "Schwarzdrachenhäute"
+ ],
+ "02345": [
+  "Schwarzdrachenleder",
+  "Schwarzdrachenleder"
+ ],
+ "02346": [
+  "Leder-Stiefel",
+  "Leder-Stiefel"
+ ],
+ "02347": [
+  "Leder-Haube",
+  "Leder-Hauben"
+ ],
+ "02348": [
+  "Leder-Armlinge",
+  "Leder-Armlinge"
+ ],
+ "02349": [
+  "Leder-Beinlinge",
+  "Leder-Beinlinge"
+ ],
+ "02350": [
+  "Gold-Topas-Ring",
+  "Gold-Topas-Ringe"
+ ],
+ "02351": [
+  "Runenessenz",
+  "Runenessenz"
+ ],
+ "02352": [
+  "Luft-Rune",
+  "Luft-Runen"
+ ],
+ "02353": [
+  "Geistes-Rune",
+  "Geistes-Runen"
+ ],
+ "02354": [
+  "Wasser-Rune",
+  "Wasser-Runen"
+ ],
+ "02355": [
+  "Erd-Rune",
+  "Erd-Runen"
+ ],
+ "02356": [
+  "Feuer-Rune",
+  "Feuer-Runen"
+ ],
+ "02357": [
+  "Körper-Rune",
+  "Körper-Runen"
+ ],
+ "02358": [
+  "Chaos-Rune",
+  "Chaos-Runen"
+ ],
+ "02359": [
+  "Jenseits-Rune",
+  "Jenseits-Runen"
+ ],
+ "02360": [
+  "Blut-Rune",
+  "Blut-Runen"
+ ],
+ "02361": [
+  "Luft-Kampfstab",
+  "Luft-Kampfstäbe"
+ ],
+ "02362": [
+  "Wasser-Kampfstab",
+  "Wasser-Kampfstäbe"
+ ],
+ "02363": [
+  "Erd-Kampfstab",
+  "Erd-Kampfstäbe"
+ ],
+ "02364": [
+  "Feuer-Kampfstab",
+  "Feuer-Kampfstäbe"
+ ],
+ "02365": [
+  "Seegras",
+  "Seegras"
+ ],
+ "02366": [
+  "Seil",
+  "Seile"
+ ],
+ "02367": [
+  "Plunder",
+  "Plunder"
+ ],
+ "02368": [
+  "Zweihändiger Mithril-Wurfhammer",
+  "Zweihändige Mithril-Wurfhämmer"
+ ],
+ "02369": [
+  "Zweihändiger Adamant-Wurfhammer",
+  "Zweihändige Adamant-Wurfhämmer"
+ ],
+ "02370": [
+  "Zweihändiger Runit-Wurfhammer",
+  "Zweihändige Runit-Wurfhämmer"
+ ],
+ "02371": [
+  "Zweihändiger Morgenstahl-Wurfhammer",
+  "Zweihändige Morgenstahl-Wurfhämmer"
+ ],
+ "02372": [
+  "Zweihändiger Drachen-Wurfhammer",
+  "Zweihändige Drachen-Wurfhämmer"
+ ],
+ "02373": [
+  "Spitzenlose Bolzen",
+  "Spitzenlose Bolzen"
+ ],
+ "02374": [
+  "Nebel-Rune",
+  "Nebel-Runen"
+ ],
+ "02375": [
+  "Staub-Rune",
+  "Staub-Runen"
+ ],
+ "02376": [
+  "Schlamm-Rune",
+  "Schlamm-Runen"
+ ],
+ "02377": [
+  "Rauch-Rune",
+  "Rauch-Runen"
+ ],
+ "02378": [
+  "Dampf-Rune",
+  "Dampf-Runen"
+ ],
+ "02379": [
+  "Lava-Rune",
+  "Lava-Runen"
+ ],
+ "02380": [
+  "Elchgeweih",
+  "Elchgeweihe"
+ ],
+ "02381": [
+  "Brot",
+  "Brote"
+ ],
+ "02382": [
+  "Rohes Rindfleisch",
+  "Rohes Rindfleisch"
+ ],
+ "02383": [
+  "Rindfleisch",
+  "Rindfleisch"
+ ],
+ "02384": [
+  "Rohes Fleisch",
+  "Rohes Fleisch"
+ ],
+ "02385": [
+  "Rohes Huhn",
+  "Rohe Hühner"
+ ],
+ "02386": [
+  "Huhn",
+  "Hühner"
+ ],
+ "02387": [
+  "Käse",
+  "Käse"
+ ],
+ "02388": [
+  "Topas-Bolzen",
+  "Topas-Bolzen"
+ ],
+ "02389": [
+  "Saphir-Bolzen",
+  "Saphir-Bolzen"
+ ],
+ "02390": [
+  "Rubin-Bolzen",
+  "Rubin-Bolzen"
+ ],
+ "02391": [
+  "Smaragd-Bolzen",
+  "Smaragd-Bolzen"
+ ],
+ "02392": [
+  "Diamant-Bolzen",
+  "Diamant-Bolzen"
+ ],
+ "02393": [
+  "Jade-Bolzen",
+  "Jade-Bolzen"
+ ],
+ "02394": [
+  "Roher Barsch",
+  "Rohe Barsche"
+ ],
+ "02395": [
+  "Rohe Makrele",
+  "Rohe Makrelen"
+ ],
+ "02396": [
+  "Roher Hecht",
+  "Rohe Hechte"
+ ],
+ "02397": [
+  "Rohe Glühflosse",
+  "Rohe Glühflossen"
+ ],
+ "02398": [
+  "Rohe Meerbrasse",
+  "Rohe Meerbrassen"
+ ],
+ "02399": [
+  "Roher Kabeljau",
+  "Rohe Kabeljaue"
+ ],
+ "02400": [
+  "Roher Wolfsbarsch",
+  "Rohe Wolfsbarsche"
+ ],
+ "02401": [
+  "Roher Rotfeuerfisch",
+  "Rohe Rotfeuerfische"
+ ],
+ "02402": [
+  "Rohe Leuchtqualle",
+  "Rohe Leuchtquallen"
+ ],
+ "02403": [
+  "Roher Thunfisch",
+  "Rohe Thunfische"
+ ],
+ "02404": [
+  "Roher Leuchtkalmar",
+  "Rohe Leuchtkalmare"
+ ],
+ "02405": [
+  "Roher Riesenaal",
+  "Rohe Riesenaale"
+ ],
+ "02406": [
+  "Eichen-Bumerang",
+  "Eichen-Bumerangs"
+ ],
+ "02407": [
+  "Weiden-Bumerang",
+  "Weiden-Bumerangs"
+ ],
+ "02408": [
+  "Ahorn-Bumerang",
+  "Ahorn-Bumerangs"
+ ],
+ "02409": [
+  "Eiben-Bumerang",
+  "Eiben-Bumerangs"
+ ],
+ "02410": [
+  "Magie-Bumerang",
+  "Magie-Bumerangs"
+ ],
+ "02411": [
+  "Mammut-Bumerang",
+  "Mammut-Bumerangs"
+ ],
+ "02412": [
+  "Eisen-Armbrust",
+  "Eisen-Armbrüste"
+ ],
+ "02413": [
+  "Stahl-Armbrust",
+  "Stahl-Armbrüste"
+ ],
+ "02414": [
+  "Mithril-Armbrust",
+  "Mithril-Armbrüste"
+ ],
+ "02415": [
+  "Adamant-Armbrust",
+  "Adamant-Armbrüste"
+ ],
+ "02416": [
+  "Runit-Armbrust",
+  "Runit-Armbrüste"
+ ],
+ "02417": [
+  "Morgenstahl-Armbrust",
+  "Morgenstahl-Armbrüste"
+ ],
+ "02418": [
+  "Drachen-Armbrust",
+  "Drachen-Armbrüste"
+ ],
+ "02419": [
+  "Zweihändige Stahl-Armbrust",
+  "Zweihändige Stahl-Armbrüste"
+ ],
+ "02420": [
+  "Zweihändige Mithril-Armbrust",
+  "Zweihändige Mithril-Armbrüste"
+ ],
+ "02421": [
+  "Zweihändige Adamant-Armbrust",
+  "Zweihändige Adamant-Armbrüste"
+ ],
+ "02422": [
+  "Zweihändige Runit-Armbrust",
+  "Zweihändige Runit-Armbrüste"
+ ],
+ "02423": [
+  "Zweihändige Morgenstahl-Armbrust",
+  "Zweihändige Morgenstahl-Armbrüste"
+ ],
+ "02424": [
+  "Zweihändige Drachen-Armbrust",
+  "Zweihändige Drachen-Armbrüste"
+ ],
+ "02425": [
+  "Verfall-Rune",
+  "Verfall-Runen"
+ ],
+ "02426": [
+  "Luft-Zauberstab",
+  "Luft-Zauberstäbe"
+ ],
+ "02427": [
+  "Luft-Stab",
+  "Luft-Stäbe"
+ ],
+ "02428": [
+  "Wasser-Zauberstab",
+  "Wasser-Zauberstäbe"
+ ],
+ "02429": [
+  "Wasser-Stab",
+  "Wasser-Stäbe"
+ ],
+ "02430": [
+  "Erd-Zauberstab",
+  "Erd-Zauberstäbe"
+ ],
+ "02431": [
+  "Erd-Stab",
+  "Erd-Stäbe"
+ ],
+ "02432": [
+  "Feuer-Zauberstab",
+  "Feuer-Zauberstäbe"
+ ],
+ "02433": [
+  "Feuer-Stab",
+  "Feuer-Stäbe"
+ ],
+ "02434": [
+  "Luftzauberhut",
+  "Luftzauberhüte"
+ ],
+ "02435": "Infos zum Set-Bonus folgen bald (rüste es vorerst aus, um ihn zu sehen).",
+ "02436": [
+  "Luftzauberstiefel",
+  "Luftzauberstiefel"
+ ],
+ "02437": [
+  "Luftzauberunterteil",
+  "Luftzauberunterteile"
+ ],
+ "02438": [
+  "Luftzauberoberteil",
+  "Luftzauberoberteile"
+ ]
+}

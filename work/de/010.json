@@ -1,0 +1,588 @@
+{
+ "02065": "Gewandtheits-Hilfsmittel 2",
+ "02066": "Gewandtheits-Umhang",
+ "02067": "Landwirtschaft-Helm",
+ "02068": "Landwirtschaft-Oberkörper",
+ "02069": "Landwirtschaft-Beine",
+ "02070": "Landwirtschaft-Stiefel",
+ "02071": "Landwirtschaft-Handschuhe",
+ "02072": "Landwirtschaft-Werkzeug",
+ "02073": "Landwirtschaft-Trank",
+ "02074": "Landwirtschaft-Hilfsmittel 1",
+ "02075": "Landwirtschaft-Hilfsmittel 2",
+ "02076": "Landwirtschaft-Umhang",
+ "02077": "Viehzucht-Helm",
+ "02078": "Viehzucht-Oberkörper",
+ "02079": "Viehzucht-Beine",
+ "02080": "Viehzucht-Stiefel",
+ "02081": "Viehzucht-Handschuhe",
+ "02082": "Viehzucht-Werkzeug",
+ "02083": "Viehzucht-Trank",
+ "02084": "Viehzucht-Hilfsmittel 1",
+ "02085": "Viehzucht-Hilfsmittel 2",
+ "02086": "Viehzucht-Umhang",
+ "02087": "Bergbau-Sichtungsbuch",
+ "02088": "Astrologie-Helm",
+ "02089": "Astrologie-Oberkörper",
+ "02090": "Astrologie-Beine",
+ "02091": "Astrologie-Stiefel",
+ "02092": "Astrologie-Handschuhe",
+ "02093": "Astrologie-Werkzeug",
+ "02094": "Astrologie-Trank",
+ "02095": "Astrologie-Hilfsmittel 1",
+ "02096": "Astrologie-Hilfsmittel 2",
+ "02097": "Astrologie-Umhang",
+ "02098": "Pflanzenkunde-Katalysator",
+ "02099": "Trank",
+ "02100": "Hilfsmittel",
+ "02101": "Werkzeug",
+ "02102": "Sichtungsbuch",
+ "02103": "Katalysator",
+ "02104": "Kampf-Hilfsmittel",
+ "02105": "Holzfällerei-Hilfsmittel",
+ "02106": "Fischen-Hilfsmittel",
+ "02107": "Funkenschlagen-Hilfsmittel",
+ "02108": "Kochen-Hilfsmittel",
+ "02109": "Bergbau-Hilfsmittel",
+ "02110": "Schmieden-Hilfsmittel",
+ "02111": "Bognerei-Hilfsmittel",
+ "02112": "Handwerk-Hilfsmittel",
+ "02113": "Runenfertigung-Hilfsmittel",
+ "02114": "Jagd-Hilfsmittel",
+ "02115": "Bestienhandwerk-Hilfsmittel",
+ "02116": "Pflanzenkunde-Hilfsmittel",
+ "02117": "Diebstahl-Hilfsmittel",
+ "02118": "Gewandtheits-Hilfsmittel",
+ "02119": "Landwirtschaft-Hilfsmittel",
+ "02120": "Viehzucht-Hilfsmittel",
+ "02121": "Astrologie-Hilfsmittel",
+ "02122": "Goldmünzen",
+ "02125": "BM",
+ "02127": "GP",
+ "02128": [
+  "Fäuste",
+  "Fäuste"
+ ],
+ "02129": [
+  "Normales Holz",
+  "Normales Holz"
+ ],
+ "02130": [
+  "Eichenholz",
+  "Eichenholz"
+ ],
+ "02131": [
+  "Weidenholz",
+  "Weidenholz"
+ ],
+ "02132": [
+  "Teakholz",
+  "Teakholz"
+ ],
+ "02133": [
+  "Ahornholz",
+  "Ahornholz"
+ ],
+ "02134": [
+  "Mahagoniholz",
+  "Mahagoniholz"
+ ],
+ "02135": [
+  "Eibenholz",
+  "Eibenholz"
+ ],
+ "02136": [
+  "Magieholz",
+  "Magieholz"
+ ],
+ "02137": [
+  "Mammutholz",
+  "Mammutholz"
+ ],
+ "02138": [
+  "Flachs",
+  "Flachs"
+ ],
+ "02139": [
+  "Stock",
+  "Stöcke"
+ ],
+ "02140": [
+  "Bernsteinranken-Blatt",
+  "Bernsteinranken-Blätter"
+ ],
+ "02141": [
+  "Stachelmoos-Blatt",
+  "Stachelmoos-Blätter"
+ ],
+ "02142": [
+  "Dämmerblatt",
+  "Dämmerblätter"
+ ],
+ "02143": [
+  "Rohe Garnele",
+  "Rohe Garnelen"
+ ],
+ "02144": [
+  "Rohe Sardine",
+  "Rohe Sardinen"
+ ],
+ "02145": [
+  "Roher Hering",
+  "Rohe Heringe"
+ ],
+ "02146": [
+  "Rohe Forelle",
+  "Rohe Forellen"
+ ],
+ "02147": [
+  "Roher Lachs",
+  "Rohe Lachse"
+ ],
+ "02148": [
+  "Roher Hummer",
+  "Rohe Hummer"
+ ],
+ "02149": [
+  "Roher Hai",
+  "Rohe Haie"
+ ],
+ "02150": [
+  "Roher Teufelsrochen",
+  "Rohe Teufelsrochen"
+ ],
+ "02151": [
+  "Roher Wal",
+  "Rohe Wale"
+ ],
+ "02152": [
+  "Stein",
+  "Stein"
+ ],
+ "02153": [
+  "Kupfer-Erz",
+  "Kupfer-Erz"
+ ],
+ "02154": [
+  "Eisen-Erz",
+  "Eisen-Erz"
+ ],
+ "02155": [
+  "Silber-Erz",
+  "Silber-Erz"
+ ],
+ "02156": [
+  "Gold-Erz",
+  "Gold-Erz"
+ ],
+ "02157": [
+  "Mithril-Erz",
+  "Mithril-Erz"
+ ],
+ "02158": [
+  "Adamant-Erz",
+  "Adamant-Erz"
+ ],
+ "02159": [
+  "Runit-Erz",
+  "Runit-Erz"
+ ],
+ "02160": [
+  "Morgenstahl-Erz",
+  "Morgenstahl-Erz"
+ ],
+ "02161": [
+  "Drachen-Erz",
+  "Drachen-Erz"
+ ],
+ "02162": [
+  "Geode",
+  "Geoden"
+ ],
+ "02163": "Kann geöffnet werden, um Belohnungen zu erhalten.",
+ "02164": [
+  "Geodenstaub",
+  "Geodenstaub"
+ ],
+ "02165": "Sehr staubig",
+ "02166": [
+  "Kupfer-Barren",
+  "Kupfer-Barren"
+ ],
+ "02167": [
+  "Eisen-Barren",
+  "Eisen-Barren"
+ ],
+ "02168": [
+  "Stahl-Barren",
+  "Stahl-Barren"
+ ],
+ "02169": [
+  "Gold-Barren",
+  "Gold-Barren"
+ ],
+ "02170": [
+  "Mithril-Barren",
+  "Mithril-Barren"
+ ],
+ "02171": [
+  "Adamant-Barren",
+  "Adamant-Barren"
+ ],
+ "02172": [
+  "Runit-Barren",
+  "Runit-Barren"
+ ],
+ "02173": [
+  "Morgenstahl-Barren",
+  "Morgenstahl-Barren"
+ ],
+ "02174": [
+  "Drachen-Barren",
+  "Drachen-Barren"
+ ],
+ "02175": [
+  "Stein-Pfeilspitzen",
+  "Stein-Pfeilspitzen"
+ ],
+ "02176": [
+  "Stein-Handschuhe",
+  "Stein-Handschuhe"
+ ],
+ "02177": [
+  "Stein-Helm",
+  "Stein-Helme"
+ ],
+ "02178": [
+  "Stein-Stiefel",
+  "Stein-Stiefel"
+ ],
+ "02179": [
+  "Stein-Hammer",
+  "Stein-Hämmer"
+ ],
+ "02180": [
+  "Stein-Plattenbeinlinge",
+  "Stein-Plattenbeinlinge"
+ ],
+ "02181": [
+  "Stein-Plattenpanzer",
+  "Stein-Plattenpanzer"
+ ],
+ "02182": [
+  "Kupfer-Dolch",
+  "Kupfer-Dolche"
+ ],
+ "02183": [
+  "Kupfer-Parierdolch",
+  "Kupfer-Parierdolche"
+ ],
+ "02184": [
+  "Kupfer-Pfeilspitzen",
+  "Kupfer-Pfeilspitzen"
+ ],
+ "02185": [
+  "Kupfer-Wurfspeerspitzen",
+  "Kupfer-Wurfspeerspitzen"
+ ],
+ "02186": [
+  "Kupfer-Schwert",
+  "Kupfer-Schwerter"
+ ],
+ "02187": [
+  "Kupfer-Handschuhe",
+  "Kupfer-Handschuhe"
+ ],
+ "02188": [
+  "Kupfer-Krummsäbel",
+  "Kupfer-Krummsäbel"
+ ],
+ "02189": [
+  "Kupfer-Helm",
+  "Kupfer-Helme"
+ ],
+ "02190": [
+  "Kupfer-Stiefel",
+  "Kupfer-Stiefel"
+ ],
+ "02191": [
+  "Kupfer-Schild",
+  "Kupfer-Schilde"
+ ],
+ "02192": [
+  "Kupfer-Zweihänder",
+  "Kupfer-Zweihänder"
+ ],
+ "02193": [
+  "Kupfer-Hammer",
+  "Kupfer-Hämmer"
+ ],
+ "02194": [
+  "Kupfer-Plattenbeinlinge",
+  "Kupfer-Plattenbeinlinge"
+ ],
+ "02195": [
+  "Kupfer-Plattenpanzer",
+  "Kupfer-Plattenpanzer"
+ ],
+ "02196": [
+  "Eisen-Dolch",
+  "Eisen-Dolche"
+ ],
+ "02197": [
+  "Eisen-Parierdolch",
+  "Eisen-Parierdolche"
+ ],
+ "02198": [
+  "Eisen-Pfeilspitzen",
+  "Eisen-Pfeilspitzen"
+ ],
+ "02199": [
+  "Eisen-Wurfspeerspitzen",
+  "Eisen-Wurfspeerspitzen"
+ ],
+ "02200": [
+  "Eisen-Schwert",
+  "Eisen-Schwerter"
+ ],
+ "02201": [
+  "Eisen-Handschuhe",
+  "Eisen-Handschuhe"
+ ],
+ "02202": [
+  "Eisen-Krummsäbel",
+  "Eisen-Krummsäbel"
+ ],
+ "02203": [
+  "Eisen-Helm",
+  "Eisen-Helme"
+ ],
+ "02204": [
+  "Eisen-Stiefel",
+  "Eisen-Stiefel"
+ ],
+ "02205": [
+  "Eisen-Schild",
+  "Eisen-Schilde"
+ ],
+ "02206": [
+  "Eisen-Zweihänder",
+  "Eisen-Zweihänder"
+ ],
+ "02207": [
+  "Eisen-Hammer",
+  "Eisen-Hämmer"
+ ],
+ "02208": [
+  "Eisen-Armbrustbogen",
+  "Eisen-Armbrustbögen"
+ ],
+ "02209": [
+  "Eisen-Plattenbeinlinge",
+  "Eisen-Plattenbeinlinge"
+ ],
+ "02210": [
+  "Eisen-Plattenpanzer",
+  "Eisen-Plattenpanzer"
+ ],
+ "02211": [
+  "Stahl-Dolch",
+  "Stahl-Dolche"
+ ],
+ "02212": [
+  "Stahl-Parierdolch",
+  "Stahl-Parierdolche"
+ ],
+ "02213": [
+  "Stahl-Pfeilspitzen",
+  "Stahl-Pfeilspitzen"
+ ],
+ "02214": [
+  "Stahl-Wurfspeerspitzen",
+  "Stahl-Wurfspeerspitzen"
+ ],
+ "02215": [
+  "Stahl-Schwert",
+  "Stahl-Schwerter"
+ ],
+ "02216": [
+  "Stahl-Handschuhe",
+  "Stahl-Handschuhe"
+ ],
+ "02217": [
+  "Stahl-Krummsäbel",
+  "Stahl-Krummsäbel"
+ ],
+ "02218": [
+  "Stahl-Helm",
+  "Stahl-Helme"
+ ],
+ "02219": [
+  "Stahl-Stiefel",
+  "Stahl-Stiefel"
+ ],
+ "02220": [
+  "Stahl-Schild",
+  "Stahl-Schilde"
+ ],
+ "02221": [
+  "Stahl-Zweihänder",
+  "Stahl-Zweihänder"
+ ],
+ "02222": [
+  "Stahl-Hammer",
+  "Stahl-Hämmer"
+ ],
+ "02223": [
+  "Stahl-Armbrustbogen",
+  "Stahl-Armbrustbögen"
+ ],
+ "02224": [
+  "Stahl-Plattenbeinlinge",
+  "Stahl-Plattenbeinlinge"
+ ],
+ "02225": [
+  "Stahl-Plattenpanzer",
+  "Stahl-Plattenpanzer"
+ ],
+ "02226": [
+  "Mithril-Dolch",
+  "Mithril-Dolche"
+ ],
+ "02227": [
+  "Mithril-Parierdolch",
+  "Mithril-Parierdolche"
+ ],
+ "02228": [
+  "Mithril-Pfeilspitzen",
+  "Mithril-Pfeilspitzen"
+ ],
+ "02229": [
+  "Mithril-Wurfspeerspitzen",
+  "Mithril-Wurfspeerspitzen"
+ ],
+ "02230": [
+  "Mithril-Schwert",
+  "Mithril-Schwerter"
+ ],
+ "02231": [
+  "Mithril-Handschuhe",
+  "Mithril-Handschuhe"
+ ],
+ "02232": [
+  "Mithril-Krummsäbel",
+  "Mithril-Krummsäbel"
+ ],
+ "02233": [
+  "Mithril-Helm",
+  "Mithril-Helme"
+ ],
+ "02234": [
+  "Mithril-Stiefel",
+  "Mithril-Stiefel"
+ ],
+ "02235": [
+  "Mithril-Schild",
+  "Mithril-Schilde"
+ ],
+ "02236": [
+  "Mithril-Zweihänder",
+  "Mithril-Zweihänder"
+ ],
+ "02237": [
+  "Mithril-Hammer",
+  "Mithril-Hämmer"
+ ],
+ "02238": [
+  "Mithril-Armbrustbogen",
+  "Mithril-Armbrustbögen"
+ ],
+ "02239": [
+  "Mithril-Plattenbeinlinge",
+  "Mithril-Plattenbeinlinge"
+ ],
+ "02240": [
+  "Mithril-Plattenpanzer",
+  "Mithril-Plattenpanzer"
+ ],
+ "02241": [
+  "Adamant-Dolch",
+  "Adamant-Dolche"
+ ],
+ "02242": [
+  "Adamant-Parierdolch",
+  "Adamant-Parierdolche"
+ ],
+ "02243": [
+  "Adamant-Pfeilspitzen",
+  "Adamant-Pfeilspitzen"
+ ],
+ "02244": [
+  "Adamant-Wurfspeerspitzen",
+  "Adamant-Wurfspeerspitzen"
+ ],
+ "02245": [
+  "Adamant-Schwert",
+  "Adamant-Schwerter"
+ ],
+ "02246": [
+  "Adamant-Handschuhe",
+  "Adamant-Handschuhe"
+ ],
+ "02247": [
+  "Adamant-Krummsäbel",
+  "Adamant-Krummsäbel"
+ ],
+ "02248": [
+  "Adamant-Helm",
+  "Adamant-Helme"
+ ],
+ "02249": [
+  "Adamant-Stiefel",
+  "Adamant-Stiefel"
+ ],
+ "02250": [
+  "Adamant-Schild",
+  "Adamant-Schilde"
+ ],
+ "02251": [
+  "Adamant-Zweihänder",
+  "Adamant-Zweihänder"
+ ],
+ "02252": [
+  "Adamant-Hammer",
+  "Adamant-Hämmer"
+ ],
+ "02253": [
+  "Adamant-Armbrustbogen",
+  "Adamant-Armbrustbögen"
+ ],
+ "02254": [
+  "Adamant-Plattenbeinlinge",
+  "Adamant-Plattenbeinlinge"
+ ],
+ "02255": [
+  "Adamant-Plattenpanzer",
+  "Adamant-Plattenpanzer"
+ ],
+ "02256": [
+  "Runit-Dolch",
+  "Runit-Dolche"
+ ],
+ "02257": [
+  "Runit-Parierdolch",
+  "Runit-Parierdolche"
+ ],
+ "02258": [
+  "Runit-Pfeilspitzen",
+  "Runit-Pfeilspitzen"
+ ],
+ "02259": [
+  "Runit-Wurfspeerspitzen",
+  "Runit-Wurfspeerspitzen"
+ ],
+ "02260": [
+  "Runit-Schwert",
+  "Runit-Schwerter"
+ ]
+}

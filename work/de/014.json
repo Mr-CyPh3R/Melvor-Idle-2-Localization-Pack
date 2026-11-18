@@ -1,0 +1,652 @@
+{
+ "02789": [
+  "Lasagne",
+  "Lasagne"
+ ],
+ "02790": [
+  "Kombi-Pizza",
+  "Kombi-Pizzen"
+ ],
+ "02791": [
+  "Leuchtsuppe",
+  "Leuchtsuppen"
+ ],
+ "02792": [
+  "Samenköder",
+  "Samenköder"
+ ],
+ "02793": [
+  "Gemüseköder",
+  "Gemüseköder"
+ ],
+ "02794": [
+  "Honigrindenköder",
+  "Honigrindenköder"
+ ],
+ "02795": [
+  "Fleischköder",
+  "Fleischköder"
+ ],
+ "02796": [
+  "Großer Knochen",
+  "Große Knochen"
+ ],
+ "02797": [
+  "Knochenmehlköder",
+  "Knochenmehlköder"
+ ],
+ "02798": [
+  "Funkelnder Köder",
+  "Funkelnde Köder"
+ ],
+ "02799": [
+  "Flussgras",
+  "Flussgras"
+ ],
+ "02800": [
+  "Mähgerste",
+  "Mähgerste"
+ ],
+ "02801": [
+  "Kaninchenfleisch",
+  "Kaninchenfleisch"
+ ],
+ "02802": [
+  "Einfache Schlinge",
+  "Einfache Schlingen"
+ ],
+ "02803": "Eine Schlinge für die Jagd.",
+ "02804": [
+  "Verstärkte Schlinge",
+  "Verstärkte Schlingen"
+ ],
+ "02805": [
+  "Befestigte Schlinge",
+  "Befestigte Schlingen"
+ ],
+ "02806": [
+  "Einfacher Kleinvogelfänger",
+  "Einfache Kleinvogelfänger"
+ ],
+ "02807": "Ein Kleinvogelfänger für die Jagd.",
+ "02808": [
+  "Verstärkter Kleinvogelfänger",
+  "Verstärkte Kleinvogelfänger"
+ ],
+ "02809": [
+  "Befestigter Kleinvogelfänger",
+  "Befestigte Kleinvogelfänger"
+ ],
+ "02810": [
+  "Kaninchenfell",
+  "Kaninchenfelle"
+ ],
+ "02811": [
+  "Hasenpfote",
+  "Hasenpfoten"
+ ],
+ "02812": [
+  "Dornrückenechsen-Stachel",
+  "Dornrückenechsen-Stachel"
+ ],
+ "02813": [
+  "Grüner Schmetterling im Glas",
+  "Grüne Schmetterlinge im Glas"
+ ],
+ "02814": [
+  "Schelmkrötenhaut",
+  "Schelmkrötenhäute"
+ ],
+ "02815": [
+  "Sumpfschlangenhaut",
+  "Sumpfschlangenhäute"
+ ],
+ "02816": [
+  "Schlangenzahn",
+  "Schlangenzähne"
+ ],
+ "02817": [
+  "Grüne Krötenhaut",
+  "Grüne Krötenhäute"
+ ],
+ "02818": [
+  "Totenkopfschmetterling im Glas",
+  "Totenkopfschmetterlinge im Glas"
+ ],
+ "02819": [
+  "Spinnenseide",
+  "Spinnenseide"
+ ],
+ "02820": [
+  "Brutling-Ei",
+  "Brutling-Eier"
+ ],
+ "02821": [
+  "Schwarzfang",
+  "Schwarzfänge"
+ ],
+ "02822": [
+  "Geierfeder",
+  "Geierfedern"
+ ],
+ "02823": [
+  "Streifenhyänenfell",
+  "Streifenhyänenfelle"
+ ],
+ "02824": [
+  "Riesiger Knochen",
+  "Riesige Knochen"
+ ],
+ "02825": [
+  "Gnuhorn",
+  "Gnuhörner"
+ ],
+ "02826": [
+  "Geisterhafter Schmetterling im Glas",
+  "Geisterhafte Schmetterlinge im Glas"
+ ],
+ "02827": [
+  "Magiestaub",
+  "Magiestaub"
+ ],
+ "02828": [
+  "Geisterfaden",
+  "Geisterfäden"
+ ],
+ "02829": [
+  "Gespenster-Ektoplasma",
+  "Gespenster-Ektoplasma"
+ ],
+ "02830": [
+  "Riesenadlerfeder",
+  "Riesenadlerfedern"
+ ],
+ "02831": [
+  "Greifenfeder",
+  "Greifenfedern"
+ ],
+ "02832": [
+  "Torag-Haut",
+  "Torag-Häute"
+ ],
+ "02833": [
+  "Belra-Kristall",
+  "Belra-Kristalle"
+ ],
+ "02834": [
+  "Gar-Torag-Kern",
+  "Gar-Torag-Kerne"
+ ],
+ "02835": [
+  "Fin-Torag-Kern",
+  "Fin-Torag-Kerne"
+ ],
+ "02836": [
+  "Cul-Torag-Kern",
+  "Cul-Torag-Kerne"
+ ],
+ "02837": [
+  "Schnur",
+  "Schnüre"
+ ],
+ "02838": [
+  "Verstärkte Schnur",
+  "Verstärkte Schnüre"
+ ],
+ "02839": [
+  "Befestigte Schnur",
+  "Befestigte Schnüre"
+ ],
+ "02840": [
+  "Einfaches Netz",
+  "Einfache Netze"
+ ],
+ "02841": [
+  "Verstärktes Netz",
+  "Verstärkte Netze"
+ ],
+ "02842": [
+  "Befestigtes Netz",
+  "Befestigte Netze"
+ ],
+ "02843": [
+  "Einfaches Großvogelnetz",
+  "Einfache Großvogelnetze"
+ ],
+ "02844": [
+  "Verstärktes Großvogelnetz",
+  "Verstärkte Großvogelnetze"
+ ],
+ "02845": [
+  "Befestigtes Großvogelnetz",
+  "Befestigte Großvogelnetze"
+ ],
+ "02846": [
+  "Einfache Fallgrube",
+  "Einfache Fallgruben"
+ ],
+ "02847": [
+  "Verstärkte Fallgrube",
+  "Verstärkte Fallgruben"
+ ],
+ "02848": [
+  "Befestigte Fallgrube",
+  "Befestigte Fallgruben"
+ ],
+ "02849": [
+  "Einmachglas",
+  "Einmachgläser"
+ ],
+ "02850": [
+  "Einfaches Schmetterlingsset",
+  "Einfache Schmetterlingssets"
+ ],
+ "02851": [
+  "Verstärktes Schmetterlingsset",
+  "Verstärkte Schmetterlingssets"
+ ],
+ "02852": [
+  "Befestigtes Schmetterlingsset",
+  "Befestigte Schmetterlingssets"
+ ],
+ "02853": [
+  "Einfache Geisterkiste",
+  "Einfache Geisterkisten"
+ ],
+ "02854": [
+  "Verstärkte Geisterkiste",
+  "Verstärkte Geisterkisten"
+ ],
+ "02855": [
+  "Befestigte Geisterkiste",
+  "Befestigte Geisterkisten"
+ ],
+ "02856": [
+  "Fährtenleser-Band I",
+  "Fährtenleser-Bänder I"
+ ],
+ "02857": [
+  "Fährtenleser-Band II",
+  "Fährtenleser-Bänder II"
+ ],
+ "02858": [
+  "Fährtenleser-Band III",
+  "Fährtenleser-Bänder III"
+ ],
+ "02859": [
+  "Fährtenleser-Band IV",
+  "Fährtenleser-Bänder IV"
+ ],
+ "02860": [
+  "Fährtenleser-Band V",
+  "Fährtenleser-Bänder V"
+ ],
+ "02861": [
+  "Schlangenhaut-Fallentasche",
+  "Schlangenhaut-Fallentaschen"
+ ],
+ "02862": [
+  "Spinnenseiden-Fallentasche",
+  "Spinnenseiden-Fallentaschen"
+ ],
+ "02863": [
+  "Greifen-Fallentasche",
+  "Greifen-Fallentaschen"
+ ],
+ "02864": [
+  "Bestientöter-Helm I",
+  "Bestientöter-Helme I"
+ ],
+ "02865": [
+  "Bestientöter-Unterteil I",
+  "Bestientöter-Unterteile I"
+ ],
+ "02866": [
+  "Bestientöter-Harnisch I",
+  "Bestientöter-Harnische I"
+ ],
+ "02867": [
+  "Bestientöter-Helm II",
+  "Bestientöter-Helme II"
+ ],
+ "02868": [
+  "Bestientöter-Unterteil II",
+  "Bestientöter-Unterteile II"
+ ],
+ "02869": [
+  "Bestientöter-Harnisch II",
+  "Bestientöter-Harnische II"
+ ],
+ "02870": [
+  "Bestientöter-Helm III",
+  "Bestientöter-Helme III"
+ ],
+ "02871": [
+  "Bestientöter-Unterteil III",
+  "Bestientöter-Unterteile III"
+ ],
+ "02872": [
+  "Bestientöter-Harnisch III",
+  "Bestientöter-Harnische III"
+ ],
+ "02873": [
+  "Bestientöter-Helm IV",
+  "Bestientöter-Helme IV"
+ ],
+ "02874": [
+  "Bestientöter-Unterteil IV",
+  "Bestientöter-Unterteile IV"
+ ],
+ "02875": [
+  "Bestientöter-Harnisch IV",
+  "Bestientöter-Harnische IV"
+ ],
+ "02876": [
+  "Schlangenhaut-Umhang",
+  "Schlangenhaut-Umhänge"
+ ],
+ "02877": [
+  "Grünkrötenhaut-Schild",
+  "Grünkrötenhaut-Schilde"
+ ],
+ "02878": [
+  "Elchgeweih-Helm",
+  "Elchgeweih-Helme"
+ ],
+ "02879": [
+  "Gestreifter Umhang",
+  "Gestreifte Umhänge"
+ ],
+ "02880": [
+  "Phantom-Schild",
+  "Phantom-Schilde"
+ ],
+ "02881": [
+  "Gespenster-Fäustlinge",
+  "Gespenster-Fäustlinge"
+ ],
+ "02882": [
+  "Greifen-Armlinge",
+  "Greifen-Armlinge"
+ ],
+ "02883": [
+  "Greifen-Mantel",
+  "Greifen-Mäntel"
+ ],
+ "02884": [
+  "Schwarzfang-Klauen",
+  "Schwarzfang-Klauen"
+ ],
+ "02885": [
+  "Schwarzfang-Dolch",
+  "Schwarzfang-Dolche"
+ ],
+ "02886": [
+  "Phantom-Zauberstab",
+  "Phantom-Zauberstäbe"
+ ],
+ "02887": [
+  "Phantom-Stab",
+  "Phantom-Stäbe"
+ ],
+ "02888": [
+  "Gnu-Dolch",
+  "Gnu-Dolche"
+ ],
+ "02889": [
+  "Gespenster-Zauberstab",
+  "Gespenster-Zauberstäbe"
+ ],
+ "02890": [
+  "Gespenster-Stab",
+  "Gespenster-Stäbe"
+ ],
+ "02891": [
+  "Greifen-Armbrust",
+  "Greifen-Armbrüste"
+ ],
+ "02892": [
+  "Zweihändige Greifen-Armbrust",
+  "Zweihändige Greifen-Armbrüste"
+ ],
+ "02893": [
+  "Greifenklauen",
+  "Greifenklauen"
+ ],
+ "02894": [
+  "Hasenpfoten-Halskette",
+  "Hasenpfoten-Halsketten"
+ ],
+ "02895": [
+  "Schlangenzahn-Ring",
+  "Schlangenzahn-Ringe"
+ ],
+ "02896": [
+  "Krötenhaut-Amulett",
+  "Krötenhaut-Amulette"
+ ],
+ "02897": [
+  "Schwarzfang-Ring",
+  "Schwarzfang-Ringe"
+ ],
+ "02898": [
+  "Wolfszahn-Amulett",
+  "Wolfszahn-Amulette"
+ ],
+ "02899": [
+  "Phantom-Amulett",
+  "Phantom-Amulette"
+ ],
+ "02900": [
+  "Blutfalken-Amulett",
+  "Blutfalken-Amulette"
+ ],
+ "02901": [
+  "Gespenster-Amulett",
+  "Gespenster-Amulette"
+ ],
+ "02902": [
+  "Gar-Belra-Ring",
+  "Gar-Belra-Ringe"
+ ],
+ "02903": [
+  "Fin-Belra-Ring",
+  "Fin-Belra-Ringe"
+ ],
+ "02904": [
+  "Cul-Belra-Ring",
+  "Cul-Belra-Ringe"
+ ],
+ "02905": [
+  "Knochenpfeil",
+  "Knochenpfeile"
+ ],
+ "02906": [
+  "Knochenbolzen",
+  "Knochenbolzen"
+ ],
+ "02907": [
+  "Schwarzfang-Pfeil",
+  "Schwarzfang-Pfeile"
+ ],
+ "02908": [
+  "Schwarzfang-Bolzen",
+  "Schwarzfang-Bolzen"
+ ],
+ "02909": [
+  "Gespenster-Pfeile",
+  "Gespenster-Pfeile"
+ ],
+ "02910": [
+  "Gespenster-Bolzen",
+  "Gespenster-Bolzen"
+ ],
+ "02911": [
+  "Raptorenkralle",
+  "Raptorenkrallen"
+ ],
+ "02912": [
+  "Blutfalkenkralle",
+  "Blutfalkenkrallen"
+ ],
+ "02913": [
+  "Greifenkralle",
+  "Greifenkrallen"
+ ],
+ "02914": [
+  "Knochenhülse",
+  "Knochenhülsen"
+ ],
+ "02915": [
+  "Kaninchen-Ofenhandschuhe",
+  "Kaninchen-Ofenhandschuhe"
+ ],
+ "02916": [
+  "Dornrücken-Stachelnägel",
+  "Dornrücken-Stachelnägel"
+ ],
+ "02917": [
+  "Schlangenhaut-Geldbeutel",
+  "Schlangenhaut-Geldbeutel"
+ ],
+ "02918": [
+  "Elchgeweih-Meißel",
+  "Elchgeweih-Meißel"
+ ],
+ "02919": [
+  "Elchgeweih-Schnitzmesser",
+  "Elchgeweih-Schnitzmesser"
+ ],
+ "02920": [
+  "Drachenknochen-Nebenhandglefe",
+  "Drachenknochen-Nebenhandglefen"
+ ],
+ "02921": [
+  "Wolfszahn-Messer",
+  "Wolfszahn-Messer"
+ ],
+ "02922": [
+  "Phantomschleier",
+  "Phantomschleier"
+ ],
+ "02923": [
+  "Kleiner Drachenknochen",
+  "Kleine Drachenknochen"
+ ],
+ "02924": [
+  "Drachenknochen",
+  "Drachenknochen"
+ ],
+ "02925": [
+  "Elchhaut",
+  "Elchhäute"
+ ],
+ "02926": [
+  "Karibuhaut",
+  "Karibuhäute"
+ ],
+ "02927": [
+  "Karibugeweih",
+  "Karibugeweihe"
+ ],
+ "02928": [
+  "Elchleder",
+  "Elchleder"
+ ],
+ "02929": [
+  "Elchleder-Armlinge",
+  "Elchleder-Armlinge"
+ ],
+ "02930": [
+  "Elchleder-Stiefel",
+  "Elchleder-Stiefel"
+ ],
+ "02931": [
+  "Elchleder-Haube",
+  "Elchleder-Hauben"
+ ],
+ "02932": [
+  "Elchleder-Schild",
+  "Elchleder-Schilde"
+ ],
+ "02933": [
+  "Elchleder-Beinlinge",
+  "Elchleder-Beinlinge"
+ ],
+ "02934": [
+  "Elchleder-Harnisch",
+  "Elchleder-Harnische"
+ ],
+ "02935": [
+  "Hart-Elchleder-Armlinge",
+  "Hart-Elchleder-Armlinge"
+ ],
+ "02936": [
+  "Hart-Elchleder-Stiefel",
+  "Hart-Elchleder-Stiefel"
+ ],
+ "02937": [
+  "Hart-Elchleder-Haube",
+  "Hart-Elchleder-Hauben"
+ ],
+ "02938": [
+  "Hart-Elchleder-Schild",
+  "Hart-Elchleder-Schilde"
+ ],
+ "02939": [
+  "Hart-Elchleder-Beinlinge",
+  "Hart-Elchleder-Beinlinge"
+ ],
+ "02940": [
+  "Hart-Elchleder-Harnisch",
+  "Hart-Elchleder-Harnische"
+ ],
+ "02941": [
+  "Nieten-Elchleder-Armlinge",
+  "Nieten-Elchleder-Armlinge"
+ ],
+ "02942": [
+  "Nieten-Elchleder-Stiefel",
+  "Nieten-Elchleder-Stiefel"
+ ],
+ "02943": [
+  "Nieten-Elchleder-Haube",
+  "Nieten-Elchleder-Hauben"
+ ],
+ "02944": [
+  "Nieten-Elchleder-Schild",
+  "Nieten-Elchleder-Schilde"
+ ],
+ "02945": [
+  "Nieten-Elchleder-Beinlinge",
+  "Nieten-Elchleder-Beinlinge"
+ ],
+ "02946": [
+  "Nieten-Elchleder-Harnisch",
+  "Nieten-Elchleder-Harnische"
+ ],
+ "02947": [
+  "Karibuleder",
+  "Karibuleder"
+ ],
+ "02948": [
+  "Karibuleder-Armlinge",
+  "Karibuleder-Armlinge"
+ ],
+ "02949": [
+  "Karibuleder-Stiefel",
+  "Karibuleder-Stiefel"
+ ],
+ "02950": [
+  "Karibuleder-Haube",
+  "Karibuleder-Hauben"
+ ],
+ "02951": [
+  "Karibuleder-Schild",
+  "Karibuleder-Schilde"
+ ],
+ "02952": [
+  "Karibuleder-Beinlinge",
+  "Karibuleder-Beinlinge"
+ ]
+}

@@ -1,0 +1,652 @@
+{
+ "02439": [
+  "Wasserzauberhut",
+  "Wasserzauberhüte"
+ ],
+ "02440": [
+  "Wasserzauberstiefel",
+  "Wasserzauberstiefel"
+ ],
+ "02441": [
+  "Wasserzauberunterteil",
+  "Wasserzauberunterteile"
+ ],
+ "02442": [
+  "Wasserzauberoberteil",
+  "Wasserzauberoberteile"
+ ],
+ "02443": [
+  "Erdzauberhut",
+  "Erdzauberhüte"
+ ],
+ "02444": [
+  "Erdzauberstiefel",
+  "Erdzauberstiefel"
+ ],
+ "02445": [
+  "Erdzauberunterteil",
+  "Erdzauberunterteile"
+ ],
+ "02446": [
+  "Erdzauberoberteil",
+  "Erdzauberoberteile"
+ ],
+ "02447": [
+  "Feuerzauberhut",
+  "Feuerzauberhüte"
+ ],
+ "02448": [
+  "Feuerzauberstiefel",
+  "Feuerzauberstiefel"
+ ],
+ "02449": [
+  "Feuerzauberunterteil",
+  "Feuerzauberunterteile"
+ ],
+ "02450": [
+  "Feuerzauberoberteil",
+  "Feuerzauberoberteile"
+ ],
+ "02451": [
+  "Stein-Schwert",
+  "Stein-Schwerter"
+ ],
+ "02452": [
+  "Stein-Speerspitze",
+  "Stein-Speerspitzen"
+ ],
+ "02453": [
+  "Stahl-Speerspitze",
+  "Stahl-Speerspitzen"
+ ],
+ "02454": [
+  "Mithril-Speerspitze",
+  "Mithril-Speerspitzen"
+ ],
+ "02455": [
+  "Adamant-Speerspitze",
+  "Adamant-Speerspitzen"
+ ],
+ "02456": [
+  "Runit-Speerspitze",
+  "Runit-Speerspitzen"
+ ],
+ "02457": [
+  "Morgenstahl-Speerspitze",
+  "Morgenstahl-Speerspitzen"
+ ],
+ "02458": [
+  "Drachen-Speerspitze",
+  "Drachen-Speerspitzen"
+ ],
+ "02459": [
+  "Pfeilschaft",
+  "Pfeilschäfte"
+ ],
+ "02460": [
+  "Kupfer-Wurfspeer",
+  "Kupfer-Wurfspeere"
+ ],
+ "02461": [
+  "Eisen-Wurfspeer",
+  "Eisen-Wurfspeere"
+ ],
+ "02462": "Wirf das auf ein Monster und schau, was passiert.",
+ "02463": [
+  "Stahl-Wurfspeer",
+  "Stahl-Wurfspeere"
+ ],
+ "02464": [
+  "Mithril-Wurfspeer",
+  "Mithril-Wurfspeere"
+ ],
+ "02465": [
+  "Adamant-Wurfspeer",
+  "Adamant-Wurfspeere"
+ ],
+ "02466": [
+  "Runit-Wurfspeer",
+  "Runit-Wurfspeere"
+ ],
+ "02467": [
+  "Morgenstahl-Wurfspeer",
+  "Morgenstahl-Wurfspeere"
+ ],
+ "02468": [
+  "Drachen-Wurfspeer",
+  "Drachen-Wurfspeere"
+ ],
+ "02469": [
+  "Leder-Schild",
+  "Leder-Schilde"
+ ],
+ "02470": [
+  "Leder-Harnisch",
+  "Leder-Harnische"
+ ],
+ "02471": [
+  "Hartleder-Armlinge",
+  "Hartleder-Armlinge"
+ ],
+ "02472": [
+  "Hartleder-Stiefel",
+  "Hartleder-Stiefel"
+ ],
+ "02473": [
+  "Hartleder-Haube",
+  "Hartleder-Hauben"
+ ],
+ "02474": [
+  "Hartleder-Schild",
+  "Hartleder-Schilde"
+ ],
+ "02475": [
+  "Hartleder-Beinlinge",
+  "Hartleder-Beinlinge"
+ ],
+ "02476": [
+  "Hartleder-Harnisch",
+  "Hartleder-Harnische"
+ ],
+ "02477": [
+  "Nietenleder-Armlinge",
+  "Nietenleder-Armlinge"
+ ],
+ "02478": [
+  "Nietenleder-Stiefel",
+  "Nietenleder-Stiefel"
+ ],
+ "02479": [
+  "Nietenleder-Haube",
+  "Nietenleder-Hauben"
+ ],
+ "02480": [
+  "Nietenleder-Schild",
+  "Nietenleder-Schilde"
+ ],
+ "02481": [
+  "Nietenleder-Beinlinge",
+  "Nietenleder-Beinlinge"
+ ],
+ "02482": [
+  "Nietenleder-Harnisch",
+  "Nietenleder-Harnische"
+ ],
+ "02483": [
+  "Ketten-Armlinge",
+  "Ketten-Armlinge"
+ ],
+ "02484": [
+  "Ketten-Stiefel",
+  "Ketten-Stiefel"
+ ],
+ "02485": [
+  "Ketten-Haube",
+  "Ketten-Hauben"
+ ],
+ "02486": [
+  "Ketten-Schild",
+  "Ketten-Schilde"
+ ],
+ "02487": [
+  "Ketten-Beinlinge",
+  "Ketten-Beinlinge"
+ ],
+ "02488": [
+  "Ketten-Harnisch",
+  "Ketten-Harnische"
+ ],
+ "02489": [
+  "Gründrachenleder-Haube",
+  "Gründrachenleder-Hauben"
+ ],
+ "02490": [
+  "Gründrachenleder-Beinlinge",
+  "Gründrachenleder-Beinlinge"
+ ],
+ "02491": [
+  "Gründrachenleder-Harnisch",
+  "Gründrachenleder-Harnische"
+ ],
+ "02492": [
+  "Blaudrachenleder-Haube",
+  "Blaudrachenleder-Hauben"
+ ],
+ "02493": [
+  "Blaudrachenleder-Beinlinge",
+  "Blaudrachenleder-Beinlinge"
+ ],
+ "02494": [
+  "Blaudrachenleder-Harnisch",
+  "Blaudrachenleder-Harnische"
+ ],
+ "02495": [
+  "Rotdrachenleder-Haube",
+  "Rotdrachenleder-Hauben"
+ ],
+ "02496": [
+  "Rotdrachenleder-Beinlinge",
+  "Rotdrachenleder-Beinlinge"
+ ],
+ "02497": [
+  "Rotdrachenleder-Harnisch",
+  "Rotdrachenleder-Harnische"
+ ],
+ "02498": [
+  "Schwarzdrachenleder-Haube",
+  "Schwarzdrachenleder-Hauben"
+ ],
+ "02499": [
+  "Schwarzdrachenleder-Beinlinge",
+  "Schwarzdrachenleder-Beinlinge"
+ ],
+ "02500": [
+  "Schwarzdrachenleder-Harnisch",
+  "Schwarzdrachenleder-Harnische"
+ ],
+ "02501": [
+  "Silber-Topas-Ring",
+  "Silber-Topas-Ringe"
+ ],
+ "02502": [
+  "Silber-Saphir-Ring",
+  "Silber-Saphir-Ringe"
+ ],
+ "02503": [
+  "Silber-Rubin-Ring",
+  "Silber-Rubin-Ringe"
+ ],
+ "02504": [
+  "Silber-Smaragd-Ring",
+  "Silber-Smaragd-Ringe"
+ ],
+ "02505": [
+  "Silber-Diamant-Ring",
+  "Silber-Diamant-Ringe"
+ ],
+ "02506": [
+  "Silber-Jade-Ring",
+  "Silber-Jade-Ringe"
+ ],
+ "02507": [
+  "Gold-Saphir-Ring",
+  "Gold-Saphir-Ringe"
+ ],
+ "02508": [
+  "Gold-Rubin-Ring",
+  "Gold-Rubin-Ringe"
+ ],
+ "02509": [
+  "Gold-Smaragd-Ring",
+  "Gold-Smaragd-Ringe"
+ ],
+ "02510": [
+  "Gold-Diamant-Ring",
+  "Gold-Diamant-Ringe"
+ ],
+ "02511": [
+  "Gold-Jade-Ring",
+  "Gold-Jade-Ringe"
+ ],
+ "02512": [
+  "Silber-Topas-Amulett",
+  "Silber-Topas-Amulette"
+ ],
+ "02513": [
+  "Silber-Saphir-Amulett",
+  "Silber-Saphir-Amulette"
+ ],
+ "02514": [
+  "Silber-Rubin-Amulett",
+  "Silber-Rubin-Amulette"
+ ],
+ "02515": [
+  "Silber-Smaragd-Amulett",
+  "Silber-Smaragd-Amulette"
+ ],
+ "02516": [
+  "Silber-Diamant-Amulett",
+  "Silber-Diamant-Amulette"
+ ],
+ "02517": [
+  "Silber-Jade-Amulett",
+  "Silber-Jade-Amulette"
+ ],
+ "02518": [
+  "Gold-Topas-Amulett",
+  "Gold-Topas-Amulette"
+ ],
+ "02519": [
+  "Gold-Saphir-Amulett",
+  "Gold-Saphir-Amulette"
+ ],
+ "02520": [
+  "Gold-Rubin-Amulett",
+  "Gold-Rubin-Amulette"
+ ],
+ "02521": [
+  "Gold-Smaragd-Amulett",
+  "Gold-Smaragd-Amulette"
+ ],
+ "02522": [
+  "Gold-Diamant-Amulett",
+  "Gold-Diamant-Amulette"
+ ],
+ "02523": [
+  "Gold-Jade-Amulett",
+  "Gold-Jade-Amulette"
+ ],
+ "02524": [
+  "Harpyienfeder",
+  "Harpyienfedern"
+ ],
+ "02525": [
+  "Kohle",
+  "Kohle"
+ ],
+ "02526": [
+  "Ungeschliffener Topas",
+  "Ungeschliffene Topase"
+ ],
+ "02527": [
+  "Ungeschliffener Saphir",
+  "Ungeschliffene Saphire"
+ ],
+ "02528": [
+  "Ungeschliffener Rubin",
+  "Ungeschliffene Rubine"
+ ],
+ "02529": [
+  "Ungeschliffener Smaragd",
+  "Ungeschliffene Smaragde"
+ ],
+ "02530": [
+  "Ungeschliffener Diamant",
+  "Ungeschliffene Diamanten"
+ ],
+ "02531": [
+  "Ungeschliffene Jade",
+  "Ungeschliffene Jade"
+ ],
+ "02532": [
+  "Ton",
+  "Ton"
+ ],
+ "02533": [
+  "Eimer Wasser",
+  "Eimer Wasser"
+ ],
+ "02534": [
+  "Eimer Sand",
+  "Eimer Sand"
+ ],
+ "02535": [
+  "Geschmolzenes Glas",
+  "Geschmolzenes Glas"
+ ],
+ "02536": [
+  "Packung Phiolen",
+  "Packungen Phiolen"
+ ],
+ "02537": [
+  "Ungeladene Kugel",
+  "Ungeladene Kugeln"
+ ],
+ "02538": [
+  "Leere Laterne",
+  "Leere Laternen"
+ ],
+ "02539": [
+  "Mammutbaum-Samen",
+  "Mammutbaum-Samen"
+ ],
+ "02540": [
+  "Holzkohle",
+  "Holzkohle"
+ ],
+ "02541": [
+  "Asche",
+  "Asche"
+ ],
+ "02542": [
+  "Ruß",
+  "Ruß"
+ ],
+ "02543": [
+  "Glutstück",
+  "Glutstücke"
+ ],
+ "02544": [
+  "Harteichen-Bogen",
+  "Harteichen-Bögen"
+ ],
+ "02545": [
+  "Harteichenholz",
+  "Harteichenholz"
+ ],
+ "02546": [
+  "Harteichen-Bumerang",
+  "Harteichen-Bumerangs"
+ ],
+ "02547": [
+  "Zweihändige Eisen-Armbrust",
+  "Zweihändige Eisen-Armbrüste"
+ ],
+ "02548": [
+  "Reine Runenessenz",
+  "Reine Runenessenz"
+ ],
+ "02549": [
+  "Stahl-Speer",
+  "Stahl-Speere"
+ ],
+ "02550": [
+  "Mithril-Speer",
+  "Mithril-Speere"
+ ],
+ "02551": [
+  "Adamant-Speer",
+  "Adamant-Speere"
+ ],
+ "02552": [
+  "Runit-Speer",
+  "Runit-Speere"
+ ],
+ "02553": [
+  "Morgenstahl-Speer",
+  "Morgenstahl-Speere"
+ ],
+ "02554": [
+  "Drachen-Speer",
+  "Drachen-Speere"
+ ],
+ "02555": [
+  "Perlmuschel",
+  "Perlmuscheln"
+ ],
+ "02556": "Ein wertvoller Gegenstand zum Verkaufen.",
+ "02557": [
+  "Muschelhalskette",
+  "Muschelhalsketten"
+ ],
+ "02558": [
+  "Rostiger uralter Dolch",
+  "Rostige uralte Dolche"
+ ],
+ "02559": [
+  "Splitterabweisende Handschuhe",
+  "Splitterabweisende Handschuhe"
+ ],
+ "02560": [
+  "Standhaftes Netz",
+  "Standhafte Netze"
+ ],
+ "02561": [
+  "Zerrissenes uraltes Segeltuch",
+  "Zerrissene uralte Segeltücher"
+ ],
+ "02562": [
+  "Tiefsee-Glühstein",
+  "Tiefsee-Glühsteine"
+ ],
+ "02563": [
+  "Verlorener Angelring",
+  "Verlorene Angelringe"
+ ],
+ "02564": [
+  "Haizahn-Halskette",
+  "Haizahn-Halsketten"
+ ],
+ "02565": [
+  "Regenbogenkoralle",
+  "Regenbogenkorallen"
+ ],
+ "02566": [
+  "Schimmernder Schuppenring",
+  "Schimmernde Schuppenringe"
+ ],
+ "02567": [
+  "Seegrasbüschel",
+  "Seegrasbüschel"
+ ],
+ "02568": [
+  "Wesens-Rune",
+  "Wesens-Runen"
+ ],
+ "02569": [
+  "Luft-Kampfzauberstab",
+  "Luft-Kampfzauberstäbe"
+ ],
+ "02570": [
+  "Wasser-Kampfzauberstab",
+  "Wasser-Kampfzauberstäbe"
+ ],
+ "02571": [
+  "Erd-Kampfzauberstab",
+  "Erd-Kampfzauberstäbe"
+ ],
+ "02572": [
+  "Feuer-Kampfzauberstab",
+  "Feuer-Kampfzauberstäbe"
+ ],
+ "02573": [
+  "Mystik-Luft-Zauberstab",
+  "Mystik-Luft-Zauberstäbe"
+ ],
+ "02574": [
+  "Mystik-Wasser-Zauberstab",
+  "Mystik-Wasser-Zauberstäbe"
+ ],
+ "02575": [
+  "Mystik-Erd-Zauberstab",
+  "Mystik-Erd-Zauberstäbe"
+ ],
+ "02576": [
+  "Mystik-Feuer-Zauberstab",
+  "Mystik-Feuer-Zauberstäbe"
+ ],
+ "02577": [
+  "Mystik-Luft-Stab",
+  "Mystik-Luft-Stäbe"
+ ],
+ "02578": [
+  "Mystik-Wasser-Stab",
+  "Mystik-Wasser-Stäbe"
+ ],
+ "02579": [
+  "Mystik-Erd-Stab",
+  "Mystik-Erd-Stäbe"
+ ],
+ "02580": [
+  "Mystik-Feuer-Stab",
+  "Mystik-Feuer-Stäbe"
+ ],
+ "02581": [
+  "Luft-Zornzauberstab",
+  "Luft-Zornzauberstäbe"
+ ],
+ "02582": [
+  "Wasser-Zornzauberstab",
+  "Wasser-Zornzauberstäbe"
+ ],
+ "02583": [
+  "Erd-Zornzauberstab",
+  "Erd-Zornzauberstäbe"
+ ],
+ "02584": [
+  "Feuer-Zornzauberstab",
+  "Feuer-Zornzauberstäbe"
+ ],
+ "02585": [
+  "Luft-Zornstab",
+  "Luft-Zornstäbe"
+ ],
+ "02586": [
+  "Wasser-Zornstab",
+  "Wasser-Zornstäbe"
+ ],
+ "02587": [
+  "Erd-Zornstab",
+  "Erd-Zornstäbe"
+ ],
+ "02588": [
+  "Feuer-Zornstab",
+  "Feuer-Zornstäbe"
+ ],
+ "02589": [
+  "Einfacher Zauberhut",
+  "Einfache Zauberhüte"
+ ],
+ "02590": [
+  "Einfache Zauberstiefel",
+  "Einfache Zauberstiefel"
+ ],
+ "02591": [
+  "Einfaches Zauberunterteil",
+  "Einfache Zauberunterteile"
+ ],
+ "02592": [
+  "Einfaches Zauberoberteil",
+  "Einfache Zauberoberteile"
+ ],
+ "02593": [
+  "Gelehrten-Zauberhut",
+  "Gelehrten-Zauberhüte"
+ ],
+ "02594": [
+  "Gelehrten-Zauberstiefel",
+  "Gelehrten-Zauberstiefel"
+ ],
+ "02595": [
+  "Gelehrten-Zauberunterteil",
+  "Gelehrten-Zauberunterteile"
+ ],
+ "02596": [
+  "Gelehrten-Zauberoberteil",
+  "Gelehrten-Zauberoberteile"
+ ],
+ "02597": [
+  "Staubzauberhut",
+  "Staubzauberhüte"
+ ],
+ "02598": [
+  "Dampfzauberstiefel",
+  "Dampfzauberstiefel"
+ ],
+ "02599": [
+  "Staubzauberunterteil",
+  "Staubzauberunterteile"
+ ],
+ "02600": [
+  "Dampfzauberoberteil",
+  "Dampfzauberoberteile"
+ ],
+ "02601": [
+  "Dampfzauberhut",
+  "Dampfzauberhüte"
+ ],
+ "02602": [
+  "Staubzauberstiefel",
+  "Staubzauberstiefel"
+ ]
+}

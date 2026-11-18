@@ -1,0 +1,195 @@
+{
+ "10322": "{0:P0} Chance, [effectIcon/] {1} anzuwenden",
+ "10323": "{0:P0} Chance, [effectIcon/] {1} zuzufügen",
+ "10324": [
+  "Erhalte {0:N0} Stapelung von [effectIcon/] {1}",
+  "Erhalte {0:N0} Stapelungen von [effectIcon/] {1}"
+ ],
+ "10325": [
+  "Füge dir selbst {0:N0} Stapelung von [effectIcon/] {1} zu",
+  "Füge dir selbst {0:N0} Stapelungen von [effectIcon/] {1} zu"
+ ],
+ "10326": [
+  "Wende {0:N0} Stapelung von [effectIcon/] {1} an",
+  "Wende {0:N0} Stapelungen von [effectIcon/] {1} an"
+ ],
+ "10327": [
+  "Füge {0:N0} Stapelung von [effectIcon/] {1} zu",
+  "Füge {0:N0} Stapelungen von [effectIcon/] {1} zu"
+ ],
+ "10328": [
+  "{0:P0} Chance, {1:N0} Stapelung von [effectIcon/] {2} zu erhalten",
+  "{0:P0} Chance, {1:N0} Stapelungen von [effectIcon/] {2} zu erhalten"
+ ],
+ "10329": [
+  "{0:P0} Chance, dir selbst {1:N0} Stapelung von [effectIcon/] {2} zuzufügen",
+  "{0:P0} Chance, dir selbst {1:N0} Stapelungen von [effectIcon/] {2} zuzufügen"
+ ],
+ "10330": [
+  "{0:P0} Chance, {1:N0} Stapelung von [effectIcon/] {2} anzuwenden",
+  "{0:P0} Chance, {1:N0} Stapelungen von [effectIcon/] {2} anzuwenden"
+ ],
+ "10331": [
+  "{0:P0} Chance, {1:N0} Stapelung von [effectIcon/] {2} zuzufügen",
+  "{0:P0} Chance, {1:N0} Stapelungen von [effectIcon/] {2} zuzufügen"
+ ],
+ "10332": [
+  "Erhalte [effectIcon/] {0} für {1:N0} Zug",
+  "Erhalte [effectIcon/] {0} für {1:N0} Züge"
+ ],
+ "10333": [
+  "Füge dir selbst [effectIcon/] {0} für {1:N0} Zug zu",
+  "Füge dir selbst [effectIcon/] {0} für {1:N0} Züge zu"
+ ],
+ "10334": [
+  "Wende [effectIcon/] {0} für {1:N0} Zug an",
+  "Wende [effectIcon/] {0} für {1:N0} Züge an"
+ ],
+ "10335": [
+  "Füge [effectIcon/] {0} für {1:N0} Zug zu",
+  "Füge [effectIcon/] {0} für {1:N0} Züge zu"
+ ],
+ "10336": [
+  "{0:P0} Chance, [effectIcon/] {1} für {2:N0} Zug zu erhalten",
+  "{0:P0} Chance, [effectIcon/] {1} für {2:N0} Züge zu erhalten"
+ ],
+ "10337": [
+  "{0:P0} Chance, dir selbst [effectIcon/] {1} für {2:N0} Zug zuzufügen",
+  "{0:P0} Chance, dir selbst [effectIcon/] {1} für {2:N0} Züge zuzufügen"
+ ],
+ "10338": [
+  "{0:P0} Chance, [effectIcon/] {1} für {2:N0} Zug anzuwenden",
+  "{0:P0} Chance, [effectIcon/] {1} für {2:N0} Züge anzuwenden"
+ ],
+ "10339": [
+  "{0:P0} Chance, [effectIcon/] {1} für {2:N0} Zug zuzufügen",
+  "{0:P0} Chance, [effectIcon/] {1} für {2:N0} Züge zuzufügen"
+ ],
+ "10340": [
+  "Erhalte {0:N0}-{1:N0} Stapelungen von [effectIcon/] {2} für {3:N0} Zug",
+  "Erhalte {0:N0}-{1:N0} Stapelungen von [effectIcon/] {2} für {3:N0} Züge"
+ ],
+ "10341": [
+  "Füge dir selbst {0:N0}-{1:N0} Stapelungen von [effectIcon/] {2} für {3:N0} Zug zu",
+  "Füge dir selbst {0:N0}-{1:N0} Stapelungen von [effectIcon/] {2} für {3:N0} Züge zu"
+ ],
+ "10342": [
+  "Wende {0:N0}-{1:N0} Stapelungen von [effectIcon/] {2} für {3:N0} Zug an",
+  "Wende {0:N0}-{1:N0} Stapelungen von [effectIcon/] {2} für {3:N0} Züge an"
+ ],
+ "10343": [
+  "Füge {0:N0}-{1:N0} Stapelungen von [effectIcon/] {2} für {3:N0} Zug zu",
+  "Füge {0:N0}-{1:N0} Stapelungen von [effectIcon/] {2} für {3:N0} Züge zu"
+ ],
+ "10344": [
+  "{0:P0} Chance, {1:N0}-{2:N0} Stapelungen von [effectIcon/] {3} für {4:N0} Zug zu erhalten",
+  "{0:P0} Chance, {1:N0}-{2:N0} Stapelungen von [effectIcon/] {3} für {4:N0} Züge zu erhalten"
+ ],
+ "10345": [
+  "{0:P0} Chance, dir selbst {1:N0}-{2:N0} Stapelungen von [effectIcon/] {3} für {4:N0} Zug zuzufügen",
+  "{0:P0} Chance, dir selbst {1:N0}-{2:N0} Stapelungen von [effectIcon/] {3} für {4:N0} Züge zuzufügen"
+ ],
+ "10346": [
+  "{0:P0} Chance, {1:N0}-{2:N0} Stapelungen von [effectIcon/] {3} für {4:N0} Zug anzuwenden",
+  "{0:P0} Chance, {1:N0}-{2:N0} Stapelungen von [effectIcon/] {3} für {4:N0} Züge anzuwenden"
+ ],
+ "10347": [
+  "{0:P0} Chance, {1:N0}-{2:N0} Stapelungen von [effectIcon/] {3} für {4:N0} Zug zuzufügen",
+  "{0:P0} Chance, {1:N0}-{2:N0} Stapelungen von [effectIcon/] {3} für {4:N0} Züge zuzufügen"
+ ],
+ "10348": [
+  "Erhalte [effectIcon/] {0}, bis du {1:N0}-mal angegriffen wirst",
+  "Erhalte [effectIcon/] {0}, bis du {1:N0}-mal angegriffen wirst"
+ ],
+ "10349": [
+  "Füge dir selbst [effectIcon/] {0} zu, bis du {1:N0}-mal angegriffen wirst",
+  "Füge dir selbst [effectIcon/] {0} zu, bis du {1:N0}-mal angegriffen wirst"
+ ],
+ "10350": [
+  "Wende [effectIcon/] {0} für {1:N0} Angriff an",
+  "Wende [effectIcon/] {0} für {1:N0} Angriffe an"
+ ],
+ "10351": [
+  "Füge [effectIcon/] {0} für {1:N0} Angriff zu",
+  "Füge [effectIcon/] {0} für {1:N0} Angriffe zu"
+ ],
+ "10352": [
+  "{0:P0} Chance, [effectIcon/] {1} zu erhalten, bis du {2:N0}-mal angegriffen wirst",
+  "{0:P0} Chance, [effectIcon/] {1} zu erhalten, bis du {2:N0}-mal angegriffen wirst"
+ ],
+ "10353": [
+  "{0:P0} Chance, dir selbst [effectIcon/] {1} zuzufügen, bis du {2:N0}-mal angegriffen wirst",
+  "{0:P0} Chance, dir selbst [effectIcon/] {1} zuzufügen, bis du {2:N0}-mal angegriffen wirst"
+ ],
+ "10354": [
+  "{0:P0} Chance, [effectIcon/] {1} für {2:N0} Angriff anzuwenden",
+  "{0:P0} Chance, [effectIcon/] {1} für {2:N0} Angriffe anzuwenden"
+ ],
+ "10355": [
+  "{0:P0} Chance, [effectIcon/] {1} für {2:N0} Angriff zuzufügen",
+  "{0:P0} Chance, [effectIcon/] {1} für {2:N0} Angriffe zuzufügen"
+ ],
+ "10356": "Zu Kampfbeginn:",
+ "10357": "Beim Essen von Nahrung:",
+ "10358": "Beim manuellen Essen von Nahrung:",
+ "10359": "Beim automatischen Essen:",
+ "10360": "Bei Angriff:",
+ "10361": "Beim ersten Angriff eines Zuges:",
+ "10362": "Bei Treffer:",
+ "10363": "Beim ersten Treffer eines Zuges:",
+ "10364": "Bei Verfehlen:",
+ "10365": "Beim ersten Verfehlen eines Zuges:",
+ "10366": "Wenn der erste Angriff eines Zuges trifft:",
+ "10367": "Wenn der erste Angriff eines Zuges verfehlt:",
+ "10368": "Bei Tod:",
+ "10369": "Wenn angegriffen:",
+ "10370": "Beim ersten erlittenen Angriff:",
+ "10371": "Wenn getroffen:",
+ "10372": "Beim ersten erlittenen Treffer:",
+ "10373": "Wenn einem Angriff ausgewichen wird:",
+ "10374": "Wenn dem ersten Angriff ausgewichen wird:",
+ "10375": "Sei in [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] von [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Effekten betroffen",
+ "10376": "Sei von [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Effekten betroffen",
+ "10377": "Sei [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]-mal von [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] betroffen",
+ "10378": "Sei [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]-mal von [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] befallen",
+ "10379": "Sei in [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]-mal von [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] betroffen",
+ "10380": "Sei in [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]-mal von [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] befallen",
+ "10381": "Wende in [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Effekte an oder füge sie zu",
+ "10382": "Wende [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Effekte an oder füge sie zu",
+ "10383": "Wende [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]-mal an",
+ "10384": "Füge [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]-mal zu",
+ "10385": "Wende in [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]-mal an",
+ "10386": "Füge in [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]-mal zu",
+ "10387": "Erhalte in [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Effekte oder füge sie dir selbst zu",
+ "10388": "Erhalte [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Effekte oder füge sie dir selbst zu",
+ "10389": "Erhalte [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]-mal",
+ "10390": "Füge dir [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]-mal selbst zu",
+ "10391": "Erhalte [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]-mal in [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10392": "Füge dir in [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]-mal selbst zu",
+ "10393": "Keine Nahrung ausgewählt",
+ "10394": "Bereits ausgerüstet",
+ "10395": [
+  "{0:N0} Gegenstand durch Filtereinstellungen ausgeblendet",
+  "{0:N0} Gegenstände durch Filtereinstellungen ausgeblendet"
+ ],
+ "10396": "Iss [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Nahrung",
+ "10397": "Iss [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Nahrung in [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10398": "Iss [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b]",
+ "10399": "Iss [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b] in [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10400": "Heile [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Lebenspunkte durch Nahrung",
+ "10401": "Heile [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Lebenspunkte durch Nahrung in [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10402": "Heile [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Lebenspunkte durch [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b]",
+ "10403": "Heile [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Lebenspunkte durch [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b] in [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10404": "{0:N0} - {1:N0}",
+ "10405": "Chance auf eines der folgenden:",
+ "10406": "Dieser Inhalt ist in der [b]Demo[/b] nicht verfügbar",
+ "10407": "[b]{CategoryName}[/b] Gesamtvollendung [b]{Current:0.##%} / {Max:0.##%}[/b]",
+ "10408": "Nicht genügend Ressourcen verfügbar.",
+ "10409": "Erstellte Rezepte",
+ "10410": "Erstelle {0:F0} / {1:F1} Rezepte in {2.Entity.DisplayName}",
+ "10411": "{0.Quantity:N0} {0.Currency.DisplayNameShort}",
+ "10412": [
+  "[img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b] ist ausgerüstet",
+  "[img height=1.25em]{ItemIcon}[/img] [b]{Current} / {Max} {ItemName}[/b] sind ausgerüstet"
+ ]
+}

@@ -1,0 +1,613 @@
+{
+ "03411": [
+  "Luftzauberstiefel (u)",
+  "Luftzauberstiefel (u)"
+ ],
+ "03412": [
+  "Elementarzauberhut (u)",
+  "Elementarzauberhüte (u)"
+ ],
+ "03413": [
+  "Elementarzauberoberteil (u)",
+  "Elementarzauberoberteile (u)"
+ ],
+ "03414": [
+  "Elementarzauberunterteil (u)",
+  "Elementarzauberunterteile (u)"
+ ],
+ "03415": [
+  "Elementarzauberstiefel (u)",
+  "Elementarzauberstiefel (u)"
+ ],
+ "03416": [
+  "Bergbaustiefel",
+  "Bergbaustiefel"
+ ],
+ "03417": [
+  "Knochensense",
+  "Knochensensen"
+ ],
+ "03418": [
+  "Juwelenbesetzte Halskette",
+  "Juwelenbesetzte Halsketten"
+ ],
+ "03419": [
+  "Bestienhandwerker-Messer",
+  "Bestienhandwerker-Messer"
+ ],
+ "03420": [
+  "Bestientöter-Handschuhe",
+  "Bestientöter-Handschuhe"
+ ],
+ "03421": [
+  "Zauberstab des verlorenen Geschwisters (c)",
+  "Zauberstäbe des verlorenen Geschwisters (c)"
+ ],
+ "03422": "Vielleicht hättest du das nicht stehlen sollen.",
+ "03423": [
+  "Wertvoller Stein (c)",
+  "Wertvolle Steine (c)"
+ ],
+ "03424": [
+  "Wertvolles Holz (c)",
+  "Wertvolles Holz (c)"
+ ],
+ "03425": [
+  "Nahkampftrank P1-A",
+  "Nahkampftränke P1-A"
+ ],
+ "03426": [
+  "Zerstoßener Knochen",
+  "Zerstoßene Knochen"
+ ],
+ "03427": [
+  "Nahkampftrank P2-A",
+  "Nahkampftränke P2-A"
+ ],
+ "03428": [
+  "Nahkampftrank P2-B",
+  "Nahkampftränke P2-B"
+ ],
+ "03429": [
+  "Fernkampftrank P1-A",
+  "Fernkampftränke P1-A"
+ ],
+ "03430": [
+  "Fernkampftrank P2-A",
+  "Fernkampftränke P2-A"
+ ],
+ "03431": [
+  "Fernkampftrank P2-B",
+  "Fernkampftränke P2-B"
+ ],
+ "03432": [
+  "Magietrank P1-A",
+  "Magietränke P1-A"
+ ],
+ "03433": [
+  "Magietrank P2-A",
+  "Magietränke P2-A"
+ ],
+ "03434": [
+  "Magietrank P2-B",
+  "Magietränke P2-B"
+ ],
+ "03435": [
+  "Verlangsamungstrank P1-A",
+  "Verlangsamungstränke P1-A"
+ ],
+ "03436": [
+  "Verlangsamungstrank P2-A",
+  "Verlangsamungstränke P2-A"
+ ],
+ "03437": [
+  "Verlangsamungstrank P2-B",
+  "Verlangsamungstränke P2-B"
+ ],
+ "03438": [
+  "Widerstandstrank P1-A",
+  "Widerstandstränke P1-A"
+ ],
+ "03439": [
+  "Widerstandstrank P2-A",
+  "Widerstandstränke P2-A"
+ ],
+ "03440": [
+  "Widerstandstrank P2-B",
+  "Widerstandstränke P2-B"
+ ],
+ "03441": [
+  "Berserkertrank P1-A",
+  "Berserkertränke P1-A"
+ ],
+ "03442": [
+  "Berserkertrank P2-A",
+  "Berserkertränke P2-A"
+ ],
+ "03443": [
+  "Berserkertrank P2-B",
+  "Berserkertränke P2-B"
+ ],
+ "03444": [
+  "Gebetstrank P1-A",
+  "Gebetstränke P1-A"
+ ],
+ "03445": [
+  "Gebetstrank P2-A",
+  "Gebetstränke P2-A"
+ ],
+ "03446": [
+  "Gebetstrank P2-B",
+  "Gebetstränke P2-B"
+ ],
+ "03447": [
+  "Super-Nahkampftrank P1-A",
+  "Super-Nahkampftränke P1-A"
+ ],
+ "03448": [
+  "Blutessenz",
+  "Blutessenzen"
+ ],
+ "03449": "Wird für Super-Kampftränke in der Pflanzenkunde verwendet. Im Berserkerladen erhältlich.",
+ "03450": [
+  "Super-Nahkampftrank P2-A",
+  "Super-Nahkampftränke P2-A"
+ ],
+ "03451": [
+  "Super-Nahkampftrank P2-B",
+  "Super-Nahkampftränke P2-B"
+ ],
+ "03452": [
+  "Super-Fernkampftrank P1-A",
+  "Super-Fernkampftränke P1-A"
+ ],
+ "03453": [
+  "Super-Fernkampftrank P2-A",
+  "Super-Fernkampftränke P2-A"
+ ],
+ "03454": [
+  "Super-Fernkampftrank P2-B",
+  "Super-Fernkampftränke P2-B"
+ ],
+ "03455": [
+  "Super-Magietrank P1-A",
+  "Super-Magietränke P1-A"
+ ],
+ "03456": [
+  "Super-Magietrank P2-A",
+  "Super-Magietränke P2-A"
+ ],
+ "03457": [
+  "Super-Magietrank P2-B",
+  "Super-Magietränke P2-B"
+ ],
+ "03458": [
+  "Super-Verlangsamungstrank P1-A",
+  "Super-Verlangsamungstränke P1-A"
+ ],
+ "03459": [
+  "Super-Verlangsamungstrank P2-A",
+  "Super-Verlangsamungstränke P2-A"
+ ],
+ "03460": [
+  "Super-Verlangsamungstrank P2-B",
+  "Super-Verlangsamungstränke P2-B"
+ ],
+ "03461": [
+  "Super-Widerstandstrank P1-A",
+  "Super-Widerstandstränke P1-A"
+ ],
+ "03462": [
+  "Super-Widerstandstrank P2-A",
+  "Super-Widerstandstränke P2-A"
+ ],
+ "03463": [
+  "Super-Widerstandstrank P2-B",
+  "Super-Widerstandstränke P2-B"
+ ],
+ "03464": [
+  "Super-Berserkertrank P1-A",
+  "Super-Berserkertränke P1-A"
+ ],
+ "03465": [
+  "Super-Berserkertrank P2-A",
+  "Super-Berserkertränke P2-A"
+ ],
+ "03466": [
+  "Super-Berserkertrank P2-B",
+  "Super-Berserkertränke P2-B"
+ ],
+ "03467": [
+  "Super-Gebetstrank P1-A",
+  "Super-Gebetstränke P1-A"
+ ],
+ "03468": [
+  "Super-Gebetstrank P2-A",
+  "Super-Gebetstränke P2-A"
+ ],
+ "03469": [
+  "Super-Gebetstrank P2-B",
+  "Super-Gebetstränke P2-B"
+ ],
+ "03470": [
+  "Krankheitsheiltrank P1-A",
+  "Krankheitsheiltränke P1-A"
+ ],
+ "03471": [
+  "Giftfischtrank P1-A",
+  "Giftfischtränke P1-A"
+ ],
+ "03472": [
+  "Wyvernhorn",
+  "Wyvernhörner"
+ ],
+ "03473": [
+  "Wurmköder",
+  "Wurmköder"
+ ],
+ "03474": [
+  "Wandersand-Amulett",
+  "Wandersand-Amulette"
+ ],
+ "03475": [
+  "Aschenholz",
+  "Aschenholz"
+ ],
+ "03476": [
+  "Aschenbaum-Samen",
+  "Aschenbaum-Samen"
+ ],
+ "03477": [
+  "Normale Vogelscheuche",
+  "Normale Vogelscheuchen"
+ ],
+ "03478": [
+  "Weiden-Vogelscheuche",
+  "Weiden-Vogelscheuchen"
+ ],
+ "03479": [
+  "Ahorn-Vogelscheuche",
+  "Ahorn-Vogelscheuchen"
+ ],
+ "03480": [
+  "Harteichen-Vogelscheuche",
+  "Harteichen-Vogelscheuchen"
+ ],
+ "03481": [
+  "Aschen-Vogelscheuche",
+  "Aschen-Vogelscheuchen"
+ ],
+ "03482": [
+  "Sturmzahn-Zweihänder",
+  "Sturmzahn-Zweihänder"
+ ],
+ "03483": [
+  "Schwarzdrachen-Speer",
+  "Schwarzdrachen-Speere"
+ ],
+ "03484": [
+  "Kelsarin-Streithammer",
+  "Kelsarin-Streithämmer"
+ ],
+ "03485": [
+  "Schocknova-Parierdolch",
+  "Schocknova-Parierdolche"
+ ],
+ "03486": [
+  "Sandwellen-Zauberstab",
+  "Sandwellen-Zauberstäbe"
+ ],
+ "03487": [
+  "Sandgrab-Stab",
+  "Sandgrab-Stäbe"
+ ],
+ "03488": [
+  "Hypnose-Stab",
+  "Hypnose-Stäbe"
+ ],
+ "03489": [
+  "Schwarzdrachen-Stab",
+  "Schwarzdrachen-Stäbe"
+ ],
+ "03490": [
+  "Sturmelementar-Stab",
+  "Sturmelementar-Stäbe"
+ ],
+ "03491": [
+  "Kelsarin-Stab",
+  "Kelsarin-Stäbe"
+ ],
+ "03492": [
+  "Schwarzdrachen-Bogen",
+  "Schwarzdrachen-Bögen"
+ ],
+ "03493": [
+  "Kelsarin-Bogen",
+  "Kelsarin-Bögen"
+ ],
+ "03494": [
+  "Zweihändige Sturmluchs-Armbrust",
+  "Zweihändige Sturmluchs-Armbrüste"
+ ],
+ "03495": [
+  "Leuchtender Lauerer-Umhang",
+  "Leuchtende Lauerer-Umhänge"
+ ],
+ "03496": [
+  "Sandwurf-Handschuhe",
+  "Sandwurf-Handschuhe"
+ ],
+ "03497": [
+  "Sandgleiter-Stiefel",
+  "Sandgleiter-Stiefel"
+ ],
+ "03498": [
+  "Sandsturmring",
+  "Sandsturmringe"
+ ],
+ "03499": [
+  "Hypnotisches Amulett",
+  "Hypnotische Amulette"
+ ],
+ "03500": [
+  "Helm des Erwachens",
+  "Helme des Erwachens"
+ ],
+ "03501": [
+  "Sturmdrachenleder-Haube",
+  "Sturmdrachenleder-Hauben"
+ ],
+ "03502": [
+  "Sturmdrachenleder-Beinlinge",
+  "Sturmdrachenleder-Beinlinge"
+ ],
+ "03503": [
+  "Sturmdrachenleder-Harnisch",
+  "Sturmdrachenleder-Harnische"
+ ],
+ "03504": [
+  "Bestientöter-Helm V",
+  "Bestientöter-Helme V"
+ ],
+ "03505": [
+  "Bestientöter-Hose V",
+  "Bestientöter-Hosen V"
+ ],
+ "03506": [
+  "Bestientöter-Harnisch V",
+  "Bestientöter-Harnische V"
+ ],
+ "03507": [
+  "Edelstein-Drachenschuppenschild",
+  "Edelstein-Drachenschuppenschilde"
+ ],
+ "03508": [
+  "Dracolith-Verwüster-Amulett",
+  "Dracolith-Verwüster-Amulette"
+ ],
+ "03509": [
+  "Dracolith-Feuerspucker-Amulett",
+  "Dracolith-Feuerspucker-Amulette"
+ ],
+ "03510": [
+  "Dracolith-Tyrannen-Amulett",
+  "Dracolith-Tyrannen-Amulette"
+ ],
+ "03511": [
+  "Betörender Zauberstab",
+  "Betörende Zauberstäbe"
+ ],
+ "03512": [
+  "Sandstein",
+  "Sandsteine"
+ ],
+ "03513": [
+  "Sandwurmhaut",
+  "Sandwurmhäute"
+ ],
+ "03514": [
+  "Wurmtruhe",
+  "Wurmtruhen"
+ ],
+ "03515": [
+  "Wandersand-Truhe",
+  "Wandersand-Truhen"
+ ],
+ "03516": [
+  "Sand der Zeit",
+  "Sand der Zeit"
+ ],
+ "03517": [
+  "Schlafstein",
+  "Schlafsteine"
+ ],
+ "03518": [
+  "Leuchtkalmar-Truhe",
+  "Leuchtkalmar-Truhen"
+ ],
+ "03519": [
+  "Großer Drachenknochen",
+  "Große Drachenknochen"
+ ],
+ "03520": [
+  "Schwarzdrachen-Truhe",
+  "Schwarzdrachen-Truhen"
+ ],
+ "03521": [
+  "Großer schwarzer Flügel",
+  "Große schwarze Flügel"
+ ],
+ "03522": [
+  "Sturmluchs-Fell",
+  "Sturmluchs-Felle"
+ ],
+ "03523": [
+  "Sturmessenz",
+  "Sturmessenzen"
+ ],
+ "03524": [
+  "Sturm in der Flasche",
+  "Stürme in der Flasche"
+ ],
+ "03525": [
+  "Sturmzahn",
+  "Sturmzähne"
+ ],
+ "03526": [
+  "Sturmdrachenhaut",
+  "Sturmdrachenhäute"
+ ],
+ "03527": [
+  "Sturmdrachenleder-Armlinge",
+  "Sturmdrachenleder-Armlinge"
+ ],
+ "03528": [
+  "Kelsarin-Kriegsmaske",
+  "Kelsarin-Kriegsmasken"
+ ],
+ "03529": [
+  "Kelsarin-Handschuhe",
+  "Kelsarin-Handschuhe"
+ ],
+ "03530": [
+  "Kelsarin-Wurfspeer",
+  "Kelsarin-Wurfspeere"
+ ],
+ "03531": [
+  "Dracolith-Stiefel",
+  "Dracolith-Stiefel"
+ ],
+ "03532": [
+  "Dracolith-Panzerhandschuhe",
+  "Dracolith-Panzerhandschuhe"
+ ],
+ "03533": [
+  "Dracolith-Verwüster-Schuppe",
+  "Dracolith-Verwüster-Schuppen"
+ ],
+ "03534": [
+  "Dracolith-Feuerspucker-Schuppe",
+  "Dracolith-Feuerspucker-Schuppen"
+ ],
+ "03535": [
+  "Dracolith-Tyrannen-Schuppe",
+  "Dracolith-Tyrannen-Schuppen"
+ ],
+ "03536": [
+  "Sandbedeckter Gürtel",
+  "Sandbedeckte Gürtel"
+ ],
+ "03537": [
+  "Saphir-Edelsteinschuppe",
+  "Saphir-Edelsteinschuppen"
+ ],
+ "03538": [
+  "Rubin-Edelsteinschuppe",
+  "Rubin-Edelsteinschuppen"
+ ],
+ "03539": [
+  "Smaragd-Edelsteinschuppe",
+  "Smaragd-Edelsteinschuppen"
+ ],
+ "03540": [
+  "Wüstenhut",
+  "Wüstenhüte"
+ ],
+ "03541": [
+  "Einfacher Berserker-Panzerhandschuh",
+  "Einfache Berserker-Panzerhandschuhe"
+ ],
+ "03542": [
+  "Berserker-Herausforderungsvertrag",
+  "Berserker-Herausforderungsverträge"
+ ],
+ "03543": [
+  "Edelsteinfragment",
+  "Edelsteinfragmente"
+ ],
+ "03544": [
+  "Wurfanker",
+  "Wurfanker"
+ ],
+ "03545": [
+  "Sturmdrachenleder",
+  "Sturmdrachenleder"
+ ],
+ "03546": [
+  "Sandwurmleder",
+  "Sandwurmleder"
+ ],
+ "03547": [
+  "Sturmelementar-Kern",
+  "Sturmelementar-Kerne"
+ ],
+ "03548": [
+  "Imker-Overall",
+  "Imker-Overalls"
+ ],
+ "03549": [
+  "Fokus des dunklen Magiers",
+  "Foki des dunklen Magiers"
+ ],
+ "03550": [
+  "Sorgfältige Extraktionshandschuhe",
+  "Sorgfältige Extraktionshandschuhe"
+ ],
+ "03551": [
+  "Baumspross-Stiefel",
+  "Baumspross-Stiefel"
+ ],
+ "03552": [
+  "Handschuhe der brennenden Glut",
+  "Handschuhe der brennenden Glut"
+ ],
+ "03553": [
+  "Nomaden-Kochtopf",
+  "Nomaden-Kochtöpfe"
+ ],
+ "03554": [
+  "Lehrlings-Runenbuch",
+  "Lehrlings-Runenbücher"
+ ],
+ "03555": [
+  "Scharfer Bognerei-Dorn",
+  "Scharfe Bognerei-Dorne"
+ ],
+ "03556": [
+  "Drachenzahn-Nähset",
+  "Drachenzahn-Nähsets"
+ ],
+ "03557": [
+  "Weberhandschuhe",
+  "Weberhandschuhe"
+ ],
+ "03558": [
+  "Grabräubertasche",
+  "Grabräubertaschen"
+ ],
+ "03559": [
+  "Hobforge-Handschuhe",
+  "Hobforge-Handschuhe"
+ ],
+ "03560": [
+  "Goldnugget",
+  "Goldnuggets"
+ ],
+ "03561": [
+  "Steinbrecher-Spitzhacke (Beschädigt)",
+  "Steinbrecher-Spitzhacken (Beschädigt)"
+ ],
+ "03562": "Vielleicht solltest du das beim Schmieden reparieren.",
+ "03563": [
+  "Steinbrecher-Spitzhacke",
+  "Steinbrecher-Spitzhacken"
+ ],
+ "03564": [
+  "Essenzdurchdrungene Spitzhacke (Beschädigt)",
+  "Essenzdurchdrungene Spitzhacken (Beschädigt)"
+ ],
+ "03565": [
+  "Essenzdurchdrungene Spitzhacke",
+  "Essenzdurchdrungene Spitzhacken"
+ ]
+}

@@ -1,0 +1,603 @@
+{
+ "02953": [
+  "Karibuleder-Harnisch",
+  "Karibuleder-Harnische"
+ ],
+ "02954": [
+  "Streifenhyänenleder",
+  "Streifenhyänenleder"
+ ],
+ "02955": [
+  "Pelz-Tarnhut",
+  "Pelz-Tarnhüte"
+ ],
+ "02956": [
+  "Pelz-Tarnhose",
+  "Pelz-Tarnhosen"
+ ],
+ "02957": [
+  "Pelz-Tarnoberteil",
+  "Pelz-Tarnoberteile"
+ ],
+ "02958": [
+  "Dornrücken-Tarnhut",
+  "Dornrücken-Tarnhüte"
+ ],
+ "02959": [
+  "Dornrücken-Tarnhose",
+  "Dornrücken-Tarnhosen"
+ ],
+ "02960": [
+  "Dornrücken-Tarnoberteil",
+  "Dornrücken-Tarnoberteile"
+ ],
+ "02961": [
+  "Streifenbestien-Tarnhut",
+  "Streifenbestien-Tarnhüte"
+ ],
+ "02962": [
+  "Streifenbestien-Tarnhose",
+  "Streifenbestien-Tarnhosen"
+ ],
+ "02963": [
+  "Streifenbestien-Tarnoberteil",
+  "Streifenbestien-Tarnoberteile"
+ ],
+ "02964": [
+  "Pelz-Fallenstellertasche",
+  "Pelz-Fallenstellertaschen"
+ ],
+ "02965": [
+  "Streifenpelz-Stiefel",
+  "Streifenpelz-Stiefel"
+ ],
+ "02966": [
+  "Gnu-Pflock",
+  "Gnu-Pflöcke"
+ ],
+ "02967": [
+  "Gnu-Klauen",
+  "Gnu-Klauen"
+ ],
+ "02968": [
+  "Raptor-Bogen",
+  "Raptor-Bögen"
+ ],
+ "02969": [
+  "Raptor-Armbrust",
+  "Raptor-Armbrüste"
+ ],
+ "02970": [
+  "Zweihändige Raptor-Armbrust",
+  "Zweihändige Raptor-Armbrüste"
+ ],
+ "02971": [
+  "Greifen-Bogen",
+  "Greifen-Bögen"
+ ],
+ "02972": [
+  "Gnu-Ring",
+  "Gnu-Ringe"
+ ],
+ "02973": [
+  "Drachenknochen-Pfeil",
+  "Drachenknochen-Pfeile"
+ ],
+ "02974": [
+  "Drachenknochen-Bolzen",
+  "Drachenknochen-Bolzen"
+ ],
+ "02975": [
+  "Kleine Vermessungsfunde",
+  "Kleine Vermessungsfunde"
+ ],
+ "02976": "Kleine Auswahl möglicher Gegenstände, die beim Vermessen in der Jagd gefunden werden.",
+ "02977": [
+  "Mittlere Vermessungsfunde",
+  "Mittlere Vermessungsfunde"
+ ],
+ "02978": "Mittlere Auswahl möglicher Gegenstände, die beim Vermessen in der Jagd gefunden werden.",
+ "02979": [
+  "Große Vermessungsfunde",
+  "Große Vermessungsfunde"
+ ],
+ "02980": "Große Auswahl möglicher Gegenstände, die beim Vermessen in der Jagd gefunden werden.",
+ "02981": [
+  "Schorfkiefer-Bestienhorn",
+  "Schorfkiefer-Bestienhörner"
+ ],
+ "02982": [
+  "Torag-Falle",
+  "Torag-Fallen"
+ ],
+ "02983": [
+  "Goldenes Ei (c)",
+  "Goldene Eier (c)"
+ ],
+ "02984": [
+  "Schokomilch (c)",
+  "Schokomilch (c)"
+ ],
+ "02985": [
+  "Smaragd-Grünschwanzfeder (c)",
+  "Smaragd-Grünschwanzfedern (c)"
+ ],
+ "02986": [
+  "Obsidianechsen-Stachel (c)",
+  "Obsidianechsen-Stacheln (c)"
+ ],
+ "02987": [
+  "Smaragdfalter-Flügel (c)",
+  "Smaragdfalter-Flügel (c)"
+ ],
+ "02988": [
+  "Saphir-Blauschwanzfeder (c)",
+  "Saphir-Blauschwanzfedern (c)"
+ ],
+ "02989": [
+  "Eisenkeiler-Hauer (c)",
+  "Eisenkeiler-Hauer (c)"
+ ],
+ "02990": [
+  "Topas-Gelbschwanzfeder (c)",
+  "Topas-Gelbschwanzfedern (c)"
+ ],
+ "02991": [
+  "Glutzahn (c)",
+  "Glutzähne (c)"
+ ],
+ "02992": [
+  "Onyx-Schwarzschwanzfeder (c)",
+  "Onyx-Schwarzschwanzfedern (c)"
+ ],
+ "02993": [
+  "Abgrund-Spinnenzahn (c)",
+  "Abgrund-Spinnenzähne (c)"
+ ],
+ "02994": [
+  "Sternhorn-Geweih (c)",
+  "Sternhorn-Geweihe (c)"
+ ],
+ "02995": [
+  "Steppen-Alpha-Trophäe (c)",
+  "Steppen-Alpha-Trophäen (c)"
+ ],
+ "02996": [
+  "Schreckens-Alphawolf-Trophäe (c)",
+  "Schreckens-Alphawolf-Trophäen (c)"
+ ],
+ "02997": [
+  "Aschefeder (c)",
+  "Aschefedern (c)"
+ ],
+ "02998": [
+  "Nachtstreifen-Alpha-Trophäe (c)",
+  "Nachtstreifen-Alpha-Trophäen (c)"
+ ],
+ "02999": [
+  "Eisenkiefer-Bestienhorn (c)",
+  "Eisenkiefer-Bestienhörner (c)"
+ ],
+ "03000": [
+  "Karmin-Bestienhorn (c)",
+  "Karmin-Bestienhörner (c)"
+ ],
+ "03001": [
+  "Grabglimm-Flügel (c)",
+  "Grabglimm-Flügel (c)"
+ ],
+ "03002": [
+  "Luftstrang (c)",
+  "Luftstränge (c)"
+ ],
+ "03003": [
+  "Wasserstrang (c)",
+  "Wasserstränge (c)"
+ ],
+ "03004": [
+  "Erdstrang (c)",
+  "Erdstränge (c)"
+ ],
+ "03005": [
+  "Seelenstrang (c)",
+  "Seelenstränge (c)"
+ ],
+ "03006": [
+  "Urzeit-Raptor-Trophäe (c)",
+  "Urzeit-Raptor-Trophäen (c)"
+ ],
+ "03007": [
+  "Aschenschwingen-Habichtfeder (c)",
+  "Aschenschwingen-Habichtfedern (c)"
+ ],
+ "03008": [
+  "Uralte Greifen-Trophäe (c)",
+  "Uralte Greifen-Trophäen (c)"
+ ],
+ "03009": [
+  "Alpha-Gar-Torag-Trophäe (c)",
+  "Alpha-Gar-Torag-Trophäen (c)"
+ ],
+ "03010": [
+  "Alpha-Fin-Torag-Trophäe (c)",
+  "Alpha-Fin-Torag-Trophäen (c)"
+ ],
+ "03011": [
+  "Alpha-Cul-Torag-Trophäe (c)",
+  "Alpha-Cul-Torag-Trophäen (c)"
+ ],
+ "03012": [
+  "Alpha-Belra-Torag-Trophäe (c)",
+  "Alpha-Belra-Torag-Trophäen (c)"
+ ],
+ "03013": [
+  "Frostkronen-Geweih (c)",
+  "Frostkronen-Geweihe (c)"
+ ],
+ "03014": [
+  "Schwarzzahn-Tarnhut",
+  "Schwarzzahn-Tarnhüte"
+ ],
+ "03015": [
+  "Schwarzzahn-Tarnhose",
+  "Schwarzzahn-Tarnhosen"
+ ],
+ "03016": [
+  "Schwarzzahn-Tarnoberteil",
+  "Schwarzzahn-Tarnoberteile"
+ ],
+ "03017": [
+  "Federn-Flachskorb",
+  "Federn-Flachskörbe"
+ ],
+ "03018": [
+  "Gründrachenschuppen-Schild",
+  "Gründrachenschuppen-Schilde"
+ ],
+ "03019": [
+  "Blaudrachenschuppen-Schild",
+  "Blaudrachenschuppen-Schilde"
+ ],
+ "03020": [
+  "Rotdrachenschuppen-Schild",
+  "Rotdrachenschuppen-Schilde"
+ ],
+ "03021": [
+  "Schorfkiefer-Bestien-Panzerhandschuhe",
+  "Schorfkiefer-Bestien-Panzerhandschuhe"
+ ],
+ "03022": [
+  "Schwarzdrachenschuppen-Schild",
+  "Schwarzdrachenschuppen-Schilde"
+ ],
+ "03023": [
+  "Karibugeweih-Meißel",
+  "Karibugeweih-Meißel"
+ ],
+ "03024": [
+  "Karibugeweih-Schnitzmesser",
+  "Karibugeweih-Schnitzmesser"
+ ],
+ "03025": [
+  "Harpyien-Bogen",
+  "Harpyien-Bögen"
+ ],
+ "03026": [
+  "Harpyien-Armbrust",
+  "Harpyien-Armbrüste"
+ ],
+ "03027": [
+  "Zweihändige Harpyien-Armbrust",
+  "Zweihändige Harpyien-Armbrüste"
+ ],
+ "03028": [
+  "Schädel-Zauberstab",
+  "Schädel-Zauberstäbe"
+ ],
+ "03029": [
+  "Schädel-Stab",
+  "Schädel-Stäbe"
+ ],
+ "03030": [
+  "Schwarzzahn-Hammer",
+  "Schwarzzahn-Hämmer"
+ ],
+ "03031": [
+  "Gnu-Hammer",
+  "Gnu-Hämmer"
+ ],
+ "03032": [
+  "Schorfkiefer-Bestiendolch",
+  "Schorfkiefer-Bestiendolche"
+ ],
+ "03033": [
+  "Schorfkiefer-Bestienhammer",
+  "Schorfkiefer-Bestienhämmer"
+ ],
+ "03034": [
+  "Schorfkiefer-Bestienamulett",
+  "Schorfkiefer-Bestienamulette"
+ ],
+ "03035": [
+  "Arena-Eintrittskarte",
+  "Arena-Eintrittskarten"
+ ],
+ "03036": "Gewährt Zutritt zu Gewandtheitsarenen. Pro Kursstart wird eine verbraucht.",
+ "03037": [
+  "Arena-Belohnungsmarke",
+  "Arena-Belohnungsmarken"
+ ],
+ "03038": "Belohnung für abgeschlossene Gewandtheitsarenen. Kann im Laden ausgegeben werden.",
+ "03039": [
+  "Zitrone",
+  "Zitronen"
+ ],
+ "03040": [
+  "Dietrich",
+  "Dietriche"
+ ],
+ "03041": [
+  "Sturmhaube",
+  "Sturmhauben"
+ ],
+ "03042": [
+  "Schurken-Armbinde",
+  "Schurken-Armbinden"
+ ],
+ "03043": [
+  "Schurkenboss-Ring",
+  "Schurkenboss-Ringe"
+ ],
+ "03044": [
+  "Schurkentruhen-Schlüsselhälfte (a)",
+  "Schurkentruhen-Schlüsselhälften (a)"
+ ],
+ "03045": [
+  "Schurkentruhen-Schlüsselhälfte (b)",
+  "Schurkentruhen-Schlüsselhälften (b)"
+ ],
+ "03046": [
+  "Schurkentruhen-Schlüssel",
+  "Schurkentruhen-Schlüssel"
+ ],
+ "03047": [
+  "Handwerkermonokel",
+  "Handwerkermonokel"
+ ],
+ "03048": [
+  "Fischer-Regenmantel",
+  "Fischer-Regenmäntel"
+ ],
+ "03049": [
+  "Kochmütze",
+  "Kochmützen"
+ ],
+ "03050": [
+  "Strohhut",
+  "Strohhüte"
+ ],
+ "03051": [
+  "Viehzüchtertruhen-Schlüsselhälfte (a)",
+  "Viehzüchtertruhen-Schlüsselhälften (a)"
+ ],
+ "03052": [
+  "Viehzüchtertruhen-Schlüsselhälfte (b)",
+  "Viehzüchtertruhen-Schlüsselhälften (b)"
+ ],
+ "03053": [
+  "Viehzüchtertruhen-Schlüssel",
+  "Viehzüchtertruhen-Schlüssel"
+ ],
+ "03054": [
+  "Viehzüchtergürtel",
+  "Viehzüchtergürtel"
+ ],
+ "03055": [
+  "Mörser und Stößel",
+  "Mörser und Stößel"
+ ],
+ "03056": [
+  "Runenfertiger-Diadem",
+  "Runenfertiger-Diademe"
+ ],
+ "03057": [
+  "Verwirrungs-Zauberstab",
+  "Verwirrungs-Zauberstäbe"
+ ],
+ "03058": [
+  "Buch des Experimentators",
+  "Bücher des Experimentators"
+ ],
+ "03059": [
+  "Verfluchter Reif",
+  "Verfluchte Reife"
+ ],
+ "03060": [
+  "Verbotenes Grimoire",
+  "Verbotene Grimoires"
+ ],
+ "03061": [
+  "Banditenhandschuhe",
+  "Banditenhandschuhe"
+ ],
+ "03062": [
+  "Bogner-Armling",
+  "Bogner-Armlinge"
+ ],
+ "03063": [
+  "Holzfällerhandschuhe",
+  "Holzfällerhandschuhe"
+ ],
+ "03064": [
+  "Buschaxt",
+  "Buschäxte"
+ ],
+ "03065": [
+  "Banditenbogen",
+  "Banditenbögen"
+ ],
+ "03066": [
+  "Gold-Köcher",
+  "Gold-Köcher"
+ ],
+ "03067": [
+  "Zweihändige Reslinger-Armbrust",
+  "Zweihändige Reslinger-Armbrüste"
+ ],
+ "03068": [
+  "Schmiedezange",
+  "Schmiedezangen"
+ ],
+ "03069": [
+  "Bankkassette",
+  "Bankkassetten"
+ ],
+ "03070": [
+  "Bürgerschuhe",
+  "Bürgerschuhe"
+ ],
+ "03071": [
+  "Banktruhen-Schlüsselhälfte (a)",
+  "Banktruhen-Schlüsselhälften (a)"
+ ],
+ "03072": [
+  "Banktruhen-Schlüsselhälfte (b)",
+  "Banktruhen-Schlüsselhälften (b)"
+ ],
+ "03073": [
+  "Banktruhen-Schlüssel",
+  "Banktruhen-Schlüssel"
+ ],
+ "03074": [
+  "Bergbauhelm",
+  "Bergbauhelme"
+ ],
+ "03075": [
+  "Edelsteinader-Laterne",
+  "Edelsteinader-Laternen"
+ ],
+ "03076": [
+  "Uralte Steinschiene",
+  "Uralte Steinschienen"
+ ],
+ "03077": [
+  "Schickes Oberteil",
+  "Schicke Oberteile"
+ ],
+ "03078": [
+  "Palast-Krummsäbel",
+  "Palast-Krummsäbel"
+ ],
+ "03079": [
+  "Palast-Zauberstab",
+  "Palast-Zauberstäbe"
+ ],
+ "03080": [
+  "Geflügelte Stiefel",
+  "Geflügelte Stiefel"
+ ],
+ "03081": [
+  "Aphiros-Medaillon",
+  "Aphiros-Medaillons"
+ ],
+ "03082": [
+  "Nachspür-Set",
+  "Nachspür-Sets"
+ ],
+ "03083": [
+  "Bestientruhen-Schlüsselhälfte (a)",
+  "Bestientruhen-Schlüsselhälften (a)"
+ ],
+ "03084": [
+  "Bestientruhen-Schlüsselhälfte (b)",
+  "Bestientruhen-Schlüsselhälften (b)"
+ ],
+ "03085": [
+  "Bestientruhen-Schlüssel",
+  "Bestientruhen-Schlüssel"
+ ],
+ "03086": [
+  "Silberschlüssel (Verbotene Bibliothek)",
+  "Silberschlüssel (Verbotene Bibliothek)"
+ ],
+ "03087": [
+  "Goldschlüssel (Verbotene Bibliothek)",
+  "Goldschlüssel (Verbotene Bibliothek)"
+ ],
+ "03088": [
+  "Silberschlüssel (Diebesgut)",
+  "Silberschlüssel (Diebesgut)"
+ ],
+ "03089": [
+  "Goldschlüssel (Diebesgut)",
+  "Goldschlüssel (Diebesgut)"
+ ],
+ "03090": [
+  "Silberschlüssel (Tiefe Mine)",
+  "Silberschlüssel (Tiefe Mine)"
+ ],
+ "03091": [
+  "Goldschlüssel (Tiefe Mine)",
+  "Goldschlüssel (Tiefe Mine)"
+ ],
+ "03092": [
+  "Silberschlüssel (Palastgewölbe)",
+  "Silberschlüssel (Palastgewölbe)"
+ ],
+ "03093": [
+  "Goldschlüssel (Palastgewölbe)",
+  "Goldschlüssel (Palastgewölbe)"
+ ],
+ "03094": [
+  "Holzfällerei-Trank P1-A",
+  "Holzfällerei-Tränke P1-A"
+ ],
+ "03095": [
+  "Abgestimmte Essenz",
+  "Abgestimmte Essenzen"
+ ],
+ "03096": [
+  "Holzfällerei-Trank P2-A",
+  "Holzfällerei-Tränke P2-A"
+ ],
+ "03097": [
+  "Holzfällerei-Trank P2-B",
+  "Holzfällerei-Tränke P2-B"
+ ],
+ "03098": [
+  "Fischen-Trank P1-A",
+  "Fischen-Tränke P1-A"
+ ],
+ "03099": [
+  "Fischen-Trank P2-A",
+  "Fischen-Tränke P2-A"
+ ],
+ "03100": [
+  "Fischen-Trank P2-B",
+  "Fischen-Tränke P2-B"
+ ],
+ "03101": [
+  "Bergbau-Trank P1-A",
+  "Bergbau-Tränke P1-A"
+ ],
+ "03102": [
+  "Bergbau-Trank P2-A",
+  "Bergbau-Tränke P2-A"
+ ],
+ "03103": [
+  "Bergbau-Trank P2-B",
+  "Bergbau-Tränke P2-B"
+ ],
+ "03104": [
+  "Funkenschlagen-Trank P1-A",
+  "Funkenschlagen-Tränke P1-A"
+ ],
+ "03105": [
+  "Funkenschlagen-Trank P2-A",
+  "Funkenschlagen-Tränke P2-A"
+ ],
+ "03106": [
+  "Funkenschlagen-Trank P2-B",
+  "Funkenschlagen-Tränke P2-B"
+ ]
+}

@@ -1,0 +1,728 @@
+{
+ "02603": [
+  "Dampfzauberunterteil",
+  "Dampfzauberunterteile"
+ ],
+ "02604": [
+  "Staubzauberoberteil",
+  "Staubzauberoberteile"
+ ],
+ "02605": [
+  "Schlammzauberhut",
+  "Schlammzauberhüte"
+ ],
+ "02606": [
+  "Rauchzauberstiefel",
+  "Rauchzauberstiefel"
+ ],
+ "02607": [
+  "Schlammzauberunterteil",
+  "Schlammzauberunterteile"
+ ],
+ "02608": [
+  "Rauchzauberoberteil",
+  "Rauchzauberoberteile"
+ ],
+ "02609": [
+  "Rauchzauberhut",
+  "Rauchzauberhüte"
+ ],
+ "02610": [
+  "Schlammzauberstiefel",
+  "Schlammzauberstiefel"
+ ],
+ "02611": [
+  "Rauchzauberunterteil",
+  "Rauchzauberunterteile"
+ ],
+ "02612": [
+  "Schlammzauberoberteil",
+  "Schlammzauberoberteile"
+ ],
+ "02613": [
+  "Nebelzauberhut",
+  "Nebelzauberhüte"
+ ],
+ "02614": [
+  "Lavazauberstiefel",
+  "Lavazauberstiefel"
+ ],
+ "02615": [
+  "Nebelzauberunterteil",
+  "Nebelzauberunterteile"
+ ],
+ "02616": [
+  "Lavazauberoberteil",
+  "Lavazauberoberteile"
+ ],
+ "02617": [
+  "Lavazauberhut",
+  "Lavazauberhüte"
+ ],
+ "02618": [
+  "Nebelzauberstiefel",
+  "Nebelzauberstiefel"
+ ],
+ "02619": [
+  "Lavazauberunterteil",
+  "Lavazauberunterteile"
+ ],
+ "02620": [
+  "Nebelzauberoberteil",
+  "Nebelzauberoberteile"
+ ],
+ "02621": [
+  "Elementarzauberhut",
+  "Elementarzauberhüte"
+ ],
+ "02622": [
+  "Elementarzauberstiefel",
+  "Elementarzauberstiefel"
+ ],
+ "02623": [
+  "Elementarzauberunterteil",
+  "Elementarzauberunterteile"
+ ],
+ "02624": [
+  "Elementarzauberoberteil",
+  "Elementarzauberoberteile"
+ ],
+ "02625": [
+  "Vogelnest",
+  "Vogelnester"
+ ],
+ "02626": "Enthält niedrigstufige Samen für die Landwirtschaft.",
+ "02627": [
+  "Leeres Vogelnest",
+  "Leere Vogelnester"
+ ],
+ "02628": "In diesem ist nichts drin.",
+ "02629": [
+  "Adlernest",
+  "Adlernester"
+ ],
+ "02630": "Enthält hochstufige Samen für die Landwirtschaft.",
+ "02631": [
+  "Leeres Adlernest",
+  "Leere Adlernester"
+ ],
+ "02632": [
+  "Lindwurmnest",
+  "Lindwurmnester"
+ ],
+ "02633": "Behalte diesen Gegenstand. Er lässt sich bald öffnen.",
+ "02634": [
+  "Leeres Lindwurmnest",
+  "Leere Lindwurmnester"
+ ],
+ "02635": [
+  "Zitronentruhe",
+  "Zitronentruhen"
+ ],
+ "02636": [
+  "Seepockentruhe",
+  "Seepockentruhen"
+ ],
+ "02637": [
+  "Schatztruhe",
+  "Schatztruhen"
+ ],
+ "02638": [
+  "Kartoffel",
+  "Kartoffeln"
+ ],
+ "02639": [
+  "Zwiebel",
+  "Zwiebeln"
+ ],
+ "02640": [
+  "Salat",
+  "Salat"
+ ],
+ "02641": [
+  "Erdbeere",
+  "Erdbeeren"
+ ],
+ "02642": [
+  "Knoblauch",
+  "Knoblauch"
+ ],
+ "02643": [
+  "Mais",
+  "Mais"
+ ],
+ "02644": [
+  "Wassermelone",
+  "Wassermelonen"
+ ],
+ "02645": [
+  "Schnapfengras",
+  "Schnapfengras"
+ ],
+ "02646": [
+  "Tomate",
+  "Tomaten"
+ ],
+ "02647": [
+  "Karotte",
+  "Karotten"
+ ],
+ "02648": [
+  "Kürbis",
+  "Kürbisse"
+ ],
+ "02649": [
+  "Schwarze Traube",
+  "Schwarze Trauben"
+ ],
+ "02650": [
+  "Kohl",
+  "Kohlköpfe"
+ ],
+ "02651": [
+  "Blumenkohl",
+  "Blumenkohlköpfe"
+ ],
+ "02652": [
+  "Penril-Kraut",
+  "Penril-Kräuter"
+ ],
+ "02653": [
+  "Sauerampfer-Kraut",
+  "Sauerampfer-Kräuter"
+ ],
+ "02654": [
+  "Mantalyme-Kraut",
+  "Mantalyme-Kräuter"
+ ],
+ "02655": [
+  "Nomel-Kraut",
+  "Nomel-Kräuter"
+ ],
+ "02656": [
+  "Oxilyme-Kraut",
+  "Oxilyme-Kräuter"
+ ],
+ "02657": [
+  "Sporlyle-Kraut",
+  "Sporlyle-Kräuter"
+ ],
+ "02658": [
+  "Larx-Kraut",
+  "Larx-Kräuter"
+ ],
+ "02659": [
+  "Barrentoe-Kraut",
+  "Barrentoe-Kräuter"
+ ],
+ "02660": [
+  "Banane",
+  "Bananen"
+ ],
+ "02661": [
+  "Apfel",
+  "Äpfel"
+ ],
+ "02662": [
+  "Kirsche",
+  "Kirschen"
+ ],
+ "02663": [
+  "Pfirsich",
+  "Pfirsiche"
+ ],
+ "02664": [
+  "Orange",
+  "Orangen"
+ ],
+ "02665": [
+  "Mango",
+  "Mangos"
+ ],
+ "02666": [
+  "Kartoffel-Samen",
+  "Kartoffel-Samen"
+ ],
+ "02667": [
+  "Zwiebel-Samen",
+  "Zwiebel-Samen"
+ ],
+ "02668": [
+  "Salat-Samen",
+  "Salat-Samen"
+ ],
+ "02669": [
+  "Erdbeer-Samen",
+  "Erdbeer-Samen"
+ ],
+ "02670": [
+  "Weizen-Samen",
+  "Weizen-Samen"
+ ],
+ "02671": [
+  "Zuckerrohrhalm",
+  "Zuckerrohrhalme"
+ ],
+ "02672": [
+  "Knoblauch-Samen",
+  "Knoblauch-Samen"
+ ],
+ "02673": [
+  "Mais-Samen",
+  "Mais-Samen"
+ ],
+ "02674": [
+  "Wassermelonen-Samen",
+  "Wassermelonen-Samen"
+ ],
+ "02675": [
+  "Schnapfengras-Samen",
+  "Schnapfengras-Samen"
+ ],
+ "02676": [
+  "Tomaten-Samen",
+  "Tomaten-Samen"
+ ],
+ "02677": [
+  "Karotten-Samen",
+  "Karotten-Samen"
+ ],
+ "02678": [
+  "Kürbiskern",
+  "Kürbiskerne"
+ ],
+ "02679": [
+  "Schwarztrauben-Samen",
+  "Schwarztrauben-Samen"
+ ],
+ "02680": [
+  "Kohl-Samen",
+  "Kohl-Samen"
+ ],
+ "02681": [
+  "Blumenkohl-Samen",
+  "Blumenkohl-Samen"
+ ],
+ "02682": [
+  "Penril-Kraut-Samen",
+  "Penril-Kraut-Samen"
+ ],
+ "02683": [
+  "Sauerampfer-Kraut-Samen",
+  "Sauerampfer-Kraut-Samen"
+ ],
+ "02684": [
+  "Mantalyme-Kraut-Samen",
+  "Mantalyme-Kraut-Samen"
+ ],
+ "02685": [
+  "Nomel-Kraut-Samen",
+  "Nomel-Kraut-Samen"
+ ],
+ "02686": [
+  "Oxilyme-Kraut-Samen",
+  "Oxilyme-Kraut-Samen"
+ ],
+ "02687": [
+  "Sporlyle-Kraut-Samen",
+  "Sporlyle-Kraut-Samen"
+ ],
+ "02688": [
+  "Larx-Kraut-Samen",
+  "Larx-Kraut-Samen"
+ ],
+ "02689": [
+  "Barrentoe-Kraut-Samen",
+  "Barrentoe-Kraut-Samen"
+ ],
+ "02690": [
+  "Bananenstauden-Samen",
+  "Bananenstauden-Samen"
+ ],
+ "02691": [
+  "Apfelbaum-Samen",
+  "Apfelbaum-Samen"
+ ],
+ "02692": [
+  "Kirschbaum-Samen",
+  "Kirschbaum-Samen"
+ ],
+ "02693": [
+  "Pfirsichbaum-Samen",
+  "Pfirsichbaum-Samen"
+ ],
+ "02694": [
+  "Orangenbaum-Samen",
+  "Orangenbaum-Samen"
+ ],
+ "02695": [
+  "Mangobaum-Samen",
+  "Mangobaum-Samen"
+ ],
+ "02696": [
+  "Sonnenblumen-Samen",
+  "Sonnenblumen-Samen"
+ ],
+ "02697": [
+  "Ringelblumen-Samen",
+  "Ringelblumen-Samen"
+ ],
+ "02698": [
+  "Kapuzinerkressen-Samen",
+  "Kapuzinerkressen-Samen"
+ ],
+ "02699": [
+  "Rosmarin-Samen",
+  "Rosmarin-Samen"
+ ],
+ "02700": [
+  "Weißlilien-Samen",
+  "Weißlilien-Samen"
+ ],
+ "02701": [
+  "Kamillen-Samen",
+  "Kamillen-Samen"
+ ],
+ "02702": [
+  "Wein",
+  "Wein"
+ ],
+ "02703": "Damit bezahlst du Feldarbeiter für die Landwirtschafts-Automatisierung.",
+ "02704": [
+  "Kompost",
+  "Kompost"
+ ],
+ "02705": [
+  "Superkompost",
+  "Superkompost"
+ ],
+ "02706": [
+  "Kohlpost",
+  "Kohlpost"
+ ],
+ "02707": [
+  "Ultrakompost",
+  "Ultrakompost"
+ ],
+ "02708": [
+  "Dünger",
+  "Dünger"
+ ],
+ "02709": [
+  "Garnele",
+  "Garnelen"
+ ],
+ "02710": [
+  "Sardine",
+  "Sardinen"
+ ],
+ "02711": [
+  "Hering",
+  "Heringe"
+ ],
+ "02712": [
+  "Forelle",
+  "Forellen"
+ ],
+ "02713": [
+  "Lachs",
+  "Lachse"
+ ],
+ "02714": [
+  "Hummer",
+  "Hummer"
+ ],
+ "02715": [
+  "Hai",
+  "Haie"
+ ],
+ "02716": [
+  "Teufelsrochen",
+  "Teufelsrochen"
+ ],
+ "02717": [
+  "Wal",
+  "Wale"
+ ],
+ "02718": [
+  "Barsch",
+  "Barsche"
+ ],
+ "02719": [
+  "Makrele",
+  "Makrelen"
+ ],
+ "02720": [
+  "Hecht",
+  "Hechte"
+ ],
+ "02721": [
+  "Glühflosse",
+  "Glühflossen"
+ ],
+ "02722": [
+  "Meerbrasse",
+  "Meerbrassen"
+ ],
+ "02723": [
+  "Kabeljau",
+  "Kabeljaue"
+ ],
+ "02724": [
+  "Wolfsbarsch",
+  "Wolfsbarsche"
+ ],
+ "02725": [
+  "Rotfeuerfisch",
+  "Rotfeuerfische"
+ ],
+ "02726": [
+  "Leuchtqualle",
+  "Leuchtquallen"
+ ],
+ "02727": [
+  "Thunfisch",
+  "Thunfische"
+ ],
+ "02728": [
+  "Leuchtkalmar",
+  "Leuchtkalmare"
+ ],
+ "02729": [
+  "Riesenaal",
+  "Riesenaale"
+ ],
+ "02730": [
+  "Einfacher Köder",
+  "Einfache Köder"
+ ],
+ "02731": [
+  "Makrelenköder",
+  "Makrelenköder"
+ ],
+ "02732": [
+  "Glühflossenköder",
+  "Glühflossenköder"
+ ],
+ "02733": [
+  "Riesenfischköder",
+  "Riesenfischköder"
+ ],
+ "02734": [
+  "Getreide",
+  "Getreide"
+ ],
+ "02735": "Futter für einige Tiere in der Viehzucht.",
+ "02736": [
+  "Mehlwurm",
+  "Mehlwürmer"
+ ],
+ "02737": [
+  "Knochen",
+  "Knochen"
+ ],
+ "02738": [
+  "Seide",
+  "Seide"
+ ],
+ "02739": [
+  "Kuhhaut",
+  "Kuhhäute"
+ ],
+ "02740": [
+  "Wolle",
+  "Wolle"
+ ],
+ "02741": [
+  "Honig",
+  "Honig"
+ ],
+ "02742": [
+  "Bienenwachs",
+  "Bienenwachs"
+ ],
+ "02743": [
+  "Sonnenblume",
+  "Sonnenblumen"
+ ],
+ "02744": [
+  "Ringelblume",
+  "Ringelblumen"
+ ],
+ "02745": [
+  "Rosmarinblüte",
+  "Rosmarinblüten"
+ ],
+ "02746": [
+  "Wolfszahn",
+  "Wolfszähne"
+ ],
+ "02747": [
+  "Wolfsfell",
+  "Wolfsfelle"
+ ],
+ "02748": [
+  "Kleine grüne Drachenschuppe",
+  "Kleine grüne Drachenschuppen"
+ ],
+ "02749": [
+  "Kleine blaue Drachenschuppe",
+  "Kleine blaue Drachenschuppen"
+ ],
+ "02750": [
+  "Kleine rote Drachenschuppe",
+  "Kleine rote Drachenschuppen"
+ ],
+ "02751": [
+  "Kleine schwarze Drachenschuppe",
+  "Kleine schwarze Drachenschuppen"
+ ],
+ "02752": [
+  "Weizen",
+  "Weizen"
+ ],
+ "02753": [
+  "Zuckerrohr",
+  "Zuckerrohr"
+ ],
+ "02754": [
+  "Zucker",
+  "Zucker"
+ ],
+ "02755": [
+  "Mehl",
+  "Mehl"
+ ],
+ "02756": [
+  "Ei",
+  "Eier"
+ ],
+ "02757": [
+  "Milch",
+  "Milch"
+ ],
+ "02758": [
+  "Süßer Teig",
+  "Süße Teige"
+ ],
+ "02759": [
+  "Rindfleisch-Sandwich",
+  "Rindfleisch-Sandwiches"
+ ],
+ "02760": [
+  "Apfelkuchen",
+  "Apfelkuchen"
+ ],
+ "02761": [
+  "Meerbrassensuppe",
+  "Meerbrassensuppen"
+ ],
+ "02762": [
+  "Kürbiskuchen",
+  "Kürbiskuchen"
+ ],
+ "02763": [
+  "Cheeseburger",
+  "Cheeseburger"
+ ],
+ "02764": [
+  "Tortenboden",
+  "Tortenböden"
+ ],
+ "02765": [
+  "Suppengrundlage",
+  "Suppengrundlagen"
+ ],
+ "02766": [
+  "Sushi-Grundlage",
+  "Sushi-Grundlagen"
+ ],
+ "02767": [
+  "Hühnchen-Sandwich",
+  "Hühnchen-Sandwiches"
+ ],
+ "02768": [
+  "Hummer-Sandwich",
+  "Hummer-Sandwiches"
+ ],
+ "02769": [
+  "Thunfisch-Sandwich",
+  "Thunfisch-Sandwiches"
+ ],
+ "02770": [
+  "Bananen-Pfannkuchen",
+  "Bananen-Pfannkuchen"
+ ],
+ "02771": [
+  "Apfel-Pfannkuchen",
+  "Apfel-Pfannkuchen"
+ ],
+ "02772": [
+  "Kirsch-Pfannkuchen",
+  "Kirsch-Pfannkuchen"
+ ],
+ "02773": [
+  "Mango-Pfannkuchen",
+  "Mango-Pfannkuchen"
+ ],
+ "02774": [
+  "Erdbeertorte",
+  "Erdbeertorten"
+ ],
+ "02775": [
+  "Karottentorte",
+  "Karottentorten"
+ ],
+ "02776": [
+  "Orangentorte",
+  "Orangentorten"
+ ],
+ "02777": [
+  "Kirschkuchen",
+  "Kirschkuchen"
+ ],
+ "02778": [
+  "Einfacher Teig",
+  "Einfache Teige"
+ ],
+ "02779": [
+  "Lachssuppe",
+  "Lachssuppen"
+ ],
+ "02780": [
+  "Rotfeuerfischsuppe",
+  "Rotfeuerfischsuppen"
+ ],
+ "02781": [
+  "Haisuppe",
+  "Haisuppen"
+ ],
+ "02782": [
+  "Gemüsesuppe",
+  "Gemüsesuppen"
+ ],
+ "02783": [
+  "Forellen-Sushi",
+  "Forellen-Sushi"
+ ],
+ "02784": [
+  "Lachs-Sushi",
+  "Lachs-Sushi"
+ ],
+ "02785": [
+  "Kabeljau-Sushi",
+  "Kabeljau-Sushi"
+ ],
+ "02786": [
+  "Leucht-Sushi",
+  "Leucht-Sushi"
+ ],
+ "02787": [
+  "Thunfisch-Hai-Sushi",
+  "Thunfisch-Hai-Sushi"
+ ],
+ "02788": [
+  "Gemüse-Sushi",
+  "Gemüse-Sushi"
+ ]
+}
