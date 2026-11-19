@@ -1,0 +1,65 @@
+{
+ "13266": "Déclenché lorsqu'un objet est dépensé dans une action",
+ "13267": "Devise possédée par l'action",
+ "13268": "Nécessite de posséder une quantité d'une devise dans le portefeuille d'une action",
+ "13269": "Objet possédé par l'action",
+ "13270": "Nécessite de posséder une quantité d'un objet dans l'inventaire d'une action",
+ "13271": "Devise maximale possédée par l'action",
+ "13272": "Nécessite de posséder une quantité inférieure ou égale d'une devise dans le portefeuille d'une action",
+ "13273": "Objet maximal possédé par l'action",
+ "13274": "Nécessite de posséder une quantité inférieure ou égale d'un objet dans l'inventaire d'une action",
+ "13275": "Redimensionner",
+ "13276": "Haut",
+ "13277": "Bas",
+ "13278": "Ce contenu n'est pas disponible dans la démo",
+ "13279": "[img height=1.25em]{EntityIcon}[/img] Achetez [b]{CategoryName} -> {PurchaseName} {Current} / {Max}[/b] fois au magasin",
+ "13280": [
+  "Géode",
+  "Géodes"
+ ],
+ "13281": [
+  "Orange",
+  "Oranges"
+ ],
+ "13282": [
+  "Mangue",
+  "Mangues"
+ ],
+ "13283": [
+  "ToolbeltOPnessItem",
+  "ToolbeltOPnessItem"
+ ],
+ "13284": [
+  "Aurore",
+  "Aurores"
+ ],
+ "13285": "Chemise de magicien de la terre",
+ "13286": "Chemise de magicien du feu",
+ "13287": "Appât végétarien",
+ "13288": "Monocle d'artisan",
+ "13289": "Chemise de sang",
+ "13290": "Chemise noyée",
+ "13291": "Chemise en écaille nocturne",
+ "13292": "Capuche de l'Athenaeum d'ivoire",
+ "13293": "Capuches de l'Athenaeum d'ivoire",
+ "13294": "Chemise de l'Athenaeum d'ivoire",
+ "13295": "Chemises de l'Athenaeum d'ivoire",
+ "13296": "Robe de l'Athenaeum d'ivoire",
+ "13297": "Robes de masse de limon",
+ "13298": "Engagez un ouvrier agricole I qui débloque l'automatisation de toutes les actions d'Agriculture dont le [b]niveau d'Agriculture requis est inférieur à [color=orange]30[/color][/b]. Ses services se paient en vin.",
+ "13299": "Donne accès à de nouvelles zones de Pourfendeur.",
+ "13300": "Oui, je suis... connu pour dénicher certaines choses, de temps en temps.",
+ "13301": "Et que voudraient vos... contacts ?",
+ "13302": "Après un court séjour à Azamire, [Companion Name] et vous avez du mal à vous reposer. Il reste tant à faire. Le Meneur n'était que la première étape.",
+ "13303": "Le lendemain de votre attaque contre le fort du Meneur est un mélange de joie, de soulagement, de chagrin et... d'incertitude. \nL'assaut a réussi, mais les pertes se comptent en dizaines, un coup dur pour la population déjà vacillante de votre foyer.\n\nCependant, avec tous les réfugiés qui vont et viennent ces temps-ci, il devient difficile de suivre les fluctuations de la population locale. C'est cruel, mais vous êtes soulagé qu'aucune personne que vous connaissiez bien ne soit tombée, même si quelques-unes des premières recrues de la milice que [Companion Name] et vous aviez entraînées figuraient parmi les corps ramenés sur les chariots.\n\nLes événements de la veille n'ont toutefois pas suffi à vous abattre longtemps, ni vous ni [Companion Name]. Vous repartez tous les deux vers le fort aux premières lueurs du jour, à la recherche des traces de la caravane que vous aviez vue quitter le fort lors de votre première mission de reconnaissance. Les bâtiments derrière leur épais mur fument encore de la nuit précédente, vous rappelant à tous les deux la bataille.",
+ "13304": "Suivre la caravane vous prend une éternité. Vous voyagez vers le nord, hors du Bosquet ancestral, jusqu'à une heure de marche de la ville de Hirane, où les traces s'arrêtent. Plusieurs chariots ont été arrêtés ici et brûlés, sans doute par les hobgolbins qui les escortaient. Il semble que plusieurs captifs aient été tués, mais vous ignorez pourquoi. D'après ce que vous parvenez à reconstituer, le groupe s'est divisé en plus d'une trentaine de petits groupes, partis chacun dans une direction différente. Impossible de tous les suivre, sans compter qu'ils sont bien plus difficiles à pister que les chariots.\n\nVous vous inquiétez un instant pour la sécurité de Hirane, avant de réaliser que les golbins auraient besoin d'une petite armée pour raser une ville de cette taille. Être située sur la Route du Cœur, l'une des principales voies vers la capitale de Melvor, avait certainement ses avantages. Pouvoir se procurer des armes et des armures finement ouvragées en faisait partie, mais la présence des Golbins vous laisse tout de même perplexe.\n\n[Companion Name] et vous décidez d'entrer en ville, et l'ambiance générale y est... tendue. Des gens qui semblent être des habitants passent en hâte devant des villageois hagards, à l'air hanté. C'est un spectacle que vous connaissez bien, mais vous êtes surpris de le voir ici. Un homme à l'air pointilleux, à la moustache impeccablement entretenue et à la mine renfrognée en permanence, vient rapidement à votre rencontre, à vous et à [Companion Name].",
+ "13305": "Je n'ai tout simplement pas le temps pour les bavardages. Vous n'êtes qu'un groupe parmi tant d'autres qui affluent en ville.",
+ "13306": "Curo pince les lèvres, apparemment un peu à court de mots après cela. Il opte pour un léger signe de tête puis prend congé, ses acolytes lui emboîtant rapidement le pas.\n\nLa femme à qui vous avez remis vos marchandises vous demande poliment, mais timidement, si vous pourriez tous les deux donner encore un petit coup de main, puisqu'il semble que vous serez coincés ici de toute façon. Vous regardez [Companion Name], qui se contente de hausser les épaules. Autant le faire. Elle vous conduit rapidement à une tente de cuisine voisine, où une file de réfugiés affamés attend avec impatience. Il semble que le personnel actuel ait du mal à suivre.",
+ "13307": "Après avoir épluché les rapports des éclaireurs de Hirane, vous êtes sûr d'une chose. Les silhouettes encapuchonnées qui ont attaqué Azamire et qui semblent enlever et transporter des villageois sont parties loin vers l'est. Dans quel but, vous ne sauriez même pas le deviner.",
+ "13308": "Vous franchissez la porte de Hirane et vous retrouvez en pleine campagne. Vous voyagez vers l'est le long de la Route du Cœur, sachant que si vous allez assez loin, il sera presque impossible de manquer Clearwater. D'après ce que vous avez pu apprendre des habitants de Hirane, Clearwater sert de grand relais entre l'est et l'ouest des Plaines désertiques. Vous avez entendu parler de nombreux petits lieux de repos et hameaux entre les deux, mais peu étaient assez remarquables pour que vous les reteniez.\n\nLa Route du Cœur est en général bien construite et bien entretenue, même aussi loin de la capitale, mais à mesure que l'herbe laisse place à une terre aride, puis au sable, la Route du Cœur devient plus difficile à suivre. Malgré ce que disaient les habitants de Hirane sur les lieux de repos entre là-bas et Clearwater, la plupart des bâtiments que vous croisez sont abandonnés, engloutis par les sables.\n\nLe soleil vous écrase d'une manière que vous ne connaissez que des journées d'été les plus chaudes d'Azamire. Aucun répit face à la chaleur, rien que du sable qui s'étend en vagues dorées apparemment infinies.",
+ "13309": "Vous essuyez l'eau de cactus de votre bouche. Tous les deux, vous en avez percé beaucoup aux alentours et commencez à vous éloigner du bosquet d'origine. Vous vous surprenez à glousser et à tituber, alors que vous êtes sans aucun doute mieux hydratés. Vous craignez que quelque chose cloche, mais comment serait-ce possible ? Vous vous sentez si bien. [Companion Name] manque de s'effondrer contre vous dans un fou rire, le sable ondulant sous vos pieds en motifs envoûtants.",
+ "13310": "Les cactus devant vous semblent maintenant... plus grands. Et ils bougent. Mais tout bouge, alors ce n'est pas particulièrement étrange. Ce qui est étrange, c'est que l'un des cactus balance l'un de ses bras épineux vers votre tête quand vous essayez de l'entailler avec votre hache. Les aiguilles plantées dans votre joue vous arrachent aux effets hallucinogènes de l'eau de cactus.\n\nTout autour de vous cesse de bouger, sauf le... cactus furieux devant vous. Et tous ceux derrière lui. Ils glissent dans le sable et tendent leurs bras. Ils sont bien réels. Vous appelez [Companion Name], qui semble avoir la même révélation.",
+ "13311": "Les épines des cactus sont pénibles à affronter et exigent une façon de combattre bien plus défensive que d'habitude, mais tout va bien. Le bosquet de cactus gît, terrassé, à vos pieds, et les... effets de l'eau de cactus semblent s'être dissipés.\n\nVous poursuivez vers Clearwater, ne prenant que de rares petites gorgées de l'eau de cactus récoltée quand c'est absolument nécessaire. Vous gloussez nettement plus que d'habitude et vous tanguez légèrement, mais grâce à votre modération, le pire des effets ne se manifeste jamais.\n\nLa ville de Clearwater est un régal pour des yeux fatigués et brûlés par le soleil. Vos pieds vous font mal, votre peau est brûlée et vous mourez de soif. Une petite foule d'habitants se rassemble autour de vous, riant de votre infortune et vous mettant en garde contre certains dangers que vous pourriez rencontrer plus loin dans le désert.\n\nQuand vous les interrogez sur les silhouettes, la légèreté laisse en grande partie place à la peur. Une bonne partie de la population semble venir des villes périphériques abandonnées, fuyant les... Forgeâmes. C'est étrange d'avoir enfin un nom pour le groupe qui a détruit votre foyer. Ici, ils sont une menace constante, et ce nom n'a rien de solennel. Les habitants disent avoir vu les caravanes partir vers l'est, vers la capitale, et vous conseillent de rester loin de la Route du Cœur orientale pour le moment. Quand vous et [Companion Name] racontez l'histoire d'Azamire et du Meneur, et votre but de voir les Forgeâmes traduits en justice, on dirait que la moitié de la ville vous ouvre ses portes, vous nourrissant et vous hydratant pendant que vous récupérez.\n\nAprès un repos bien mérité, vous repartez tous les deux vers l'est, enfin sortis des dunes et de retour dans les prairies. Vous entrez dans un terrain plus rocailleux à l'approche des Hautes terres de Flintcrest. De gros rochers déchiquetés parsèment le sol pierreux, dressés selon des angles étranges.",
+ "13312": "Sur ce, [Companion Name] continue d'observer les rochers tandis que vous longez la Route du Cœur, comme s'ils allaient prendre vie et lui dire d'où ils viennent. Vous en avez assez des choses douées de conscience qui ne devraient pas l'être, alors vous évitez de trop les fixer.\n\nVous arrivez enfin à une petite auberge qui semble bâtie dans un mur de pierre et une garnison occupant la vaste entrée du Col brisé. La Pierre endormie est légendaire, et pour cause. Non seulement elle abrite la Guilde des pourfendeurs pour la région orientale du continent, mais elle attire des aventuriers de renommée mondiale qui veulent s'aventurer dans les Pics périlleux pour prouver qu'ils sont les meilleurs d'entre les meilleurs.\n\nLe Col brisé est le chemin le plus rapide vers la capitale, mais il est généralement emprunté par des caravanes lourdement armées, capables à la fois de payer le péage pour franchir la porte et de repousser les bêtes descendues de la montagne. Quand vous apprenez que des caravanes sont détournées vers le sud, autour de la chaîne de montagnes, à cause d'une meute de saute-pierres particulièrement agressifs, vous vous empressez de proposer vos services et ceux de [Companion Name]. \n\nLe propriétaire de la Pierre endormie fait encore mieux : si vous vous occupez d'eux, vous aurez un passage gratuit à vie par le Col brisé. L'offre est trop belle pour être refusée.",
+ "13313": "Vous comptez les corps de ces grandes bêtes maladroites. Les saute-pierres sont un drôle de mélange de créatures. Ils ont des écailles comme un lézard et se servent d'une longue queue semblable à un fouet pour garder l'équilibre. Ils possèdent deux grandes ailes qui les aident à sauter de rocher en rocher (d'où leur nom), mais techniquement, ils ne volent pas. Ces « oiseaux » marchent sur deux pattes puissantes dont ils se servent pour frapper leurs proies, ce qui, heureusement, les rendait faciles à prendre dans les pièges.\n\nCe qui vous a surpris, c'est leur nombre. Chaque fois que vous en attrapiez un, vous aviez l'impression d'en voir deux autres sauter au-dessus de vous."
+}

@@ -1,0 +1,634 @@
+{
+ "03252": [
+  "Arbalète de déflagration psychique",
+  "Arbalètes de déflagration psychique"
+ ],
+ "03253": [
+  "Arbalète 2M infectieuse",
+  "Arbalètes 2M infectieuses"
+ ],
+ "03254": [
+  "Carreaux de pierre noire",
+  "Carreaux de pierre noire"
+ ],
+ "03255": [
+  "Flèche à dard",
+  "Flèches à dard"
+ ],
+ "03256": [
+  "Bracelets en soie d'araignée",
+  "Bracelets en soie d'araignée"
+ ],
+ "03257": [
+  "Bottes en soie d'araignée",
+  "Bottes en soie d'araignée"
+ ],
+ "03258": [
+  "Bottes de harpie",
+  "Bottes de harpie"
+ ],
+ "03259": [
+  "Plastron de la reine venimeuse",
+  "Plastrons de la reine venimeuse"
+ ],
+ "03260": [
+  "Gants de barrage rocheux",
+  "Gants de barrage rocheux"
+ ],
+ "03261": [
+  "Coiffe de sang",
+  "Coiffes de sang"
+ ],
+ "03262": [
+  "Plastron de sang",
+  "Plastrons de sang"
+ ],
+ "03263": [
+  "Jambières de sang",
+  "Jambières de sang"
+ ],
+ "03264": [
+  "Bracelets noyés",
+  "Bracelets noyés"
+ ],
+ "03265": [
+  "Coiffe noyée",
+  "Coiffes noyées"
+ ],
+ "03266": [
+  "Plastron noyé",
+  "Plastrons noyés"
+ ],
+ "03267": [
+  "Jambières noyées",
+  "Jambières noyées"
+ ],
+ "03268": [
+  "Amulette de Combat au corps à corps",
+  "Amulettes de Combat au corps à corps"
+ ],
+ "03269": [
+  "Amulette de Combat au corps à corps d'élite",
+  "Amulettes de Combat au corps à corps d'élite"
+ ],
+ "03270": [
+  "Amulette de Combat à distance",
+  "Amulettes de Combat à distance"
+ ],
+ "03271": [
+  "Amulette de Combat à distance d'élite",
+  "Amulettes de Combat à distance d'élite"
+ ],
+ "03272": [
+  "Amulette de Magie",
+  "Amulettes de Magie"
+ ],
+ "03273": [
+  "Amulette de Magie d'élite",
+  "Amulettes de Magie d'élite"
+ ],
+ "03274": [
+  "Anneau d'évitement de brûlure",
+  "Anneaux d'évitement de brûlure"
+ ],
+ "03275": [
+  "Anneau de pestilence",
+  "Anneaux de pestilence"
+ ],
+ "03276": [
+  "Anneau d'acolyte nécromancien",
+  "Anneaux d'acolyte nécromancien"
+ ],
+ "03277": [
+  "Cape de chef hobgolbin",
+  "Capes de chef hobgolbin"
+ ],
+ "03278": [
+  "Cape de Murkwood",
+  "Capes de Murkwood"
+ ],
+ "03279": [
+  "Cape de nomade des sables",
+  "Capes de nomade des sables"
+ ],
+ "03280": [
+  "Tête de citrouille",
+  "Têtes de citrouille"
+ ],
+ "03281": [
+  "Faux de fermier",
+  "Faux de fermier"
+ ],
+ "03282": [
+  "Mitaines de magicien standards",
+  "Mitaines de magicien standards"
+ ],
+ "03283": [
+  "Anneau d'abeille royale",
+  "Anneaux d'abeille royale"
+ ],
+ "03284": [
+  "Amulette de cœur de peste",
+  "Amulettes de cœur de peste"
+ ],
+ "03285": [
+  "Lanterne de feu follet",
+  "Lanternes de feu follet"
+ ],
+ "03286": [
+  "Anneau d'évitement de saignement",
+  "Anneaux d'évitement de saignement"
+ ],
+ "03287": [
+  "Cape de loup redoutable",
+  "Capes de loup redoutable"
+ ],
+ "03288": [
+  "Griffes des entailles lacérantes",
+  "Griffes des entailles lacérantes"
+ ],
+ "03289": [
+  "Filet de piège des sables",
+  "Filets de piège des sables"
+ ],
+ "03290": [
+  "Orbe de sable enchanté",
+  "Orbes de sable enchanté"
+ ],
+ "03291": [
+  "Cape de magicien noir",
+  "Capes de magicien noir"
+ ],
+ "03292": [
+  "Cape d'aile-de-nuit",
+  "Capes d'aile-de-nuit"
+ ],
+ "03293": [
+  "Cape de vampire",
+  "Capes de vampire"
+ ],
+ "03294": [
+  "Anneau de vampire ancestral",
+  "Anneaux de vampire ancestral"
+ ],
+ "03295": [
+  "Anneau de l'odeur du sang",
+  "Anneaux de l'odeur du sang"
+ ],
+ "03296": [
+  "Amulette de vagabond des vents",
+  "Amulettes de vagabond des vents"
+ ],
+ "03297": [
+  "Médaillon de drain mental",
+  "Médaillons de drain mental"
+ ],
+ "03298": [
+  "Orbe noyé",
+  "Orbes noyés"
+ ],
+ "03299": [
+  "Poussière d'insecte",
+  "Poussières d'insecte"
+ ],
+ "03300": [
+  "Défenseur de mante",
+  "Défenseurs de mante"
+ ],
+ "03301": [
+  "Bûche bénite",
+  "Bûches bénites"
+ ],
+ "03302": [
+  "Bûche de chêne bénite",
+  "Bûches de chêne bénites"
+ ],
+ "03303": [
+  "Bûche de saule bénite",
+  "Bûches de saule bénites"
+ ],
+ "03304": [
+  "Gelée gluante",
+  "Gelée gluante"
+ ],
+ "03305": [
+  "Gelée gluante arc-en-ciel",
+  "Gelée gluante arc-en-ciel"
+ ],
+ "03306": [
+  "Dard",
+  "Dards"
+ ],
+ "03307": [
+  "Miel royal",
+  "Miel royal"
+ ],
+ "03308": [
+  "Tige vénéneuse",
+  "Tiges vénéneuses"
+ ],
+ "03309": [
+  "Collier de tréant",
+  "Colliers de tréant"
+ ],
+ "03310": [
+  "Noyau béni",
+  "Noyaux bénis"
+ ],
+ "03311": [
+  "Noyau de fer béni",
+  "Noyaux de fer bénis"
+ ],
+ "03312": [
+  "Cœur d'aile-fléau",
+  "Cœurs d'aile-fléau"
+ ],
+ "03313": [
+  "Poudre de pierre noire",
+  "Poudre de pierre noire"
+ ],
+ "03314": [
+  "Pierre noire",
+  "Pierres noires"
+ ],
+ "03315": [
+  "Noyau de golem de pierre noire",
+  "Noyaux de golem de pierre noire"
+ ],
+ "03316": [
+  "Queue de scorpion",
+  "Queues de scorpion"
+ ],
+ "03317": [
+  "Glande vénéneuse",
+  "Glandes vénéneuses"
+ ],
+ "03318": [
+  "Cristal de sable",
+  "Cristaux de sable"
+ ],
+ "03319": [
+  "Poudre calcinée",
+  "Poudre calcinée"
+ ],
+ "03320": [
+  "Poussière scintillante",
+  "Poussière scintillante"
+ ],
+ "03321": [
+  "Cendres de sang",
+  "Cendres de sang"
+ ],
+ "03322": [
+  "Croc de vampire",
+  "Crocs de vampire"
+ ],
+ "03323": [
+  "Poche vénéneuse",
+  "Poches vénéneuses"
+ ],
+ "03324": [
+  "Catalyseur de sang",
+  "Catalyseurs de sang"
+ ],
+ "03325": [
+  "Amulette pétrifiante",
+  "Amulettes pétrifiantes"
+ ],
+ "03326": [
+  "Épée fantasmatique",
+  "Épées fantasmatiques"
+ ],
+ "03327": [
+  "Arbalète fantasmatique",
+  "Arbalètes fantasmatiques"
+ ],
+ "03328": [
+  "Bouclier fantasmatique",
+  "Boucliers fantasmatiques"
+ ],
+ "03329": [
+  "Baguette fantasmatique",
+  "Baguettes fantasmatiques"
+ ],
+ "03330": [
+  "Lanterne d'acier",
+  "Lanternes d'acier"
+ ],
+ "03331": [
+  "Lanterne d'acier (allumée)",
+  "Lanternes d'acier (allumées)"
+ ],
+ "03332": [
+  "Lanterne de mithril",
+  "Lanternes de mithril"
+ ],
+ "03333": [
+  "Lanterne de mithril (allumée)",
+  "Lanternes de mithril (allumées)"
+ ],
+ "03334": [
+  "Lanterne d'adamante",
+  "Lanternes d'adamante"
+ ],
+ "03335": [
+  "Lanterne d'adamante (allumée)",
+  "Lanternes d'adamante (allumées)"
+ ],
+ "03336": [
+  "Lanterne runique",
+  "Lanternes runiques"
+ ],
+ "03337": [
+  "Lanterne runique (allumée)",
+  "Lanternes runiques (allumées)"
+ ],
+ "03338": [
+  "Lanterne d'acier de l'aube",
+  "Lanternes d'acier de l'aube"
+ ],
+ "03339": [
+  "Lanterne d'acier de l'aube (allumée)",
+  "Lanternes d'acier de l'aube (allumées)"
+ ],
+ "03340": [
+  "Lanterne draconique",
+  "Lanternes draconiques"
+ ],
+ "03341": [
+  "Lanterne draconique (allumée)",
+  "Lanternes draconiques (allumées)"
+ ],
+ "03342": [
+  "Anneau de pierre luisante",
+  "Anneaux de pierre luisante"
+ ],
+ "03343": [
+  "Coffre hobgolbin",
+  "Coffres hobgolbins"
+ ],
+ "03344": [
+  "Coffre de la ferme des récoltes",
+  "Coffres de la ferme des récoltes"
+ ],
+ "03345": [
+  "Coffre venimeux",
+  "Coffres venimeux"
+ ],
+ "03346": [
+  "Coffre de Murkwood",
+  "Coffres de Murkwood"
+ ],
+ "03347": [
+  "Coffre de pierre noire",
+  "Coffres de pierre noire"
+ ],
+ "03348": [
+  "Coffre du sanctuaire de sang",
+  "Coffres du sanctuaire de sang"
+ ],
+ "03349": [
+  "Cristal de Sanguis",
+  "Cristaux de Sanguis"
+ ],
+ "03350": [
+  "Coffre du kraken",
+  "Coffres du kraken"
+ ],
+ "03351": [
+  "Canne arc-en-ciel",
+  "Cannes arc-en-ciel"
+ ],
+ "03352": [
+  "Chapeau de magicien de l'eau (u)",
+  "Chapeaux de magicien de l'eau (u)"
+ ],
+ "03353": [
+  "Chemise de magicien de l'eau (u)",
+  "Chemises de magicien de l'eau (u)"
+ ],
+ "03354": [
+  "Robe de magicien de l'eau (u)",
+  "Robes de magicien de l'eau (u)"
+ ],
+ "03355": [
+  "Bottes de magicien de l'eau (u)",
+  "Bottes de magicien de l'eau (u)"
+ ],
+ "03356": [
+  "Chapeau de magicien de la terre (u)",
+  "Chapeaux de magicien de la terre (u)"
+ ],
+ "03357": [
+  "Chemise de magicien de la terre (u)",
+  "Chemises de magicien de la terre (u)"
+ ],
+ "03358": [
+  "Robe de magicien de la terre (u)",
+  "Robes de magicien de la terre (u)"
+ ],
+ "03359": [
+  "Bottes de magicien de la terre (u)",
+  "Bottes de magicien de la terre (u)"
+ ],
+ "03360": [
+  "Chapeau de magicien du feu (u)",
+  "Chapeaux de magicien du feu (u)"
+ ],
+ "03361": [
+  "Chemise de magicien du feu (u)",
+  "Chemises de magicien du feu (u)"
+ ],
+ "03362": [
+  "Robe de magicien du feu (u)",
+  "Robes de magicien du feu (u)"
+ ],
+ "03363": [
+  "Bottes de magicien du feu (u)",
+  "Bottes de magicien du feu (u)"
+ ],
+ "03364": [
+  "Chapeau de magicien de la poussière (u)",
+  "Chapeaux de magicien de la poussière (u)"
+ ],
+ "03365": [
+  "Chemise de magicien de la poussière (u)",
+  "Chemises de magicien de la poussière (u)"
+ ],
+ "03366": [
+  "Robe de magicien de la poussière (u)",
+  "Robes de magicien de la poussière (u)"
+ ],
+ "03367": [
+  "Bottes de magicien de la poussière (u)",
+  "Bottes de magicien de la poussière (u)"
+ ],
+ "03368": [
+  "Chapeau de magicien de la vapeur (u)",
+  "Chapeaux de magicien de la vapeur (u)"
+ ],
+ "03369": [
+  "Chemise de magicien de la vapeur (u)",
+  "Chemises de magicien de la vapeur (u)"
+ ],
+ "03370": [
+  "Robe de magicien de la vapeur (u)",
+  "Robes de magicien de la vapeur (u)"
+ ],
+ "03371": [
+  "Bottes de magicien de la vapeur (u)",
+  "Bottes de magicien de la vapeur (u)"
+ ],
+ "03372": [
+  "Chapeau de magicien de la boue (u)",
+  "Chapeaux de magicien de la boue (u)"
+ ],
+ "03373": [
+  "Chemise de magicien de la boue (u)",
+  "Chemises de magicien de la boue (u)"
+ ],
+ "03374": [
+  "Robe de magicien de la boue (u)",
+  "Robes de magicien de la boue (u)"
+ ],
+ "03375": [
+  "Bottes de magicien de la boue (u)",
+  "Bottes de magicien de la boue (u)"
+ ],
+ "03376": [
+  "Chapeau de magicien de la fumée (u)",
+  "Chapeaux de magicien de la fumée (u)"
+ ],
+ "03377": [
+  "Chemise de magicien de la fumée (u)",
+  "Chemises de magicien de la fumée (u)"
+ ],
+ "03378": [
+  "Robe de magicien de la fumée (u)",
+  "Robes de magicien de la fumée (u)"
+ ],
+ "03379": [
+  "Bottes de magicien de la fumée (u)",
+  "Bottes de magicien de la fumée (u)"
+ ],
+ "03380": [
+  "Chapeau de magicien de la brume (u)",
+  "Chapeaux de magicien de la brume (u)"
+ ],
+ "03381": [
+  "Chemise de magicien de la brume (u)",
+  "Chemises de magicien de la brume (u)"
+ ],
+ "03382": [
+  "Robe de magicien de la brume (u)",
+  "Robes de magicien de la brume (u)"
+ ],
+ "03383": [
+  "Bottes de magicien de la brume (u)",
+  "Bottes de magicien de la brume (u)"
+ ],
+ "03384": [
+  "Chapeau de magicien de la lave (u)",
+  "Chapeaux de magicien de la lave (u)"
+ ],
+ "03385": [
+  "Chemise de magicien de la lave (u)",
+  "Chemises de magicien de la lave (u)"
+ ],
+ "03386": [
+  "Robe de magicien de la lave (u)",
+  "Robes de magicien de la lave (u)"
+ ],
+ "03387": [
+  "Bottes de magicien de la lave (u)",
+  "Bottes de magicien de la lave (u)"
+ ],
+ "03388": [
+  "Bottes en mailles (u)",
+  "Bottes en mailles (u)"
+ ],
+ "03389": [
+  "Coiffe en mailles (u)",
+  "Coiffes en mailles (u)"
+ ],
+ "03390": [
+  "Jambières en mailles (u)",
+  "Jambières en mailles (u)"
+ ],
+ "03391": [
+  "Plastron en mailles (u)",
+  "Plastrons en mailles (u)"
+ ],
+ "03392": [
+  "Bottes en cuir d'élan (u)",
+  "Bottes en cuir d'élan (u)"
+ ],
+ "03393": [
+  "Coiffe en cuir d'élan (u)",
+  "Coiffes en cuir d'élan (u)"
+ ],
+ "03394": [
+  "Plastron en cuir d'élan (u)",
+  "Plastrons en cuir d'élan (u)"
+ ],
+ "03395": [
+  "Jambières en cuir d'élan (u)",
+  "Jambières en cuir d'élan (u)"
+ ],
+ "03396": [
+  "Bottes en cuir d'élan dur (u)",
+  "Bottes en cuir d'élan dur (u)"
+ ],
+ "03397": [
+  "Coiffe en cuir d'élan dur (u)",
+  "Coiffes en cuir d'élan dur (u)"
+ ],
+ "03398": [
+  "Jambières en cuir d'élan dur (u)",
+  "Jambières en cuir d'élan dur (u)"
+ ],
+ "03399": [
+  "Plastron en cuir d'élan dur (u)",
+  "Plastrons en cuir d'élan dur (u)"
+ ],
+ "03400": [
+  "Bottes en cuir d'élan clouté (u)",
+  "Bottes en cuir d'élan clouté (u)"
+ ],
+ "03401": [
+  "Coiffe en cuir d'élan clouté (u)",
+  "Coiffes en cuir d'élan clouté (u)"
+ ],
+ "03402": [
+  "Jambières en cuir d'élan clouté (u)",
+  "Jambières en cuir d'élan clouté (u)"
+ ],
+ "03403": [
+  "Plastron en cuir d'élan clouté (u)",
+  "Plastrons en cuir d'élan clouté (u)"
+ ],
+ "03404": [
+  "Bottes en cuir de caribou (u)",
+  "Bottes en cuir de caribou (u)"
+ ],
+ "03405": [
+  "Coiffe en cuir de caribou (u)",
+  "Coiffes en cuir de caribou (u)"
+ ],
+ "03406": [
+  "Jambières en cuir de caribou (u)",
+  "Jambières en cuir de caribou (u)"
+ ],
+ "03407": [
+  "Plastron en cuir de caribou (u)",
+  "Plastrons en cuir de caribou (u)"
+ ],
+ "03408": [
+  "Chapeau de magicien de l'air (u)",
+  "Chapeaux de magicien de l'air (u)"
+ ],
+ "03409": [
+  "Chemise de magicien de l'air (u)",
+  "Chemises de magicien de l'air (u)"
+ ]
+}

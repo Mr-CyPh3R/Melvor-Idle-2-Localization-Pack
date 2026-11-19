@@ -1,0 +1,556 @@
+{
+ "03565": [
+  "Pioche infusée d'essence",
+  "Pioches infusées d'essence"
+ ],
+ "03566": [
+  "Pioche infernale (endommagée)",
+  "Pioches infernales (endommagées)"
+ ],
+ "03567": [
+  "Pioche infernale",
+  "Pioches infernales"
+ ],
+ "03568": [
+  "Marque d'agilité",
+  "Marques d'agilité"
+ ],
+ "03569": [
+  "Couvre-chef léger",
+  "Couvre-chefs légers"
+ ],
+ "03570": "Bonus d'ensemble (avec 3 pièces légères) : -2 % d'intervalle d'Agilité",
+ "03571": [
+  "Plastron léger",
+  "Plastrons légers"
+ ],
+ "03572": [
+  "Pantalon léger",
+  "Pantalons légers"
+ ],
+ "03573": [
+  "Bottes légères",
+  "Bottes légères"
+ ],
+ "03574": [
+  "Couvre-chef rapide",
+  "Couvre-chefs rapides"
+ ],
+ "03575": "Bonus d'ensemble (avec 3 pièces rapides) : -4 % d'intervalle d'Agilité, -2 % de dégâts subis en Agilité",
+ "03576": [
+  "Plastron rapide",
+  "Plastrons rapides"
+ ],
+ "03577": [
+  "Pantalon rapide",
+  "Pantalons rapides"
+ ],
+ "03578": [
+  "Bottes rapides",
+  "Bottes rapides"
+ ],
+ "03579": [
+  "Couvre-chef gracieux",
+  "Couvre-chefs gracieux"
+ ],
+ "03580": "Bonus d'ensemble (avec 3 pièces gracieuses) : -6 % d'intervalle d'Agilité, -4 % de dégâts subis en Agilité",
+ "03581": [
+  "Plastron gracieux",
+  "Plastrons gracieux"
+ ],
+ "03582": [
+  "Pantalon gracieux",
+  "Pantalons gracieux"
+ ],
+ "03583": [
+  "Bottes gracieuses",
+  "Bottes gracieuses"
+ ],
+ "03584": [
+  "Couvre-chef rembourré",
+  "Couvre-chefs rembourrés"
+ ],
+ "03585": [
+  "Rembourrage articulaire",
+  "Rembourrages articulaires"
+ ],
+ "03586": [
+  "Lot de graines d'herbes I",
+  "Lots de graines d'herbes I"
+ ],
+ "03587": [
+  "Lot de graines d'herbes II",
+  "Lots de graines d'herbes II"
+ ],
+ "03588": [
+  "Lot de runes élémentaires I",
+  "Lots de runes élémentaires I"
+ ],
+ "03589": [
+  "Lot de runes élémentaires II",
+  "Lots de runes élémentaires II"
+ ],
+ "03590": [
+  "Lot de runes secondaires I",
+  "Lots de runes secondaires I"
+ ],
+ "03591": [
+  "Lot de runes secondaires II",
+  "Lots de runes secondaires II"
+ ],
+ "03592": [
+  "Lot de munitions I (flèches)",
+  "Lots de munitions I (flèches)"
+ ],
+ "03593": [
+  "Lot de munitions II (flèches)",
+  "Lots de munitions II (flèches)"
+ ],
+ "03594": [
+  "Lot de munitions I (carreaux)",
+  "Lots de munitions I (carreaux)"
+ ],
+ "03595": [
+  "Lot de munitions II (carreaux)",
+  "Lots de munitions II (carreaux)"
+ ],
+ "03596": [
+  "Lot de munitions I (boomerangs)",
+  "Lots de munitions I (boomerangs)"
+ ],
+ "03597": [
+  "Lot de munitions II (boomerangs)",
+  "Lots de munitions II (boomerangs)"
+ ],
+ "03598": [
+  "Charme d'esquive au corps à corps",
+  "Charmes d'esquive au corps à corps"
+ ],
+ "03599": [
+  "Charme d'esquive à distance",
+  "Charmes d'esquive à distance"
+ ],
+ "03600": [
+  "Charme d'esquive magique",
+  "Charmes d'esquive magique"
+ ],
+ "03601": [
+  "Charme de précision au corps à corps",
+  "Charmes de précision au corps à corps"
+ ],
+ "03602": [
+  "Charme de précision à distance",
+  "Charmes de précision à distance"
+ ],
+ "03603": [
+  "Charme de précision magique",
+  "Charmes de précision magique"
+ ],
+ "03604": [
+  "Charme de protection",
+  "Charmes de protection"
+ ],
+ "03605": [
+  "Antisèche d'escalade",
+  "Antisèches d'escalade"
+ ],
+ "03606": [
+  "Antisèche de saut",
+  "Antisèches de saut"
+ ],
+ "03607": [
+  "Antisèche d'esquive",
+  "Antisèches d'esquive"
+ ],
+ "03608": [
+  "Antisèche d'équilibre",
+  "Antisèches d'équilibre"
+ ],
+ "03609": [
+  "Antisèche de rappel",
+  "Antisèches de rappel"
+ ],
+ "03610": [
+  "Chapeau de novice de Coupe de bois",
+  "Chapeaux de novice de Coupe de bois"
+ ],
+ "03611": [
+  "Plastron de novice de Coupe de bois",
+  "Plastrons de novice de Coupe de bois"
+ ],
+ "03612": [
+  "Pantalon de novice de Coupe de bois",
+  "Pantalons de novice de Coupe de bois"
+ ],
+ "03613": [
+  "Bottes de novice de Coupe de bois",
+  "Bottes de novice de Coupe de bois"
+ ],
+ "03614": [
+  "Chapeau de novice de Pêche",
+  "Chapeaux de novice de Pêche"
+ ],
+ "03615": [
+  "Plastron de novice de Pêche",
+  "Plastrons de novice de Pêche"
+ ],
+ "03616": [
+  "Pantalon de novice de Pêche",
+  "Pantalons de novice de Pêche"
+ ],
+ "03617": [
+  "Bottes de novice de Pêche",
+  "Bottes de novice de Pêche"
+ ],
+ "03618": [
+  "Chapeau de novice d'Exploitation minière",
+  "Chapeaux de novice d'Exploitation minière"
+ ],
+ "03619": [
+  "Plastron de novice d'Exploitation minière",
+  "Plastrons de novice d'Exploitation minière"
+ ],
+ "03620": [
+  "Pantalon de novice d'Exploitation minière",
+  "Pantalons de novice d'Exploitation minière"
+ ],
+ "03621": [
+  "Bottes de novice d'Exploitation minière",
+  "Bottes de novice d'Exploitation minière"
+ ],
+ "03622": [
+  "Chapeau intermédiaire de Coupe de bois",
+  "Chapeaux intermédiaires de Coupe de bois"
+ ],
+ "03623": "Bonus d'ensemble (avec 3 pièces intermédiaires de Coupe de bois) : +0,025 % de chance de nid d'oiseau ou d'aigle",
+ "03624": [
+  "Plastron intermédiaire de Coupe de bois",
+  "Plastrons intermédiaires de Coupe de bois"
+ ],
+ "03625": [
+  "Pantalon intermédiaire de Coupe de bois",
+  "Pantalons intermédiaires de Coupe de bois"
+ ],
+ "03626": [
+  "Bottes intermédiaires de Coupe de bois",
+  "Bottes intermédiaires de Coupe de bois"
+ ],
+ "03627": [
+  "Chapeau intermédiaire de Pêche",
+  "Chapeaux intermédiaires de Pêche"
+ ],
+ "03628": "Bonus d'ensemble (avec 3 pièces intermédiaires de Pêche) : chance d'objet spécial en Pêche augmentée de 10 %",
+ "03629": [
+  "Plastron intermédiaire de Pêche",
+  "Plastrons intermédiaires de Pêche"
+ ],
+ "03630": [
+  "Pantalon intermédiaire de Pêche",
+  "Pantalons intermédiaires de Pêche"
+ ],
+ "03631": [
+  "Bottes intermédiaires de Pêche",
+  "Bottes intermédiaires de Pêche"
+ ],
+ "03632": [
+  "Chapeau intermédiaire d'Exploitation minière",
+  "Chapeaux intermédiaires d'Exploitation minière"
+ ],
+ "03633": "Bonus d'ensemble (avec 3 pièces intermédiaires d'Exploitation minière) : chance de géode augmentée de 20 %",
+ "03634": [
+  "Plastron intermédiaire d'Exploitation minière",
+  "Plastrons intermédiaires d'Exploitation minière"
+ ],
+ "03635": [
+  "Pantalon intermédiaire d'Exploitation minière",
+  "Pantalons intermédiaires d'Exploitation minière"
+ ],
+ "03636": [
+  "Bottes intermédiaires d'Exploitation minière",
+  "Bottes intermédiaires d'Exploitation minière"
+ ],
+ "03637": [
+  "Chapeau d'élite de Coupe de bois",
+  "Chapeaux d'élite de Coupe de bois"
+ ],
+ "03638": "Bonus d'ensemble (avec 3 pièces d'élite de Coupe de bois) : +2 % de chance d'abattre les arbres et buissons",
+ "03639": [
+  "Plastron d'élite de Coupe de bois",
+  "Plastrons d'élite de Coupe de bois"
+ ],
+ "03640": [
+  "Pantalon d'élite de Coupe de bois",
+  "Pantalons d'élite de Coupe de bois"
+ ],
+ "03641": [
+  "Bottes d'élite de Coupe de bois",
+  "Bottes d'élite de Coupe de bois"
+ ],
+ "03642": [
+  "Chapeau d'élite de Pêche",
+  "Chapeaux d'élite de Pêche"
+ ],
+ "03643": "Bonus d'ensemble (avec 3 pièces d'élite de Pêche) : chance d'objet spécial en Pêche augmentée de 20 %",
+ "03644": [
+  "Plastron d'élite de Pêche",
+  "Plastrons d'élite de Pêche"
+ ],
+ "03645": [
+  "Pantalon d'élite de Pêche",
+  "Pantalons d'élite de Pêche"
+ ],
+ "03646": [
+  "Bottes d'élite de Pêche",
+  "Bottes d'élite de Pêche"
+ ],
+ "03647": [
+  "Chapeau d'élite d'Exploitation minière",
+  "Chapeaux d'élite d'Exploitation minière"
+ ],
+ "03648": "Bonus d'ensemble (avec 3 pièces d'élite d'Exploitation minière) : +5 % de chance de doublement en Exploitation minière",
+ "03649": [
+  "Plastron d'élite d'Exploitation minière",
+  "Plastrons d'élite d'Exploitation minière"
+ ],
+ "03650": [
+  "Pantalon d'élite d'Exploitation minière",
+  "Pantalons d'élite d'Exploitation minière"
+ ],
+ "03651": [
+  "Bottes d'élite d'Exploitation minière",
+  "Bottes d'élite d'Exploitation minière"
+ ],
+ "03652": [
+  "Gants de Métallurgie I",
+  "Gants de Métallurgie I"
+ ],
+ "03653": [
+  "Gants de Métallurgie II",
+  "Gants de Métallurgie II"
+ ],
+ "03654": [
+  "Gants d'Artisanat I",
+  "Gants d'Artisanat I"
+ ],
+ "03655": [
+  "Gants d'Artisanat II",
+  "Gants d'Artisanat II"
+ ],
+ "03656": [
+  "Gants d'Archerie I",
+  "Gants d'Archerie I"
+ ],
+ "03657": [
+  "Gants d'Archerie II",
+  "Gants d'Archerie II"
+ ],
+ "03658": [
+  "Gants de Création de runes I",
+  "Gants de Création de runes I"
+ ],
+ "03659": [
+  "Gants de Création de runes II",
+  "Gants de Création de runes II"
+ ],
+ "03660": [
+  "Gants de Façonnage bestial I",
+  "Gants de Façonnage bestial I"
+ ],
+ "03661": [
+  "Gants de Façonnage bestial II",
+  "Gants de Façonnage bestial II"
+ ],
+ "03662": [
+  "Gants d'Herboristerie I",
+  "Gants d'Herboristerie I"
+ ],
+ "03663": [
+  "Gants d'Herboristerie II",
+  "Gants d'Herboristerie II"
+ ],
+ "03664": [
+  "ToolbeltOPnessItem",
+  "ToolbeltOPnessItem"
+ ],
+ "03665": [
+  "Carte des Terres cendrées",
+  "Cartes des Terres cendrées"
+ ],
+ "03666": [
+  "Carte de la Grotte dense",
+  "Cartes de la Grotte dense"
+ ],
+ "03667": [
+  "Carte des Terres des Torag",
+  "Cartes des Terres des Torag"
+ ],
+ "03668": [
+  "Cuir de torag",
+  "Cuir de torag"
+ ],
+ "03669": [
+  "Cuir de lynx des tempêtes",
+  "Cuir de lynx des tempêtes"
+ ],
+ "03670": [
+  "Piège à torag basique",
+  "Pièges à torag basiques"
+ ],
+ "03671": [
+  "Piège à torag renforcé",
+  "Pièges à torag renforcés"
+ ],
+ "03672": [
+  "Piège à torag fortifié",
+  "Pièges à torag fortifiés"
+ ],
+ "03673": [
+  "Steak de griffon cru",
+  "Steaks de griffon crus"
+ ],
+ "03674": [
+  "Steak de griffon",
+  "Steaks de griffon"
+ ],
+ "03675": [
+  "Rayon de miel géant",
+  "Rayons de miel géants"
+ ],
+ "03676": [
+  "Douille en os de dragon",
+  "Douilles en os de dragon"
+ ],
+ "03677": [
+  "Cosse empoisonnée",
+  "Cosses empoisonnées"
+ ],
+ "03678": [
+  "Bocal à épices du désert",
+  "Bocaux à épices du désert"
+ ],
+ "03679": [
+  "Écaille de drake des sables",
+  "Écailles de drake des sables"
+ ],
+ "03680": [
+  "Sole planante",
+  "Soles planantes"
+ ],
+ "03681": [
+  "Minerai de météorite",
+  "Minerai de météorite"
+ ],
+ "03682": [
+  "Poussière d'étoile",
+  "Poussière d'étoile"
+ ],
+ "03683": [
+  "Poussière d'étoile dorée",
+  "Poussière d'étoile dorée"
+ ],
+ "03684": [
+  "Journal d'observations de météorites",
+  "Journaux d'observations de météorites"
+ ],
+ "03685": "Équipez ceci en Exploitation minière pour extraire du minerai de météorite",
+ "03686": [
+  "Journal d'observations de chutes d'étoiles",
+  "Journaux d'observations de chutes d'étoiles"
+ ],
+ "03687": [
+  "Journal doré d'observations de chutes d'étoiles",
+  "Journaux dorés d'observations de chutes d'étoiles"
+ ],
+ "03688": [
+  "Anneau astral de topaze en argent",
+  "Anneaux astraux de topaze en argent"
+ ],
+ "03689": [
+  "Anneau astral de saphir en argent",
+  "Anneaux astraux de saphir en argent"
+ ],
+ "03690": [
+  "Anneau astral de rubis en argent",
+  "Anneaux astraux de rubis en argent"
+ ],
+ "03691": [
+  "Anneau astral d'émeraude en argent",
+  "Anneaux astraux d'émeraude en argent"
+ ],
+ "03692": [
+  "Anneau astral de diamant en argent",
+  "Anneaux astraux de diamant en argent"
+ ],
+ "03693": [
+  "Anneau astral de jade en argent",
+  "Anneaux astraux de jade en argent"
+ ],
+ "03694": [
+  "Anneau astral de topaze en or",
+  "Anneaux astraux de topaze en or"
+ ],
+ "03695": [
+  "Anneau astral de saphir en or",
+  "Anneaux astraux de saphir en or"
+ ],
+ "03696": [
+  "Anneau astral de rubis en or",
+  "Anneaux astraux de rubis en or"
+ ],
+ "03697": [
+  "Anneau astral d'émeraude en or",
+  "Anneaux astraux d'émeraude en or"
+ ],
+ "03698": [
+  "Anneau astral de diamant en or",
+  "Anneaux astraux de diamant en or"
+ ],
+ "03699": [
+  "Anneau astral de jade en or",
+  "Anneaux astraux de jade en or"
+ ],
+ "03700": [
+  "Amulette astrale de topaze en argent",
+  "Amulettes astrales de topaze en argent"
+ ],
+ "03701": [
+  "Amulette astrale de saphir en argent",
+  "Amulettes astrales de saphir en argent"
+ ],
+ "03702": [
+  "Amulette astrale de rubis en argent",
+  "Amulettes astrales de rubis en argent"
+ ],
+ "03703": [
+  "Amulette astrale d'émeraude en argent",
+  "Amulettes astrales d'émeraude en argent"
+ ],
+ "03704": [
+  "Amulette astrale de diamant en argent",
+  "Amulettes astrales de diamant en argent"
+ ],
+ "03705": [
+  "Amulette astrale de jade en argent",
+  "Amulettes astrales de jade en argent"
+ ],
+ "03706": [
+  "Amulette astrale de topaze en or",
+  "Amulettes astrales de topaze en or"
+ ],
+ "03707": [
+  "Amulette astrale de saphir en or",
+  "Amulettes astrales de saphir en or"
+ ],
+ "03708": [
+  "Amulette astrale de rubis en or",
+  "Amulettes astrales de rubis en or"
+ ],
+ "03709": [
+  "Amulette astrale d'émeraude en or",
+  "Amulettes astrales d'émeraude en or"
+ ],
+ "03710": [
+  "Amulette astrale de diamant en or",
+  "Amulettes astrales de diamant en or"
+ ]
+}

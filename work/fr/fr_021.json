@@ -1,0 +1,513 @@
+{
+ "03861": "Bonus d'ensemble (avec 3 pièces en acier de l'aube (c), hors gants et bouclier) : +8 de lumière",
+ "03862": [
+  "Cuirasse d'acier de l'aube (c)",
+  "Cuirasses d'acier de l'aube (c)"
+ ],
+ "03863": [
+  "Jambarts d'acier de l'aube (c)",
+  "Jambarts d'acier de l'aube (c)"
+ ],
+ "03864": [
+  "Bottes d'acier de l'aube (c)",
+  "Bottes d'acier de l'aube (c)"
+ ],
+ "03865": [
+  "Casque draconique (c)",
+  "Casques draconiques (c)"
+ ],
+ "03866": [
+  "Cuirasse draconique (c)",
+  "Cuirasses draconiques (c)"
+ ],
+ "03867": [
+  "Jambarts draconiques (c)",
+  "Jambarts draconiques (c)"
+ ],
+ "03868": [
+  "Bottes draconiques (c)",
+  "Bottes draconiques (c)"
+ ],
+ "03869": [
+  "Potion d'Astrologie P1-A",
+  "Potions d'Astrologie P1-A"
+ ],
+ "03870": [
+  "Potion d'Astrologie P2-A",
+  "Potions d'Astrologie P2-A"
+ ],
+ "03871": [
+  "Potion d'Astrologie P2-B",
+  "Potions d'Astrologie P2-B"
+ ],
+ "03872": [
+  "Super potion d'Astrologie P1-A",
+  "Super potions d'Astrologie P1-A"
+ ],
+ "03873": [
+  "Super potion d'Astrologie P2-A",
+  "Super potions d'Astrologie P2-A"
+ ],
+ "03874": [
+  "Super potion d'Astrologie P2-B",
+  "Super potions d'Astrologie P2-B"
+ ],
+ "03875": [
+  "Géode calcinée",
+  "Géodes calcinées"
+ ],
+ "03876": [
+  "Opale noire",
+  "Opales noires"
+ ],
+ "03877": [
+  "Opale étoilée rouge (c)",
+  "Opales étoilées rouges (c)"
+ ],
+ "03878": [
+  "Pioche de gemmes (endommagée)",
+  "Pioches de gemmes (endommagées)"
+ ],
+ "03879": [
+  "Pioche de gemmes",
+  "Pioches de gemmes"
+ ],
+ "03880": [
+  "Anneau d'opale noire en argent",
+  "Anneaux d'opale noire en argent"
+ ],
+ "03881": [
+  "Amulette d'opale noire en argent",
+  "Amulettes d'opale noire en argent"
+ ],
+ "03882": [
+  "Anneau d'opale noire en or",
+  "Anneaux d'opale noire en or"
+ ],
+ "03883": [
+  "Amulette d'opale noire en or",
+  "Amulettes d'opale noire en or"
+ ],
+ "03884": [
+  "Carreaux d'opale noire",
+  "Carreaux d'opale noire"
+ ],
+ "03885": [
+  "Boîte à esprit noire",
+  "Boîtes à esprit noires"
+ ],
+ "03886": [
+  "Gaine d'opale noire",
+  "Gaines d'opale noire"
+ ],
+ "03887": [
+  "Manteau de gluant arc-en-ciel",
+  "Manteaux de gluant arc-en-ciel"
+ ],
+ "03888": [
+  "Bottes en dragon noir",
+  "Bottes en dragon noir"
+ ],
+ "03889": [
+  "Manteau en dragon noir",
+  "Manteaux en dragon noir"
+ ],
+ "03890": [
+  "Manteau de wurm",
+  "Manteaux de wurm"
+ ],
+ "03891": [
+  "Dague de wurm",
+  "Dagues de wurm"
+ ],
+ "03892": [
+  "Kit de réparation de fer-acier",
+  "Kits de réparation de fer-acier"
+ ],
+ "03893": [
+  "Kit de réparation de rune-dragon",
+  "Kits de réparation de rune-dragon"
+ ],
+ "03894": [
+  "Leurre à monstres",
+  "Leurres à monstres"
+ ],
+ "03895": [
+  "Poêle de rune-dragon",
+  "Poêles de rune-dragon"
+ ],
+ "03896": [
+  "Sacoche à aliments de fer-acier",
+  "Sacoches à aliments de fer-acier"
+ ],
+ "03897": [
+  "Sacoche à aliments de rune-dragon",
+  "Sacoches à aliments de rune-dragon"
+ ],
+ "03898": [
+  "Pointe de faucon sanglant",
+  "Pointes de faucon sanglant"
+ ],
+ "03899": [
+  "Coupe-hampes en dos-épineux",
+  "Coupe-hampes en dos-épineux"
+ ],
+ "03900": [
+  "Gants de piégeage en peau de crapaud",
+  "Gants de piégeage en peau de crapaud"
+ ],
+ "03901": [
+  "Gants agricoles en peau de serpent",
+  "Gants agricoles en peau de serpent"
+ ],
+ "03902": [
+  "Bouclier de mage en peau de serpent",
+  "Boucliers de mage en peau de serpent"
+ ],
+ "03903": [
+  "Anneau de barrière de vents",
+  "Anneaux de barrière de vents"
+ ],
+ "03904": [
+  "Charme de danse du vent",
+  "Charmes de danse du vent"
+ ],
+ "03905": [
+  "Canne tornadique",
+  "Cannes tornadiques"
+ ],
+ "03906": [
+  "Arc du déchireur de vent",
+  "Arcs du déchireur de vent"
+ ],
+ "03907": [
+  "Écaille du déchireur de vent",
+  "Écailles du déchireur de vent"
+ ],
+ "03908": [
+  "Haut de Keltesta",
+  "Hauts de Keltesta"
+ ],
+ "03909": [
+  "Restes de tréant",
+  "Restes de tréant"
+ ],
+ "03910": [
+  "Soufre",
+  "Soufre"
+ ],
+ "03911": [
+  "Crochet d'ascension",
+  "Crochets d'ascension"
+ ],
+ "03912": [
+  "Piton d'ancrage en acier",
+  "Pitons d'ancrage en acier"
+ ],
+ "03913": [
+  "Hache de bûcheron renforcée",
+  "Haches de bûcheron renforcées"
+ ],
+ "03914": [
+  "Gants d'ascension",
+  "Gants d'ascension"
+ ],
+ "03915": [
+  "Bottes d'ascension",
+  "Bottes d'ascension"
+ ],
+ "03916": [
+  "Corde d'ascension",
+  "Cordes d'ascension"
+ ],
+ "03917": [
+  "Harnais d'ascension",
+  "Harnais d'ascension"
+ ],
+ "03918": [
+  "Gants de protection contre le soufre",
+  "Gants de protection contre le soufre"
+ ],
+ "03919": [
+  "Étai de canyon",
+  "Étais de canyon"
+ ],
+ "03920": [
+  "Peau de vache magique",
+  "Peaux de vache magiques"
+ ],
+ "03921": [
+  "Rune de feu instable",
+  "Runes de feu instables"
+ ],
+ "03922": [
+  "Rations de secours (viande)",
+  "Rations de secours (viande)"
+ ],
+ "03923": [
+  "Rations de secours (fruits de mer)",
+  "Rations de secours (fruits de mer)"
+ ],
+ "03924": [
+  "Rations de secours (végétariennes)",
+  "Rations de secours (végétariennes)"
+ ],
+ "03925": [
+  "Rations de secours (spéciales)",
+  "Rations de secours (spéciales)"
+ ],
+ "03926": [
+  "Fibre de dos-soyeux",
+  "Fibres de dos-soyeux"
+ ],
+ "03927": [
+  "Toile de limon",
+  "Toiles de limon"
+ ],
+ "03928": [
+  "Filtre à cactus",
+  "Filtres à cactus"
+ ],
+ "03929": [
+  "Fiole filtrée",
+  "Fioles filtrées"
+ ],
+ "03930": [
+  "Eau de cactus altérée",
+  "Eau de cactus altérée"
+ ],
+ "03931": [
+  "Filet lesté de pierres",
+  "Filets lestés de pierres"
+ ],
+ "03932": [
+  "Gants de saute-pierre",
+  "Gants de saute-pierre"
+ ],
+ "03933": [
+  "Résine toxique",
+  "Résine toxique"
+ ],
+ "03934": [
+  "Masque à gaz",
+  "Masques à gaz"
+ ],
+ "03935": [
+  "Laissez-passer de visiteur confisqué",
+  "Laissez-passer de visiteur confisqués"
+ ],
+ "03936": [
+  "Plume de griffon marin",
+  "Plumes de griffon marin"
+ ],
+ "03937": [
+  "Flèche de griffon marin",
+  "Flèches de griffon marin"
+ ],
+ "03938": [
+  "Papillon toxique en bocal",
+  "Papillons toxiques en bocal"
+ ],
+ "03939": [
+  "Potion de tir juste",
+  "Potions de tir juste"
+ ],
+ "03940": [
+  "Capuche de l'Athanaeum d'ivoire",
+  "Capuches de l'Athanaeum d'ivoire"
+ ],
+ "03941": [
+  "Chemise de l'Athanaeum d'ivoire",
+  "Chemises de l'Athanaeum d'ivoire"
+ ],
+ "03942": [
+  "Robe de l'Athanaeum d'ivoire",
+  "Robes de l'Athanaeum d'ivoire"
+ ],
+ "03943": [
+  "Clé de l'Athenaeum d'ivoire",
+  "Clés de l'Athenaeum d'ivoire"
+ ],
+ "03944": [
+  "Carte des étages inférieurs",
+  "Cartes des étages inférieurs"
+ ],
+ "03945": [
+  "Moule de clé de la chambre forte abyssale",
+  "Moules de clé de la chambre forte abyssale"
+ ],
+ "03946": [
+  "Clé de la chambre forte abyssale",
+  "Clés de la chambre forte abyssale"
+ ],
+ "03947": [
+  "Feuille-de-rêve",
+  "Feuilles-de-rêve"
+ ],
+ "03948": [
+  "Feuille-de-rêve moulue",
+  "Feuilles-de-rêve moulues"
+ ],
+ "03949": [
+  "Encens du voyant",
+  "Encens du voyant"
+ ],
+ "03950": [
+  "Chapeau chaud",
+  "Chapeaux chauds"
+ ],
+ "03951": [
+  "Haut chaud",
+  "Hauts chauds"
+ ],
+ "03952": [
+  "Jambières chaudes",
+  "Jambières chaudes"
+ ],
+ "03953": [
+  "Bottes chaudes",
+  "Bottes chaudes"
+ ],
+ "03954": [
+  "Gants chauds",
+  "Gants chauds"
+ ],
+ "03955": [
+  "Corde renforcée",
+  "Cordes renforcées"
+ ],
+ "03956": [
+  "Toile à voile",
+  "Toiles à voile"
+ ],
+ "03957": [
+  "Racine d'âme",
+  "Racines d'âme"
+ ],
+ "03958": [
+  "Cendres d'amalgame",
+  "Cendres d'amalgame"
+ ],
+ "03959": [
+  "Nageoire d'âme crue",
+  "Nageoires d'âme crues"
+ ],
+ "03960": [
+  "Potion de renaissance",
+  "Potions de renaissance"
+ ],
+ "03961": [
+  "Charme de scarabée",
+  "Charmes de scarabée"
+ ],
+ "03962": [
+  "Coiffe de tisse-limon",
+  "Coiffes de tisse-limon"
+ ],
+ "03963": [
+  "Tas de limon",
+  "Tas de limon"
+ ],
+ "03964": [
+  "Robe de masse de limon",
+  "Robes de masse de limon"
+ ],
+ "03965": [
+  "Casque de drake marin",
+  "Casques de drake marin"
+ ],
+ "03966": [
+  "Bouclier en coquille de limon",
+  "Boucliers en coquille de limon"
+ ],
+ "03967": [
+  "Arc en aile de mouette",
+  "Arcs en aile de mouette"
+ ],
+ "03968": [
+  "Javelot de limon",
+  "Javelots de limon"
+ ],
+ "03969": [
+  "Bouture de tréant corrompu",
+  "Boutures de tréant corrompu"
+ ],
+ "03970": [
+  "Feuille de tréant corrompu",
+  "Feuilles de tréant corrompu"
+ ],
+ "03971": [
+  "Ceinture de cogneur",
+  "Ceintures de cogneur"
+ ],
+ "03972": "Avancé",
+ "03973": "AwHellNah",
+ "03975": "Runes",
+ "03976": "Baguettes de combat",
+ "03977": "Bâtons",
+ "03978": "Baguettes mystiques",
+ "03980": "Baguettes de furie",
+ "03981": "Cannes de furie",
+ "03983": "Runes secondaires",
+ "03984": "Équipement de magicien neutre",
+ "03985": "Armes d'air",
+ "03986": "Équipement de magicien d'air",
+ "03987": "Armes d'eau",
+ "03988": "Équipement de magicien d'eau",
+ "03989": "Armes de terre",
+ "03990": "Équipement de magicien de terre",
+ "03991": "Armes de feu",
+ "03992": "Équipement de magicien de feu",
+ "03993": "Armes combinées",
+ "03994": "Équipement de magicien de poussière",
+ "03995": "Équipement de magicien de vapeur",
+ "03996": "Équipement de magicien de boue",
+ "03997": "Équipement de magicien de fumée",
+ "03998": "Équipement de magicien de brume",
+ "03999": "Équipement de magicien de lave",
+ "04001": "Matériaux",
+ "04002": "Lingots",
+ "04004": "Composants",
+ "04005": "Outils de minage",
+ "04006": "Ficelles et fibres",
+ "04007": "Objets en verre",
+ "04009": "Équipement en cuir",
+ "04010": "Équipement en cuir dur",
+ "04011": "Équipement en cuir clouté",
+ "04012": "Équipement en cuir d'élan",
+ "04013": "Équipement en cuir d'élan dur",
+ "04014": "Équipement en cuir d'élan clouté",
+ "04015": "Équipement en cuir de caribou",
+ "04016": "Équipement en cotte de mailles",
+ "04017": "Bijoux de topaze",
+ "04018": "Bijoux de saphir",
+ "04019": "Bijoux de rubis",
+ "04020": "Bijoux d'émeraude",
+ "04021": "Bijoux de diamant",
+ "04022": "Bijoux de jade",
+ "04023": "Collets",
+ "04024": "Pièges à petits oiseaux",
+ "04025": "Filets",
+ "04026": "Filets à grands oiseaux",
+ "04027": "Kits à papillons",
+ "04028": "Pièges à fosse",
+ "04029": "Boîtes à esprit",
+ "04030": "Pièges de Torag",
+ "04031": "Armes à distance",
+ "04032": "Protéines",
+ "04033": "Base de recette",
+ "04034": "Sandwichs",
+ "04035": "Pancakes",
+ "04036": "Gâteaux",
+ "04037": "Tourtes",
+ "04039": "Sushis",
+ "04040": "Appâts de pêche",
+ "04041": "Appâts de chasse",
+ "04042": "Camouflage en fourrure",
+ "04043": "Camouflage en dos-épineux",
+ "04044": "Camouflage de croc noir",
+ "04045": "Camouflage de bête rayée",
+ "04046": "Sacoches rayées",
+ "04051": "Peau de dragon des tempêtes",
+ "04052": "Tueur de bêtes I"
+}

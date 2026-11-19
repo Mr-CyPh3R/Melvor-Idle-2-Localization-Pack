@@ -1,0 +1,613 @@
+{
+ "03410": [
+  "Robe de magicien de l'air (u)",
+  "Robes de magicien de l'air (u)"
+ ],
+ "03411": [
+  "Bottes de magicien de l'air (u)",
+  "Bottes de magicien de l'air (u)"
+ ],
+ "03412": [
+  "Chapeau de magicien élémentaire (u)",
+  "Chapeaux de magicien élémentaires (u)"
+ ],
+ "03413": [
+  "Chemise de magicien élémentaire (u)",
+  "Chemises de magicien élémentaires (u)"
+ ],
+ "03414": [
+  "Robe de magicien élémentaire (u)",
+  "Robes de magicien élémentaires (u)"
+ ],
+ "03415": [
+  "Bottes de magicien élémentaire (u)",
+  "Bottes de magicien élémentaire (u)"
+ ],
+ "03416": [
+  "Bottes de mineur",
+  "Bottes de mineur"
+ ],
+ "03417": [
+  "Faux en os",
+  "Faux en os"
+ ],
+ "03418": [
+  "Collier serti de joyaux",
+  "Colliers sertis de joyaux"
+ ],
+ "03419": [
+  "Couteau de façonneur bestial",
+  "Couteaux de façonneur bestial"
+ ],
+ "03420": [
+  "Gants de Tueur de bêtes",
+  "Gants de Tueur de bêtes"
+ ],
+ "03421": [
+  "Baguette du frère perdu (c)",
+  "Baguettes du frère perdu (c)"
+ ],
+ "03422": "Vous n'auriez peut-être pas dû voler ceci.",
+ "03423": [
+  "Pierre de valeur (c)",
+  "Pierres de valeur (c)"
+ ],
+ "03424": [
+  "Bûche de valeur (c)",
+  "Bûches de valeur (c)"
+ ],
+ "03425": [
+  "Potion de Combat au corps à corps P1-A",
+  "Potions de Combat au corps à corps P1-A"
+ ],
+ "03426": [
+  "Os broyé",
+  "Os broyés"
+ ],
+ "03427": [
+  "Potion de Combat au corps à corps P2-A",
+  "Potions de Combat au corps à corps P2-A"
+ ],
+ "03428": [
+  "Potion de Combat au corps à corps P2-B",
+  "Potions de Combat au corps à corps P2-B"
+ ],
+ "03429": [
+  "Potion de Combat à distance P1-A",
+  "Potions de Combat à distance P1-A"
+ ],
+ "03430": [
+  "Potion de Combat à distance P2-A",
+  "Potions de Combat à distance P2-A"
+ ],
+ "03431": [
+  "Potion de Combat à distance P2-B",
+  "Potions de Combat à distance P2-B"
+ ],
+ "03432": [
+  "Potion de Magie P1-A",
+  "Potions de Magie P1-A"
+ ],
+ "03433": [
+  "Potion de Magie P2-A",
+  "Potions de Magie P2-A"
+ ],
+ "03434": [
+  "Potion de Magie P2-B",
+  "Potions de Magie P2-B"
+ ],
+ "03435": [
+  "Potion de ralentissement P1-A",
+  "Potions de ralentissement P1-A"
+ ],
+ "03436": [
+  "Potion de ralentissement P2-A",
+  "Potions de ralentissement P2-A"
+ ],
+ "03437": [
+  "Potion de ralentissement P2-B",
+  "Potions de ralentissement P2-B"
+ ],
+ "03438": [
+  "Potion de résilience P1-A",
+  "Potions de résilience P1-A"
+ ],
+ "03439": [
+  "Potion de résilience P2-A",
+  "Potions de résilience P2-A"
+ ],
+ "03440": [
+  "Potion de résilience P2-B",
+  "Potions de résilience P2-B"
+ ],
+ "03441": [
+  "Potion de Pourfendeur P1-A",
+  "Potions de Pourfendeur P1-A"
+ ],
+ "03442": [
+  "Potion de Pourfendeur P2-A",
+  "Potions de Pourfendeur P2-A"
+ ],
+ "03443": [
+  "Potion de Pourfendeur P2-B",
+  "Potions de Pourfendeur P2-B"
+ ],
+ "03444": [
+  "Potion de Prières P1-A",
+  "Potions de Prières P1-A"
+ ],
+ "03445": [
+  "Potion de Prières P2-A",
+  "Potions de Prières P2-A"
+ ],
+ "03446": [
+  "Potion de Prières P2-B",
+  "Potions de Prières P2-B"
+ ],
+ "03447": [
+  "Super potion de Combat au corps à corps P1-A",
+  "Super potions de Combat au corps à corps P1-A"
+ ],
+ "03448": [
+  "Essence de sang",
+  "Essence de sang"
+ ],
+ "03449": "Sert aux super potions de combat en Herboristerie. S'achète au Magasin de Pourfendeur.",
+ "03450": [
+  "Super potion de Combat au corps à corps P2-A",
+  "Super potions de Combat au corps à corps P2-A"
+ ],
+ "03451": [
+  "Super potion de Combat au corps à corps P2-B",
+  "Super potions de Combat au corps à corps P2-B"
+ ],
+ "03452": [
+  "Super potion de Combat à distance P1-A",
+  "Super potions de Combat à distance P1-A"
+ ],
+ "03453": [
+  "Super potion de Combat à distance P2-A",
+  "Super potions de Combat à distance P2-A"
+ ],
+ "03454": [
+  "Super potion de Combat à distance P2-B",
+  "Super potions de Combat à distance P2-B"
+ ],
+ "03455": [
+  "Super potion de Magie P1-A",
+  "Super potions de Magie P1-A"
+ ],
+ "03456": [
+  "Super potion de Magie P2-A",
+  "Super potions de Magie P2-A"
+ ],
+ "03457": [
+  "Super potion de Magie P2-B",
+  "Super potions de Magie P2-B"
+ ],
+ "03458": [
+  "Super potion de ralentissement P1-A",
+  "Super potions de ralentissement P1-A"
+ ],
+ "03459": [
+  "Super potion de ralentissement P2-A",
+  "Super potions de ralentissement P2-A"
+ ],
+ "03460": [
+  "Super potion de ralentissement P2-B",
+  "Super potions de ralentissement P2-B"
+ ],
+ "03461": [
+  "Super potion de résilience P1-A",
+  "Super potions de résilience P1-A"
+ ],
+ "03462": [
+  "Super potion de résilience P2-A",
+  "Super potions de résilience P2-A"
+ ],
+ "03463": [
+  "Super potion de résilience P2-B",
+  "Super potions de résilience P2-B"
+ ],
+ "03464": [
+  "Super potion de Pourfendeur P1-A",
+  "Super potions de Pourfendeur P1-A"
+ ],
+ "03465": [
+  "Super potion de Pourfendeur P2-A",
+  "Super potions de Pourfendeur P2-A"
+ ],
+ "03466": [
+  "Super potion de Pourfendeur P2-B",
+  "Super potions de Pourfendeur P2-B"
+ ],
+ "03467": [
+  "Super potion de Prières P1-A",
+  "Super potions de Prières P1-A"
+ ],
+ "03468": [
+  "Super potion de Prières P2-A",
+  "Super potions de Prières P2-A"
+ ],
+ "03469": [
+  "Super potion de Prières P2-B",
+  "Super potions de Prières P2-B"
+ ],
+ "03470": [
+  "Potion de guérison des maladies P1-A",
+  "Potions de guérison des maladies P1-A"
+ ],
+ "03471": [
+  "Potion d'empoisonnement de poissons P1-A",
+  "Potions d'empoisonnement de poissons P1-A"
+ ],
+ "03472": [
+  "Corne de wyverne",
+  "Cornes de wyverne"
+ ],
+ "03473": [
+  "Appât à ver",
+  "Appâts à ver"
+ ],
+ "03474": [
+  "Amulette des sables mouvants",
+  "Amulettes des sables mouvants"
+ ],
+ "03475": [
+  "Bûche cendrée",
+  "Bûches cendrées"
+ ],
+ "03476": [
+  "Graine d'arbre cendré",
+  "Graines d'arbre cendré"
+ ],
+ "03477": [
+  "Épouvantail normal",
+  "Épouvantails normaux"
+ ],
+ "03478": [
+  "Épouvantail en saule",
+  "Épouvantails en saule"
+ ],
+ "03479": [
+  "Épouvantail en érable",
+  "Épouvantails en érable"
+ ],
+ "03480": [
+  "Épouvantail en chêne dur",
+  "Épouvantails en chêne dur"
+ ],
+ "03481": [
+  "Épouvantail cendré",
+  "Épouvantails cendrés"
+ ],
+ "03482": [
+  "Épée 2M croc de tempête",
+  "Épées 2M croc de tempête"
+ ],
+ "03483": [
+  "Lance de dragon noir",
+  "Lances de dragon noir"
+ ],
+ "03484": [
+  "Masse de Kelsarin",
+  "Masses de Kelsarin"
+ ],
+ "03485": [
+  "Défenseur de nova électrique",
+  "Défenseurs de nova électrique"
+ ],
+ "03486": [
+  "Baguette des vagues de sable",
+  "Baguettes des vagues de sable"
+ ],
+ "03487": [
+  "Canne d'ensevelissement de sable",
+  "Cannes d'ensevelissement de sable"
+ ],
+ "03488": [
+  "Canne d'hypnose",
+  "Cannes d'hypnose"
+ ],
+ "03489": [
+  "Canne de dragon noir",
+  "Cannes de dragon noir"
+ ],
+ "03490": [
+  "Canne d'élémentaire de tempête",
+  "Cannes d'élémentaire de tempête"
+ ],
+ "03491": [
+  "Canne de Kelsarin",
+  "Cannes de Kelsarin"
+ ],
+ "03492": [
+  "Arc de dragon noir",
+  "Arcs de dragon noir"
+ ],
+ "03493": [
+  "Arc de Kelsarin",
+  "Arcs de Kelsarin"
+ ],
+ "03494": [
+  "Arbalète 2M de lynx des tempêtes",
+  "Arbalètes 2M de lynx des tempêtes"
+ ],
+ "03495": [
+  "Cape de rôdeur luisant",
+  "Capes de rôdeur luisant"
+ ],
+ "03496": [
+  "Gants de jet de sable",
+  "Gants de jet de sable"
+ ],
+ "03497": [
+  "Bottes de glisseur des sables",
+  "Bottes de glisseur des sables"
+ ],
+ "03498": [
+  "Anneau de tempête de sable",
+  "Anneaux de tempête de sable"
+ ],
+ "03499": [
+  "Amulette hypnotique",
+  "Amulettes hypnotiques"
+ ],
+ "03500": [
+  "Casque de l'éveil",
+  "Casques de l'éveil"
+ ],
+ "03501": [
+  "Coiffe en peau de dragon des tempêtes",
+  "Coiffes en peau de dragon des tempêtes"
+ ],
+ "03502": [
+  "Jambières en peau de dragon des tempêtes",
+  "Jambières en peau de dragon des tempêtes"
+ ],
+ "03503": [
+  "Plastron en peau de dragon des tempêtes",
+  "Plastrons en peau de dragon des tempêtes"
+ ],
+ "03504": [
+  "Casque de Tueur de bêtes V",
+  "Casques de Tueur de bêtes V"
+ ],
+ "03505": [
+  "Jambières de Tueur de bêtes V",
+  "Jambières de Tueur de bêtes V"
+ ],
+ "03506": [
+  "Plastron de Tueur de bêtes V",
+  "Plastrons de Tueur de bêtes V"
+ ],
+ "03507": [
+  "Bouclier en écailles de dragon de gemmes",
+  "Boucliers en écailles de dragon de gemmes"
+ ],
+ "03508": [
+  "Amulette de ravageur dracolithe",
+  "Amulettes de ravageur dracolithe"
+ ],
+ "03509": [
+  "Amulette de crache-feu dracolithe",
+  "Amulettes de crache-feu dracolithe"
+ ],
+ "03510": [
+  "Amulette de tyran dracolithe",
+  "Amulettes de tyran dracolithe"
+ ],
+ "03511": [
+  "Baguette envoûtante",
+  "Baguettes envoûtantes"
+ ],
+ "03512": [
+  "Grès",
+  "Grès"
+ ],
+ "03513": [
+  "Peau de ver des sables",
+  "Peaux de ver des sables"
+ ],
+ "03514": [
+  "Coffre de ver",
+  "Coffres de ver"
+ ],
+ "03515": [
+  "Coffre des sables mouvants",
+  "Coffres des sables mouvants"
+ ],
+ "03516": [
+  "Sables du temps",
+  "Sables du temps"
+ ],
+ "03517": [
+  "Pierre de sommeil",
+  "Pierres de sommeil"
+ ],
+ "03518": [
+  "Coffre de calmar luisant",
+  "Coffres de calmar luisant"
+ ],
+ "03519": [
+  "Grand os de dragon",
+  "Grands os de dragon"
+ ],
+ "03520": [
+  "Coffre de dragon noir",
+  "Coffres de dragon noir"
+ ],
+ "03521": [
+  "Grande aile noire",
+  "Grandes ailes noires"
+ ],
+ "03522": [
+  "Peau de lynx des tempêtes",
+  "Peaux de lynx des tempêtes"
+ ],
+ "03523": [
+  "Essence de tempête",
+  "Essence de tempête"
+ ],
+ "03524": [
+  "Tempête en bouteille",
+  "Tempêtes en bouteille"
+ ],
+ "03525": [
+  "Croc de tempête",
+  "Crocs de tempête"
+ ],
+ "03526": [
+  "Peau de dragon des tempêtes",
+  "Peaux de dragon des tempêtes"
+ ],
+ "03527": [
+  "Bracelets en peau de dragon des tempêtes",
+  "Bracelets en peau de dragon des tempêtes"
+ ],
+ "03528": [
+  "Masque de guerre de Kelsarin",
+  "Masques de guerre de Kelsarin"
+ ],
+ "03529": [
+  "Gants de Kelsarin",
+  "Gants de Kelsarin"
+ ],
+ "03530": [
+  "Javelot de Kelsarin",
+  "Javelots de Kelsarin"
+ ],
+ "03531": [
+  "Bottes dracolithes",
+  "Bottes dracolithes"
+ ],
+ "03532": [
+  "Gantelets dracolithes",
+  "Gantelets dracolithes"
+ ],
+ "03533": [
+  "Écaille de ravageur dracolithe",
+  "Écailles de ravageur dracolithe"
+ ],
+ "03534": [
+  "Écaille de crache-feu dracolithe",
+  "Écailles de crache-feu dracolithe"
+ ],
+ "03535": [
+  "Écaille de tyran dracolithe",
+  "Écailles de tyran dracolithe"
+ ],
+ "03536": [
+  "Ceinture ensablée",
+  "Ceintures ensablées"
+ ],
+ "03537": [
+  "Écaille-gemme de saphir",
+  "Écailles-gemmes de saphir"
+ ],
+ "03538": [
+  "Écaille-gemme de rubis",
+  "Écailles-gemmes de rubis"
+ ],
+ "03539": [
+  "Écaille-gemme d'émeraude",
+  "Écailles-gemmes d'émeraude"
+ ],
+ "03540": [
+  "Chapeau du désert",
+  "Chapeaux du désert"
+ ],
+ "03541": [
+  "Gantelet de Pourfendeur standard",
+  "Gantelets de Pourfendeur standards"
+ ],
+ "03542": [
+  "Contrat de défi de Pourfendeur",
+  "Contrats de défi de Pourfendeur"
+ ],
+ "03543": [
+  "Fragment de gemme",
+  "Fragments de gemme"
+ ],
+ "03544": [
+  "Grappin",
+  "Grappins"
+ ],
+ "03545": [
+  "Cuir de peau de dragon des tempêtes",
+  "Cuir de peau de dragon des tempêtes"
+ ],
+ "03546": [
+  "Cuir de ver des sables",
+  "Cuir de ver des sables"
+ ],
+ "03547": [
+  "Noyau d'élémentaire de tempête",
+  "Noyaux d'élémentaire de tempête"
+ ],
+ "03548": [
+  "Combinaison d'apiculteur",
+  "Combinaisons d'apiculteur"
+ ],
+ "03549": [
+  "Focaliseur de magicien noir",
+  "Focaliseurs de magicien noir"
+ ],
+ "03550": [
+  "Gants d'extracteur minutieux",
+  "Gants d'extracteur minutieux"
+ ],
+ "03551": [
+  "Bottes de jeune pousse",
+  "Bottes de jeune pousse"
+ ],
+ "03552": [
+  "Gants de braises ardentes",
+  "Gants de braises ardentes"
+ ],
+ "03553": [
+  "Marmite de nomade",
+  "Marmites de nomade"
+ ],
+ "03554": [
+  "Livre de runes d'acolyte",
+  "Livres de runes d'acolyte"
+ ],
+ "03555": [
+  "Pointe de flécheur acérée",
+  "Pointes de flécheur acérées"
+ ],
+ "03556": [
+  "Kit de couture en croc de dragon",
+  "Kits de couture en croc de dragon"
+ ],
+ "03557": [
+  "Gants de tisserand",
+  "Gants de tisserand"
+ ],
+ "03558": [
+  "Besace de pilleur de tombes",
+  "Besaces de pilleur de tombes"
+ ],
+ "03559": [
+  "Gants de Hobforge",
+  "Gants de Hobforge"
+ ],
+ "03560": [
+  "Pépite d'or",
+  "Pépites d'or"
+ ],
+ "03561": [
+  "Pioche de tailleur de pierre (endommagée)",
+  "Pioches de tailleur de pierre (endommagées)"
+ ],
+ "03562": "Vous devriez peut-être la réparer en Métallurgie.",
+ "03563": [
+  "Pioche de tailleur de pierre",
+  "Pioches de tailleur de pierre"
+ ],
+ "03564": [
+  "Pioche infusée d'essence (endommagée)",
+  "Pioches infusées d'essence (endommagées)"
+ ]
+}

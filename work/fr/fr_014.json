@@ -1,0 +1,652 @@
+{
+ "02788": [
+  "Sushi aux légumes",
+  "Sushis aux légumes"
+ ],
+ "02789": [
+  "Lasagnes",
+  "Lasagnes"
+ ],
+ "02790": [
+  "Pizza mixte",
+  "Pizzas mixtes"
+ ],
+ "02791": [
+  "Soupe luisante",
+  "Soupes luisantes"
+ ],
+ "02792": [
+  "Appât de graines",
+  "Appâts de graines"
+ ],
+ "02793": [
+  "Appât végétal",
+  "Appâts végétaux"
+ ],
+ "02794": [
+  "Appât d'écorce au miel",
+  "Appâts d'écorce au miel"
+ ],
+ "02795": [
+  "Appât de viande",
+  "Appâts de viande"
+ ],
+ "02796": [
+  "Gros os",
+  "Gros os"
+ ],
+ "02797": [
+  "Appât de poudre d'os",
+  "Appâts de poudre d'os"
+ ],
+ "02798": [
+  "Appât scintillant",
+  "Appâts scintillants"
+ ],
+ "02799": [
+  "Herbe de rivière",
+  "Herbes de rivière"
+ ],
+ "02800": [
+  "Orgêêge",
+  "Orgêêge"
+ ],
+ "02801": [
+  "Viande de lapin",
+  "Viandes de lapin"
+ ],
+ "02802": [
+  "Collet basique",
+  "Collets basiques"
+ ],
+ "02803": "Un collet utilisé en Chasse.",
+ "02804": [
+  "Collet renforcé",
+  "Collets renforcés"
+ ],
+ "02805": [
+  "Collet fortifié",
+  "Collets fortifiés"
+ ],
+ "02806": [
+  "Piège à petits oiseaux basique",
+  "Pièges à petits oiseaux basiques"
+ ],
+ "02807": "Un piège à petits oiseaux utilisé en Chasse.",
+ "02808": [
+  "Piège à petits oiseaux renforcé",
+  "Pièges à petits oiseaux renforcés"
+ ],
+ "02809": [
+  "Piège à petits oiseaux fortifié",
+  "Pièges à petits oiseaux fortifiés"
+ ],
+ "02810": [
+  "Fourrure de lapin",
+  "Fourrures de lapin"
+ ],
+ "02811": [
+  "Patte de lapin",
+  "Pattes de lapin"
+ ],
+ "02812": [
+  "Épine de lézard dos-épineux",
+  "Épines de lézard dos-épineux"
+ ],
+ "02813": [
+  "Papillon vert en bocal",
+  "Papillons verts en bocal"
+ ],
+ "02814": [
+  "Peau de crapaud espiègle",
+  "Peaux de crapaud espiègle"
+ ],
+ "02815": [
+  "Peau de serpent des marais",
+  "Peaux de serpent des marais"
+ ],
+ "02816": [
+  "Croc de serpent",
+  "Crocs de serpent"
+ ],
+ "02817": [
+  "Peau de crapaud vert",
+  "Peaux de crapaud vert"
+ ],
+ "02818": [
+  "Papillon tête-de-mort en bocal",
+  "Papillons tête-de-mort en bocal"
+ ],
+ "02819": [
+  "Soie d'araignée",
+  "Soie d'araignée"
+ ],
+ "02820": [
+  "Œuf de couvain",
+  "Œufs de couvain"
+ ],
+ "02821": [
+  "Croc noir",
+  "Crocs noirs"
+ ],
+ "02822": [
+  "Plume de vautour",
+  "Plumes de vautour"
+ ],
+ "02823": [
+  "Peau de hyène rayée",
+  "Peaux de hyène rayée"
+ ],
+ "02824": [
+  "Grand os",
+  "Grands os"
+ ],
+ "02825": [
+  "Corne de gnou",
+  "Cornes de gnou"
+ ],
+ "02826": [
+  "Papillon fantomatique en bocal",
+  "Papillons fantomatiques en bocal"
+ ],
+ "02827": [
+  "Poussière magique",
+  "Poussière magique"
+ ],
+ "02828": [
+  "Fil d'esprit",
+  "Fils d'esprit"
+ ],
+ "02829": [
+  "Ectoplasme de spectre",
+  "Ectoplasme de spectre"
+ ],
+ "02830": [
+  "Plume d'aigle géant",
+  "Plumes d'aigle géant"
+ ],
+ "02831": [
+  "Plume de griffon",
+  "Plumes de griffon"
+ ],
+ "02832": [
+  "Peau de torag",
+  "Peaux de torag"
+ ],
+ "02833": [
+  "Cristal de belra",
+  "Cristaux de belra"
+ ],
+ "02834": [
+  "Noyau de Gar Torag",
+  "Noyaux de Gar Torag"
+ ],
+ "02835": [
+  "Noyau de Fin Torag",
+  "Noyaux de Fin Torag"
+ ],
+ "02836": [
+  "Noyau de Cul Torag",
+  "Noyaux de Cul Torag"
+ ],
+ "02837": [
+  "Ficelle",
+  "Ficelles"
+ ],
+ "02838": [
+  "Ficelle renforcée",
+  "Ficelles renforcées"
+ ],
+ "02839": [
+  "Ficelle fortifiée",
+  "Ficelles fortifiées"
+ ],
+ "02840": [
+  "Filet basique",
+  "Filets basiques"
+ ],
+ "02841": [
+  "Filet renforcé",
+  "Filets renforcés"
+ ],
+ "02842": [
+  "Filet fortifié",
+  "Filets fortifiés"
+ ],
+ "02843": [
+  "Filet à grands oiseaux basique",
+  "Filets à grands oiseaux basiques"
+ ],
+ "02844": [
+  "Filet à grands oiseaux renforcé",
+  "Filets à grands oiseaux renforcés"
+ ],
+ "02845": [
+  "Filet à grands oiseaux fortifié",
+  "Filets à grands oiseaux fortifiés"
+ ],
+ "02846": [
+  "Fosse piégée basique",
+  "Fosses piégées basiques"
+ ],
+ "02847": [
+  "Fosse piégée renforcée",
+  "Fosses piégées renforcées"
+ ],
+ "02848": [
+  "Fosse piégée fortifiée",
+  "Fosses piégées fortifiées"
+ ],
+ "02849": [
+  "Bocal en verre",
+  "Bocaux en verre"
+ ],
+ "02850": [
+  "Kit à papillons basique",
+  "Kits à papillons basiques"
+ ],
+ "02851": [
+  "Kit à papillons renforcé",
+  "Kits à papillons renforcés"
+ ],
+ "02852": [
+  "Kit à papillons fortifié",
+  "Kits à papillons fortifiés"
+ ],
+ "02853": [
+  "Boîte à esprits basique",
+  "Boîtes à esprits basiques"
+ ],
+ "02854": [
+  "Boîte à esprits renforcée",
+  "Boîtes à esprits renforcées"
+ ],
+ "02855": [
+  "Boîte à esprits fortifiée",
+  "Boîtes à esprits fortifiées"
+ ],
+ "02856": [
+  "Bracelet de pisteur I",
+  "Bracelets de pisteur I"
+ ],
+ "02857": [
+  "Bracelet de pisteur II",
+  "Bracelets de pisteur II"
+ ],
+ "02858": [
+  "Bracelet de pisteur III",
+  "Bracelets de pisteur III"
+ ],
+ "02859": [
+  "Bracelet de pisteur IV",
+  "Bracelets de pisteur IV"
+ ],
+ "02860": [
+  "Bracelet de pisteur V",
+  "Bracelets de pisteur V"
+ ],
+ "02861": [
+  "Sacoche de piégeage en peau de serpent",
+  "Sacoches de piégeage en peau de serpent"
+ ],
+ "02862": [
+  "Sacoche de piégeage en soie d'araignée",
+  "Sacoches de piégeage en soie d'araignée"
+ ],
+ "02863": [
+  "Sacoche de piégeage de griffon",
+  "Sacoches de piégeage de griffon"
+ ],
+ "02864": [
+  "Casque de Tueur de bêtes I",
+  "Casques de Tueur de bêtes I"
+ ],
+ "02865": [
+  "Jambières de Tueur de bêtes I",
+  "Jambières de Tueur de bêtes I"
+ ],
+ "02866": [
+  "Plastron de Tueur de bêtes I",
+  "Plastrons de Tueur de bêtes I"
+ ],
+ "02867": [
+  "Casque de Tueur de bêtes II",
+  "Casques de Tueur de bêtes II"
+ ],
+ "02868": [
+  "Jambières de Tueur de bêtes II",
+  "Jambières de Tueur de bêtes II"
+ ],
+ "02869": [
+  "Plastron de Tueur de bêtes II",
+  "Plastrons de Tueur de bêtes II"
+ ],
+ "02870": [
+  "Casque de Tueur de bêtes III",
+  "Casques de Tueur de bêtes III"
+ ],
+ "02871": [
+  "Jambières de Tueur de bêtes III",
+  "Jambières de Tueur de bêtes III"
+ ],
+ "02872": [
+  "Plastron de Tueur de bêtes III",
+  "Plastrons de Tueur de bêtes III"
+ ],
+ "02873": [
+  "Casque de Tueur de bêtes IV",
+  "Casques de Tueur de bêtes IV"
+ ],
+ "02874": [
+  "Jambières de Tueur de bêtes IV",
+  "Jambières de Tueur de bêtes IV"
+ ],
+ "02875": [
+  "Plastron de Tueur de bêtes IV",
+  "Plastrons de Tueur de bêtes IV"
+ ],
+ "02876": [
+  "Cape en peau de serpent",
+  "Capes en peau de serpent"
+ ],
+ "02877": [
+  "Bouclier en peau de crapaud vert",
+  "Boucliers en peau de crapaud vert"
+ ],
+ "02878": [
+  "Casque en bois d'élan",
+  "Casques en bois d'élan"
+ ],
+ "02879": [
+  "Cape rayée",
+  "Capes rayées"
+ ],
+ "02880": [
+  "Bouclier fantôme",
+  "Boucliers fantômes"
+ ],
+ "02881": [
+  "Mitaines de spectre",
+  "Mitaines de spectre"
+ ],
+ "02882": [
+  "Bracelets de griffon",
+  "Bracelets de griffon"
+ ],
+ "02883": [
+  "Manteau de griffon",
+  "Manteaux de griffon"
+ ],
+ "02884": [
+  "Griffes de croc noir",
+  "Griffes de croc noir"
+ ],
+ "02885": [
+  "Dague de croc noir",
+  "Dagues de croc noir"
+ ],
+ "02886": [
+  "Baguette fantôme",
+  "Baguettes fantômes"
+ ],
+ "02887": [
+  "Canne fantôme",
+  "Cannes fantômes"
+ ],
+ "02888": [
+  "Dague de gnou",
+  "Dagues de gnou"
+ ],
+ "02889": [
+  "Baguette de spectre",
+  "Baguettes de spectre"
+ ],
+ "02890": [
+  "Canne de spectre",
+  "Cannes de spectre"
+ ],
+ "02891": [
+  "Arbalète de griffon",
+  "Arbalètes de griffon"
+ ],
+ "02892": [
+  "Arbalète 2m de griffon",
+  "Arbalètes 2m de griffon"
+ ],
+ "02893": [
+  "Griffes de griffon",
+  "Griffes de griffon"
+ ],
+ "02894": [
+  "Collier de patte de lapin",
+  "Colliers de patte de lapin"
+ ],
+ "02895": [
+  "Anneau de croc de serpent",
+  "Anneaux de croc de serpent"
+ ],
+ "02896": [
+  "Amulette en peau de crapaud",
+  "Amulettes en peau de crapaud"
+ ],
+ "02897": [
+  "Anneau de croc noir",
+  "Anneaux de croc noir"
+ ],
+ "02898": [
+  "Amulette de croc de loup",
+  "Amulettes de croc de loup"
+ ],
+ "02899": [
+  "Amulette fantôme",
+  "Amulettes fantômes"
+ ],
+ "02900": [
+  "Amulette de faucon sanglant",
+  "Amulettes de faucon sanglant"
+ ],
+ "02901": [
+  "Amulette de spectre",
+  "Amulettes de spectre"
+ ],
+ "02902": [
+  "Anneau de Gar Belra",
+  "Anneaux de Gar Belra"
+ ],
+ "02903": [
+  "Anneau de Fin Belra",
+  "Anneaux de Fin Belra"
+ ],
+ "02904": [
+  "Anneau de Cul Belra",
+  "Anneaux de Cul Belra"
+ ],
+ "02905": [
+  "Flèche en os",
+  "Flèches en os"
+ ],
+ "02906": [
+  "Carreaux en os",
+  "Carreaux en os"
+ ],
+ "02907": [
+  "Flèche de croc noir",
+  "Flèches de croc noir"
+ ],
+ "02908": [
+  "Carreaux de croc noir",
+  "Carreaux de croc noir"
+ ],
+ "02909": [
+  "Flèches de spectre",
+  "Flèches de spectre"
+ ],
+ "02910": [
+  "Carreaux de spectre",
+  "Carreaux de spectre"
+ ],
+ "02911": [
+  "Serre de rapace",
+  "Serres de rapace"
+ ],
+ "02912": [
+  "Serre de faucon sanglant",
+  "Serres de faucon sanglant"
+ ],
+ "02913": [
+  "Serre de griffon",
+  "Serres de griffon"
+ ],
+ "02914": [
+  "Gaine en os",
+  "Gaines en os"
+ ],
+ "02915": [
+  "Maniques en lapin",
+  "Maniques en lapin"
+ ],
+ "02916": [
+  "Clous hérissés de dos-épineux",
+  "Clous hérissés de dos-épineux"
+ ],
+ "02917": [
+  "Bourse en peau de serpent",
+  "Bourses en peau de serpent"
+ ],
+ "02918": [
+  "Burin en bois d'élan",
+  "Burins en bois d'élan"
+ ],
+ "02919": [
+  "Couteau à sculpter en bois d'élan",
+  "Couteaux à sculpter en bois d'élan"
+ ],
+ "02920": [
+  "Glaive de main gauche en os de dragon",
+  "Glaives de main gauche en os de dragon"
+ ],
+ "02921": [
+  "Couteau en croc de loup",
+  "Couteaux en croc de loup"
+ ],
+ "02922": [
+  "Voile fantôme",
+  "Voiles fantômes"
+ ],
+ "02923": [
+  "Petit os de dragon",
+  "Petits os de dragon"
+ ],
+ "02924": [
+  "Os de dragon",
+  "Os de dragon"
+ ],
+ "02925": [
+  "Peau d'élan",
+  "Peaux d'élan"
+ ],
+ "02926": [
+  "Peau de caribou",
+  "Peaux de caribou"
+ ],
+ "02927": [
+  "Bois de caribou",
+  "Bois de caribou"
+ ],
+ "02928": [
+  "Cuir d'élan",
+  "Cuir d'élan"
+ ],
+ "02929": [
+  "Bracelets en cuir d'élan",
+  "Bracelets en cuir d'élan"
+ ],
+ "02930": [
+  "Bottes en cuir d'élan",
+  "Bottes en cuir d'élan"
+ ],
+ "02931": [
+  "Coiffe en cuir d'élan",
+  "Coiffes en cuir d'élan"
+ ],
+ "02932": [
+  "Bouclier en cuir d'élan",
+  "Boucliers en cuir d'élan"
+ ],
+ "02933": [
+  "Jambières en cuir d'élan",
+  "Jambières en cuir d'élan"
+ ],
+ "02934": [
+  "Plastron en cuir d'élan",
+  "Plastrons en cuir d'élan"
+ ],
+ "02935": [
+  "Bracelets en cuir d'élan dur",
+  "Bracelets en cuir d'élan dur"
+ ],
+ "02936": [
+  "Bottes en cuir d'élan dur",
+  "Bottes en cuir d'élan dur"
+ ],
+ "02937": [
+  "Coiffe en cuir d'élan dur",
+  "Coiffes en cuir d'élan dur"
+ ],
+ "02938": [
+  "Bouclier en cuir d'élan dur",
+  "Boucliers en cuir d'élan dur"
+ ],
+ "02939": [
+  "Jambières en cuir d'élan dur",
+  "Jambières en cuir d'élan dur"
+ ],
+ "02940": [
+  "Plastron en cuir d'élan dur",
+  "Plastrons en cuir d'élan dur"
+ ],
+ "02941": [
+  "Bracelets en cuir d'élan clouté",
+  "Bracelets en cuir d'élan clouté"
+ ],
+ "02942": [
+  "Bottes en cuir d'élan clouté",
+  "Bottes en cuir d'élan clouté"
+ ],
+ "02943": [
+  "Coiffe en cuir d'élan clouté",
+  "Coiffes en cuir d'élan clouté"
+ ],
+ "02944": [
+  "Bouclier en cuir d'élan clouté",
+  "Boucliers en cuir d'élan clouté"
+ ],
+ "02945": [
+  "Jambières en cuir d'élan clouté",
+  "Jambières en cuir d'élan clouté"
+ ],
+ "02946": [
+  "Plastron en cuir d'élan clouté",
+  "Plastrons en cuir d'élan clouté"
+ ],
+ "02947": [
+  "Cuir de caribou",
+  "Cuir de caribou"
+ ],
+ "02948": [
+  "Bracelets en cuir de caribou",
+  "Bracelets en cuir de caribou"
+ ],
+ "02949": [
+  "Bottes en cuir de caribou",
+  "Bottes en cuir de caribou"
+ ],
+ "02950": [
+  "Coiffe en cuir de caribou",
+  "Coiffes en cuir de caribou"
+ ],
+ "02951": [
+  "Bouclier en cuir de caribou",
+  "Boucliers en cuir de caribou"
+ ]
+}

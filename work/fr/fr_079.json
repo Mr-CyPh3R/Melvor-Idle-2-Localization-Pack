@@ -1,0 +1,195 @@
+{
+ "10322": "{0:P0} de chance d'appliquer [effectIcon/] {1}",
+ "10323": "{0:P0} de chance d'infliger [effectIcon/] {1}",
+ "10324": [
+  "Obtient {0:N0} cumul de [effectIcon/] {1}",
+  "Obtient {0:N0} cumuls de [effectIcon/] {1}"
+ ],
+ "10325": [
+  "S'inflige {0:N0} cumul de [effectIcon/] {1}",
+  "S'inflige {0:N0} cumuls de [effectIcon/] {1}"
+ ],
+ "10326": [
+  "Applique {0:N0} cumul de [effectIcon/] {1}",
+  "Applique {0:N0} cumuls de [effectIcon/] {1}"
+ ],
+ "10327": [
+  "Inflige {0:N0} cumul de [effectIcon/] {1}",
+  "Inflige {0:N0} cumuls de [effectIcon/] {1}"
+ ],
+ "10328": [
+  "{0:P0} de chance d'obtenir {1:N0} cumul de [effectIcon/] {2}",
+  "{0:P0} de chance d'obtenir {1:N0} cumuls de [effectIcon/] {2}"
+ ],
+ "10329": [
+  "{0:P0} de chance de s'infliger {1:N0} cumul de [effectIcon/] {2}",
+  "{0:P0} de chance de s'infliger {1:N0} cumuls de [effectIcon/] {2}"
+ ],
+ "10330": [
+  "{0:P0} de chance d'appliquer {1:N0} cumul de [effectIcon/] {2}",
+  "{0:P0} de chance d'appliquer {1:N0} cumuls de [effectIcon/] {2}"
+ ],
+ "10331": [
+  "{0:P0} de chance d'infliger {1:N0} cumul de [effectIcon/] {2}",
+  "{0:P0} de chance d'infliger {1:N0} cumuls de [effectIcon/] {2}"
+ ],
+ "10332": [
+  "Obtient [effectIcon/] {0} pendant {1:N0} tour",
+  "Obtient [effectIcon/] {0} pendant {1:N0} tours"
+ ],
+ "10333": [
+  "S'inflige [effectIcon/] {0} pendant {1:N0} tour",
+  "S'inflige [effectIcon/] {0} pendant {1:N0} tours"
+ ],
+ "10334": [
+  "Applique [effectIcon/] {0} pendant {1:N0} tour",
+  "Applique [effectIcon/] {0} pendant {1:N0} tours"
+ ],
+ "10335": [
+  "Inflige [effectIcon/] {0} pendant {1:N0} tour",
+  "Inflige [effectIcon/] {0} pendant {1:N0} tours"
+ ],
+ "10336": [
+  "{0:P0} de chance d'obtenir [effectIcon/] {1} pendant {2:N0} tour",
+  "{0:P0} de chance d'obtenir [effectIcon/] {1} pendant {2:N0} tours"
+ ],
+ "10337": [
+  "{0:P0} de chance de s'infliger [effectIcon/] {1} pendant {2:N0} tour",
+  "{0:P0} de chance de s'infliger [effectIcon/] {1} pendant {2:N0} tours"
+ ],
+ "10338": [
+  "{0:P0} de chance d'appliquer [effectIcon/] {1} pendant {2:N0} tour",
+  "{0:P0} de chance d'appliquer [effectIcon/] {1} pendant {2:N0} tours"
+ ],
+ "10339": [
+  "{0:P0} de chance d'infliger [effectIcon/] {1} pendant {2:N0} tour",
+  "{0:P0} de chance d'infliger [effectIcon/] {1} pendant {2:N0} tours"
+ ],
+ "10340": [
+  "Obtient {0:N0} à {1:N0} cumuls de [effectIcon/] {2} pendant {3:N0} tour",
+  "Obtient {0:N0} à {1:N0} cumuls de [effectIcon/] {2} pendant {3:N0} tours"
+ ],
+ "10341": [
+  "S'inflige {0:N0} à {1:N0} cumuls de [effectIcon/] {2} pendant {3:N0} tour",
+  "S'inflige {0:N0} à {1:N0} cumuls de [effectIcon/] {2} pendant {3:N0} tours"
+ ],
+ "10342": [
+  "Applique {0:N0} à {1:N0} cumuls de [effectIcon/] {2} pendant {3:N0} tour",
+  "Applique {0:N0} à {1:N0} cumuls de [effectIcon/] {2} pendant {3:N0} tours"
+ ],
+ "10343": [
+  "Inflige {0:N0} à {1:N0} cumuls de [effectIcon/] {2} pendant {3:N0} tour",
+  "Inflige {0:N0} à {1:N0} cumuls de [effectIcon/] {2} pendant {3:N0} tours"
+ ],
+ "10344": [
+  "{0:P0} de chance d'obtenir {1:N0} à {2:N0} cumuls de [effectIcon/] {3} pendant {4:N0} tour",
+  "{0:P0} de chance d'obtenir {1:N0} à {2:N0} cumuls de [effectIcon/] {3} pendant {4:N0} tours"
+ ],
+ "10345": [
+  "{0:P0} de chance de s'infliger {1:N0} à {2:N0} cumuls de [effectIcon/] {3} pendant {4:N0} tour",
+  "{0:P0} de chance de s'infliger {1:N0} à {2:N0} cumuls de [effectIcon/] {3} pendant {4:N0} tours"
+ ],
+ "10346": [
+  "{0:P0} de chance d'appliquer {1:N0} à {2:N0} cumuls de [effectIcon/] {3} pendant {4:N0} tour",
+  "{0:P0} de chance d'appliquer {1:N0} à {2:N0} cumuls de [effectIcon/] {3} pendant {4:N0} tours"
+ ],
+ "10347": [
+  "{0:P0} de chance d'infliger {1:N0} à {2:N0} cumuls de [effectIcon/] {3} pendant {4:N0} tour",
+  "{0:P0} de chance d'infliger {1:N0} à {2:N0} cumuls de [effectIcon/] {3} pendant {4:N0} tours"
+ ],
+ "10348": [
+  "Obtient [effectIcon/] {0} jusqu'à {1:N0} attaque subie",
+  "Obtient [effectIcon/] {0} jusqu'à {1:N0} attaques subies"
+ ],
+ "10349": [
+  "S'inflige [effectIcon/] {0} jusqu'à {1:N0} attaque subie",
+  "S'inflige [effectIcon/] {0} jusqu'à {1:N0} attaques subies"
+ ],
+ "10350": [
+  "Applique [effectIcon/] {0} pendant {1:N0} attaque",
+  "Applique [effectIcon/] {0} pendant {1:N0} attaques"
+ ],
+ "10351": [
+  "Inflige [effectIcon/] {0} pendant {1:N0} attaque",
+  "Inflige [effectIcon/] {0} pendant {1:N0} attaques"
+ ],
+ "10352": [
+  "{0:P0} de chance d'obtenir [effectIcon/] {1} jusqu'à {2:N0} attaque subie",
+  "{0:P0} de chance d'obtenir [effectIcon/] {1} jusqu'à {2:N0} attaques subies"
+ ],
+ "10353": [
+  "{0:P0} de chance de s'infliger [effectIcon/] {1} jusqu'à {2:N0} attaque subie",
+  "{0:P0} de chance de s'infliger [effectIcon/] {1} jusqu'à {2:N0} attaques subies"
+ ],
+ "10354": [
+  "{0:P0} de chance d'appliquer [effectIcon/] {1} pendant {2:N0} attaque",
+  "{0:P0} de chance d'appliquer [effectIcon/] {1} pendant {2:N0} attaques"
+ ],
+ "10355": [
+  "{0:P0} de chance d'infliger [effectIcon/] {1} pendant {2:N0} attaque",
+  "{0:P0} de chance d'infliger [effectIcon/] {1} pendant {2:N0} attaques"
+ ],
+ "10356": "Au début du combat :",
+ "10357": "En mangeant un aliment :",
+ "10358": "En mangeant un aliment manuellement :",
+ "10359": "À l'alimentation auto :",
+ "10360": "À l'attaque :",
+ "10361": "À la première attaque d'un tour :",
+ "10362": "Au toucher :",
+ "10363": "Au premier toucher d'un tour :",
+ "10364": "En cas d'échec :",
+ "10365": "Au premier échec d'un tour :",
+ "10366": "Si la première attaque d'un tour touche :",
+ "10367": "Si la première attaque d'un tour échoue :",
+ "10368": "À la mort :",
+ "10369": "En étant attaqué :",
+ "10370": "À la première attaque subie :",
+ "10371": "En étant touché :",
+ "10372": "Au premier coup subi :",
+ "10373": "Quand une attaque est esquivée :",
+ "10374": "Quand la première attaque est esquivée :",
+ "10375": "Subissez [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] effets en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10376": "Subissez [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] effets",
+ "10377": "Subissez [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois",
+ "10378": "Soyez affligé par [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois",
+ "10379": "Subissez [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10380": "Soyez affligé par [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10381": "Appliquez/Infligez [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] effets en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10382": "Appliquez/Infligez [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] effets",
+ "10383": "Appliquez [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois",
+ "10384": "Infligez [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois",
+ "10385": "Appliquez [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10386": "Infligez [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10387": "Obtenez/Infligez-vous [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] effets en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10388": "Obtenez/Infligez-vous [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] effets",
+ "10389": "Obtenez [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois",
+ "10390": "Infligez-vous [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois",
+ "10391": "Obtenez [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10392": "Infligez-vous [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10393": "Aucun aliment sélectionné",
+ "10394": "Déjà équipé",
+ "10395": [
+  "{0:N0} objet masqué par les filtres",
+  "{0:N0} objets masqués par les filtres"
+ ],
+ "10396": "Mangez [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] aliments",
+ "10397": "Mangez [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] aliments en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10398": "Mangez [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b]",
+ "10399": "Mangez [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b] en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10400": "Récupérez [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] PV grâce aux aliments",
+ "10401": "Récupérez [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] PV grâce aux aliments en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10402": "Récupérez [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] PV grâce à [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b]",
+ "10403": "Récupérez [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] PV grâce à [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b] en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10404": "{0:N0} à {1:N0}",
+ "10405": "Chance d'obtenir l'un des suivants :",
+ "10406": "Ce contenu n'est pas disponible dans la [b]démo[/b]",
+ "10407": "Accomplissement total de [b]{CategoryName}[/b] : [b]{Current:0.##%} / {Max:0.##%}[/b]",
+ "10408": "Ressources disponibles insuffisantes.",
+ "10409": "Recettes créées",
+ "10410": "Créez {0:F0} / {1:F1} recettes en {2.Entity.DisplayName}",
+ "10411": "{0.Quantity:N0} {0.Currency.DisplayNameShort}",
+ "10412": [
+  "[img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b] est équipé",
+  "[img height=1.25em]{ItemIcon}[/img] [b]{Current} / {Max} {ItemName}[/b] sont équipés"
+ ]
+}

@@ -35,7 +35,8 @@ var _re_digits := RegEx.create_from_string("\\d[\\d.,]*")
 var _re_latin := RegEx.create_from_string("[A-Za-z]{3,}")
 var _re_word := RegEx.create_from_string("[A-Za-z]{4,}")
 var _re_token := RegEx.create_from_string("\\{[^{}]+\\}")
-var _re_unit := RegEx.create_from_string("\\b(\\d+(?:[.,]\\d+)?) ?(days?|hours?|minutes?|seconds?|turns?)\\b")
+var _re_unit: RegEx      # number + time unit in English or any pack language (built in _read_config)
+var _unit_words := {}     # lower-case unit word -> unit key ("sekunden" -> "second")
 
 
 func _ready() -> void:
@@ -62,6 +63,22 @@ func _read_config() -> void:
 			_lang_names[TranslationServer.get_locale_name(lang)] = native
 			_lang_names[TranslationServer.get_language_name(lang.get_slice("_", 0))] = native
 	_units = cfg.get("languages", {})
+	# The game formats durations in the Windows language, not the game language, so accept unit words
+	# of English and of every pack language and replace them with the active language's words.
+	for unit in ["day", "hour", "minute", "second", "turn"]:
+		_unit_words[unit] = unit
+		_unit_words[unit + "s"] = unit
+	for lang in _units:
+		var names: Dictionary = _units[lang].get("units", {})
+		for unit in names:
+			for form in names[unit]:
+				_unit_words[String(form).to_lower()] = unit
+	var words := _unit_words.keys()
+	words.sort_custom(func(a, b): return a.length() > b.length())
+	var alternatives := PackedStringArray()
+	for w in words:
+		alternatives.append(_escape(w))
+	_re_unit = RegEx.create_from_string("(?i)\\b(\\d+(?:[.,]\\d+)?) ?(" + "|".join(alternatives) + ")(?!\\p{L})")
 	_log_missing = cfg.get("log_missing", false)
 	print("Localization Pack %s loaded, languages: %s" % [cfg.get("version", "?"), ", ".join(_languages)])
 
@@ -201,7 +218,7 @@ func _translate(s: String) -> String:
 			return s.replace(core, ", ".join(out))
 	t = _from_template(core)
 	if t != core:
-		return s.replace(core, t)
+		return s.replace(core, _replace_units(t))
 	return _replace_units(s)
 
 
@@ -270,16 +287,16 @@ func _from_template(s: String) -> String:
 	return s
 
 
-## "10 minutes" -> "10 Minuten" using the units from mod.json.
+## "10 minutes" or "10 Minuten" -> words of the active language, using the units from mod.json.
 func _replace_units(s: String) -> String:
 	var names: Dictionary = _units.get(_active, {}).get("units", {})
-	if names.is_empty():
+	if names.is_empty() or _re_unit == null:
 		return s
 	var matches := _re_unit.search_all(s)
 	var out := s
 	for i in range(matches.size() - 1, -1, -1):
 		var m: RegExMatch = matches[i]
-		var unit := m.get_string(2).to_lower().trim_suffix("s")
+		var unit: String = _unit_words.get(m.get_string(2).to_lower(), "")
 		if not names.has(unit):
 			continue
 		var forms: Array = names[unit]

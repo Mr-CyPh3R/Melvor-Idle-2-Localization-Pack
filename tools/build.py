@@ -1,7 +1,7 @@
-"""Baut dist/de.po aus der Vorlage und den Übersetzungen in work/de/*.json und prüft die Platzhalter.
+"""Baut dist/<lang>.po aus der Vorlage und den Übersetzungen in work/<lang>/*.json und prüft die Platzhalter.
 
-Aufruf (im Projektordner): python tools/build.py [--check]
-work/de/*.json: {id: "Text"} oder bei Pluralen {id: ["Einzahl", "Mehrzahl"]}
+Aufruf (im Projektordner): python tools/build.py [--lang de] [--check]   (Standard: de)
+work/<lang>/*.json: {id: "Text"} oder bei Pluralen {id: ["Einzahl", "Mehrzahl"]}
 Exit 1, wenn eine Übersetzung Platzhalter, Tags oder Zeilenumbrüche verändert.
 Installieren ins Spiel: python tools/package.py --install
 """
@@ -34,6 +34,11 @@ def check(en, de):
     return None
 
 
+LANG = sys.argv[sys.argv.index('--lang') + 1] if '--lang' in sys.argv else 'de'
+# Pluralregel der Zielsprache (Godot liest sie aus dem Kopf der .po)
+PLURAL = {'fr': 'nplurals=2; plural=(n > 1);'}
+
+
 def entry_id(e):
     return f'{e.msgctxt or ""}\x04{e.msgid}\x04{e.msgid_plural or ""}'
 
@@ -41,12 +46,14 @@ def entry_id(e):
 items = json.load(open('work/items.json', encoding='utf-8'))
 by_key = {f'{i["ctx"] or ""}\x04{i["en"]}\x04{i["en_plural"] or ""}': i for i in items}
 tr = {}
-for f in sorted(glob.glob('work/de/*.json')):
+for f in sorted(glob.glob(f'work/{LANG}/*.json')):
     tr.update(json.load(open(f, encoding='utf-8')))
 
 po = polib.pofile('source/en_GB.po')
-po.metadata['Language'] = 'de'
-po.metadata['Language-Team'] = 'Deutsch (Community)'
+po.metadata['Language'] = LANG
+po.metadata['Language-Team'] = f'{LANG} (Community)'
+if LANG in PLURAL:
+    po.metadata['Plural-Forms'] = PLURAL[LANG]
 po.metadata['Last-Translator'] = 'Melvor Idle 2 Mods'
 done = errors = 0
 applied = set()
@@ -104,11 +111,11 @@ print('kontextlose Namen ergänzt:', added)
 
 if '--check' not in sys.argv:  # --check: nur prüfen, nichts schreiben (für parallele Läufe)
     os.makedirs('dist', exist_ok=True)
-    po.save('dist/de.po')
+    po.save(f'dist/{LANG}.po')
 print(f'übersetzt {done} von {len([e for e in po if not e.obsolete])}, Fehler {errors}')
-# Herkunft für die Transparenz-Angabe in der README (tools/package.py liest dist/de.stats.json)
-mi1 = set(json.load(open('work/de/mi1.json', encoding='utf-8')))
+# Herkunft für die Transparenz-Angabe in der README (tools/package.py liest dist/<lang>.stats.json)
+mi1 = set(json.load(open(f'work/{LANG}/mi1.json', encoding='utf-8')))
 stats = {'translated': done, 'from_melvor_idle_1': len(applied & mi1), 'ai': done - len(applied & mi1), 'name_copies': added}
-json.dump(stats, open('dist/de.stats.json', 'w', encoding='utf-8'), indent=1)
+json.dump(stats, open(f'dist/{LANG}.stats.json', 'w', encoding='utf-8'), indent=1)
 print('Herkunft:', stats)
 sys.exit(1 if errors else 0)

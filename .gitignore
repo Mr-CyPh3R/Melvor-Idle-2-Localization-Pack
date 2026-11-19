@@ -1,6 +1,6 @@
 # Original game files and official texts of the first game: never published
 source/
-work/glossary.tsv
+work/glossary*.tsv
 
 # Build output (released as GitHub Release / Nexus file)
 dist/

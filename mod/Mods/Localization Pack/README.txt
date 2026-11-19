@@ -4,7 +4,7 @@ Version 1.0.0, made for game version 0.11.6-alpha.1 (Steam Early Access)
 Unofficial community translations for Melvor Idle 2 in one mod.
 Not affiliated with or endorsed by Games By Malcs or Jagex.
 
-Languages: German (Deutsch)
+Languages: German (Deutsch), French (Français)
 More languages are coming. Missing your language? Suggest it (see LINKS).
 
 
@@ -17,9 +17,10 @@ Steam Guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3841947675
 
 TRANSPARENCY: HOW THESE TRANSLATIONS WERE MADE
 ----------------------------------------------
-Language          Texts   From Melvor Idle  Translated by AI
-----------------  ------  ----------------  ----------------
-German (Deutsch)  13,605  566 (4%)          13,039 (96%)
+Language           Texts   From Melvor Idle  Translated by AI
+-----------------  ------  ----------------  ----------------
+German (Deutsch)   13,605  566 (4%)          13,039 (96%)
+French (Français)  13,605  586 (4%)          13,019 (96%)
 
 - From Melvor Idle: texts that are identical in the first game (Melvor Idle) were taken from
   its official translation.

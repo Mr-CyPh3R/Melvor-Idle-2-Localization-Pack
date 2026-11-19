@@ -1,0 +1,728 @@
+{
+ "02602": [
+  "Bottes de magicien de poussière",
+  "Bottes de magicien de poussière"
+ ],
+ "02603": [
+  "Robe de magicien de vapeur",
+  "Robes de magicien de vapeur"
+ ],
+ "02604": [
+  "Chemise de magicien de poussière",
+  "Chemises de magicien de poussière"
+ ],
+ "02605": [
+  "Chapeau de magicien de boue",
+  "Chapeaux de magicien de boue"
+ ],
+ "02606": [
+  "Bottes de magicien de fumée",
+  "Bottes de magicien de fumée"
+ ],
+ "02607": [
+  "Robe de magicien de boue",
+  "Robes de magicien de boue"
+ ],
+ "02608": [
+  "Chemise de magicien de fumée",
+  "Chemises de magicien de fumée"
+ ],
+ "02609": [
+  "Chapeau de magicien de fumée",
+  "Chapeaux de magicien de fumée"
+ ],
+ "02610": [
+  "Bottes de magicien de boue",
+  "Bottes de magicien de boue"
+ ],
+ "02611": [
+  "Robe de magicien de fumée",
+  "Robes de magicien de fumée"
+ ],
+ "02612": [
+  "Chemise de magicien de boue",
+  "Chemises de magicien de boue"
+ ],
+ "02613": [
+  "Chapeau de magicien de brume",
+  "Chapeaux de magicien de brume"
+ ],
+ "02614": [
+  "Bottes de magicien de lave",
+  "Bottes de magicien de lave"
+ ],
+ "02615": [
+  "Robe de magicien de brume",
+  "Robes de magicien de brume"
+ ],
+ "02616": [
+  "Chemise de magicien de lave",
+  "Chemises de magicien de lave"
+ ],
+ "02617": [
+  "Chapeau de magicien de lave",
+  "Chapeaux de magicien de lave"
+ ],
+ "02618": [
+  "Bottes de magicien de brume",
+  "Bottes de magicien de brume"
+ ],
+ "02619": [
+  "Robe de magicien de lave",
+  "Robes de magicien de lave"
+ ],
+ "02620": [
+  "Chemise de magicien de brume",
+  "Chemises de magicien de brume"
+ ],
+ "02621": [
+  "Chapeau de magicien élémentaire",
+  "Chapeaux de magicien élémentaires"
+ ],
+ "02622": [
+  "Bottes de magicien élémentaires",
+  "Bottes de magicien élémentaires"
+ ],
+ "02623": [
+  "Robe de magicien élémentaire",
+  "Robes de magicien élémentaires"
+ ],
+ "02624": [
+  "Chemise de magicien élémentaire",
+  "Chemises de magicien élémentaires"
+ ],
+ "02625": [
+  "Nid d'oiseau",
+  "Nids d'oiseau"
+ ],
+ "02626": "Contient des graines de bas niveau pour l'Agriculture.",
+ "02627": [
+  "Nid d'oiseau vide",
+  "Nids d'oiseau vides"
+ ],
+ "02628": "Il n'y a rien dedans.",
+ "02629": [
+  "Nid d'aigle",
+  "Nids d'aigle"
+ ],
+ "02630": "Contient des graines de haut niveau pour l'Agriculture.",
+ "02631": [
+  "Nid d'aigle vide",
+  "Nids d'aigle vides"
+ ],
+ "02632": [
+  "Nid de drake",
+  "Nids de drake"
+ ],
+ "02633": "Conservez cet objet. Il pourra bientôt être ouvert.",
+ "02634": [
+  "Nid de drake vide",
+  "Nids de drake vides"
+ ],
+ "02635": [
+  "Coffre citron",
+  "Coffres citron"
+ ],
+ "02636": [
+  "Coffre couvert de bernacles",
+  "Coffres couverts de bernacles"
+ ],
+ "02637": [
+  "Coffre à trésor",
+  "Coffres à trésor"
+ ],
+ "02638": [
+  "Patate",
+  "Patates"
+ ],
+ "02639": [
+  "Oignon",
+  "Oignons"
+ ],
+ "02640": [
+  "Laitue",
+  "Laitues"
+ ],
+ "02641": [
+  "Fraise",
+  "Fraises"
+ ],
+ "02642": [
+  "Ail",
+  "Ail"
+ ],
+ "02643": [
+  "Maïs",
+  "Maïs"
+ ],
+ "02644": [
+  "Pastèque",
+  "Pastèques"
+ ],
+ "02645": [
+  "Herbe de rogue",
+  "Herbe de rogue"
+ ],
+ "02646": [
+  "Tomate",
+  "Tomates"
+ ],
+ "02647": [
+  "Carotte",
+  "Carottes"
+ ],
+ "02648": [
+  "Citrouille",
+  "Citrouilles"
+ ],
+ "02649": [
+  "Raisin noir",
+  "Raisins noirs"
+ ],
+ "02650": [
+  "Chou",
+  "Choux"
+ ],
+ "02651": [
+  "Chou-fleur",
+  "Choux-fleurs"
+ ],
+ "02652": [
+  "Penril",
+  "Penril"
+ ],
+ "02653": [
+  "Osyle",
+  "Osyle"
+ ],
+ "02654": [
+  "Mantalyme",
+  "Mantalyme"
+ ],
+ "02655": [
+  "Nomel",
+  "Nomel"
+ ],
+ "02656": [
+  "Oxilyme",
+  "Oxilyme"
+ ],
+ "02657": [
+  "Sporlyle",
+  "Sporlyle"
+ ],
+ "02658": [
+  "Larx",
+  "Larx"
+ ],
+ "02659": [
+  "Barrenteil",
+  "Barrenteil"
+ ],
+ "02660": [
+  "Banane",
+  "Bananes"
+ ],
+ "02661": [
+  "Pomme",
+  "Pommes"
+ ],
+ "02662": [
+  "Cerise",
+  "Cerises"
+ ],
+ "02663": [
+  "Pêche",
+  "Pêches"
+ ],
+ "02664": [
+  "Orange",
+  "Oranges"
+ ],
+ "02665": [
+  "Mangue",
+  "Mangues"
+ ],
+ "02666": [
+  "Graine de patate",
+  "Graines de patate"
+ ],
+ "02667": [
+  "Graine d'oignon",
+  "Graines d'oignon"
+ ],
+ "02668": [
+  "Graine de laitue",
+  "Graines de laitue"
+ ],
+ "02669": [
+  "Graine de fraise",
+  "Graines de fraise"
+ ],
+ "02670": [
+  "Graine de blé",
+  "Graines de blé"
+ ],
+ "02671": [
+  "Tige de canne à sucre",
+  "Tiges de canne à sucre"
+ ],
+ "02672": [
+  "Graine d'ail",
+  "Graines d'ail"
+ ],
+ "02673": [
+  "Graine de maïs",
+  "Graines de maïs"
+ ],
+ "02674": [
+  "Graine de pastèque",
+  "Graines de pastèque"
+ ],
+ "02675": [
+  "Graine d'herbe de rogue",
+  "Graines d'herbe de rogue"
+ ],
+ "02676": [
+  "Graine de tomate",
+  "Graines de tomate"
+ ],
+ "02677": [
+  "Graine de carotte",
+  "Graines de carotte"
+ ],
+ "02678": [
+  "Graine de citrouille",
+  "Graines de citrouille"
+ ],
+ "02679": [
+  "Graine de raisin noir",
+  "Graines de raisin noir"
+ ],
+ "02680": [
+  "Graine de chou",
+  "Graines de chou"
+ ],
+ "02681": [
+  "Graine de chou-fleur",
+  "Graines de chou-fleur"
+ ],
+ "02682": [
+  "Graine de penril",
+  "Graines de penril"
+ ],
+ "02683": [
+  "Graine d'osyle",
+  "Graines d'osyle"
+ ],
+ "02684": [
+  "Graine de mantalyme",
+  "Graines de mantalyme"
+ ],
+ "02685": [
+  "Graine de nomel",
+  "Graines de nomel"
+ ],
+ "02686": [
+  "Graine d'oxilyme",
+  "Graines d'oxilyme"
+ ],
+ "02687": [
+  "Graine de sporlyle",
+  "Graines de sporlyle"
+ ],
+ "02688": [
+  "Graine de larx",
+  "Graines de larx"
+ ],
+ "02689": [
+  "Graine de barrenteil",
+  "Graines de barrenteil"
+ ],
+ "02690": [
+  "Graine de bananier",
+  "Graines de bananier"
+ ],
+ "02691": [
+  "Graine de pommier",
+  "Graines de pommier"
+ ],
+ "02692": [
+  "Graine de cerisier",
+  "Graines de cerisier"
+ ],
+ "02693": [
+  "Graine de pêcher",
+  "Graines de pêcher"
+ ],
+ "02694": [
+  "Graine d'oranger",
+  "Graines d'oranger"
+ ],
+ "02695": [
+  "Graine de manguier",
+  "Graines de manguier"
+ ],
+ "02696": [
+  "Graine de tournesol",
+  "Graines de tournesol"
+ ],
+ "02697": [
+  "Graine de souci",
+  "Graines de souci"
+ ],
+ "02698": [
+  "Graine de capucine",
+  "Graines de capucine"
+ ],
+ "02699": [
+  "Graine de romarin",
+  "Graines de romarin"
+ ],
+ "02700": [
+  "Graine de lys blanc",
+  "Graines de lys blanc"
+ ],
+ "02701": [
+  "Graine de camomille",
+  "Graines de camomille"
+ ],
+ "02702": [
+  "Vin",
+  "Vins"
+ ],
+ "02703": "Sert à payer les ouvriers agricoles pour l'automatisation de l'Agriculture.",
+ "02704": [
+  "Compost",
+  "Compost"
+ ],
+ "02705": [
+  "Super compost",
+  "Super compost"
+ ],
+ "02706": [
+  "Charbompost",
+  "Charbompost"
+ ],
+ "02707": [
+  "Ultra compost",
+  "Ultra compost"
+ ],
+ "02708": [
+  "Engrais",
+  "Engrais"
+ ],
+ "02709": [
+  "Crevette",
+  "Crevettes"
+ ],
+ "02710": [
+  "Sardine",
+  "Sardines"
+ ],
+ "02711": [
+  "Hareng",
+  "Harengs"
+ ],
+ "02712": [
+  "Truite",
+  "Truites"
+ ],
+ "02713": [
+  "Saumon",
+  "Saumons"
+ ],
+ "02714": [
+  "Homard",
+  "Homards"
+ ],
+ "02715": [
+  "Requin",
+  "Requins"
+ ],
+ "02716": [
+  "Raie manta",
+  "Raies manta"
+ ],
+ "02717": [
+  "Baleine",
+  "Baleines"
+ ],
+ "02718": [
+  "Perche",
+  "Perches"
+ ],
+ "02719": [
+  "Maquereau",
+  "Maquereaux"
+ ],
+ "02720": [
+  "Brochet",
+  "Brochets"
+ ],
+ "02721": [
+  "Luminageoire",
+  "Luminageoires"
+ ],
+ "02722": [
+  "Dorade",
+  "Dorades"
+ ],
+ "02723": [
+  "Morue",
+  "Morues"
+ ],
+ "02724": [
+  "Bar",
+  "Bars"
+ ],
+ "02725": [
+  "Poisson-lion",
+  "Poissons-lions"
+ ],
+ "02726": [
+  "Méduse luisante",
+  "Méduses luisantes"
+ ],
+ "02727": [
+  "Thon",
+  "Thons"
+ ],
+ "02728": [
+  "Calmar luisant",
+  "Calmars luisants"
+ ],
+ "02729": [
+  "Anguille géante",
+  "Anguilles géantes"
+ ],
+ "02730": [
+  "Appât basique",
+  "Appâts basiques"
+ ],
+ "02731": [
+  "Appât à maquereau",
+  "Appâts à maquereau"
+ ],
+ "02732": [
+  "Appât à luminageoire",
+  "Appâts à luminageoire"
+ ],
+ "02733": [
+  "Appât à poisson géant",
+  "Appâts à poisson géant"
+ ],
+ "02734": [
+  "Grain",
+  "Grains"
+ ],
+ "02735": "Nourriture pour certains animaux d'Élevage.",
+ "02736": [
+  "Ver de farine",
+  "Vers de farine"
+ ],
+ "02737": [
+  "Os",
+  "Os"
+ ],
+ "02738": [
+  "Soie",
+  "Soie"
+ ],
+ "02739": [
+  "Peau de vache",
+  "Peaux de vache"
+ ],
+ "02740": [
+  "Laine",
+  "Laine"
+ ],
+ "02741": [
+  "Miel",
+  "Miel"
+ ],
+ "02742": [
+  "Cire d'abeille",
+  "Cire d'abeille"
+ ],
+ "02743": [
+  "Tournesol",
+  "Tournesols"
+ ],
+ "02744": [
+  "Fleur de souci",
+  "Fleurs de souci"
+ ],
+ "02745": [
+  "Fleur de romarin",
+  "Fleurs de romarin"
+ ],
+ "02746": [
+  "Croc de loup",
+  "Crocs de loup"
+ ],
+ "02747": [
+  "Fourrure de loup",
+  "Fourrures de loup"
+ ],
+ "02748": [
+  "Petite écaille de dragon vert",
+  "Petites écailles de dragon vert"
+ ],
+ "02749": [
+  "Petite écaille de dragon bleu",
+  "Petites écailles de dragon bleu"
+ ],
+ "02750": [
+  "Petite écaille de dragon rouge",
+  "Petites écailles de dragon rouge"
+ ],
+ "02751": [
+  "Petite écaille de dragon noir",
+  "Petites écailles de dragon noir"
+ ],
+ "02752": [
+  "Blé",
+  "Blé"
+ ],
+ "02753": [
+  "Canne à sucre",
+  "Cannes à sucre"
+ ],
+ "02754": [
+  "Sucre",
+  "Sucre"
+ ],
+ "02755": [
+  "Farine",
+  "Farine"
+ ],
+ "02756": [
+  "Œuf",
+  "Œufs"
+ ],
+ "02757": [
+  "Lait",
+  "Lait"
+ ],
+ "02758": [
+  "Pâte sucrée",
+  "Pâtes sucrées"
+ ],
+ "02759": [
+  "Sandwich au bœuf",
+  "Sandwichs au bœuf"
+ ],
+ "02760": [
+  "Tourte aux pommes",
+  "Tourtes aux pommes"
+ ],
+ "02761": [
+  "Soupe de dorade",
+  "Soupes de dorade"
+ ],
+ "02762": [
+  "Tourte à la citrouille",
+  "Tourtes à la citrouille"
+ ],
+ "02763": [
+  "Cheeseburger",
+  "Cheeseburgers"
+ ],
+ "02764": [
+  "Base de gâteau",
+  "Bases de gâteau"
+ ],
+ "02765": [
+  "Base de soupe",
+  "Bases de soupe"
+ ],
+ "02766": [
+  "Base de sushi",
+  "Bases de sushi"
+ ],
+ "02767": [
+  "Sandwich au poulet",
+  "Sandwichs au poulet"
+ ],
+ "02768": [
+  "Sandwich au homard",
+  "Sandwichs au homard"
+ ],
+ "02769": [
+  "Sandwich au thon",
+  "Sandwichs au thon"
+ ],
+ "02770": [
+  "Pancake à la banane",
+  "Pancakes à la banane"
+ ],
+ "02771": [
+  "Pancake à la pomme",
+  "Pancakes à la pomme"
+ ],
+ "02772": [
+  "Pancake à la cerise",
+  "Pancakes à la cerise"
+ ],
+ "02773": [
+  "Pancake à la mangue",
+  "Pancakes à la mangue"
+ ],
+ "02774": [
+  "Gâteau à la fraise",
+  "Gâteaux à la fraise"
+ ],
+ "02775": [
+  "Gâteau à la carotte",
+  "Gâteaux à la carotte"
+ ],
+ "02776": [
+  "Gâteau à l'orange",
+  "Gâteaux à l'orange"
+ ],
+ "02777": [
+  "Tourte aux cerises",
+  "Tourtes aux cerises"
+ ],
+ "02778": [
+  "Pâte basique",
+  "Pâtes basiques"
+ ],
+ "02779": [
+  "Soupe de saumon",
+  "Soupes de saumon"
+ ],
+ "02780": [
+  "Soupe de poisson-lion",
+  "Soupes de poisson-lion"
+ ],
+ "02781": [
+  "Soupe de requin",
+  "Soupes de requin"
+ ],
+ "02782": [
+  "Soupe de légumes",
+  "Soupes de légumes"
+ ],
+ "02783": [
+  "Sushi à la truite",
+  "Sushis à la truite"
+ ],
+ "02784": [
+  "Sushi au saumon",
+  "Sushis au saumon"
+ ],
+ "02785": [
+  "Sushi à la morue",
+  "Sushis à la morue"
+ ],
+ "02786": [
+  "Sushi luisant",
+  "Sushis luisants"
+ ],
+ "02787": [
+  "Sushi thon-requin",
+  "Sushis thon-requin"
+ ]
+}

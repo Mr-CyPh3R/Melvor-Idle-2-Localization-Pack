@@ -10,11 +10,53 @@
       "english_name": "German",
       "file": "Languages/de.po",
       "units": {
-        "day": ["Tag", "Tage"],
-        "hour": ["Stunde", "Stunden"],
-        "minute": ["Minute", "Minuten"],
-        "second": ["Sekunde", "Sekunden"],
-        "turn": ["Zug", "Züge"]
+        "day": [
+          "Tag",
+          "Tage"
+        ],
+        "hour": [
+          "Stunde",
+          "Stunden"
+        ],
+        "minute": [
+          "Minute",
+          "Minuten"
+        ],
+        "second": [
+          "Sekunde",
+          "Sekunden"
+        ],
+        "turn": [
+          "Zug",
+          "Züge"
+        ]
+      }
+    },
+    "fr": {
+      "name": "Français",
+      "english_name": "French",
+      "file": "Languages/fr.po",
+      "units": {
+        "day": [
+          "jour",
+          "jours"
+        ],
+        "hour": [
+          "heure",
+          "heures"
+        ],
+        "minute": [
+          "minute",
+          "minutes"
+        ],
+        "second": [
+          "seconde",
+          "secondes"
+        ],
+        "turn": [
+          "tour",
+          "tours"
+        ]
       }
     }
   }

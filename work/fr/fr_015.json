@@ -1,0 +1,603 @@
+{
+ "02952": [
+  "Jambières en cuir de caribou",
+  "Jambières en cuir de caribou"
+ ],
+ "02953": [
+  "Plastron en cuir de caribou",
+  "Plastrons en cuir de caribou"
+ ],
+ "02954": [
+  "Cuir de hyène rayée",
+  "Cuir de hyène rayée"
+ ],
+ "02955": [
+  "Chapeau de camouflage en fourrure",
+  "Chapeaux de camouflage en fourrure"
+ ],
+ "02956": [
+  "Jambières de camouflage en fourrure",
+  "Jambières de camouflage en fourrure"
+ ],
+ "02957": [
+  "Plastron de camouflage en fourrure",
+  "Plastrons de camouflage en fourrure"
+ ],
+ "02958": [
+  "Chapeau de camouflage de dos-épineux",
+  "Chapeaux de camouflage de dos-épineux"
+ ],
+ "02959": [
+  "Jambières de camouflage de dos-épineux",
+  "Jambières de camouflage de dos-épineux"
+ ],
+ "02960": [
+  "Plastron de camouflage de dos-épineux",
+  "Plastrons de camouflage de dos-épineux"
+ ],
+ "02961": [
+  "Chapeau de camouflage de bête rayée",
+  "Chapeaux de camouflage de bête rayée"
+ ],
+ "02962": [
+  "Jambières de camouflage de bête rayée",
+  "Jambières de camouflage de bête rayée"
+ ],
+ "02963": [
+  "Plastron de camouflage de bête rayée",
+  "Plastrons de camouflage de bête rayée"
+ ],
+ "02964": [
+  "Besace de trappeur en fourrure",
+  "Besaces de trappeur en fourrure"
+ ],
+ "02965": [
+  "Bottes en fourrure rayée",
+  "Bottes en fourrure rayée"
+ ],
+ "02966": [
+  "Pieu de gnou",
+  "Pieux de gnou"
+ ],
+ "02967": [
+  "Griffes de gnou",
+  "Griffes de gnou"
+ ],
+ "02968": [
+  "Arc de raptor",
+  "Arcs de raptor"
+ ],
+ "02969": [
+  "Arbalète de raptor",
+  "Arbalètes de raptor"
+ ],
+ "02970": [
+  "Arbalète 2M de raptor",
+  "Arbalètes 2M de raptor"
+ ],
+ "02971": [
+  "Arc de griffon",
+  "Arcs de griffon"
+ ],
+ "02972": [
+  "Anneau de gnou",
+  "Anneaux de gnou"
+ ],
+ "02973": [
+  "Flèche en os de dragon",
+  "Flèches en os de dragon"
+ ],
+ "02974": [
+  "Carreaux en os de dragon",
+  "Carreaux en os de dragon"
+ ],
+ "02975": [
+  "Petites trouvailles de repérage",
+  "Petites trouvailles de repérage"
+ ],
+ "02976": "Petit assortiment d'objets possibles trouvés lors du repérage en Chasse.",
+ "02977": [
+  "Trouvailles de repérage moyennes",
+  "Trouvailles de repérage moyennes"
+ ],
+ "02978": "Assortiment moyen d'objets possibles trouvés lors du repérage en Chasse.",
+ "02979": [
+  "Grandes trouvailles de repérage",
+  "Grandes trouvailles de repérage"
+ ],
+ "02980": "Grand assortiment d'objets possibles trouvés lors du repérage en Chasse.",
+ "02981": [
+  "Corne de bête mâchoire-galeuse",
+  "Cornes de bête mâchoire-galeuse"
+ ],
+ "02982": [
+  "Piège à torag",
+  "Pièges à torag"
+ ],
+ "02983": [
+  "Œuf d'or (c)",
+  "Œufs d'or (c)"
+ ],
+ "02984": [
+  "Lait chocolaté (c)",
+  "Laits chocolatés (c)"
+ ],
+ "02985": [
+  "Plume de queue-verte émeraude (c)",
+  "Plumes de queue-verte émeraude (c)"
+ ],
+ "02986": [
+  "Pointe de lézard d'obsidienne (c)",
+  "Pointes de lézard d'obsidienne (c)"
+ ],
+ "02987": [
+  "Aile de papillon émeraude (c)",
+  "Ailes de papillon émeraude (c)"
+ ],
+ "02988": [
+  "Plume de queue-bleue saphir (c)",
+  "Plumes de queue-bleue saphir (c)"
+ ],
+ "02989": [
+  "Défense de sanglier de fer (c)",
+  "Défenses de sanglier de fer (c)"
+ ],
+ "02990": [
+  "Plume de queue-jaune topaze (c)",
+  "Plumes de queue-jaune topaze (c)"
+ ],
+ "02991": [
+  "Croc-de-braise (c)",
+  "Crocs-de-braise (c)"
+ ],
+ "02992": [
+  "Plume de queue-noire onyx (c)",
+  "Plumes de queue-noire onyx (c)"
+ ],
+ "02993": [
+  "Croc d'araignée abyssale (c)",
+  "Crocs d'araignée abyssale (c)"
+ ],
+ "02994": [
+  "Bois de corne-étoilée (c)",
+  "Bois de corne-étoilée (c)"
+ ],
+ "02995": [
+  "Trophée d'alpha des steppes (c)",
+  "Trophées d'alpha des steppes (c)"
+ ],
+ "02996": [
+  "Trophée de loup alpha redoutable (c)",
+  "Trophées de loup alpha redoutable (c)"
+ ],
+ "02997": [
+  "Plume-de-cendre (c)",
+  "Plumes-de-cendre (c)"
+ ],
+ "02998": [
+  "Trophée d'alpha raie-de-nuit (c)",
+  "Trophées d'alpha raie-de-nuit (c)"
+ ],
+ "02999": [
+  "Corne de bête mâchoire-de-fer (c)",
+  "Cornes de bête mâchoire-de-fer (c)"
+ ],
+ "03000": [
+  "Corne de bête pourpre (c)",
+  "Cornes de bête pourpre (c)"
+ ],
+ "03001": [
+  "Aile de lueur-tombale (c)",
+  "Ailes de lueur-tombale (c)"
+ ],
+ "03002": [
+  "Filament d'air (c)",
+  "Filaments d'air (c)"
+ ],
+ "03003": [
+  "Filament d'eau (c)",
+  "Filaments d'eau (c)"
+ ],
+ "03004": [
+  "Filament de terre (c)",
+  "Filaments de terre (c)"
+ ],
+ "03005": [
+  "Filament d'esprit (c)",
+  "Filaments d'esprit (c)"
+ ],
+ "03006": [
+  "Trophée de raptor primitif (c)",
+  "Trophées de raptor primitif (c)"
+ ],
+ "03007": [
+  "Plume de faucon aile-de-cendre (c)",
+  "Plumes de faucon aile-de-cendre (c)"
+ ],
+ "03008": [
+  "Trophée de griffon ancien (c)",
+  "Trophées de griffon ancien (c)"
+ ],
+ "03009": [
+  "Trophée de Gar Torag alpha (c)",
+  "Trophées de Gar Torag alpha (c)"
+ ],
+ "03010": [
+  "Trophée de Fin Torag alpha (c)",
+  "Trophées de Fin Torag alpha (c)"
+ ],
+ "03011": [
+  "Trophée de Cul Torag alpha (c)",
+  "Trophées de Cul Torag alpha (c)"
+ ],
+ "03012": [
+  "Trophée de Belra Torag alpha (c)",
+  "Trophées de Belra Torag alpha (c)"
+ ],
+ "03013": [
+  "Bois de couronne-de-givre (c)",
+  "Bois de couronne-de-givre (c)"
+ ],
+ "03014": [
+  "Chapeau de camouflage de croc-noir",
+  "Chapeaux de camouflage de croc-noir"
+ ],
+ "03015": [
+  "Jambières de camouflage de croc-noir",
+  "Jambières de camouflage de croc-noir"
+ ],
+ "03016": [
+  "Plastron de camouflage de croc-noir",
+  "Plastrons de camouflage de croc-noir"
+ ],
+ "03017": [
+  "Panier en lin à plumes",
+  "Paniers en lin à plumes"
+ ],
+ "03018": [
+  "Bouclier en écailles de dragon vert",
+  "Boucliers en écailles de dragon vert"
+ ],
+ "03019": [
+  "Bouclier en écailles de dragon bleu",
+  "Boucliers en écailles de dragon bleu"
+ ],
+ "03020": [
+  "Bouclier en écailles de dragon rouge",
+  "Boucliers en écailles de dragon rouge"
+ ],
+ "03021": [
+  "Gantelets de bête mâchoire-galeuse",
+  "Gantelets de bête mâchoire-galeuse"
+ ],
+ "03022": [
+  "Bouclier en écailles de dragon noir",
+  "Boucliers en écailles de dragon noir"
+ ],
+ "03023": [
+  "Ciseau en bois de caribou",
+  "Ciseaux en bois de caribou"
+ ],
+ "03024": [
+  "Gouge en bois de caribou",
+  "Gouges en bois de caribou"
+ ],
+ "03025": [
+  "Arc de harpie",
+  "Arcs de harpie"
+ ],
+ "03026": [
+  "Arbalète de harpie",
+  "Arbalètes de harpie"
+ ],
+ "03027": [
+  "Arbalète 2M de harpie",
+  "Arbalètes 2M de harpie"
+ ],
+ "03028": [
+  "Baguette à crânes",
+  "Baguettes à crânes"
+ ],
+ "03029": [
+  "Canne à crânes",
+  "Cannes à crânes"
+ ],
+ "03030": [
+  "Maillet de croc-noir",
+  "Maillets de croc-noir"
+ ],
+ "03031": [
+  "Maillet de gnou",
+  "Maillets de gnou"
+ ],
+ "03032": [
+  "Dague de bête mâchoire-galeuse",
+  "Dagues de bête mâchoire-galeuse"
+ ],
+ "03033": [
+  "Maillet de bête mâchoire-galeuse",
+  "Maillets de bête mâchoire-galeuse"
+ ],
+ "03034": [
+  "Amulette de bête mâchoire-galeuse",
+  "Amulettes de bête mâchoire-galeuse"
+ ],
+ "03035": [
+  "Ticket d'entrée de l'arène",
+  "Tickets d'entrée de l'arène"
+ ],
+ "03036": "Donne accès aux arènes d'Agilité. Un ticket est consommé à chaque début de parcours.",
+ "03037": [
+  "Jeton de récompense d'arène",
+  "Jetons de récompense d'arène"
+ ],
+ "03038": "Récompense pour avoir terminé des arènes d'Agilité. Peut être dépensé au Magasin.",
+ "03039": [
+  "Citron",
+  "Citrons"
+ ],
+ "03040": [
+  "Crochet de serrure",
+  "Crochets de serrure"
+ ],
+ "03041": [
+  "Cagoule",
+  "Cagoules"
+ ],
+ "03042": [
+  "Brassard de voyou",
+  "Brassards de voyou"
+ ],
+ "03043": [
+  "Anneau de chef des voyous",
+  "Anneaux de chef des voyous"
+ ],
+ "03044": [
+  "Moitié de clé de coffre des voyous (a)",
+  "Moitiés de clé de coffre des voyous (a)"
+ ],
+ "03045": [
+  "Moitié de clé de coffre des voyous (b)",
+  "Moitiés de clé de coffre des voyous (b)"
+ ],
+ "03046": [
+  "Clé de coffre des voyous",
+  "Clés de coffre des voyous"
+ ],
+ "03047": [
+  "Monocle d'artisan",
+  "Monocles d'artisan"
+ ],
+ "03048": [
+  "Ciré de pêcheur",
+  "Cirés de pêcheur"
+ ],
+ "03049": [
+  "Toque de chef",
+  "Toques de chef"
+ ],
+ "03050": [
+  "Chapeau de paille",
+  "Chapeaux de paille"
+ ],
+ "03051": [
+  "Moitié de clé de coffre d'éleveur (a)",
+  "Moitiés de clé de coffre d'éleveur (a)"
+ ],
+ "03052": [
+  "Moitié de clé de coffre d'éleveur (b)",
+  "Moitiés de clé de coffre d'éleveur (b)"
+ ],
+ "03053": [
+  "Clé de coffre d'éleveur",
+  "Clés de coffre d'éleveur"
+ ],
+ "03054": [
+  "Ceinture d'éleveur",
+  "Ceintures d'éleveur"
+ ],
+ "03055": [
+  "Pilon et mortier",
+  "Pilons et mortiers"
+ ],
+ "03056": [
+  "Tiare de créateur de runes",
+  "Tiares de créateur de runes"
+ ],
+ "03057": [
+  "Baguette de mystification",
+  "Baguettes de mystification"
+ ],
+ "03058": [
+  "Livre d'expérimentateur",
+  "Livres d'expérimentateur"
+ ],
+ "03059": [
+  "Diadème maudit",
+  "Diadèmes maudits"
+ ],
+ "03060": [
+  "Grimoire interdit",
+  "Grimoires interdits"
+ ],
+ "03061": [
+  "Gants de bandit",
+  "Gants de bandit"
+ ],
+ "03062": [
+  "Bracelet de flécheur",
+  "Bracelets de flécheur"
+ ],
+ "03063": [
+  "Gants de bûcheron",
+  "Gants de bûcheron"
+ ],
+ "03064": [
+  "Hache broussailleuse",
+  "Haches broussailleuses"
+ ],
+ "03065": [
+  "Arc de bandit",
+  "Arcs de bandit"
+ ],
+ "03066": [
+  "Carquois en or",
+  "Carquois en or"
+ ],
+ "03067": [
+  "Arbalète 2M de rechargement",
+  "Arbalètes 2M de rechargement"
+ ],
+ "03068": [
+  "Pince de forgeron",
+  "Pinces de forgeron"
+ ],
+ "03069": [
+  "Coffret bancaire",
+  "Coffrets bancaires"
+ ],
+ "03070": [
+  "Chaussures de roturier",
+  "Chaussures de roturier"
+ ],
+ "03071": [
+  "Moitié de clé de coffre de banque (a)",
+  "Moitiés de clé de coffre de banque (a)"
+ ],
+ "03072": [
+  "Moitié de clé de coffre de banque (b)",
+  "Moitiés de clé de coffre de banque (b)"
+ ],
+ "03073": [
+  "Clé de coffre de banque",
+  "Clés de coffre de banque"
+ ],
+ "03074": [
+  "Casque de mineur",
+  "Casques de mineur"
+ ],
+ "03075": [
+  "Lanterne de veine de gemmes",
+  "Lanternes de veine de gemmes"
+ ],
+ "03076": [
+  "Attelle de pierre ancienne",
+  "Attelles de pierre ancienne"
+ ],
+ "03077": [
+  "Haut élégant",
+  "Hauts élégants"
+ ],
+ "03078": [
+  "Cimeterre du palais",
+  "Cimeterres du palais"
+ ],
+ "03079": [
+  "Baguette du palais",
+  "Baguettes du palais"
+ ],
+ "03080": [
+  "Bottes ailées",
+  "Bottes ailées"
+ ],
+ "03081": [
+  "Médaillon d'Aphiros",
+  "Médaillons d'Aphiros"
+ ],
+ "03082": [
+  "Kit de repistage",
+  "Kits de repistage"
+ ],
+ "03083": [
+  "Moitié de clé de coffre de bête (a)",
+  "Moitiés de clé de coffre de bête (a)"
+ ],
+ "03084": [
+  "Moitié de clé de coffre de bête (b)",
+  "Moitiés de clé de coffre de bête (b)"
+ ],
+ "03085": [
+  "Clé de coffre de bête",
+  "Clés de coffre de bête"
+ ],
+ "03086": [
+  "Clé d'argent (Bibliothèque interdite)",
+  "Clés d'argent (Bibliothèque interdite)"
+ ],
+ "03087": [
+  "Clé d'or (Bibliothèque interdite)",
+  "Clés d'or (Bibliothèque interdite)"
+ ],
+ "03088": [
+  "Clé d'argent (Marchandises volées)",
+  "Clés d'argent (Marchandises volées)"
+ ],
+ "03089": [
+  "Clé d'or (Marchandises volées)",
+  "Clés d'or (Marchandises volées)"
+ ],
+ "03090": [
+  "Clé d'argent (Mine profonde)",
+  "Clés d'argent (Mine profonde)"
+ ],
+ "03091": [
+  "Clé d'or (Mine profonde)",
+  "Clés d'or (Mine profonde)"
+ ],
+ "03092": [
+  "Clé d'argent (Chambre forte du palais)",
+  "Clés d'argent (Chambre forte du palais)"
+ ],
+ "03093": [
+  "Clé d'or (Chambre forte du palais)",
+  "Clés d'or (Chambre forte du palais)"
+ ],
+ "03094": [
+  "Potion de Coupe de bois P1-A",
+  "Potions de Coupe de bois P1-A"
+ ],
+ "03095": [
+  "Essence harmonisée",
+  "Essence harmonisée"
+ ],
+ "03096": [
+  "Potion de Coupe de bois P2-A",
+  "Potions de Coupe de bois P2-A"
+ ],
+ "03097": [
+  "Potion de Coupe de bois P2-B",
+  "Potions de Coupe de bois P2-B"
+ ],
+ "03098": [
+  "Potion de Pêche P1-A",
+  "Potions de Pêche P1-A"
+ ],
+ "03099": [
+  "Potion de Pêche P2-A",
+  "Potions de Pêche P2-A"
+ ],
+ "03100": [
+  "Potion de Pêche P2-B",
+  "Potions de Pêche P2-B"
+ ],
+ "03101": [
+  "Potion d'Exploitation minière P1-A",
+  "Potions d'Exploitation minière P1-A"
+ ],
+ "03102": [
+  "Potion d'Exploitation minière P2-A",
+  "Potions d'Exploitation minière P2-A"
+ ],
+ "03103": [
+  "Potion d'Exploitation minière P2-B",
+  "Potions d'Exploitation minière P2-B"
+ ],
+ "03104": [
+  "Potion de Feu de camp P1-A",
+  "Potions de Feu de camp P1-A"
+ ],
+ "03105": [
+  "Potion de Feu de camp P2-A",
+  "Potions de Feu de camp P2-A"
+ ]
+}

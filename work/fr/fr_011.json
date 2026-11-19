@@ -1,0 +1,705 @@
+{
+ "02260": [
+  "Épée runique",
+  "Épées runiques"
+ ],
+ "02261": [
+  "Gants runiques",
+  "Gants runiques"
+ ],
+ "02262": [
+  "Cimeterre runique",
+  "Cimeterres runiques"
+ ],
+ "02263": [
+  "Casque runique",
+  "Casques runiques"
+ ],
+ "02264": [
+  "Bottes runiques",
+  "Bottes runiques"
+ ],
+ "02265": [
+  "Bouclier runique",
+  "Boucliers runiques"
+ ],
+ "02266": [
+  "Épée 2m runique",
+  "Épées 2m runiques"
+ ],
+ "02267": [
+  "Maillet runique",
+  "Maillets runiques"
+ ],
+ "02268": [
+  "Arc d'arbalète runique",
+  "Arcs d'arbalète runiques"
+ ],
+ "02269": [
+  "Jambarts runiques",
+  "Jambarts runiques"
+ ],
+ "02270": [
+  "Cuirasse runique",
+  "Cuirasses runiques"
+ ],
+ "02271": [
+  "Dague d'aubacier",
+  "Dagues d'aubacier"
+ ],
+ "02272": [
+  "Défenseur d'aubacier",
+  "Défenseurs d'aubacier"
+ ],
+ "02273": [
+  "Pointes de flèche d'aubacier",
+  "Pointes de flèche d'aubacier"
+ ],
+ "02274": [
+  "Pointes de javelot d'aubacier",
+  "Pointes de javelot d'aubacier"
+ ],
+ "02275": [
+  "Épée d'aubacier",
+  "Épées d'aubacier"
+ ],
+ "02276": [
+  "Gants d'aubacier",
+  "Gants d'aubacier"
+ ],
+ "02277": [
+  "Cimeterre d'aubacier",
+  "Cimeterres d'aubacier"
+ ],
+ "02278": [
+  "Casque d'aubacier",
+  "Casques d'aubacier"
+ ],
+ "02279": "Bonus d'ensemble (avec 3 pièces d'aubacier, gants exceptés) : +5 Lumière",
+ "02280": [
+  "Bottes d'aubacier",
+  "Bottes d'aubacier"
+ ],
+ "02281": [
+  "Bouclier d'aubacier",
+  "Boucliers d'aubacier"
+ ],
+ "02282": [
+  "Épée 2m d'aubacier",
+  "Épées 2m d'aubacier"
+ ],
+ "02283": [
+  "Maillet d'aubacier",
+  "Maillets d'aubacier"
+ ],
+ "02284": [
+  "Arc d'arbalète d'aubacier",
+  "Arcs d'arbalète d'aubacier"
+ ],
+ "02285": [
+  "Jambarts d'aubacier",
+  "Jambarts d'aubacier"
+ ],
+ "02286": "Bonus d'ensemble (avec 3 pièces d'aubacier, gants et bouclier exceptés) : +5 Lumière",
+ "02287": [
+  "Cuirasse d'aubacier",
+  "Cuirasses d'aubacier"
+ ],
+ "02288": [
+  "Dague draconique",
+  "Dagues draconiques"
+ ],
+ "02289": [
+  "Défenseur draconique",
+  "Défenseurs draconiques"
+ ],
+ "02290": [
+  "Pointes de flèche draconiques",
+  "Pointes de flèche draconiques"
+ ],
+ "02291": [
+  "Pointes de javelot draconique",
+  "Pointes de javelot draconique"
+ ],
+ "02292": [
+  "Épée draconique",
+  "Épées draconiques"
+ ],
+ "02293": [
+  "Gants draconiques",
+  "Gants draconiques"
+ ],
+ "02294": [
+  "Cimeterre draconique",
+  "Cimeterres draconiques"
+ ],
+ "02295": [
+  "Casque draconique",
+  "Casques draconiques"
+ ],
+ "02296": [
+  "Bottes draconiques",
+  "Bottes draconiques"
+ ],
+ "02297": [
+  "Bouclier draconique",
+  "Boucliers draconiques"
+ ],
+ "02298": [
+  "Épée 2m draconique",
+  "Épées 2m draconiques"
+ ],
+ "02299": [
+  "Maillet draconique",
+  "Maillets draconiques"
+ ],
+ "02300": [
+  "Arc d'arbalète draconique",
+  "Arcs d'arbalète draconiques"
+ ],
+ "02301": [
+  "Jambarts draconiques",
+  "Jambarts draconiques"
+ ],
+ "02302": [
+  "Cuirasse draconique",
+  "Cuirasses draconiques"
+ ],
+ "02303": [
+  "Topaze",
+  "Topazes"
+ ],
+ "02304": [
+  "Saphir",
+  "Saphirs"
+ ],
+ "02305": [
+  "Rubis",
+  "Rubis"
+ ],
+ "02306": [
+  "Émeraude",
+  "Émeraudes"
+ ],
+ "02307": [
+  "Diamant",
+  "Diamants"
+ ],
+ "02308": [
+  "Pierre de jade",
+  "Pierres de jade"
+ ],
+ "02309": [
+  "Lingot d'argent",
+  "Lingots d'argent"
+ ],
+ "02310": [
+  "Graine de chêne",
+  "Graines de chêne"
+ ],
+ "02311": [
+  "Graine de saule",
+  "Graines de saule"
+ ],
+ "02312": [
+  "Graine de teck",
+  "Graines de teck"
+ ],
+ "02313": [
+  "Graine d'érable",
+  "Graines d'érable"
+ ],
+ "02314": [
+  "Graine d'acajou",
+  "Graines d'acajou"
+ ],
+ "02315": [
+  "Graine d'if",
+  "Graines d'if"
+ ],
+ "02316": [
+  "Graine d'arbre magique",
+  "Graines d'arbre magique"
+ ],
+ "02317": [
+  "Graine de chêne dur",
+  "Graines de chêne dur"
+ ],
+ "02318": [
+  "Arc normal",
+  "Arcs normaux"
+ ],
+ "02319": [
+  "Arc en chêne",
+  "Arcs en chêne"
+ ],
+ "02320": [
+  "Arc en saule",
+  "Arcs en saule"
+ ],
+ "02321": [
+  "Arc en érable",
+  "Arcs en érable"
+ ],
+ "02322": [
+  "Arc en if",
+  "Arcs en if"
+ ],
+ "02323": [
+  "Arc magique",
+  "Arcs magiques"
+ ],
+ "02324": [
+  "Arc en séquoia",
+  "Arcs en séquoia"
+ ],
+ "02325": [
+  "Flèches en pierre",
+  "Flèches en pierre"
+ ],
+ "02326": [
+  "Flèches de cuivre",
+  "Flèches de cuivre"
+ ],
+ "02327": [
+  "Flèches de fer",
+  "Flèches de fer"
+ ],
+ "02328": [
+  "Flèches d'acier",
+  "Flèches d'acier"
+ ],
+ "02329": [
+  "Flèches de mithril",
+  "Flèches de mithril"
+ ],
+ "02330": [
+  "Flèches d'adamante",
+  "Flèches d'adamante"
+ ],
+ "02331": [
+  "Flèches runiques",
+  "Flèches runiques"
+ ],
+ "02332": [
+  "Flèches d'aubacier",
+  "Flèches d'aubacier"
+ ],
+ "02333": [
+  "Flèches draconiques",
+  "Flèches draconiques"
+ ],
+ "02334": [
+  "Flèches sans pointe",
+  "Flèches sans pointe"
+ ],
+ "02335": [
+  "Plumes",
+  "Plumes"
+ ],
+ "02336": [
+  "Corde d'arc",
+  "Cordes d'arc"
+ ],
+ "02337": [
+  "Cuir",
+  "Cuir"
+ ],
+ "02338": [
+  "Peau de dragon vert",
+  "Peaux de dragon vert"
+ ],
+ "02339": [
+  "Cuir de dragon vert",
+  "Cuir de dragon vert"
+ ],
+ "02340": [
+  "Peau de dragon bleu",
+  "Peaux de dragon bleu"
+ ],
+ "02341": [
+  "Cuir de dragon bleu",
+  "Cuir de dragon bleu"
+ ],
+ "02342": [
+  "Peau de dragon rouge",
+  "Peaux de dragon rouge"
+ ],
+ "02343": [
+  "Cuir de dragon rouge",
+  "Cuir de dragon rouge"
+ ],
+ "02344": [
+  "Peau de dragon noir",
+  "Peaux de dragon noir"
+ ],
+ "02345": [
+  "Cuir de dragon noir",
+  "Cuir de dragon noir"
+ ],
+ "02346": [
+  "Bottes en cuir",
+  "Bottes en cuir"
+ ],
+ "02347": [
+  "Coiffe en cuir",
+  "Coiffes en cuir"
+ ],
+ "02348": [
+  "Bracelets en cuir",
+  "Bracelets en cuir"
+ ],
+ "02349": [
+  "Jambières en cuir",
+  "Jambières en cuir"
+ ],
+ "02350": [
+  "Anneau de topaze en or",
+  "Anneaux de topaze en or"
+ ],
+ "02351": [
+  "Essence runique",
+  "Essence runique"
+ ],
+ "02352": [
+  "Rune d'air",
+  "Runes d'air"
+ ],
+ "02353": [
+  "Rune d'esprit",
+  "Runes d'esprit"
+ ],
+ "02354": [
+  "Rune d'eau",
+  "Runes d'eau"
+ ],
+ "02355": [
+  "Rune de terre",
+  "Runes de terre"
+ ],
+ "02356": [
+  "Rune de feu",
+  "Runes de feu"
+ ],
+ "02357": [
+  "Rune de corps",
+  "Runes de corps"
+ ],
+ "02358": [
+  "Rune de chaos",
+  "Runes de chaos"
+ ],
+ "02359": [
+  "Rune de mort",
+  "Runes de mort"
+ ],
+ "02360": [
+  "Rune de sang",
+  "Runes de sang"
+ ],
+ "02361": [
+  "Bâton d'air",
+  "Bâtons d'air"
+ ],
+ "02362": [
+  "Bâton d'eau",
+  "Bâtons d'eau"
+ ],
+ "02363": [
+  "Bâton de terre",
+  "Bâtons de terre"
+ ],
+ "02364": [
+  "Bâton de feu",
+  "Bâtons de feu"
+ ],
+ "02365": [
+  "Algues",
+  "Algues"
+ ],
+ "02366": [
+  "Corde",
+  "Cordes"
+ ],
+ "02367": [
+  "Ordures",
+  "Ordures"
+ ],
+ "02368": [
+  "Marteau de lancer 2m de mithril",
+  "Marteaux de lancer 2m de mithril"
+ ],
+ "02369": [
+  "Marteau de lancer 2m d'adamante",
+  "Marteaux de lancer 2m d'adamante"
+ ],
+ "02370": [
+  "Marteau de lancer 2m runique",
+  "Marteaux de lancer 2m runiques"
+ ],
+ "02371": [
+  "Marteau de lancer 2m d'aubacier",
+  "Marteaux de lancer 2m d'aubacier"
+ ],
+ "02372": [
+  "Marteau de lancer 2m draconique",
+  "Marteaux de lancer 2m draconiques"
+ ],
+ "02373": [
+  "Carreaux sans pointe",
+  "Carreaux sans pointe"
+ ],
+ "02374": [
+  "Rune de brume",
+  "Runes de brume"
+ ],
+ "02375": [
+  "Rune de poussière",
+  "Runes de poussière"
+ ],
+ "02376": [
+  "Rune de boue",
+  "Runes de boue"
+ ],
+ "02377": [
+  "Rune de fumée",
+  "Runes de fumée"
+ ],
+ "02378": [
+  "Rune de vapeur",
+  "Runes de vapeur"
+ ],
+ "02379": [
+  "Rune de lave",
+  "Runes de lave"
+ ],
+ "02380": [
+  "Bois d'élan",
+  "Bois d'élan"
+ ],
+ "02381": [
+  "Pain",
+  "Pains"
+ ],
+ "02382": [
+  "Bœuf cru",
+  "Bœuf cru"
+ ],
+ "02383": [
+  "Bœuf",
+  "Bœuf"
+ ],
+ "02384": [
+  "Viande crue",
+  "Viandes crues"
+ ],
+ "02385": [
+  "Poulet cru",
+  "Poulets crus"
+ ],
+ "02386": [
+  "Poulet",
+  "Poulets"
+ ],
+ "02387": [
+  "Fromage",
+  "Fromages"
+ ],
+ "02388": [
+  "Carreaux de topaze",
+  "Carreaux de topaze"
+ ],
+ "02389": [
+  "Carreaux de saphir",
+  "Carreaux de saphir"
+ ],
+ "02390": [
+  "Carreaux de rubis",
+  "Carreaux de rubis"
+ ],
+ "02391": [
+  "Carreaux d'émeraude",
+  "Carreaux d'émeraude"
+ ],
+ "02392": [
+  "Carreaux de diamant",
+  "Carreaux de diamant"
+ ],
+ "02393": [
+  "Carreaux de jade",
+  "Carreaux de jade"
+ ],
+ "02394": [
+  "Perche crue",
+  "Perches crues"
+ ],
+ "02395": [
+  "Maquereau cru",
+  "Maquereaux crus"
+ ],
+ "02396": [
+  "Brochet cru",
+  "Brochets crus"
+ ],
+ "02397": [
+  "Luminageoire crue",
+  "Luminageoires crues"
+ ],
+ "02398": [
+  "Dorade crue",
+  "Dorades crues"
+ ],
+ "02399": [
+  "Morue crue",
+  "Morues crues"
+ ],
+ "02400": [
+  "Bar cru",
+  "Bars crus"
+ ],
+ "02401": [
+  "Poisson-lion cru",
+  "Poissons-lions crus"
+ ],
+ "02402": [
+  "Méduse luisante crue",
+  "Méduses luisantes crues"
+ ],
+ "02403": [
+  "Thon cru",
+  "Thons crus"
+ ],
+ "02404": [
+  "Calmar luisant cru",
+  "Calmars luisants crus"
+ ],
+ "02405": [
+  "Anguille géante crue",
+  "Anguilles géantes crues"
+ ],
+ "02406": [
+  "Boomerang en chêne",
+  "Boomerangs en chêne"
+ ],
+ "02407": [
+  "Boomerang en saule",
+  "Boomerangs en saule"
+ ],
+ "02408": [
+  "Boomerang en érable",
+  "Boomerangs en érable"
+ ],
+ "02409": [
+  "Boomerang en if",
+  "Boomerangs en if"
+ ],
+ "02410": [
+  "Boomerang magique",
+  "Boomerangs magiques"
+ ],
+ "02411": [
+  "Boomerang en séquoia",
+  "Boomerangs en séquoia"
+ ],
+ "02412": [
+  "Arbalète de fer",
+  "Arbalètes de fer"
+ ],
+ "02413": [
+  "Arbalète d'acier",
+  "Arbalètes d'acier"
+ ],
+ "02414": [
+  "Arbalète de mithril",
+  "Arbalètes de mithril"
+ ],
+ "02415": [
+  "Arbalète d'adamante",
+  "Arbalètes d'adamante"
+ ],
+ "02416": [
+  "Arbalète runique",
+  "Arbalètes runiques"
+ ],
+ "02417": [
+  "Arbalète d'aubacier",
+  "Arbalètes d'aubacier"
+ ],
+ "02418": [
+  "Arbalète draconique",
+  "Arbalètes draconiques"
+ ],
+ "02419": [
+  "Arbalète 2m d'acier",
+  "Arbalètes 2m d'acier"
+ ],
+ "02420": [
+  "Arbalète 2m de mithril",
+  "Arbalètes 2m de mithril"
+ ],
+ "02421": [
+  "Arbalète 2m d'adamante",
+  "Arbalètes 2m d'adamante"
+ ],
+ "02422": [
+  "Arbalète 2m runique",
+  "Arbalètes 2m runiques"
+ ],
+ "02423": [
+  "Arbalète 2m d'aubacier",
+  "Arbalètes 2m d'aubacier"
+ ],
+ "02424": [
+  "Arbalète 2m draconique",
+  "Arbalètes 2m draconiques"
+ ],
+ "02425": [
+  "Rune de putréfaction",
+  "Runes de putréfaction"
+ ],
+ "02426": [
+  "Baguette d'air",
+  "Baguettes d'air"
+ ],
+ "02427": [
+  "Canne d'air",
+  "Cannes d'air"
+ ],
+ "02428": [
+  "Baguette d'eau",
+  "Baguettes d'eau"
+ ],
+ "02429": [
+  "Canne d'eau",
+  "Cannes d'eau"
+ ],
+ "02430": [
+  "Baguette de terre",
+  "Baguettes de terre"
+ ],
+ "02431": [
+  "Canne de terre",
+  "Cannes de terre"
+ ],
+ "02432": [
+  "Baguette de feu",
+  "Baguettes de feu"
+ ],
+ "02433": [
+  "Canne de feu",
+  "Cannes de feu"
+ ],
+ "02434": [
+  "Chapeau de magicien de l'air",
+  "Chapeaux de magicien de l'air"
+ ],
+ "02435": "Infos sur le bonus d'ensemble bientôt disponibles (équipez l'objet pour le voir en attendant).",
+ "02436": [
+  "Bottes de magicien de l'air",
+  "Bottes de magicien de l'air"
+ ],
+ "02437": [
+  "Robe de magicien de l'air",
+  "Robes de magicien de l'air"
+ ]
+}

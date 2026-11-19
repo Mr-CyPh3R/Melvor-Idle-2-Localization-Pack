@@ -1,0 +1,583 @@
+{
+ "03106": [
+  "Potion de Feu de camp P2-B",
+  "Potions de Feu de camp P2-B"
+ ],
+ "03107": [
+  "Potion de Cuisine P1-A",
+  "Potions de Cuisine P1-A"
+ ],
+ "03108": [
+  "Potion de Cuisine P2-A",
+  "Potions de Cuisine P2-A"
+ ],
+ "03109": [
+  "Potion de Cuisine P2-B",
+  "Potions de Cuisine P2-B"
+ ],
+ "03110": [
+  "Potion de Métallurgie P1-A",
+  "Potions de Métallurgie P1-A"
+ ],
+ "03111": [
+  "Potion de Métallurgie P2-A",
+  "Potions de Métallurgie P2-A"
+ ],
+ "03112": [
+  "Potion de Métallurgie P2-B",
+  "Potions de Métallurgie P2-B"
+ ],
+ "03113": [
+  "Potion d'Artisanat P1-A",
+  "Potions d'Artisanat P1-A"
+ ],
+ "03114": [
+  "Potion d'Artisanat P2-A",
+  "Potions d'Artisanat P2-A"
+ ],
+ "03115": [
+  "Potion d'Artisanat P2-B",
+  "Potions d'Artisanat P2-B"
+ ],
+ "03116": [
+  "Potion d'Archerie P1-A",
+  "Potions d'Archerie P1-A"
+ ],
+ "03117": [
+  "Potion d'Archerie P2-A",
+  "Potions d'Archerie P2-A"
+ ],
+ "03118": [
+  "Potion d'Archerie P2-B",
+  "Potions d'Archerie P2-B"
+ ],
+ "03119": [
+  "Potion de Création de runes P1-A",
+  "Potions de Création de runes P1-A"
+ ],
+ "03120": [
+  "Potion de Création de runes P2-A",
+  "Potions de Création de runes P2-A"
+ ],
+ "03121": [
+  "Potion de Création de runes P2-B",
+  "Potions de Création de runes P2-B"
+ ],
+ "03122": [
+  "Potion de Chasse P1-A",
+  "Potions de Chasse P1-A"
+ ],
+ "03123": [
+  "Potion de Chasse P2-A",
+  "Potions de Chasse P2-A"
+ ],
+ "03124": [
+  "Potion de Chasse P2-B",
+  "Potions de Chasse P2-B"
+ ],
+ "03125": [
+  "Potion d'Agriculture P1-A",
+  "Potions d'Agriculture P1-A"
+ ],
+ "03126": [
+  "Potion d'Agriculture P2-A",
+  "Potions d'Agriculture P2-A"
+ ],
+ "03127": [
+  "Potion d'Agriculture P2-B",
+  "Potions d'Agriculture P2-B"
+ ],
+ "03128": [
+  "Potion d'Élevage P1-A",
+  "Potions d'Élevage P1-A"
+ ],
+ "03129": [
+  "Potion d'Élevage P2-A",
+  "Potions d'Élevage P2-A"
+ ],
+ "03130": [
+  "Potion d'Élevage P2-B",
+  "Potions d'Élevage P2-B"
+ ],
+ "03131": [
+  "Potion d'Herboristerie P1-A",
+  "Potions d'Herboristerie P1-A"
+ ],
+ "03132": [
+  "Potion d'Herboristerie P2-A",
+  "Potions d'Herboristerie P2-A"
+ ],
+ "03133": [
+  "Potion d'Herboristerie P2-B",
+  "Potions d'Herboristerie P2-B"
+ ],
+ "03134": [
+  "Potion de Façonnage bestial P1-A",
+  "Potions de Façonnage bestial P1-A"
+ ],
+ "03135": [
+  "Potion de Façonnage bestial P2-A",
+  "Potions de Façonnage bestial P2-A"
+ ],
+ "03136": [
+  "Potion de Façonnage bestial P2-B",
+  "Potions de Façonnage bestial P2-B"
+ ],
+ "03137": [
+  "Potion d'Agilité P1-A",
+  "Potions d'Agilité P1-A"
+ ],
+ "03138": [
+  "Potion d'Agilité P2-A",
+  "Potions d'Agilité P2-A"
+ ],
+ "03139": [
+  "Potion d'Agilité P2-B",
+  "Potions d'Agilité P2-B"
+ ],
+ "03140": [
+  "Potion de Larcin P1-A",
+  "Potions de Larcin P1-A"
+ ],
+ "03141": [
+  "Potion de Larcin P2-A",
+  "Potions de Larcin P2-A"
+ ],
+ "03142": [
+  "Potion de Larcin P2-B",
+  "Potions de Larcin P2-B"
+ ],
+ "03143": [
+  "Super potion de Coupe de bois P1-A",
+  "Super potions de Coupe de bois P1-A"
+ ],
+ "03144": [
+  "Spore luminescente",
+  "Spores luminescentes"
+ ],
+ "03145": [
+  "Super potion de Coupe de bois P2-A",
+  "Super potions de Coupe de bois P2-A"
+ ],
+ "03146": [
+  "Super potion de Coupe de bois P2-B ",
+  "Super potions de Coupe de bois P2-B "
+ ],
+ "03147": [
+  "Super potion de Pêche P1-A",
+  "Super potions de Pêche P1-A"
+ ],
+ "03148": [
+  "Super potion de Pêche P2-A",
+  "Super potions de Pêche P2-A"
+ ],
+ "03149": [
+  "Super potion de Pêche P2-B",
+  "Super potions de Pêche P2-B"
+ ],
+ "03150": [
+  "Super potion d'Exploitation minière P1-A",
+  "Super potions d'Exploitation minière P1-A"
+ ],
+ "03151": [
+  "Super potion d'Exploitation minière P2-A",
+  "Super potions d'Exploitation minière P2-A"
+ ],
+ "03152": [
+  "Super potion d'Exploitation minière P2-B",
+  "Super potions d'Exploitation minière P2-B"
+ ],
+ "03153": [
+  "Super potion de Feu de camp P1-A",
+  "Super potions de Feu de camp P1-A"
+ ],
+ "03154": [
+  "Super potion de Feu de camp P2-A",
+  "Super potions de Feu de camp P2-A"
+ ],
+ "03155": [
+  "Super potion de Feu de camp P2-B",
+  "Super potions de Feu de camp P2-B"
+ ],
+ "03156": [
+  "Super potion de Cuisine P1-A",
+  "Super potions de Cuisine P1-A"
+ ],
+ "03157": [
+  "Super potion de Cuisine P2-A",
+  "Super potions de Cuisine P2-A"
+ ],
+ "03158": [
+  "Super potion de Cuisine P2-B",
+  "Super potions de Cuisine P2-B"
+ ],
+ "03159": [
+  "Super potion de Métallurgie P1-A",
+  "Super potions de Métallurgie P1-A"
+ ],
+ "03160": [
+  "Super potion de Métallurgie P2-A",
+  "Super potions de Métallurgie P2-A"
+ ],
+ "03161": [
+  "Super potion de Métallurgie P2-B",
+  "Super potions de Métallurgie P2-B"
+ ],
+ "03162": [
+  "Super potion d'Artisanat P1-A",
+  "Super potions d'Artisanat P1-A"
+ ],
+ "03163": [
+  "Super potion d'Artisanat P2-A",
+  "Super potions d'Artisanat P2-A"
+ ],
+ "03164": [
+  "Super potion d'Artisanat P2-B",
+  "Super potions d'Artisanat P2-B"
+ ],
+ "03165": [
+  "Super potion d'Archerie P1-A",
+  "Super potions d'Archerie P1-A"
+ ],
+ "03166": [
+  "Super potion d'Archerie P2-A",
+  "Super potions d'Archerie P2-A"
+ ],
+ "03167": [
+  "Super potion d'Archerie P2-B",
+  "Super potions d'Archerie P2-B"
+ ],
+ "03168": [
+  "Super potion de Création de runes P1-A",
+  "Super potions de Création de runes P1-A"
+ ],
+ "03169": [
+  "Super potion de Création de runes P2-A",
+  "Super potions de Création de runes P2-A"
+ ],
+ "03170": [
+  "Super potion de Création de runes P2-B",
+  "Super potions de Création de runes P2-B"
+ ],
+ "03171": [
+  "Super potion de Chasse P1-A",
+  "Super potions de Chasse P1-A"
+ ],
+ "03172": [
+  "Super potion de Chasse P2-A",
+  "Super potions de Chasse P2-A"
+ ],
+ "03173": [
+  "Super potion de Chasse P2-B",
+  "Super potions de Chasse P2-B"
+ ],
+ "03174": [
+  "Super potion d'Agriculture P1-A",
+  "Super potions d'Agriculture P1-A"
+ ],
+ "03175": [
+  "Super potion d'Agriculture P2-A",
+  "Super potions d'Agriculture P2-A"
+ ],
+ "03176": [
+  "Super potion d'Agriculture P2-B",
+  "Super potions d'Agriculture P2-B"
+ ],
+ "03177": [
+  "Super potion d'Élevage P1-A",
+  "Super potions d'Élevage P1-A"
+ ],
+ "03178": [
+  "Super potion d'Élevage P2-A",
+  "Super potions d'Élevage P2-A"
+ ],
+ "03179": [
+  "Super potion d'Élevage P2-B",
+  "Super potions d'Élevage P2-B"
+ ],
+ "03180": [
+  "Super potion d'Herboristerie P1-A",
+  "Super potions d'Herboristerie P1-A"
+ ],
+ "03181": [
+  "Super potion d'Herboristerie P2-A",
+  "Super potions d'Herboristerie P2-A"
+ ],
+ "03182": [
+  "Super potion d'Herboristerie P2-B",
+  "Super potions d'Herboristerie P2-B"
+ ],
+ "03183": [
+  "Super potion de Façonnage bestial P1-A",
+  "Super potions de Façonnage bestial P1-A"
+ ],
+ "03184": [
+  "Super potion de Façonnage bestial P2-A",
+  "Super potions de Façonnage bestial P2-A"
+ ],
+ "03185": [
+  "Super potion de Façonnage bestial P2-B",
+  "Super potions de Façonnage bestial P2-B"
+ ],
+ "03186": [
+  "Super potion d'Agilité P1-A",
+  "Super potions d'Agilité P1-A"
+ ],
+ "03187": [
+  "Super potion d'Agilité P2-A",
+  "Super potions d'Agilité P2-A"
+ ],
+ "03188": [
+  "Super potion d'Agilité P2-B",
+  "Super potions d'Agilité P2-B"
+ ],
+ "03189": [
+  "Super potion de Larcin P1-A",
+  "Super potions de Larcin P1-A"
+ ],
+ "03190": [
+  "Super potion de Larcin P2-A",
+  "Super potions de Larcin P2-A"
+ ],
+ "03191": [
+  "Super potion de Larcin P2-B",
+  "Super potions de Larcin P2-B"
+ ],
+ "03192": [
+  "Cimeterre des lames toxiques",
+  "Cimeterres des lames toxiques"
+ ],
+ "03193": [
+  "Dague des coups vicieux",
+  "Dagues des coups vicieux"
+ ],
+ "03194": [
+  "Dague de drain sanguin",
+  "Dagues de drain sanguin"
+ ],
+ "03195": [
+  "Fouet de l'étreinte écorchante",
+  "Fouets de l'étreinte écorchante"
+ ],
+ "03196": [
+  "Grande épée du fouet chancelant",
+  "Grandes épées du fouet chancelant"
+ ],
+ "03197": [
+  "Faux de moisson sanglante",
+  "Faux de moisson sanglante"
+ ],
+ "03198": [
+  "Maillet de dard de scorpion",
+  "Maillets de dard de scorpion"
+ ],
+ "03199": [
+  "Maillet de l'abîme sombre",
+  "Maillets de l'abîme sombre"
+ ],
+ "03200": [
+  "Défenseur noyé",
+  "Défenseurs noyés"
+ ],
+ "03201": [
+  "Casque de mithril (u)",
+  "Casques de mithril (u)"
+ ],
+ "03202": [
+  "Cuirasse de mithril (u)",
+  "Cuirasses de mithril (u)"
+ ],
+ "03203": [
+  "Jambarts de mithril (u)",
+  "Jambarts de mithril (u)"
+ ],
+ "03204": [
+  "Bottes de mithril (u)",
+  "Bottes de mithril (u)"
+ ],
+ "03205": [
+  "Casque d'adamante (u)",
+  "Casques d'adamante (u)"
+ ],
+ "03206": [
+  "Casque de cerf spirituel",
+  "Casques de cerf spirituel"
+ ],
+ "03207": [
+  "Cuirasse d'adamante (u)",
+  "Cuirasses d'adamante (u)"
+ ],
+ "03208": [
+  "Jambarts d'adamante (u)",
+  "Jambarts d'adamante (u)"
+ ],
+ "03209": [
+  "Bottes d'adamante (u)",
+  "Bottes d'adamante (u)"
+ ],
+ "03210": [
+  "Casque runique (u)",
+  "Casques runiques (u)"
+ ],
+ "03211": [
+  "Cuirasse runique (u)",
+  "Cuirasses runiques (u)"
+ ],
+ "03212": [
+  "Jambarts runiques (u)",
+  "Jambarts runiques (u)"
+ ],
+ "03213": [
+  "Bottes runiques (u)",
+  "Bottes runiques (u)"
+ ],
+ "03214": [
+  "Cuirasse de pierre noire",
+  "Cuirasses de pierre noire"
+ ],
+ "03215": [
+  "Gantelet de pierre noire",
+  "Gantelets de pierre noire"
+ ],
+ "03216": [
+  "Casque d'acier de l'aube (u)",
+  "Casques d'acier de l'aube (u)"
+ ],
+ "03217": "Bonus d'ensemble (avec 3 pièces d'acier de l'aube (u), hors gants et bouclier) : +8 de lumière",
+ "03218": [
+  "Casque en bois de caribou",
+  "Casques en bois de caribou"
+ ],
+ "03219": [
+  "Cuirasse d'acier de l'aube (u)",
+  "Cuirasses d'acier de l'aube (u)"
+ ],
+ "03220": [
+  "Jambarts d'acier de l'aube (u)",
+  "Jambarts d'acier de l'aube (u)"
+ ],
+ "03221": [
+  "Bottes d'acier de l'aube (u)",
+  "Bottes d'acier de l'aube (u)"
+ ],
+ "03222": [
+  "Casque draconique (u)",
+  "Casques draconiques (u)"
+ ],
+ "03223": [
+  "Cuirasse draconique (u)",
+  "Cuirasses draconiques (u)"
+ ],
+ "03224": [
+  "Jambarts draconiques (u)",
+  "Jambarts draconiques (u)"
+ ],
+ "03225": [
+  "Bottes draconiques (u)",
+  "Bottes draconiques (u)"
+ ],
+ "03226": [
+  "Casque de sang",
+  "Casques de sang"
+ ],
+ "03227": [
+  "Cuirasse de sang",
+  "Cuirasses de sang"
+ ],
+ "03228": [
+  "Jambarts de sang",
+  "Jambarts de sang"
+ ],
+ "03229": [
+  "Bottes de sang",
+  "Bottes de sang"
+ ],
+ "03230": [
+  "Casque noyé",
+  "Casques noyés"
+ ],
+ "03231": [
+  "Chapeau d'esprit de ruche",
+  "Chapeaux d'esprit de ruche"
+ ],
+ "03232": [
+  "Cuirasse noyée",
+  "Cuirasses noyées"
+ ],
+ "03233": [
+  "Jambarts noyés",
+  "Jambarts noyés"
+ ],
+ "03234": [
+  "Bottes noyées",
+  "Bottes noyées"
+ ],
+ "03235": [
+  "Bouclier de krakelin",
+  "Boucliers de krakelin"
+ ],
+ "03236": [
+  "Baguette de poudre toxique",
+  "Baguettes de poudre toxique"
+ ],
+ "03237": [
+  "Baguette brise-esprit",
+  "Baguettes brise-esprit"
+ ],
+ "03238": [
+  "Canne de pointes de sang",
+  "Cannes de pointes de sang"
+ ],
+ "03239": [
+  "Canne du vortex sanguin",
+  "Cannes du vortex sanguin"
+ ],
+ "03240": [
+  "Bottes entravantes",
+  "Bottes entravantes"
+ ],
+ "03241": [
+  "Chapeau de tisseur toxique",
+  "Chapeaux de tisseur toxique"
+ ],
+ "03242": [
+  "Chapeau de sang",
+  "Chapeaux de sang"
+ ],
+ "03243": [
+  "Chemise de sang",
+  "Chemises de sang"
+ ],
+ "03244": [
+  "Robe de sang",
+  "Robes de sang"
+ ],
+ "03245": [
+  "Gants de cœur de sang",
+  "Gants de cœur de sang"
+ ],
+ "03246": [
+  "Chapeau noyé",
+  "Chapeaux noyés"
+ ],
+ "03247": [
+  "Chemise noyée",
+  "Chemises noyées"
+ ],
+ "03248": [
+  "Robe noyée",
+  "Robes noyées"
+ ],
+ "03249": [
+  "Arc des frappes toxiques",
+  "Arcs des frappes toxiques"
+ ],
+ "03250": [
+  "Arc de salve sanglante",
+  "Arcs de salve sanglante"
+ ],
+ "03251": [
+  "Arbalète à vapeur",
+  "Arbalètes à vapeur"
+ ]
+}
