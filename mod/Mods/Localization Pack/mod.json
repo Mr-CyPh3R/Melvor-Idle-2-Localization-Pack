@@ -5,10 +5,10 @@
   "description": "Unofficial community translations for Melvor Idle 2 in one mod",
   "log_missing": false,
   "languages": {
-    "de": {
+    "de_DE": {
       "name": "Deutsch",
       "english_name": "German",
-      "file": "Languages/de.po",
+      "file": "Languages/de_DE.po",
       "units": {
         "day": [
           "Tag",
@@ -30,12 +30,15 @@
           "Zug",
           "Züge"
         ]
-      }
+      },
+      "work": "de",
+      "display": "Deutsch, Deutschland",
+      "locale": "de"
     },
-    "fr": {
+    "fr_FR": {
       "name": "Français",
       "english_name": "French",
-      "file": "Languages/fr.po",
+      "file": "Languages/fr_FR.po",
       "units": {
         "day": [
           "jour",
@@ -57,7 +60,10 @@
           "tour",
           "tours"
         ]
-      }
+      },
+      "work": "fr",
+      "display": "Français, France",
+      "locale": "fr"
     }
   }
 }

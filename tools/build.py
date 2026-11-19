@@ -1,4 +1,4 @@
-"""Baut dist/<lang>.po aus der Vorlage und den Übersetzungen in work/<lang>/*.json und prüft die Platzhalter.
+"""Baut dist/<locale>.po (Locale-Code aus mod.json, z. B. de_DE) aus der Vorlage und den Übersetzungen in work/<lang>/*.json und prüft die Platzhalter.
 
 Aufruf (im Projektordner): python tools/build.py [--lang de] [--check]   (Standard: de)
 work/<lang>/*.json: {id: "Text"} oder bei Pluralen {id: ["Einzahl", "Mehrzahl"]}
@@ -35,8 +35,15 @@ def check(en, de):
 
 
 LANG = sys.argv[sys.argv.index('--lang') + 1] if '--lang' in sys.argv else 'de'
+# Locale-Code der fertigen Datei (z. B. de_DE) aus mod.json ("work": Ordner in work/); sonst der Ordnername
+_cfg = json.load(open('mod/Mods/Localization Pack/mod.json', encoding='utf-8'))
+LOCALE = next((c for c, l in _cfg['languages'].items() if l.get('work') == LANG), LANG)
 # Pluralregel der Zielsprache (Godot liest sie aus dem Kopf der .po)
 PLURAL = {'fr': 'nplurals=2; plural=(n > 1);'}
+
+
+# Sprachnamen, die in jeder Sprache im Original bleiben (Sprachliste zeigt jede Sprache in ihrem eigenen Namen)
+KEEP_ENGLISH = {'English, United Kingdom', 'English (United Kingdom)'}
 
 
 def entry_id(e):
@@ -50,7 +57,8 @@ for f in sorted(glob.glob(f'work/{LANG}/*.json')):
     tr.update(json.load(open(f, encoding='utf-8')))
 
 po = polib.pofile('source/en_GB.po')
-po.metadata['Language'] = LANG
+# Kurzer Code im Kopf (z. B. "de"): gespeicherte Spieleinstellungen "Language": "de" bleiben gültig
+po.metadata['Language'] = _cfg['languages'].get(LOCALE, {}).get('locale', LOCALE)
 po.metadata['Language-Team'] = f'{LANG} (Community)'
 if LANG in PLURAL:
     po.metadata['Plural-Forms'] = PLURAL[LANG]
@@ -60,7 +68,7 @@ applied = set()
 for e in po:
     it = by_key.get(entry_id(e))
     t = tr.get(it['id']) if it else None
-    if t is None:
+    if t is None or e.msgid in KEEP_ENGLISH:
         continue
     if e.msgid_plural:
         if not (isinstance(t, list) and len(t) == 2):
@@ -81,7 +89,7 @@ for e in po:
 known = {entry_id(e) for e in po}
 for key, it in by_key.items():
     t = tr.get(it['id'])
-    if key in known or t is None:
+    if key in known or t is None or it['en'] in KEEP_ENGLISH:
         continue
     pairs = [(it['en'], t[0] if isinstance(t, list) else t)] + ([(it['en_plural'], t[1])] if it['en_plural'] and isinstance(t, list) else [])
     errs = [x for x in (check(a, b) for a, b in pairs) if x]
@@ -111,11 +119,11 @@ print('kontextlose Namen ergänzt:', added)
 
 if '--check' not in sys.argv:  # --check: nur prüfen, nichts schreiben (für parallele Läufe)
     os.makedirs('dist', exist_ok=True)
-    po.save(f'dist/{LANG}.po')
+    po.save(f'dist/{LOCALE}.po')
 print(f'übersetzt {done} von {len([e for e in po if not e.obsolete])}, Fehler {errors}')
 # Herkunft für die Transparenz-Angabe in der README (tools/package.py liest dist/<lang>.stats.json)
 mi1 = set(json.load(open(f'work/{LANG}/mi1.json', encoding='utf-8')))
 stats = {'translated': done, 'from_melvor_idle_1': len(applied & mi1), 'ai': done - len(applied & mi1), 'name_copies': added}
-json.dump(stats, open(f'dist/{LANG}.stats.json', 'w', encoding='utf-8'), indent=1)
+json.dump(stats, open(f'dist/{LOCALE}.stats.json', 'w', encoding='utf-8'), indent=1)
 print('Herkunft:', stats)
 sys.exit(1 if errors else 0)

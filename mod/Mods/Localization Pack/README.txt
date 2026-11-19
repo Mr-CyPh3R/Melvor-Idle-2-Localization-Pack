@@ -19,8 +19,8 @@ TRANSPARENCY: HOW THESE TRANSLATIONS WERE MADE
 ----------------------------------------------
 Language           Texts   From Melvor Idle  Translated by AI
 -----------------  ------  ----------------  ----------------
-German (Deutsch)   13,605  566 (4%)          13,039 (96%)
-French (Français)  13,605  586 (4%)          13,019 (96%)
+German (Deutsch)   13,603  566 (4%)          13,037 (96%)
+French (Français)  13,603  586 (4%)          13,017 (96%)
 
 - From Melvor Idle: texts that are identical in the first game (Melvor Idle) were taken from
   its official translation.

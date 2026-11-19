@@ -9,7 +9,8 @@
 * Time units are now always shown in the selected language. The game formats durations (for example "10 minutes" in the "Welcome back" window) in the Windows language, not in the game language. The script now recognises time units of every language in the pack and replaces them with the selected language.
 
 ### Other
-* Language list shows each language in its own name ("Deutsch", "Français").
+* Language files are named by locale like the game's own file (`de_DE.po`, `fr_FR.po`).
+* Language list shows each language in its own name ("Deutsch, Deutschland", "Français, France", "English, United Kingdom").
 * Tools for adding further languages (`tools/start_language.py`, `tools/build.py --lang`).
 
 ### Known issues

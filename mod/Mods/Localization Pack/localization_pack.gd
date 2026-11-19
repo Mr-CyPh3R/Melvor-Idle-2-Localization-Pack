@@ -27,7 +27,7 @@ var _original := {}        # instance_id -> original English text
 var _cache := {}
 var _templates := {}       # keyword -> array of {re, tokens, dst}
 var _units := {}           # language -> settings from mod.json (time units etc.)
-var _lang_names := {}      # Godot's English language name -> native name ("German" -> "Deutsch")
+var _lang_names := {}      # Godot's English language name -> display name ("German, Germany" -> "Deutsch, Deutschland")
 var _words_en := {}        # words from English source texts (log_missing only)
 var _words_tr := {}        # words from translations (log_missing only)
 var _re_digits := RegEx.create_from_string("\\d[\\d.,]*")
@@ -58,8 +58,8 @@ func _read_config() -> void:
 		return
 	for lang in cfg.get("languages", {}):
 		_languages.append(lang)
-		var native: String = cfg.languages[lang].get("name", "")
-		if not native.is_empty():  # otherwise the language list shows Godot's English name ("German")
+		var native: String = cfg.languages[lang].get("display", cfg.languages[lang].get("name", ""))
+		if not native.is_empty():  # otherwise the language list shows Godot's English name ("German, Germany")
 			_lang_names[TranslationServer.get_locale_name(lang)] = native
 			_lang_names[TranslationServer.get_language_name(lang.get_slice("_", 0))] = native
 	_units = cfg.get("languages", {})
@@ -110,7 +110,8 @@ func _process(_delta: float) -> void:
 
 func _pack_language(locale: String) -> String:
 	for lang in _languages:
-		if locale == lang or locale.begins_with(lang + "_"):
+		# Same language part is enough: a saved setting "de" still activates the pack language "de_DE"
+		if locale.get_slice("_", 0) == lang.get_slice("_", 0):
 			return lang
 	return ""
 
