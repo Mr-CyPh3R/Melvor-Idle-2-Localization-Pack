@@ -1,0 +1,64 @@
+{
+ "13267": "Acción: divisa poseída",
+ "13268": "Requiere poseer una cantidad de una divisa en el monedero de acciones",
+ "13269": "Acción: objeto poseído",
+ "13270": "Requiere poseer una cantidad de un objeto en el inventario de acciones",
+ "13271": "Acción: divisa máxima poseída",
+ "13272": "Requiere poseer una cantidad igual o inferior de una divisa en el monedero de acciones",
+ "13273": "Acción: objeto máximo poseído",
+ "13274": "Requiere poseer una cantidad igual o inferior de un objeto en el inventario de acciones",
+ "13275": "Reescalar",
+ "13276": "Arriba",
+ "13277": "Abajo",
+ "13278": "Este contenido no está disponible en la demo",
+ "13279": "[img height=1.25em]{EntityIcon}[/img] Compra [b]{CategoryName} -> {PurchaseName} {Current} / {Max}[/b] veces en la tienda",
+ "13280": [
+  "Geoda",
+  "Geodas"
+ ],
+ "13281": [
+  "Naranja",
+  "Naranjas"
+ ],
+ "13282": [
+  "Mango",
+  "Mangos"
+ ],
+ "13283": [
+  "ToolbeltOPnessItem",
+  "ToolbeltOPnessItem"
+ ],
+ "13284": [
+  "Aurora",
+  "Auroras"
+ ],
+ "13285": "Túnica de mago de tierra",
+ "13286": "Túnica de mago de fuego",
+ "13287": "Cebo vegetal",
+ "13288": "Monóculo de artesano",
+ "13289": "Túnica de sangre",
+ "13290": "Túnica ahogada",
+ "13291": "Túnica de escama nocturna",
+ "13292": "Capucha del Ateneo de marfil",
+ "13293": "Capuchas del Ateneo de marfil",
+ "13294": "Túnica del Ateneo de marfil",
+ "13295": "Túnicas del Ateneo de marfil",
+ "13296": "Prenda inferior del Ateneo de marfil",
+ "13297": "Túnica de masa de limo",
+ "13298": "Contrata a un Jornalero I que desbloquea la automatización de todas las acciones de Agricultura con un [b]requisito de nivel de Agricultura inferior a [color=orange]30[/color][/b]. Pide vino como pago por sus servicios.",
+ "13299": "Da acceso a nuevas zonas de exterminio.",
+ "13300": "Sí, digamos que... sé encontrar algunas cosas, de vez en cuando.",
+ "13301": "¿Y qué querrían tus... contactos?",
+ "13302": "Tras una breve estancia de vuelta en Azamire, a [Companion Name] y a ti os cuesta descansar. Aún queda mucho por hacer. El Cabecilla solo fue el primer paso.",
+ "13303": "El día siguiente a vuestro ataque contra el fuerte del Cabecilla llega con una mezcla de alegría, alivio, dolor y... incertidumbre. \nAunque el asalto tuvo éxito, las bajas rondan unas pocas docenas, un duro golpe para la ya mermada población de tu hogar.\n\nSin embargo, con la cantidad de refugiados que van y vienen hoy en día, cuesta seguir la pista a los altibajos de la población local. Aunque suene cruel, agradeces que no cayera nadie a quien conocieras bien, aunque entre los cuerpos que trajisteis en los carros había algunos de los primeros reclutas de la milicia que [Companion Name] y tú entrenasteis.\n\nAun así, los sucesos de ayer no bastaron para hundiros mucho tiempo ni a ti ni a [Companion Name]. Los dos volvéis al fuerte con las primeras luces, buscando huellas de la caravana que visteis salir de allí en vuestra primera misión de reconocimiento. El conjunto de edificios tras su grueso muro aún humea desde la noche anterior y os recuerda a ambos la batalla.",
+ "13304": "Seguir a la caravana os lleva una eternidad. Viajáis hacia el norte, fuera de la Arboleda ancestral, hasta que las huellas se detienen a solo una hora a pie de la ciudad de Hirane. Aquí detuvieron e incendiaron varios carros, seguramente los hobgolbins que los conducían. Parece que mataron a varios cautivos, aunque no sabes por qué. Por lo que logras deducir, el grupo se dividió en más de treinta partidas que se marcharon en direcciones distintas. Sin duda es imposible seguirlas a todas, incluso sin la dificultad añadida de que son mucho más difíciles de rastrear que los carros.\n\nPor un momento te preocupa la seguridad de Hirane, hasta que te das cuenta de que los golbins necesitarían un pequeño ejército para arrasar una ciudad de su tamaño. Estar situada en el Camino del Corazón, una de las principales vías hacia la capital de Melvor, sin duda tenía sus ventajas. Poder comerciar con armas y armaduras de gran calidad era la principal, pero la presencia de los golbins aún te hacía dudar.\n\n[Companion Name] y tú decidís entrar en la ciudad, y el ambiente general del lugar es... tenso. La gente que parece ser de la ciudad pasa a toda prisa junto a aldeanos demacrados y de mirada atormentada. Es una imagen que conoces bien, aunque te sorprende verla aquí. Enseguida se acerca a [Companion Name] y a ti un hombre de aspecto quisquilloso, con un bigote impecablemente cuidado y un ceño permanente grabado en la cara.",
+ "13305": "Sencillamente no tengo tiempo para charlas ociosas. Vosotros dos solo sois uno de los muchos grupos que llegan a la ciudad.",
+ "13306": "Curo frunce los labios al oírlo, algo perdido sin saber qué decir. Opta por un leve asentimiento y luego se disculpa, y sus acompañantes lo siguen rápidamente.\n\nLa mujer a la que entregasteis vuestras mercancías os pregunta con educación, aunque con timidez, si podríais echar una mano un poco más, ya que parece que de todos modos vais a quedaros aquí. Miras a [Companion Name], que se encoge de hombros. Qué más da. Ella os lleva enseguida a una tienda de cocina cercana, donde espera ansiosa una fila de refugiados hambrientos. Parece que el personal actual no da abasto.",
+ "13307": "Tras estudiar a fondo los informes de los exploradores de Hirane, tienes clara una cosa. Las figuras encapuchadas que atacaron Azamire y que parecen secuestrar y trasladar a los habitantes se han dirigido muy al este. Con qué fin, ni siquiera te atreverías a adivinarlo.",
+ "13308": "Sales por la puerta de Hirane y te adentras en plena campiña. Viajas hacia el este por el Camino del Corazón, sabiendo que si llegas lo bastante lejos, será casi imposible no dar con Clearwater. Por lo que pudiste averiguar de la gente de Hirane, Clearwater es la principal parada entre los lados este y oeste de las Llanuras desérticas. Oíste hablar de muchos pequeños lugares de descanso y aldeas entre un sitio y otro, pero pocos eran tan destacables como para recordarlos.\n\nEl Camino del Corazón suele estar bien construido y cuidado, incluso tan lejos de la capital, pero a medida que la hierba da paso a la tierra árida y, al final, a la arena, cuesta más seguir su rastro. Pese a lo que decían los lugareños de Hirane sobre los lugares de descanso entre allí y Clearwater, la mayoría de los edificios por los que pasas están abandonados, engullidos por la arena.\n\nEl sol cae a plomo sobre ti de una forma que solo conocías de los días más calurosos del verano en Azamire. No hay tregua del calor, solo arena que se extiende en lo que parecen olas doradas infinitas.",
+ "13309": "Te limpias el agua de cactus de la boca. Los dos habéis sangrado muchos de los cactus cercanos y empezáis a alejaros del grupo original. Os encontráis riendo como tontos y balanceándoos de un lado a otro, aunque sin duda estáis más hidratados. Te preocupa que algo vaya mal, pero ¿cómo iba a ser? Te sientes de maravilla. [Companion Name] casi se desploma sobre ti en un ataque de risa, mientras la arena ondula bajo vuestros pies en patrones hipnóticos.",
+ "13310": "Los cactus que tienes delante ahora parecen... más grandes. Y se mueven. Pero todo se mueve, así que no es especialmente raro. Lo que sí es raro es que uno de los cactus te lance un golpe a la cabeza con uno de sus brazos espinosos cuando intentas cortarlo con el hacha. Las púas que se te clavan en la cara te sacan de los efectos alucinógenos del agua de cactus.\n\nTodo a tu alrededor deja de moverse, salvo el... cactus enfadado que tienes delante. Y todos los que hay detrás de él. Se desplazan por la arena y extienden los brazos. Son reales. Llamas a [Companion Name], que parece estar teniendo una revelación parecida.",
+ "13311": "Las espinas de los cactus son difíciles de afrontar y exigen una forma de luchar mucho más protegida de la que sueles emplear, pero todo sale bien. El grupo de cactus yace abatido a tus pies, y los... efectos del agua de cactus parecen haberse pasado.\n\nSigues hacia Clearwater, dando solo pequeños sorbos ocasionales al agua de cactus que recogiste cuando de verdad lo necesitas. Sin duda estás más risueño de lo normal y te tambaleas un poco, pero lo peor de los efectos nunca llega gracias a tu moderación.\n\nLa ciudad de Clearwater es un alivio para unos ojos cansados y abrasados por el sol. Te duelen los pies, tienes la piel quemada y estás muerto de sed. Se reúne a tu alrededor un pequeño grupo de habitantes, que se ríen de tu desgracia y te advierten de algunos de los peligros que podrías encontrar más adentro del desierto.\n\nCuando preguntas por las figuras, gran parte de la ligereza da paso al miedo. Buena parte de la población parece venir de los pueblos exteriores abandonados, huyendo de los... Forjaalmas. Resulta extraño tener por fin un nombre para el grupo que destruyó tu hogar. Aquí, lidiar con ellos ha sido una constante, y el nombre no impone ninguna solemnidad. Los habitantes dicen haber visto las caravanas dirigirse al este, hacia la capital, y os advierten de que os mantengáis bien lejos del Camino del Corazón oriental por ahora. Cuando [Companion Name] y tú contáis historias de Azamire y del Cabecilla, y de vuestro objetivo de llevar a los Forjaalmas ante la justicia, parece que media ciudad os abre sus casas y os mantiene alimentados e hidratados mientras os recuperáis.\n\nTras un merecido descanso, los dos seguís hacia el este y por fin salís de las dunas para volver a los campos de hierba. Pasáis a un terreno más rocoso al acercaros a las Tierras altas de Flintcrest. Grandes rocas irregulares salpican el suelo pedregoso y sobresalen en ángulos extraños.",
+ "13312": "Dicho esto, [Companion Name] sigue escudriñando las rocas mientras los dos recorréis el Camino del Corazón, como si fueran a cobrar vida y contarle de dónde vienen. Ya has tenido bastante de cosas con conciencia que no deberían tenerla, así que intentas no mirarlas demasiado.\n\nPor fin llegáis a una pequeña posada que parece construida dentro de una muralla de piedra y una guarnición que ocupan la amplia entrada del Paso roto. La Piedra Durmiente es legendaria, y con razón. No solo es la sede del Gremio de Exterminadores en la región oriental del continente, sino que atrae a aventureros de fama mundial que desean aventurarse en los Picos Peligrosos para demostrar que son los mejores de los mejores.\n\nEl Paso roto es el camino más rápido a la capital, pero suelen recorrerlo caravanas muy armadas que pueden pagar el peaje para cruzar la puerta y defenderse de cualquier bestia que baje de la montaña. Cuando oyes que están desviando las caravanas hacia el sur, rodeando la cordillera, por culpa de una manada especialmente agresiva de saltapiedras, no tardas en ofrecer tus servicios y los de [Companion Name]. \n\nEl dueño de la Piedra Durmiente os ofrece algo aún mejor: si os encargáis de ellos, tendréis paso libre por el Paso roto de por vida. El trato es demasiado bueno para rechazarlo.",
+ "13313": "Haces el recuento de los cuerpos de esas bestias altas y torpes. Los saltapiedras eran una mezcla de criaturas bastante extraña. Tenían escamas como un lagarto y usan una larga cola parecida a un látigo para mantener el equilibrio. Tienen dos grandes alas que los ayudan a saltar de roca en roca (de ahí su nombre), pero técnicamente no podían volar. Estas «aves» caminan sobre dos patas poderosas que usan para dar patadas a sus presas, lo que por suerte facilitaba que se enredaran en las trampas.\n\nLo que te sorprendió de ellos fue su número. Parecía que cada vez que atrapabas uno, veías otros dos saltando por encima de tu cabeza."
+}

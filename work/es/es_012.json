@@ -1,0 +1,652 @@
+{
+ "02440": [
+  "Botas de mago de agua",
+  "Botas de mago de agua"
+ ],
+ "02441": [
+  "Prenda inferior de mago de agua",
+  "Prendas inferiores de mago de agua"
+ ],
+ "02442": [
+  "Túnica de mago de agua",
+  "Túnicas de mago de agua"
+ ],
+ "02443": [
+  "Sombrero de mago de tierra",
+  "Sombreros de mago de tierra"
+ ],
+ "02444": [
+  "Botas de mago de tierra",
+  "Botas de mago de tierra"
+ ],
+ "02445": [
+  "Prenda inferior de mago de tierra",
+  "Prendas inferiores de mago de tierra"
+ ],
+ "02446": [
+  "Túnica de mago de tierra",
+  "Túnicas de mago de tierra"
+ ],
+ "02447": [
+  "Sombrero de mago de fuego",
+  "Sombreros de mago de fuego"
+ ],
+ "02448": [
+  "Botas de mago de fuego",
+  "Botas de mago de fuego"
+ ],
+ "02449": [
+  "Prenda inferior de mago de fuego",
+  "Prendas inferiores de mago de fuego"
+ ],
+ "02450": [
+  "Túnica de mago de fuego",
+  "Túnicas de mago de fuego"
+ ],
+ "02451": [
+  "Espada de piedra",
+  "Espadas de piedra"
+ ],
+ "02452": [
+  "Punta de lanza de piedra",
+  "Puntas de lanza de piedra"
+ ],
+ "02453": [
+  "Punta de lanza de acero",
+  "Puntas de lanza de acero"
+ ],
+ "02454": [
+  "Punta de lanza de mithril",
+  "Puntas de lanza de mithril"
+ ],
+ "02455": [
+  "Punta de lanza de adamantio",
+  "Puntas de lanza de adamantio"
+ ],
+ "02456": [
+  "Punta de lanza rúnica",
+  "Puntas de lanza rúnicas"
+ ],
+ "02457": [
+  "Punta de lanza de acero del alba",
+  "Puntas de lanza de acero del alba"
+ ],
+ "02458": [
+  "Punta de lanza de dragón",
+  "Puntas de lanza de dragón"
+ ],
+ "02459": [
+  "Astil de flecha",
+  "Astiles de flecha"
+ ],
+ "02460": [
+  "Jabalina de cobre",
+  "Jabalinas de cobre"
+ ],
+ "02461": [
+  "Jabalina de hierro",
+  "Jabalinas de hierro"
+ ],
+ "02462": "Lánzaselo a un monstruo y mira qué pasa.",
+ "02463": [
+  "Jabalina de acero",
+  "Jabalinas de acero"
+ ],
+ "02464": [
+  "Jabalina de mithril",
+  "Jabalinas de mithril"
+ ],
+ "02465": [
+  "Jabalina de adamantio",
+  "Jabalinas de adamantio"
+ ],
+ "02466": [
+  "Jabalina rúnica",
+  "Jabalinas rúnicas"
+ ],
+ "02467": [
+  "Jabalina de acero del alba",
+  "Jabalinas de acero del alba"
+ ],
+ "02468": [
+  "Jabalina de dragón",
+  "Jabalinas de dragón"
+ ],
+ "02469": [
+  "Escudo de cuero",
+  "Escudos de cuero"
+ ],
+ "02470": [
+  "Peto de cuero",
+  "Petos de cuero"
+ ],
+ "02471": [
+  "Guardabrazos de cuero duro",
+  "Guardabrazos de cuero duro"
+ ],
+ "02472": [
+  "Botas de cuero duro",
+  "Botas de cuero duro"
+ ],
+ "02473": [
+  "Capucha de cuero duro",
+  "Capuchas de cuero duro"
+ ],
+ "02474": [
+  "Escudo de cuero duro",
+  "Escudos de cuero duro"
+ ],
+ "02475": [
+  "Pantalones de cuero duro",
+  "Pantalones de cuero duro"
+ ],
+ "02476": [
+  "Peto de cuero duro",
+  "Petos de cuero duro"
+ ],
+ "02477": [
+  "Guardabrazos de cuero tachonado",
+  "Guardabrazos de cuero tachonado"
+ ],
+ "02478": [
+  "Botas de cuero tachonado",
+  "Botas de cuero tachonado"
+ ],
+ "02479": [
+  "Capucha de cuero tachonado",
+  "Capuchas de cuero tachonado"
+ ],
+ "02480": [
+  "Escudo de cuero tachonado",
+  "Escudos de cuero tachonado"
+ ],
+ "02481": [
+  "Pantalones de cuero tachonado",
+  "Pantalones de cuero tachonado"
+ ],
+ "02482": [
+  "Peto de cuero tachonado",
+  "Petos de cuero tachonado"
+ ],
+ "02483": [
+  "Guardabrazos de malla",
+  "Guardabrazos de malla"
+ ],
+ "02484": [
+  "Botas de malla",
+  "Botas de malla"
+ ],
+ "02485": [
+  "Capucha de malla",
+  "Capuchas de malla"
+ ],
+ "02486": [
+  "Escudo de malla",
+  "Escudos de malla"
+ ],
+ "02487": [
+  "Pantalones de malla",
+  "Pantalones de malla"
+ ],
+ "02488": [
+  "Peto de malla",
+  "Petos de malla"
+ ],
+ "02489": [
+  "Capucha de piel de dragón verde",
+  "Capuchas de piel de dragón verde"
+ ],
+ "02490": [
+  "Pantalones de piel de dragón verde",
+  "Pantalones de piel de dragón verde"
+ ],
+ "02491": [
+  "Peto de piel de dragón verde",
+  "Petos de piel de dragón verde"
+ ],
+ "02492": [
+  "Capucha de piel de dragón azul",
+  "Capuchas de piel de dragón azul"
+ ],
+ "02493": [
+  "Pantalones de piel de dragón azul",
+  "Pantalones de piel de dragón azul"
+ ],
+ "02494": [
+  "Peto de piel de dragón azul",
+  "Petos de piel de dragón azul"
+ ],
+ "02495": [
+  "Capucha de piel de dragón rojo",
+  "Capuchas de piel de dragón rojo"
+ ],
+ "02496": [
+  "Pantalones de piel de dragón rojo",
+  "Pantalones de piel de dragón rojo"
+ ],
+ "02497": [
+  "Peto de piel de dragón rojo",
+  "Petos de piel de dragón rojo"
+ ],
+ "02498": [
+  "Capucha de piel de dragón negro",
+  "Capuchas de piel de dragón negro"
+ ],
+ "02499": [
+  "Pantalones de piel de dragón negro",
+  "Pantalones de piel de dragón negro"
+ ],
+ "02500": [
+  "Peto de piel de dragón negro",
+  "Petos de piel de dragón negro"
+ ],
+ "02501": [
+  "Anillo de plata de topacio",
+  "Anillos de plata de topacio"
+ ],
+ "02502": [
+  "Anillo de plata de zafiro",
+  "Anillos de plata de zafiro"
+ ],
+ "02503": [
+  "Anillo de plata de rubí",
+  "Anillos de plata de rubí"
+ ],
+ "02504": [
+  "Anillo de plata de esmeralda",
+  "Anillos de plata de esmeralda"
+ ],
+ "02505": [
+  "Anillo de plata de diamante",
+  "Anillos de plata de diamante"
+ ],
+ "02506": [
+  "Anillo de plata de jade",
+  "Anillos de plata de jade"
+ ],
+ "02507": [
+  "Anillo de oro de zafiro",
+  "Anillos de oro de zafiro"
+ ],
+ "02508": [
+  "Anillo de oro de rubí",
+  "Anillos de oro de rubí"
+ ],
+ "02509": [
+  "Anillo de oro de esmeralda",
+  "Anillos de oro de esmeralda"
+ ],
+ "02510": [
+  "Anillo de oro de diamante",
+  "Anillos de oro de diamante"
+ ],
+ "02511": [
+  "Anillo de oro de jade",
+  "Anillos de oro de jade"
+ ],
+ "02512": [
+  "Amuleto de plata de topacio",
+  "Amuletos de plata de topacio"
+ ],
+ "02513": [
+  "Amuleto de plata de zafiro",
+  "Amuletos de plata de zafiro"
+ ],
+ "02514": [
+  "Amuleto de plata de rubí",
+  "Amuletos de plata de rubí"
+ ],
+ "02515": [
+  "Amuleto de plata de esmeralda",
+  "Amuletos de plata de esmeralda"
+ ],
+ "02516": [
+  "Amuleto de plata de diamante",
+  "Amuletos de plata de diamante"
+ ],
+ "02517": [
+  "Amuleto de plata de jade",
+  "Amuletos de plata de jade"
+ ],
+ "02518": [
+  "Amuleto de oro de topacio",
+  "Amuletos de oro de topacio"
+ ],
+ "02519": [
+  "Amuleto de oro de zafiro",
+  "Amuletos de oro de zafiro"
+ ],
+ "02520": [
+  "Amuleto de oro de rubí",
+  "Amuletos de oro de rubí"
+ ],
+ "02521": [
+  "Amuleto de oro de esmeralda",
+  "Amuletos de oro de esmeralda"
+ ],
+ "02522": [
+  "Amuleto de oro de diamante",
+  "Amuletos de oro de diamante"
+ ],
+ "02523": [
+  "Amuleto de oro de jade",
+  "Amuletos de oro de jade"
+ ],
+ "02524": [
+  "Pluma de arpía",
+  "Plumas de arpía"
+ ],
+ "02525": [
+  "Carbón",
+  "Carbón"
+ ],
+ "02526": [
+  "Topacio en bruto",
+  "Topacios en bruto"
+ ],
+ "02527": [
+  "Zafiro en bruto",
+  "Zafiros en bruto"
+ ],
+ "02528": [
+  "Rubí en bruto",
+  "Rubíes en bruto"
+ ],
+ "02529": [
+  "Esmeralda en bruto",
+  "Esmeraldas en bruto"
+ ],
+ "02530": [
+  "Diamante en bruto",
+  "Diamantes en bruto"
+ ],
+ "02531": [
+  "Jade en bruto",
+  "Jades en bruto"
+ ],
+ "02532": [
+  "Arcilla",
+  "Arcilla"
+ ],
+ "02533": [
+  "Cubo de agua",
+  "Cubos de agua"
+ ],
+ "02534": [
+  "Cubo de arena",
+  "Cubos de arena"
+ ],
+ "02535": [
+  "Vidrio fundido",
+  "Vidrio fundido"
+ ],
+ "02536": [
+  "Paquete de viales",
+  "Paquete de viales"
+ ],
+ "02537": [
+  "Orbe sin energía",
+  "Orbes sin energía"
+ ],
+ "02538": [
+  "Farol vacío",
+  "Faroles vacíos"
+ ],
+ "02539": [
+  "Semilla de secuoya",
+  "Semillas de secuoya"
+ ],
+ "02540": [
+  "Carbón vegetal",
+  "Carbón vegetal"
+ ],
+ "02541": [
+  "Ceniza",
+  "Ceniza"
+ ],
+ "02542": [
+  "Hollín",
+  "Hollín"
+ ],
+ "02543": [
+  "Ascua",
+  "Ascuas"
+ ],
+ "02544": [
+  "Arco de roble duro",
+  "Arcos de roble duro"
+ ],
+ "02545": [
+  "Tronco de roble duro",
+  "Troncos de roble duro"
+ ],
+ "02546": [
+  "Bumerán de roble duro",
+  "Bumeranes de roble duro"
+ ],
+ "02547": [
+  "Ballesta de hierro a 2 manos",
+  "Ballestas de hierro a 2 manos"
+ ],
+ "02548": [
+  "Esencia pura",
+  "Esencia pura"
+ ],
+ "02549": [
+  "Lanza de acero",
+  "Lanzas de acero"
+ ],
+ "02550": [
+  "Lanza de mithril",
+  "Lanzas de mithril"
+ ],
+ "02551": [
+  "Lanza de adamantio",
+  "Lanzas de adamantio"
+ ],
+ "02552": [
+  "Lanza rúnica",
+  "Lanzas rúnicas"
+ ],
+ "02553": [
+  "Lanza de acero del alba",
+  "Lanzas de acero del alba"
+ ],
+ "02554": [
+  "Lanza de dragón",
+  "Lanzas de dragón"
+ ],
+ "02555": [
+  "Almeja perlífera",
+  "Almejas perlíferas"
+ ],
+ "02556": "Objeto valioso para vender.",
+ "02557": [
+  "Collar de conchas",
+  "Collares de conchas"
+ ],
+ "02558": [
+  "Daga antigua oxidada",
+  "Dagas antiguas oxidadas"
+ ],
+ "02559": [
+  "Guantes antimetralla",
+  "Guantes antimetralla"
+ ],
+ "02560": [
+  "Red firme",
+  "Redes firmes"
+ ],
+ "02561": [
+  "Vela antigua rasgada",
+  "Velas antiguas rasgadas"
+ ],
+ "02562": [
+  "Piedra luminosa de las profundidades",
+  "Piedras luminosas de las profundidades"
+ ],
+ "02563": [
+  "Anillo de pesca perdido",
+  "Anillos de pesca perdidos"
+ ],
+ "02564": [
+  "Collar de dientes de tiburón",
+  "Collares de dientes de tiburón"
+ ],
+ "02565": [
+  "Coral arcoíris",
+  "Coral arcoíris"
+ ],
+ "02566": [
+  "Anillo de escamas relucientes",
+  "Anillos de escamas relucientes"
+ ],
+ "02567": [
+  "Mata de algas",
+  "Matas de algas"
+ ],
+ "02568": [
+  "Runa del alma",
+  "Runas del alma"
+ ],
+ "02569": [
+  "Vara de batalla de aire",
+  "Varas de batalla de aire"
+ ],
+ "02570": [
+  "Vara de batalla de agua",
+  "Varas de batalla de agua"
+ ],
+ "02571": [
+  "Vara de batalla de tierra",
+  "Varas de batalla de tierra"
+ ],
+ "02572": [
+  "Vara de batalla de fuego",
+  "Varas de batalla de fuego"
+ ],
+ "02573": [
+  "Vara de aire mística",
+  "Varas de aire místicas"
+ ],
+ "02574": [
+  "Vara de agua mística",
+  "Varas de agua místicas"
+ ],
+ "02575": [
+  "Vara de tierra mística",
+  "Varas de tierra místicas"
+ ],
+ "02576": [
+  "Vara de fuego mística",
+  "Varas de fuego místicas"
+ ],
+ "02577": [
+  "Báculo de aire místico",
+  "Báculos de aire místicos"
+ ],
+ "02578": [
+  "Báculo de agua místico",
+  "Báculos de agua místicos"
+ ],
+ "02579": [
+  "Báculo de tierra místico",
+  "Báculos de tierra místicos"
+ ],
+ "02580": [
+  "Báculo de fuego místico",
+  "Báculos de fuego místicos"
+ ],
+ "02581": [
+  "Vara de furia de aire",
+  "Varas de furia de aire"
+ ],
+ "02582": [
+  "Vara de furia de agua",
+  "Varas de furia de agua"
+ ],
+ "02583": [
+  "Vara de furia de tierra",
+  "Varas de furia de tierra"
+ ],
+ "02584": [
+  "Vara de furia de fuego",
+  "Varas de furia de fuego"
+ ],
+ "02585": [
+  "Báculo de furia de aire",
+  "Báculos de furia de aire"
+ ],
+ "02586": [
+  "Báculo de furia de agua",
+  "Báculos de furia de agua"
+ ],
+ "02587": [
+  "Báculo de furia de tierra",
+  "Báculos de furia de tierra"
+ ],
+ "02588": [
+  "Báculo de furia de fuego",
+  "Báculos de furia de fuego"
+ ],
+ "02589": [
+  "Sombrero de mago básico",
+  "Sombreros de mago básicos"
+ ],
+ "02590": [
+  "Botas de mago básicas",
+  "Botas de mago básicas"
+ ],
+ "02591": [
+  "Prenda inferior de mago básica",
+  "Prendas inferiores de mago básicas"
+ ],
+ "02592": [
+  "Túnica de mago básica",
+  "Túnicas de mago básicas"
+ ],
+ "02593": [
+  "Sombrero de mago adepto",
+  "Sombreros de mago adepto"
+ ],
+ "02594": [
+  "Botas de mago adepto",
+  "Botas de mago adepto"
+ ],
+ "02595": [
+  "Prenda inferior de mago adepto",
+  "Prendas inferiores de mago adepto"
+ ],
+ "02596": [
+  "Túnica de mago adepto",
+  "Túnicas de mago adepto"
+ ],
+ "02597": [
+  "Sombrero de mago de polvo",
+  "Sombreros de mago de polvo"
+ ],
+ "02598": [
+  "Botas de mago de vapor",
+  "Botas de mago de vapor"
+ ],
+ "02599": [
+  "Prenda inferior de mago de polvo",
+  "Prendas inferiores de mago de polvo"
+ ],
+ "02600": [
+  "Túnica de mago de vapor",
+  "Túnicas de mago de vapor"
+ ],
+ "02601": [
+  "Sombrero de mago de vapor",
+  "Sombreros de mago de vapor"
+ ],
+ "02602": [
+  "Botas de mago de polvo",
+  "Botas de mago de polvo"
+ ],
+ "02603": [
+  "Prenda inferior de mago de vapor",
+  "Prendas inferiores de mago de vapor"
+ ]
+}

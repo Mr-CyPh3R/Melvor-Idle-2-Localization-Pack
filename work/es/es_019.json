@@ -1,0 +1,556 @@
+{
+"03566": [
+"Pico infernal (dañado)",
+"Pico infernal (dañado)"
+],
+"03567": [
+"Pico infernal",
+"Pico infernal"
+],
+"03568": [
+"Marca de agilidad",
+"Marcas de agilidad"
+],
+"03569": [
+"Tocado ligero",
+"Tocado ligero"
+],
+"03570": "Bonificación de conjunto (con 3 piezas ligeras): -2 % de intervalo de Agilidad",
+"03571": [
+"Peto ligero",
+"Petos ligeros"
+],
+"03572": [
+"Pantalones ligeros",
+"Pantalones ligeros"
+],
+"03573": [
+"Botas ligeras",
+"Botas ligeras"
+],
+"03574": [
+"Tocado veloz",
+"Tocado veloz"
+],
+"03575": "Bonificación de conjunto (con 3 piezas veloces): -4 % de intervalo de Agilidad, -2 % de daño recibido en Agilidad",
+"03576": [
+"Peto veloz",
+"Petos veloces"
+],
+"03577": [
+"Pantalones veloces",
+"Pantalones veloces"
+],
+"03578": [
+"Botas veloces",
+"Botas veloces"
+],
+"03579": [
+"Tocado grácil",
+"Tocado grácil"
+],
+"03580": "Bonificación de conjunto (con 3 piezas gráciles): -6 % de intervalo de Agilidad, -4 % de daño recibido en Agilidad",
+"03581": [
+"Peto grácil",
+"Petos gráciles"
+],
+"03582": [
+"Pantalones gráciles",
+"Pantalones gráciles"
+],
+"03583": [
+"Botas gráciles",
+"Botas gráciles"
+],
+"03584": [
+"Tocado acolchado",
+"Tocado acolchado"
+],
+"03585": [
+"Acolchado para articulaciones",
+"Acolchado para articulaciones"
+],
+"03586": [
+"Paquete de semillas de hierba I",
+"Paquete de semillas de hierba I"
+],
+"03587": [
+"Paquete de semillas de hierba II",
+"Paquete de semillas de hierba II"
+],
+"03588": [
+"Paquete de runas elementales I",
+"Paquete de runas elementales I"
+],
+"03589": [
+"Paquete de runas elementales II",
+"Paquete de runas elementales II"
+],
+"03590": [
+"Paquete de runas secundarias I",
+"Paquete de runas secundarias I"
+],
+"03591": [
+"Paquete de runas secundarias II",
+"Paquete de runas secundarias II"
+],
+"03592": [
+"Paquete de munición I (flechas)",
+"Paquete de munición I (flechas)"
+],
+"03593": [
+"Paquete de munición II (flechas)",
+"Paquete de munición II (flechas)"
+],
+"03594": [
+"Paquete de munición I (virotes)",
+"Paquete de munición I (virotes)"
+],
+"03595": [
+"Paquete de munición II (virotes)",
+"Paquete de munición II (virotes)"
+],
+"03596": [
+"Paquete de munición I (bumeranes)",
+"Paquete de munición I (bumeranes)"
+],
+"03597": [
+"Paquete de munición II (bumeranes)",
+"Paquete de munición II (bumeranes)"
+],
+"03598": [
+"Amuleto de evasión cuerpo a cuerpo",
+"Amuletos de evasión cuerpo a cuerpo"
+],
+"03599": [
+"Amuleto de evasión a distancia",
+"Amuletos de evasión a distancia"
+],
+"03600": [
+"Amuleto de evasión mágica",
+"Amuletos de evasión mágica"
+],
+"03601": [
+"Amuleto de precisión cuerpo a cuerpo",
+"Amuletos de precisión cuerpo a cuerpo"
+],
+"03602": [
+"Amuleto de precisión a distancia",
+"Amuletos de precisión a distancia"
+],
+"03603": [
+"Amuleto de precisión mágica",
+"Amuletos de precisión mágica"
+],
+"03604": [
+"Amuleto de protección",
+"Amuletos de protección"
+],
+"03605": [
+"Chuleta de escalada",
+"Chuletas de escalada"
+],
+"03606": [
+"Chuleta de salto",
+"Chuletas de salto"
+],
+"03607": [
+"Chuleta de esquiva",
+"Chuletas de esquiva"
+],
+"03608": [
+"Chuleta de equilibrio",
+"Chuletas de equilibrio"
+],
+"03609": [
+"Chuleta de rápel",
+"Chuletas de rápel"
+],
+"03610": [
+"Sombrero de tala de novato",
+"Sombreros de tala de novato"
+],
+"03611": [
+"Peto de tala de novato",
+"Peto de tala de novato"
+],
+"03612": [
+"Pantalones de tala de novato",
+"Pantalones de tala de novato"
+],
+"03613": [
+"Botas de tala de novato",
+"Botas de tala de novato"
+],
+"03614": [
+"Sombrero de pesca de novato",
+"Sombreros de pesca de novato"
+],
+"03615": [
+"Peto de pesca de novato",
+"Peto de pesca de novato"
+],
+"03616": [
+"Pantalones de pesca de novato",
+"Pantalones de pesca de novato"
+],
+"03617": [
+"Botas de pesca de novato",
+"Botas de pesca de novato"
+],
+"03618": [
+"Sombrero de minería de novato",
+"Sombreros de minería de novato"
+],
+"03619": [
+"Peto de minería de novato",
+"Peto de minería de novato"
+],
+"03620": [
+"Pantalones de minería de novato",
+"Pantalones de minería de novato"
+],
+"03621": [
+"Botas de minería de novato",
+"Botas de minería de novato"
+],
+"03622": [
+"Sombrero de tala intermedio",
+"Sombreros de tala intermedios"
+],
+"03623": "Bonificación de conjunto (con 3 piezas de tala intermedias): +0,025 % de probabilidad de nido de pájaro/águila",
+"03624": [
+"Peto de tala intermedio",
+"Peto de tala intermedio"
+],
+"03625": [
+"Pantalones de tala intermedios",
+"Pantalones de tala intermedios"
+],
+"03626": [
+"Botas de tala intermedias",
+"Botas de tala intermedias"
+],
+"03627": [
+"Sombrero de pesca intermedio",
+"Sombreros de pesca intermedios"
+],
+"03628": "Bonificación de conjunto (con 3 piezas de pesca intermedias): 10 % más de probabilidad de captura especial en Pesca",
+"03629": [
+"Peto de pesca intermedio",
+"Peto de pesca intermedio"
+],
+"03630": [
+"Pantalones de pesca intermedios",
+"Pantalones de pesca intermedios"
+],
+"03631": [
+"Botas de pesca intermedias",
+"Botas de pesca intermedias"
+],
+"03632": [
+"Sombrero de minería intermedio",
+"Sombreros de minería intermedios"
+],
+"03633": "Bonificación de conjunto (con 3 piezas de minería intermedias): 20 % más de probabilidad de geoda",
+"03634": [
+"Peto de minería intermedio",
+"Peto de minería intermedio"
+],
+"03635": [
+"Pantalones de minería intermedios",
+"Pantalones de minería intermedios"
+],
+"03636": [
+"Botas de minería intermedias",
+"Botas de minería intermedias"
+],
+"03637": [
+"Sombrero de tala de élite",
+"Sombreros de tala de élite"
+],
+"03638": "Bonificación de conjunto (con 3 piezas de tala de élite): +2 % de probabilidad de talar árboles y arbustos",
+"03639": [
+"Peto de tala de élite",
+"Peto de tala de élite"
+],
+"03640": [
+"Pantalones de tala de élite",
+"Pantalones de tala de élite"
+],
+"03641": [
+"Botas de tala de élite",
+"Botas de tala de élite"
+],
+"03642": [
+"Sombrero de pesca de élite",
+"Sombreros de pesca de élite"
+],
+"03643": "Bonificación de conjunto (con 3 piezas de pesca de élite): 20 % más de probabilidad de captura especial en Pesca",
+"03644": [
+"Peto de pesca de élite",
+"Peto de pesca de élite"
+],
+"03645": [
+"Pantalones de pesca de élite",
+"Pantalones de pesca de élite"
+],
+"03646": [
+"Botas de pesca de élite",
+"Botas de pesca de élite"
+],
+"03647": [
+"Sombrero de minería de élite",
+"Sombreros de minería de élite"
+],
+"03648": "Bonificación de conjunto (con 3 piezas de minería de élite): +5 % de probabilidad de duplicar en Minería",
+"03649": [
+"Peto de minería de élite",
+"Peto de minería de élite"
+],
+"03650": [
+"Pantalones de minería de élite",
+"Pantalones de minería de élite"
+],
+"03651": [
+"Botas de minería de élite",
+"Botas de minería de élite"
+],
+"03652": [
+"Guantes de herrería I",
+"Guantes de herrería I"
+],
+"03653": [
+"Guantes de herrería II",
+"Guantes de herrería II"
+],
+"03654": [
+"Guantes de artesanía I",
+"Guantes de artesanía I"
+],
+"03655": [
+"Guantes de artesanía II",
+"Guantes de artesanía II"
+],
+"03656": [
+"Guantes de arquería I",
+"Guantes de arquería I"
+],
+"03657": [
+"Guantes de arquería II",
+"Guantes de arquería II"
+],
+"03658": [
+"Guantes de creación de runas I",
+"Guantes de creación de runas I"
+],
+"03659": [
+"Guantes de creación de runas II",
+"Guantes de creación de runas II"
+],
+"03660": [
+"Guantes de artesanía bestial I",
+"Guantes de artesanía bestial I"
+],
+"03661": [
+"Guantes de artesanía bestial II",
+"Guantes de artesanía bestial II"
+],
+"03662": [
+"Guantes de herbología I",
+"Guantes de herbología I"
+],
+"03663": [
+"Guantes de herbología II",
+"Guantes de herbología II"
+],
+"03664": [
+"ToolbeltOPnessItem",
+"ToolbeltOPnessItem"
+],
+"03665": [
+"Mapa hacia Ashen Lands",
+"Mapas hacia Ashen Lands"
+],
+"03666": [
+"Mapa hacia Dense Cave",
+"Mapas hacia Dense Cave"
+],
+"03667": [
+"Mapa hacia Torag Grounds",
+"Mapas hacia Torag Grounds"
+],
+"03668": [
+"Cuero de Torag",
+"Cuero de Torag"
+],
+"03669": [
+"Cuero de lince de tormenta",
+"Cuero de lince de tormenta"
+],
+"03670": [
+"Trampa para Torag básica",
+"Trampa para Torag básica"
+],
+"03671": [
+"Trampa para Torag reforzada",
+"Trampa para Torag reforzada"
+],
+"03672": [
+"Trampa para Torag fortificada",
+"Trampa para Torag fortificada"
+],
+"03673": [
+"Filete de grifo crudo",
+"Filete de grifo crudo"
+],
+"03674": [
+"Filete de grifo",
+"Filete de grifo"
+],
+"03675": [
+"Panal gigante",
+"Panal gigante"
+],
+"03676": [
+"Carcasa de hueso de dragón",
+"Carcasa de hueso de dragón"
+],
+"03677": [
+"Vaina venenosa",
+"Vaina venenosa"
+],
+"03678": [
+"Tarro de especias del desierto",
+"Tarros de especias del desierto"
+],
+"03679": [
+"Escama de draco de arena",
+"Escamas de draco de arena"
+],
+"03680": [
+"Sol planeador",
+"Soles planeadores"
+],
+"03681": [
+"Mineral de meteorito",
+"Mineral de meteorito"
+],
+"03682": [
+"Polvo estelar",
+"Polvo estelar"
+],
+"03683": [
+"Polvo estelar dorado",
+"Polvo estelar dorado"
+],
+"03684": [
+"Registro de avistamientos de meteoritos",
+"Registro de avistamientos de meteoritos"
+],
+"03685": "Equípalo en Minería para extraer mineral de meteorito",
+"03686": [
+"Registro de avistamientos de lluvias de estrellas",
+"Registro de avistamientos de lluvias de estrellas"
+],
+"03687": [
+"Registro de avistamientos de lluvias de estrellas doradas",
+"Registro de avistamientos de lluvias de estrellas doradas"
+],
+"03688": [
+"Anillo astral de plata de topacio",
+"Anillos astrales de plata de topacio"
+],
+"03689": [
+"Anillo astral de plata de zafiro",
+"Anillos astrales de plata de zafiro"
+],
+"03690": [
+"Anillo astral de plata de rubí",
+"Anillos astrales de plata de rubí"
+],
+"03691": [
+"Anillo astral de plata de esmeralda",
+"Anillos astrales de plata de esmeralda"
+],
+"03692": [
+"Anillo astral de plata de diamante",
+"Anillos astrales de plata de diamante"
+],
+"03693": [
+"Anillo astral de plata de jade",
+"Anillos astrales de plata de jade"
+],
+"03694": [
+"Anillo astral de oro de topacio",
+"Anillos astrales de oro de topacio"
+],
+"03695": [
+"Anillo astral de oro de zafiro",
+"Anillos astrales de oro de zafiro"
+],
+"03696": [
+"Anillo astral de oro de rubí",
+"Anillos astrales de oro de rubí"
+],
+"03697": [
+"Anillo astral de oro de esmeralda",
+"Anillos astrales de oro de esmeralda"
+],
+"03698": [
+"Anillo astral de oro de diamante",
+"Anillos astrales de oro de diamante"
+],
+"03699": [
+"Anillo astral de oro de jade",
+"Anillos astrales de oro de jade"
+],
+"03700": [
+"Amuleto astral de plata de topacio",
+"Amuletos astrales de plata de topacio"
+],
+"03701": [
+"Amuleto astral de plata de zafiro",
+"Amuletos astrales de plata de zafiro"
+],
+"03702": [
+"Amuleto astral de plata de rubí",
+"Amuletos astrales de plata de rubí"
+],
+"03703": [
+"Amuleto astral de plata de esmeralda",
+"Amuletos astrales de plata de esmeralda"
+],
+"03704": [
+"Amuleto astral de plata de diamante",
+"Amuletos astrales de plata de diamante"
+],
+"03705": [
+"Amuleto astral de plata de jade",
+"Amuletos astrales de plata de jade"
+],
+"03706": [
+"Amuleto astral de oro de topacio",
+"Amuletos astrales de oro de topacio"
+],
+"03707": [
+"Amuleto astral de oro de zafiro",
+"Amuletos astrales de oro de zafiro"
+],
+"03708": [
+"Amuleto astral de oro de rubí",
+"Amuletos astrales de oro de rubí"
+],
+"03709": [
+"Amuleto astral de oro de esmeralda",
+"Amuletos astrales de oro de esmeralda"
+],
+"03710": [
+"Amuleto astral de oro de diamante",
+"Amuletos astrales de oro de diamante"
+],
+"03711": [
+"Amuleto astral de oro de jade",
+"Amuletos astrales de oro de jade"
+]
+}

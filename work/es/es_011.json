@@ -1,0 +1,701 @@
+{
+ "02263": [
+  "Yelmo rúnico",
+  "Yelmos rúnicos"
+ ],
+ "02264": [
+  "Botas rúnicas",
+  "Botas rúnicas"
+ ],
+ "02265": [
+  "Escudo rúnico",
+  "Escudos rúnicos"
+ ],
+ "02266": [
+  "Espada rúnica a 2 manos",
+  "Espadas rúnicas a 2 manos"
+ ],
+ "02267": [
+  "Mazo rúnico",
+  "Mazos rúnicos"
+ ],
+ "02268": [
+  "Arco de ballesta rúnico",
+  "Arcos de ballesta rúnicos"
+ ],
+ "02269": [
+  "Perneras rúnicas",
+  "Perneras rúnicas"
+ ],
+ "02270": [
+  "Peto rúnico",
+  "Petos rúnicos"
+ ],
+ "02271": [
+  "Daga de acero del alba",
+  "Dagas de acero del alba"
+ ],
+ "02272": [
+  "Defensor de acero del alba",
+  "Defensores de acero del alba"
+ ],
+ "02273": [
+  "Puntas de flecha de acero del alba",
+  "Puntas de flecha de acero del alba"
+ ],
+ "02274": [
+  "Puntas de jabalina de acero del alba",
+  "Puntas de jabalina de acero del alba"
+ ],
+ "02275": [
+  "Espada de acero del alba",
+  "Espadas de acero del alba"
+ ],
+ "02276": [
+  "Guantes de acero del alba",
+  "Guantes de acero del alba"
+ ],
+ "02277": [
+  "Cimitarra de acero del alba",
+  "Cimitarras de acero del alba"
+ ],
+ "02278": [
+  "Yelmo de acero del alba",
+  "Yelmos de acero del alba"
+ ],
+ "02279": "Bonificación de conjunto (con 3 piezas de acero del alba, sin contar los guantes): +5 de luz",
+ "02280": [
+  "Botas de acero del alba",
+  "Botas de acero del alba"
+ ],
+ "02281": [
+  "Escudo de acero del alba",
+  "Escudos de acero del alba"
+ ],
+ "02282": [
+  "Espada de acero del alba a 2 manos",
+  "Espadas de acero del alba a 2 manos"
+ ],
+ "02283": [
+  "Mazo de acero del alba",
+  "Mazos de acero del alba"
+ ],
+ "02284": [
+  "Arco de ballesta de acero del alba",
+  "Arcos de ballesta de acero del alba"
+ ],
+ "02285": [
+  "Perneras de acero del alba",
+  "Perneras de acero del alba"
+ ],
+ "02286": "Bonificación de conjunto (con 3 piezas de acero del alba, sin contar guantes ni escudo): +5 de luz",
+ "02287": [
+  "Peto de acero del alba",
+  "Petos de acero del alba"
+ ],
+ "02288": [
+  "Daga de dragón",
+  "Dagas de dragón"
+ ],
+ "02289": [
+  "Defensor de dragón",
+  "Defensores de dragón"
+ ],
+ "02290": [
+  "Puntas de flecha de dragón",
+  "Puntas de flecha de dragón"
+ ],
+ "02291": [
+  "Puntas de jabalina de dragón",
+  "Puntas de jabalina de dragón"
+ ],
+ "02292": [
+  "Espada de dragón",
+  "Espadas de dragón"
+ ],
+ "02293": [
+  "Guantes de dragón",
+  "Guantes de dragón"
+ ],
+ "02294": [
+  "Cimitarra de dragón",
+  "Cimitarras de dragón"
+ ],
+ "02295": [
+  "Yelmo de dragón",
+  "Yelmos de dragón"
+ ],
+ "02296": [
+  "Botas de dragón",
+  "Botas de dragón"
+ ],
+ "02297": [
+  "Escudo de dragón",
+  "Escudos de dragón"
+ ],
+ "02298": [
+  "Espada de dragón a 2 manos",
+  "Espadas de dragón a 2 manos"
+ ],
+ "02299": [
+  "Mazo de dragón",
+  "Mazos de dragón"
+ ],
+ "02300": [
+  "Arco de ballesta de dragón",
+  "Arcos de ballesta de dragón"
+ ],
+ "02301": [
+  "Perneras de dragón",
+  "Perneras de dragón"
+ ],
+ "02302": [
+  "Peto de dragón",
+  "Petos de dragón"
+ ],
+ "02303": [
+  "Topacio",
+  "Topacios"
+ ],
+ "02304": [
+  "Zafiro",
+  "Zafiros"
+ ],
+ "02305": [
+  "Rubí",
+  "Rubíes"
+ ],
+ "02306": [
+  "Esmeralda",
+  "Esmeraldas"
+ ],
+ "02307": [
+  "Diamante",
+  "Diamantes"
+ ],
+ "02308": [
+  "Jade",
+  "Jades"
+ ],
+ "02309": [
+  "Lingote de plata",
+  "Lingotes de plata"
+ ],
+ "02310": [
+  "Semilla de roble",
+  "Semillas de roble"
+ ],
+ "02311": [
+  "Semilla de sauce",
+  "Semillas de sauce"
+ ],
+ "02312": [
+  "Semilla de teca",
+  "Semillas de teca"
+ ],
+ "02313": [
+  "Semilla de arce",
+  "Semillas de arce"
+ ],
+ "02314": [
+  "Semilla de caoba",
+  "Semillas de caoba"
+ ],
+ "02315": [
+  "Semilla de tejo",
+  "Semillas de tejo"
+ ],
+ "02316": [
+  "Semilla de árbol mágico",
+  "Semillas de árbol mágico"
+ ],
+ "02317": [
+  "Semilla de roble duro",
+  "Semillas de roble duro"
+ ],
+ "02318": [
+  "Arco normal",
+  "Arcos normales"
+ ],
+ "02319": [
+  "Arco de roble",
+  "Arcos de roble"
+ ],
+ "02320": [
+  "Arco de sauce",
+  "Arcos de sauce"
+ ],
+ "02321": [
+  "Arco de arce",
+  "Arcos de arce"
+ ],
+ "02322": [
+  "Arco de tejo",
+  "Arcos de tejo"
+ ],
+ "02323": [
+  "Arco mágico",
+  "Arcos mágicos"
+ ],
+ "02324": [
+  "Arco de secuoya",
+  "Arcos de secuoya"
+ ],
+ "02325": [
+  "Flechas de piedra",
+  "Flechas de piedra"
+ ],
+ "02326": [
+  "Flechas de cobre",
+  "Flechas de cobre"
+ ],
+ "02327": [
+  "Flechas de hierro",
+  "Flechas de hierro"
+ ],
+ "02328": [
+  "Flechas de acero",
+  "Flechas de acero"
+ ],
+ "02329": [
+  "Flechas de mithril",
+  "Flechas de mithril"
+ ],
+ "02330": [
+  "Flechas de adamantio",
+  "Flechas de adamantio"
+ ],
+ "02331": [
+  "Flechas rúnicas",
+  "Flechas rúnicas"
+ ],
+ "02332": [
+  "Flechas de acero del alba",
+  "Flechas de acero del alba"
+ ],
+ "02333": [
+  "Flechas de dragón",
+  "Flechas de dragón"
+ ],
+ "02334": [
+  "Flechas sin punta",
+  "Flechas sin punta"
+ ],
+ "02335": [
+  "Plumas",
+  "Plumas"
+ ],
+ "02336": [
+  "Cuerda de arco",
+  "Cuerdas de arco"
+ ],
+ "02337": [
+  "Cuero",
+  "Cuero"
+ ],
+ "02338": [
+  "Piel de dragón verde",
+  "Pieles de dragón verde"
+ ],
+ "02339": [
+  "Cuero de dragón verde",
+  "Cuero de dragón verde"
+ ],
+ "02340": [
+  "Piel de dragón azul",
+  "Pieles de dragón azul"
+ ],
+ "02341": [
+  "Cuero de dragón azul",
+  "Cuero de dragón azul"
+ ],
+ "02342": [
+  "Piel de dragón rojo",
+  "Pieles de dragón rojo"
+ ],
+ "02343": [
+  "Cuero de dragón rojo",
+  "Cuero de dragón rojo"
+ ],
+ "02344": [
+  "Piel de dragón negro",
+  "Pieles de dragón negro"
+ ],
+ "02345": [
+  "Cuero de dragón negro",
+  "Cuero de dragón negro"
+ ],
+ "02346": [
+  "Botas de cuero",
+  "Botas de cuero"
+ ],
+ "02347": [
+  "Capucha de cuero",
+  "Capuchas de cuero"
+ ],
+ "02348": [
+  "Guardabrazos de cuero",
+  "Guardabrazos de cuero"
+ ],
+ "02349": [
+  "Pantalones de cuero",
+  "Pantalones de cuero"
+ ],
+ "02350": [
+  "Anillo de oro de topacio",
+  "Anillos de oro de topacio"
+ ],
+ "02351": [
+  "Esencia rúnica",
+  "Esencia rúnica"
+ ],
+ "02352": [
+  "Runa de aire",
+  "Runas de aire"
+ ],
+ "02353": [
+  "Runa mental",
+  "Runas mentales"
+ ],
+ "02354": [
+  "Runa de agua",
+  "Runas de agua"
+ ],
+ "02355": [
+  "Runa de tierra",
+  "Runas de tierra"
+ ],
+ "02356": [
+  "Runa de fuego",
+  "Runas de fuego"
+ ],
+ "02357": [
+  "Runa corporal",
+  "Runas corporales"
+ ],
+ "02358": [
+  "Runa de caos",
+  "Runas de caos"
+ ],
+ "02359": [
+  "Runa de muerte",
+  "Runas de muerte"
+ ],
+ "02360": [
+  "Runa de sangre",
+  "Runas de sangre"
+ ],
+ "02361": [
+  "Báculo de batalla de aire",
+  "Báculos de batalla de aire"
+ ],
+ "02362": [
+  "Báculo de batalla de agua",
+  "Báculos de batalla de agua"
+ ],
+ "02363": [
+  "Báculo de batalla de tierra",
+  "Báculos de batalla de tierra"
+ ],
+ "02364": [
+  "Báculo de batalla de fuego",
+  "Báculos de batalla de fuego"
+ ],
+ "02365": [
+  "Alga",
+  "Alga"
+ ],
+ "02366": [
+  "Cuerda",
+  "Cuerdas"
+ ],
+ "02367": [
+  "Basura",
+  "Basura"
+ ],
+ "02368": [
+  "Martillo arrojadizo de mithril a 2 manos",
+  "Martillos arrojadizos de mithril a 2 manos"
+ ],
+ "02369": [
+  "Martillo arrojadizo de adamantio a 2 manos",
+  "Martillos arrojadizos de adamantio a 2 manos"
+ ],
+ "02370": [
+  "Martillo arrojadizo rúnico a 2 manos",
+  "Martillos arrojadizos rúnicos a 2 manos"
+ ],
+ "02371": [
+  "Martillo arrojadizo de acero del alba a 2 manos",
+  "Martillos arrojadizos de acero del alba a 2 manos"
+ ],
+ "02372": [
+  "Martillo arrojadizo de dragón a 2 manos",
+  "Martillos arrojadizos de dragón a 2 manos"
+ ],
+ "02373": [
+  "Flechas de metal sin punta",
+  "Flechas de metal sin punta"
+ ],
+ "02374": [
+  "Runa de bruma",
+  "Runas de bruma"
+ ],
+ "02375": [
+  "Runa de polvo",
+  "Runas de polvo"
+ ],
+ "02376": [
+  "Runa de fango",
+  "Runas de fango"
+ ],
+ "02377": [
+  "Runa de humo",
+  "Runas de humo"
+ ],
+ "02378": [
+  "Runa de vapor",
+  "Runas de vapor"
+ ],
+ "02379": [
+  "Runa de lava",
+  "Runas de lava"
+ ],
+ "02380": [
+  "Asta de alce",
+  "Astas de alce"
+ ],
+ "02381": [
+  "Pan",
+  "Pan"
+ ],
+ "02382": [
+  "Ternera cruda",
+  "Ternera cruda"
+ ],
+ "02383": [
+  "Ternera",
+  "Ternera"
+ ],
+ "02384": [
+  "Carne cruda",
+  "Carne cruda"
+ ],
+ "02385": [
+  "Pollo crudo",
+  "Pollos crudos"
+ ],
+ "02386": [
+  "Pollo",
+  "Pollos"
+ ],
+ "02387": [
+  "Queso",
+  "Queso"
+ ],
+ "02388": [
+  "Flechas de metal de topacio",
+  "Flechas de metal de topacio"
+ ],
+ "02389": [
+  "Flechas de metal de zafiro",
+  "Flechas de metal de zafiro"
+ ],
+ "02390": [
+  "Flechas de metal de rubí",
+  "Flechas de metal de rubí"
+ ],
+ "02391": [
+  "Flechas de metal de esmeralda",
+  "Flechas de metal de esmeralda"
+ ],
+ "02392": [
+  "Flechas de metal de diamante",
+  "Flechas de metal de diamante"
+ ],
+ "02393": [
+  "Flechas de metal de jade",
+  "Flechas de metal de jade"
+ ],
+ "02394": [
+  "Perca cruda",
+  "Perca cruda"
+ ],
+ "02395": [
+  "Jurel crudo",
+  "Jureles crudos"
+ ],
+ "02396": [
+  "Lucio crudo",
+  "Lucio crudo"
+ ],
+ "02397": [
+  "Aleta luminosa cruda",
+  "Aletas luminosas crudas"
+ ],
+ "02398": [
+  "Dorada cruda",
+  "Dorada cruda"
+ ],
+ "02399": [
+  "Bacalao crudo",
+  "Bacalao crudo"
+ ],
+ "02400": [
+  "Lubina cruda",
+  "Lubina cruda"
+ ],
+ "02401": [
+  "Pez escorpión crudo",
+  "Peces escorpión crudos"
+ ],
+ "02402": [
+  "Medusa luminosa cruda",
+  "Medusas luminosas crudas"
+ ],
+ "02403": [
+  "Atún crudo",
+  "Atún crudo"
+ ],
+ "02404": [
+  "Calamar luminoso crudo",
+  "Calamares luminosos crudos"
+ ],
+ "02405": [
+  "Anguila gigante cruda",
+  "Anguilas gigantes crudas"
+ ],
+ "02406": [
+  "Bumerán de roble",
+  "Bumeranes de roble"
+ ],
+ "02407": [
+  "Bumerán de sauce",
+  "Bumeranes de sauce"
+ ],
+ "02408": [
+  "Bumerán de arce",
+  "Bumeranes de arce"
+ ],
+ "02409": [
+  "Bumerán de tejo",
+  "Bumeranes de tejo"
+ ],
+ "02410": [
+  "Bumerán mágico",
+  "Bumeranes mágicos"
+ ],
+ "02411": [
+  "Bumerán de secuoya",
+  "Bumeranes de secuoya"
+ ],
+ "02412": [
+  "Ballesta de hierro",
+  "Ballestas de hierro"
+ ],
+ "02413": [
+  "Ballesta de acero",
+  "Ballestas de acero"
+ ],
+ "02414": [
+  "Ballesta de mithril",
+  "Ballestas de mithril"
+ ],
+ "02415": [
+  "Ballesta de adamantio",
+  "Ballestas de adamantio"
+ ],
+ "02416": [
+  "Ballesta rúnica",
+  "Ballestas rúnicas"
+ ],
+ "02417": [
+  "Ballesta de acero del alba",
+  "Ballestas de acero del alba"
+ ],
+ "02418": [
+  "Ballesta de dragón",
+  "Ballestas de dragón"
+ ],
+ "02419": [
+  "Ballesta de acero a 2 manos",
+  "Ballestas de acero a 2 manos"
+ ],
+ "02420": [
+  "Ballesta de mithril a 2 manos",
+  "Ballestas de mithril a 2 manos"
+ ],
+ "02421": [
+  "Ballesta de adamantio a 2 manos",
+  "Ballestas de adamantio a 2 manos"
+ ],
+ "02422": [
+  "Ballesta rúnica a 2 manos",
+  "Ballestas rúnicas a 2 manos"
+ ],
+ "02423": [
+  "Ballesta de acero del alba a 2 manos",
+  "Ballestas de acero del alba a 2 manos"
+ ],
+ "02424": [
+  "Ballesta de dragón a 2 manos",
+  "Ballestas de dragón a 2 manos"
+ ],
+ "02425": [
+  "Runa en descomposición",
+  "Runas en descomposición"
+ ],
+ "02426": [
+  "Vara de aire",
+  "Varas de aire"
+ ],
+ "02427": [
+  "Báculo de aire",
+  "Báculos de aire"
+ ],
+ "02428": [
+  "Vara de agua",
+  "Varas de agua"
+ ],
+ "02429": [
+  "Báculo de agua",
+  "Báculos de agua"
+ ],
+ "02430": [
+  "Vara de tierra",
+  "Varas de tierra"
+ ],
+ "02431": [
+  "Báculo de tierra",
+  "Báculos de tierra"
+ ],
+ "02432": [
+  "Vara de fuego",
+  "Varas de fuego"
+ ],
+ "02433": [
+  "Báculo de fuego",
+  "Báculos de fuego"
+ ],
+ "02434": [
+  "Sombrero de mago de aire",
+  "Sombreros de mago de aire"
+ ],
+ "02435": "Pronto habrá información sobre la bonificación de conjunto (por ahora, equípalo para verla).",
+ "02436": [
+  "Botas de mago de aire",
+  "Botas de mago de aire"
+ ],
+ "02437": [
+  "Prenda inferior de mago de aire",
+  "Prendas inferiores de mago de aire"
+ ],
+ "02438": [
+  "Túnica de mago de aire",
+  "Túnicas de mago de aire"
+ ],
+ "02439": [
+  "Sombrero de mago de agua",
+  "Sombreros de mago de agua"
+ ]
+}

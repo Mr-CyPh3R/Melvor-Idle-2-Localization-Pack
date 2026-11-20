@@ -1,0 +1,613 @@
+{
+ "03411": [
+  "Botas de mago de aire (u)",
+  "Botas de mago de aire (u)"
+ ],
+ "03412": [
+  "Sombrero de mago elemental (u)",
+  "Sombrero de mago elemental (u)"
+ ],
+ "03413": [
+  "Túnica de mago elemental (u)",
+  "Túnica de mago elemental (u)"
+ ],
+ "03414": [
+  "Prenda inferior de mago elemental (u)",
+  "Prenda inferior de mago elemental (u)"
+ ],
+ "03415": [
+  "Botas de mago elemental (u)",
+  "Botas de mago elemental (u)"
+ ],
+ "03416": [
+  "Botas de minero",
+  "Botas de minero"
+ ],
+ "03417": [
+  "Guadaña de hueso",
+  "Guadañas de hueso"
+ ],
+ "03418": [
+  "Collar enjoyado",
+  "Collar enjoyado"
+ ],
+ "03419": [
+  "Cuchillo de artesano bestial",
+  "Cuchillo de artesano bestial"
+ ],
+ "03420": [
+  "Guantes de matabestias",
+  "Guantes de matabestias"
+ ],
+ "03421": [
+  "Vara del hermano perdido (c)",
+  "Vara del hermano perdido (c)"
+ ],
+ "03422": "Quizá no deberías haber robado esto.",
+ "03423": [
+  "Piedra preciada (c)",
+  "Piedra preciada (c)"
+ ],
+ "03424": [
+  "Tronco preciado (c)",
+  "Tronco preciado (c)"
+ ],
+ "03425": [
+  "Poción de cuerpo a cuerpo P1-A",
+  "Poción de cuerpo a cuerpo P1-A"
+ ],
+ "03426": [
+  "Hueso triturado",
+  "Huesos triturados"
+ ],
+ "03427": [
+  "Poción de cuerpo a cuerpo P2-A",
+  "Poción de cuerpo a cuerpo P2-A"
+ ],
+ "03428": [
+  "Poción de cuerpo a cuerpo P2-B",
+  "Poción de cuerpo a cuerpo P2-B"
+ ],
+ "03429": [
+  "Poción de ataque a distancia P1-A",
+  "Poción de ataque a distancia P1-A"
+ ],
+ "03430": [
+  "Poción de ataque a distancia P2-A",
+  "Poción de ataque a distancia P2-A"
+ ],
+ "03431": [
+  "Poción de ataque a distancia P2-B",
+  "Poción de ataque a distancia P2-B"
+ ],
+ "03432": [
+  "Poción de magia P1-A",
+  "Poción de magia P1-A"
+ ],
+ "03433": [
+  "Poción de magia P2-A",
+  "Poción de magia P2-A"
+ ],
+ "03434": [
+  "Poción de magia P2-B",
+  "Poción de magia P2-B"
+ ],
+ "03435": [
+  "Poción de ralentización P1-A",
+  "Poción de ralentización P1-A"
+ ],
+ "03436": [
+  "Poción de ralentización P2-A",
+  "Poción de ralentización P2-A"
+ ],
+ "03437": [
+  "Poción de ralentización P2-B",
+  "Poción de ralentización P2-B"
+ ],
+ "03438": [
+  "Poción de resistencia P1-A",
+  "Poción de resistencia P1-A"
+ ],
+ "03439": [
+  "Poción de resistencia P2-A",
+  "Poción de resistencia P2-A"
+ ],
+ "03440": [
+  "Poción de resistencia P2-B",
+  "Poción de resistencia P2-B"
+ ],
+ "03441": [
+  "Poción de exterminio P1-A",
+  "Poción de exterminio P1-A"
+ ],
+ "03442": [
+  "Poción de exterminio P2-A",
+  "Poción de exterminio P2-A"
+ ],
+ "03443": [
+  "Poción de exterminio P2-B",
+  "Poción de exterminio P2-B"
+ ],
+ "03444": [
+  "Poción de plegaria P1-A",
+  "Poción de plegaria P1-A"
+ ],
+ "03445": [
+  "Poción de plegaria P2-A",
+  "Poción de plegaria P2-A"
+ ],
+ "03446": [
+  "Poción de plegaria P2-B",
+  "Poción de plegaria P2-B"
+ ],
+ "03447": [
+  "Superpoción de cuerpo a cuerpo P1-A",
+  "Superpoción de cuerpo a cuerpo P1-A"
+ ],
+ "03448": [
+  "Esencia de sangre",
+  "Esencia de sangre"
+ ],
+ "03449": "Se usa para superpociones de combate en Herbología. Se compra en la tienda de exterminio.",
+ "03450": [
+  "Superpoción de cuerpo a cuerpo P2-A",
+  "Superpoción de cuerpo a cuerpo P2-A"
+ ],
+ "03451": [
+  "Superpoción de cuerpo a cuerpo P2-B",
+  "Superpoción de cuerpo a cuerpo P2-B"
+ ],
+ "03452": [
+  "Superpoción de ataque a distancia P1-A",
+  "Superpoción de ataque a distancia P1-A"
+ ],
+ "03453": [
+  "Superpoción de ataque a distancia P2-A",
+  "Superpoción de ataque a distancia P2-A"
+ ],
+ "03454": [
+  "Superpoción de ataque a distancia P2-B",
+  "Superpoción de ataque a distancia P2-B"
+ ],
+ "03455": [
+  "Superpoción de magia P1-A",
+  "Superpoción de magia P1-A"
+ ],
+ "03456": [
+  "Superpoción de magia P2-A",
+  "Superpoción de magia P2-A"
+ ],
+ "03457": [
+  "Superpoción de magia P2-B",
+  "Superpoción de magia P2-B"
+ ],
+ "03458": [
+  "Superpoción de ralentización P1-A",
+  "Superpoción de ralentización P1-A"
+ ],
+ "03459": [
+  "Superpoción de ralentización P2-A",
+  "Superpoción de ralentización P2-A"
+ ],
+ "03460": [
+  "Superpoción de ralentización P2-B",
+  "Superpoción de ralentización P2-B"
+ ],
+ "03461": [
+  "Superpoción de resistencia P1-A",
+  "Superpoción de resistencia P1-A"
+ ],
+ "03462": [
+  "Superpoción de resistencia P2-A",
+  "Superpoción de resistencia P2-A"
+ ],
+ "03463": [
+  "Superpoción de resistencia P2-B",
+  "Superpoción de resistencia P2-B"
+ ],
+ "03464": [
+  "Superpoción de exterminio P1-A",
+  "Superpoción de exterminio P1-A"
+ ],
+ "03465": [
+  "Superpoción de exterminio P2-A",
+  "Superpoción de exterminio P2-A"
+ ],
+ "03466": [
+  "Superpoción de exterminio P2-B",
+  "Superpoción de exterminio P2-B"
+ ],
+ "03467": [
+  "Superpoción de plegaria P1-A",
+  "Superpoción de plegaria P1-A"
+ ],
+ "03468": [
+  "Superpoción de plegaria P2-A",
+  "Superpoción de plegaria P2-A"
+ ],
+ "03469": [
+  "Superpoción de plegaria P2-B",
+  "Superpoción de plegaria P2-B"
+ ],
+ "03470": [
+  "Poción de cura de enfermedades P1-A",
+  "Poción de cura de enfermedades P1-A"
+ ],
+ "03471": [
+  "Poción de pez venenoso P1-A",
+  "Poción de pez venenoso P1-A"
+ ],
+ "03472": [
+  "Cuerno de guiverno",
+  "Cuernos de guiverno"
+ ],
+ "03473": [
+  "Señuelo para gusano",
+  "Señuelos para gusano"
+ ],
+ "03474": [
+  "Amuleto de arenas movedizas",
+  "Amuletos de arenas movedizas"
+ ],
+ "03475": [
+  "Tronco ceniciento",
+  "Troncos cenicientos"
+ ],
+ "03476": [
+  "Semilla de árbol ceniciento",
+  "Semillas de árbol ceniciento"
+ ],
+ "03477": [
+  "Espantapájaros normal",
+  "Espantapájaros normales"
+ ],
+ "03478": [
+  "Espantapájaros de sauce",
+  "Espantapájaros de sauce"
+ ],
+ "03479": [
+  "Espantapájaros de arce",
+  "Espantapájaros de arce"
+ ],
+ "03480": [
+  "Espantapájaros de roble duro",
+  "Espantapájaros de roble duro"
+ ],
+ "03481": [
+  "Espantapájaros ceniciento",
+  "Espantapájaros cenicientos"
+ ],
+ "03482": [
+  "Espada a 2 manos de colmillo de tormenta",
+  "Espada a 2 manos de colmillo de tormenta"
+ ],
+ "03483": [
+  "Lanza de dragón negro",
+  "Lanza de dragón negro"
+ ],
+ "03484": [
+  "Maza de Kelsarin",
+  "Maza de Kelsarin"
+ ],
+ "03485": [
+  "Defensor de nova electrizante",
+  "Defensor de nova electrizante"
+ ],
+ "03486": [
+  "Vara de olas de arena",
+  "Vara de olas de arena"
+ ],
+ "03487": [
+  "Báculo de entierro en arena",
+  "Báculo de entierro en arena"
+ ],
+ "03488": [
+  "Báculo de hipnosis",
+  "Báculo de hipnosis"
+ ],
+ "03489": [
+  "Báculo de dragón negro",
+  "Báculo de dragón negro"
+ ],
+ "03490": [
+  "Báculo de elemental de tormenta",
+  "Báculo de elemental de tormenta"
+ ],
+ "03491": [
+  "Báculo de Kelsarin",
+  "Báculo de Kelsarin"
+ ],
+ "03492": [
+  "Arco de dragón negro",
+  "Arco de dragón negro"
+ ],
+ "03493": [
+  "Arco de Kelsarin",
+  "Arco de Kelsarin"
+ ],
+ "03494": [
+  "Ballesta de lince de tormenta a 2 manos",
+  "Ballesta de lince de tormenta a 2 manos"
+ ],
+ "03495": [
+  "Capa de acechador brillante",
+  "Capa de acechador brillante"
+ ],
+ "03496": [
+  "Guantes de lanzamiento de arena",
+  "Guantes de lanzamiento de arena"
+ ],
+ "03497": [
+  "Botas de planeador de arena",
+  "Botas de planeador de arena"
+ ],
+ "03498": [
+  "Anillo de tormenta de arena",
+  "Anillo de tormenta de arena"
+ ],
+ "03499": [
+  "Amuleto hipnótico",
+  "Amuleto hipnótico"
+ ],
+ "03500": [
+  "Yelmo del despertar",
+  "Yelmo del despertar"
+ ],
+ "03501": [
+  "Capucha de piel de dragón de tormenta",
+  "Capucha de piel de dragón de tormenta"
+ ],
+ "03502": [
+  "Pantalones de piel de dragón de tormenta",
+  "Pantalones de piel de dragón de tormenta"
+ ],
+ "03503": [
+  "Peto de piel de dragón de tormenta",
+  "Peto de piel de dragón de tormenta"
+ ],
+ "03504": [
+  "Yelmo de matabestias V",
+  "Yelmo de matabestias V"
+ ],
+ "03505": [
+  "Prenda inferior de matabestias V",
+  "Prenda inferior de matabestias V"
+ ],
+ "03506": [
+  "Peto de matabestias V",
+  "Peto de matabestias V"
+ ],
+ "03507": [
+  "Escudo de escamas de dragón de gemas",
+  "Escudo de escamas de dragón de gemas"
+ ],
+ "03508": [
+  "Amuleto de dracolito devastador",
+  "Amuleto de dracolito devastador"
+ ],
+ "03509": [
+  "Amuleto de dracolito escupefuego",
+  "Amuleto de dracolito escupefuego"
+ ],
+ "03510": [
+  "Amuleto de dracolito tirano",
+  "Amuleto de dracolito tirano"
+ ],
+ "03511": [
+  "Vara hipnotizadora",
+  "Varas hipnotizadoras"
+ ],
+ "03512": [
+  "Arenisca",
+  "Arenisca"
+ ],
+ "03513": [
+  "Piel de gusano de arena",
+  "Pieles de gusano de arena"
+ ],
+ "03514": [
+  "Cofre del gusano",
+  "Cofres del gusano"
+ ],
+ "03515": [
+  "Cofre de arenas cambiantes",
+  "Cofres de arenas cambiantes"
+ ],
+ "03516": [
+  "Arenas del tiempo",
+  "Arenas del tiempo"
+ ],
+ "03517": [
+  "Piedra del sueño",
+  "Piedras del sueño"
+ ],
+ "03518": [
+  "Cofre de calamar brillante",
+  "Cofres de calamar brillante"
+ ],
+ "03519": [
+  "Hueso de dragón grande",
+  "Huesos de dragón grandes"
+ ],
+ "03520": [
+  "Cofre de dragón negro",
+  "Cofres de dragón negro"
+ ],
+ "03521": [
+  "Ala negra grande",
+  "Alas negras grandes"
+ ],
+ "03522": [
+  "Piel de lince de tormenta",
+  "Pieles de lince de tormenta"
+ ],
+ "03523": [
+  "Esencia de tormenta",
+  "Esencia de tormenta"
+ ],
+ "03524": [
+  "Tormenta embotellada",
+  "Tormenta embotellada"
+ ],
+ "03525": [
+  "Colmillo de tormenta",
+  "Colmillos de tormenta"
+ ],
+ "03526": [
+  "Piel de dragón de tormenta",
+  "Pieles de dragón de tormenta"
+ ],
+ "03527": [
+  "Guardabrazos de piel de dragón de tormenta",
+  "Guardabrazos de piel de dragón de tormenta"
+ ],
+ "03528": [
+  "Máscara de guerra de Kelsarin",
+  "Máscaras de guerra de Kelsarin"
+ ],
+ "03529": [
+  "Guantes de Kelsarin",
+  "Guantes de Kelsarin"
+ ],
+ "03530": [
+  "Jabalina de Kelsarin",
+  "Jabalinas de Kelsarin"
+ ],
+ "03531": [
+  "Botas de dracolito",
+  "Botas de dracolito"
+ ],
+ "03532": [
+  "Guanteletes de dracolito",
+  "Guanteletes de dracolito"
+ ],
+ "03533": [
+  "Escama de dracolito devastador",
+  "Escamas de dracolito devastador"
+ ],
+ "03534": [
+  "Escama de dracolito escupefuego",
+  "Escamas de dracolito escupefuego"
+ ],
+ "03535": [
+  "Escama de dracolito tirano",
+  "Escamas de dracolito tirano"
+ ],
+ "03536": [
+  "Cinturón cubierto de arena",
+  "Cinturón cubierto de arena"
+ ],
+ "03537": [
+  "Gemaescama de zafiro",
+  "Gemaescamas de zafiro"
+ ],
+ "03538": [
+  "Gemaescama de rubí",
+  "Gemaescamas de rubí"
+ ],
+ "03539": [
+  "Gemaescama de esmeralda",
+  "Gemaescamas de esmeralda"
+ ],
+ "03540": [
+  "Sombrero del desierto",
+  "Sombreros del desierto"
+ ],
+ "03541": [
+  "Guantelete básico de exterminio",
+  "Guanteletes básicos de exterminio"
+ ],
+ "03542": [
+  "Contrato de desafío de exterminio",
+  "Contratos de desafío de exterminio"
+ ],
+ "03543": [
+  "Fragmento de gema",
+  "Fragmento de gema"
+ ],
+ "03544": [
+  "Gancho",
+  "Ganchos"
+ ],
+ "03545": [
+  "Cuero de piel de dragón de tormenta",
+  "Cuero de piel de dragón de tormenta"
+ ],
+ "03546": [
+  "Cuero de gusano de arena",
+  "Cuero de gusano de arena"
+ ],
+ "03547": [
+  "Núcleo de elemental de tormenta",
+  "Núcleo de elemental de tormenta"
+ ],
+ "03548": [
+  "Mono de apicultor",
+  "Monos de apicultor"
+ ],
+ "03549": [
+  "Foco de mago oscuro",
+  "Foco de mago oscuro"
+ ],
+ "03550": [
+  "Guantes de extracción cuidadosa",
+  "Guantes de extracción cuidadosa"
+ ],
+ "03551": [
+  "Botas de brote de árbol",
+  "Botas de brote de árbol"
+ ],
+ "03552": [
+  "Guantes de brasas ardientes",
+  "Guantes de brasas ardientes"
+ ],
+ "03553": [
+  "Olla de cocina nómada",
+  "Ollas de cocina nómada"
+ ],
+ "03554": [
+  "Libro rúnico de acólito",
+  "Libros rúnicos de acólito"
+ ],
+ "03555": [
+  "Punzón de arquería afilado",
+  "Punzones de arquería afilados"
+ ],
+ "03556": [
+  "Kit de costura de colmillo de dragón",
+  "Kit de costura de colmillo de dragón"
+ ],
+ "03557": [
+  "Guantes de tejedor",
+  "Guantes de tejedor"
+ ],
+ "03558": [
+  "Morral de saqueador de tumbas",
+  "Morral de saqueador de tumbas"
+ ],
+ "03559": [
+  "Guantes de forja hobgolbin",
+  "Guantes de forja hobgolbin"
+ ],
+ "03560": [
+  "Pepita de oro",
+  "Pepitas de oro"
+ ],
+ "03561": [
+  "Pico del picapedrero (dañado)",
+  "Pico del picapedrero (dañado)"
+ ],
+ "03562": "Quizá deberías repararlo en Herrería.",
+ "03563": [
+  "Pico del picapedrero",
+  "Pico del picapedrero"
+ ],
+ "03564": [
+  "Pico imbuido de esencia (dañado)",
+  "Pico imbuido de esencia (dañado)"
+ ],
+ "03565": [
+  "Pico imbuido de esencia",
+  "Pico imbuido de esencia"
+ ]
+}

@@ -1,0 +1,603 @@
+{
+"02953": [
+"Peto de cuero de caribú",
+"Peto de cuero de caribú"
+],
+"02954": [
+"Cuero de hiena rayada",
+"Cuero de hiena rayada"
+],
+"02955": [
+"Sombrero de camuflaje de piel",
+"Sombrero de camuflaje de piel"
+],
+"02956": [
+"Pantalones de camuflaje de piel",
+"Pantalones de camuflaje de piel"
+],
+"02957": [
+"Peto de camuflaje de piel",
+"Peto de camuflaje de piel"
+],
+"02958": [
+"Sombrero de camuflaje de lomoespinoso",
+"Sombrero de camuflaje de lomoespinoso"
+],
+"02959": [
+"Pantalones de camuflaje de lomoespinoso",
+"Pantalones de camuflaje de lomoespinoso"
+],
+"02960": [
+"Peto de camuflaje de lomoespinoso",
+"Peto de camuflaje de lomoespinoso"
+],
+"02961": [
+"Sombrero de camuflaje de bestia rayada",
+"Sombrero de camuflaje de bestia rayada"
+],
+"02962": [
+"Pantalones de camuflaje de bestia rayada",
+"Pantalones de camuflaje de bestia rayada"
+],
+"02963": [
+"Peto de camuflaje de bestia rayada",
+"Peto de camuflaje de bestia rayada"
+],
+"02964": [
+"Morral de trampero de piel",
+"Morral de trampero de piel"
+],
+"02965": [
+"Botas de piel rayada",
+"Botas de piel rayada"
+],
+"02966": [
+"Estaca de ñu",
+"Estaca de ñu"
+],
+"02967": [
+"Garras de ñu",
+"Garras de ñu"
+],
+"02968": [
+"Arco de raptor",
+"Arco de raptor"
+],
+"02969": [
+"Ballesta de raptor",
+"Ballesta de raptor"
+],
+"02970": [
+"Ballesta de raptor a 2 manos",
+"Ballesta de raptor a 2 manos"
+],
+"02971": [
+"Arco de grifo",
+"Arco de grifo"
+],
+"02972": [
+"Anillo de ñu",
+"Anillo de ñu"
+],
+"02973": [
+"Flecha de hueso de dragón",
+"Flechas de hueso de dragón"
+],
+"02974": [
+"Virotes de hueso de dragón",
+"Virotes de hueso de dragón"
+],
+"02975": [
+"Hallazgos de reconocimiento pequeños",
+"Hallazgos de reconocimiento pequeños"
+],
+"02976": "Pequeño surtido de posibles objetos encontrados al hacer reconocimiento en Caza.",
+"02977": [
+"Hallazgos de reconocimiento medianos",
+"Hallazgos de reconocimiento medianos"
+],
+"02978": "Surtido mediano de posibles objetos encontrados al hacer reconocimiento en Caza.",
+"02979": [
+"Hallazgos de reconocimiento grandes",
+"Hallazgos de reconocimiento grandes"
+],
+"02980": "Gran surtido de posibles objetos encontrados al hacer reconocimiento en Caza.",
+"02981": [
+"Cuerno de bestia Scabjaw",
+"Cuerno de bestia Scabjaw"
+],
+"02982": [
+"Trampa para Torag",
+"Trampa para Torag"
+],
+"02983": [
+"Huevo dorado (c)",
+"Huevo dorado (c)"
+],
+"02984": [
+"Leche con cacao (c)",
+"Leche con cacao (c)"
+],
+"02985": [
+"Pluma de colaverde esmeralda (c)",
+"Pluma de colaverde esmeralda (c)"
+],
+"02986": [
+"Púa de lagarto de obsidiana (c)",
+"Púa de lagarto de obsidiana (c)"
+],
+"02987": [
+"Ala de mariposa esmeralda (c)",
+"Ala de mariposa esmeralda (c)"
+],
+"02988": [
+"Pluma de colazul zafiro (c)",
+"Pluma de colazul zafiro (c)"
+],
+"02989": [
+"Colmillo de jabalí de hierro (c)",
+"Colmillo de jabalí de hierro (c)"
+],
+"02990": [
+"Pluma de colamarilla topacio (c)",
+"Pluma de colamarilla topacio (c)"
+],
+"02991": [
+"Colmillo ígneo (c)",
+"Colmillo ígneo (c)"
+],
+"02992": [
+"Pluma de colanegra ónice (c)",
+"Pluma de colanegra ónice (c)"
+],
+"02993": [
+"Colmillo de araña abismal (c)",
+"Colmillo de araña abismal (c)"
+],
+"02994": [
+"Asta de cuernoestelar (c)",
+"Asta de cuernoestelar (c)"
+],
+"02995": [
+"Trofeo de alfa de la estepa (c)",
+"Trofeo de alfa de la estepa (c)"
+],
+"02996": [
+"Trofeo de lobo alfa terrible (c)",
+"Trofeo de lobo alfa terrible (c)"
+],
+"02997": [
+"Pluma de ceniza (c)",
+"Pluma de ceniza (c)"
+],
+"02998": [
+"Trofeo de alfa nocturrayado (c)",
+"Trofeo de alfa nocturrayado (c)"
+],
+"02999": [
+"Cuerno de bestia Ironjaw (c)",
+"Cuerno de bestia Ironjaw (c)"
+],
+"03000": [
+"Cuerno de bestia carmesí (c)",
+"Cuerno de bestia carmesí (c)"
+],
+"03001": [
+"Ala de brillo sepulcral (c)",
+"Ala de brillo sepulcral (c)"
+],
+"03002": [
+"Hebra de aire (c)",
+"Hebra de aire (c)"
+],
+"03003": [
+"Hebra de agua (c)",
+"Hebra de agua (c)"
+],
+"03004": [
+"Hebra de tierra (c)",
+"Hebra de tierra (c)"
+],
+"03005": [
+"Hebra de espíritu (c)",
+"Hebra de espíritu (c)"
+],
+"03006": [
+"Trofeo de raptor primigenio (c)",
+"Trofeo de raptor primigenio (c)"
+],
+"03007": [
+"Pluma de halcón alaceniza (c)",
+"Pluma de halcón alaceniza (c)"
+],
+"03008": [
+"Trofeo de grifo antiguo (c)",
+"Trofeo de grifo antiguo (c)"
+],
+"03009": [
+"Trofeo de Torag gar alfa (c)",
+"Trofeo de Torag gar alfa (c)"
+],
+"03010": [
+"Trofeo de Torag fin alfa (c)",
+"Trofeo de Torag fin alfa (c)"
+],
+"03011": [
+"Trofeo de Torag cul alfa (c)",
+"Trofeo de Torag cul alfa (c)"
+],
+"03012": [
+"Trofeo de Torag belra alfa (c)",
+"Trofeo de Torag belra alfa (c)"
+],
+"03013": [
+"Asta de coronagélida (c)",
+"Asta de coronagélida (c)"
+],
+"03014": [
+"Sombrero de camuflaje de colmillo negro",
+"Sombrero de camuflaje de colmillo negro"
+],
+"03015": [
+"Pantalones de camuflaje de colmillo negro",
+"Pantalones de camuflaje de colmillo negro"
+],
+"03016": [
+"Peto de camuflaje de colmillo negro",
+"Peto de camuflaje de colmillo negro"
+],
+"03017": [
+"Cesta de lino para plumas",
+"Cesta de lino para plumas"
+],
+"03018": [
+"Escudo de escamas de dragón verde",
+"Escudo de escamas de dragón verde"
+],
+"03019": [
+"Escudo de escamas de dragón azul",
+"Escudo de escamas de dragón azul"
+],
+"03020": [
+"Escudo de escamas de dragón rojo",
+"Escudo de escamas de dragón rojo"
+],
+"03021": [
+"Guanteletes de bestia Scabjaw",
+"Guanteletes de bestia Scabjaw"
+],
+"03022": [
+"Escudo de escamas de dragón negro",
+"Escudo de escamas de dragón negro"
+],
+"03023": [
+"Cincel de asta de caribú",
+"Cincel de asta de caribú"
+],
+"03024": [
+"Tallador de asta de caribú",
+"Tallador de asta de caribú"
+],
+"03025": [
+"Arco de arpía",
+"Arco de arpía"
+],
+"03026": [
+"Ballesta de arpía",
+"Ballesta de arpía"
+],
+"03027": [
+"Ballesta de arpía a 2 manos",
+"Ballesta de arpía a 2 manos"
+],
+"03028": [
+"Vara de calaveras",
+"Vara de calaveras"
+],
+"03029": [
+"Báculo de calaveras",
+"Báculo de calaveras"
+],
+"03030": [
+"Mazo de colmillo negro",
+"Mazo de colmillo negro"
+],
+"03031": [
+"Mazo de ñu",
+"Mazo de ñu"
+],
+"03032": [
+"Daga de bestia Scabjaw",
+"Daga de bestia Scabjaw"
+],
+"03033": [
+"Mazo de bestia Scabjaw",
+"Mazo de bestia Scabjaw"
+],
+"03034": [
+"Amuleto de bestia Scabjaw",
+"Amuleto de bestia Scabjaw"
+],
+"03035": [
+"Entrada a la arena",
+"Entradas a la arena"
+],
+"03036": "Permite entrar en las arenas de agilidad. Se consume una al empezar cada recorrido.",
+"03037": [
+"Ficha de recompensa de la arena",
+"Fichas de recompensa de la arena"
+],
+"03038": "Recompensa por completar arenas de agilidad. Se puede gastar en la tienda.",
+"03039": [
+"Limón",
+"Limón"
+],
+"03040": [
+"Ganzúa",
+"Ganzúa"
+],
+"03041": [
+"Pasamontañas",
+"Pasamontañas"
+],
+"03042": [
+"Brazalete de matón",
+"Brazaletes de matón"
+],
+"03043": [
+"Anillo del jefe matón",
+"Anillo del jefe matón"
+],
+"03044": [
+"Mitad de llave del cofre de los matones (a)",
+"Mitad de llave del cofre de los matones (a)"
+],
+"03045": [
+"Mitad de llave del cofre de los matones (b)",
+"Mitad de llave del cofre de los matones (b)"
+],
+"03046": [
+"Llave del cofre de los matones",
+"Llave del cofre de los matones"
+],
+"03047": [
+"Monóculo de artesano",
+"Monóculo de artesano"
+],
+"03048": [
+"Impermeable de pescador",
+"Impermeable de pescador"
+],
+"03049": [
+"Gorro de chef",
+"Gorro de chef"
+],
+"03050": [
+"Sombrero de paja",
+"Sombrero de paja"
+],
+"03051": [
+"Mitad de llave del cofre de los ganaderos (a)",
+"Mitad de llave del cofre de los ganaderos (a)"
+],
+"03052": [
+"Mitad de llave del cofre de los ganaderos (b)",
+"Mitad de llave del cofre de los ganaderos (b)"
+],
+"03053": [
+"Llave del cofre de los ganaderos",
+"Llave del cofre de los ganaderos"
+],
+"03054": [
+"Cinturón de ganadero",
+"Cinturón de ganadero"
+],
+"03055": [
+"Mortero y maja",
+"Mortero y maja"
+],
+"03056": [
+"Tiara de runista",
+"Tiara de runista"
+],
+"03057": [
+"Vara de mistificación",
+"Vara de mistificación"
+],
+"03058": [
+"Libro del experimentador",
+"Libro del experimentador"
+],
+"03059": [
+"Diadema maldita",
+"Diadema maldita"
+],
+"03060": [
+"Grimorio prohibido",
+"Grimorio prohibido"
+],
+"03061": [
+"Guantes de bandido",
+"Guantes de bandido"
+],
+"03062": [
+"Guardabrazo de arquero",
+"Guardabrazo de arquero"
+],
+"03063": [
+"Guantes de leñador",
+"Guantes de leñador"
+],
+"03064": [
+"Hacha frondosa",
+"Hachas frondosas"
+],
+"03065": [
+"Arco de bandido",
+"Arco de bandido"
+],
+"03066": [
+"Carcaj de oro",
+"Carcaj de oro"
+],
+"03067": [
+"Ballesta recargadora a 2 manos",
+"Ballesta recargadora a 2 manos"
+],
+"03068": [
+"Tenazas de herrero",
+"Tenazas de herrero"
+],
+"03069": [
+"Caja del banco",
+"Caja del banco"
+],
+"03070": [
+"Zapatos de plebeyo",
+"Zapatos de plebeyo"
+],
+"03071": [
+"Mitad de llave del cofre del banco (a)",
+"Mitad de llave del cofre del banco (a)"
+],
+"03072": [
+"Mitad de llave del cofre del banco (b)",
+"Mitad de llave del cofre del banco (b)"
+],
+"03073": [
+"Llave del cofre del banco",
+"Llave del cofre del banco"
+],
+"03074": [
+"Casco de minero",
+"Casco de minero"
+],
+"03075": [
+"Farol de veta de gemas",
+"Farol de veta de gemas"
+],
+"03076": [
+"Férula de piedra antigua",
+"Férula de piedra antigua"
+],
+"03077": [
+"Camisa elegante",
+"Camisa elegante"
+],
+"03078": [
+"Cimitarra del palacio",
+"Cimitarra del palacio"
+],
+"03079": [
+"Vara del palacio",
+"Vara del palacio"
+],
+"03080": [
+"Botas aladas",
+"Botas aladas"
+],
+"03081": [
+"Medallón de Aphiros",
+"Medallón de Aphiros"
+],
+"03082": [
+"Kit de rastreo",
+"Kit de rastreo"
+],
+"03083": [
+"Mitad de llave del cofre de bestias (a)",
+"Mitad de llave del cofre de bestias (a)"
+],
+"03084": [
+"Mitad de llave del cofre de bestias (b)",
+"Mitad de llave del cofre de bestias (b)"
+],
+"03085": [
+"Llave del cofre de bestias",
+"Llave del cofre de bestias"
+],
+"03086": [
+"Llave de plata (Biblioteca Prohibida)",
+"Llave de plata (Biblioteca Prohibida)"
+],
+"03087": [
+"Llave de oro (Biblioteca Prohibida)",
+"Llave de oro (Biblioteca Prohibida)"
+],
+"03088": [
+"Llave de plata (Bienes robados)",
+"Llave de plata (Bienes robados)"
+],
+"03089": [
+"Llave de oro (Bienes robados)",
+"Llave de oro (Bienes robados)"
+],
+"03090": [
+"Llave de plata (Mina profunda)",
+"Llave de plata (Mina profunda)"
+],
+"03091": [
+"Llave de oro (Mina profunda)",
+"Llave de oro (Mina profunda)"
+],
+"03092": [
+"Llave de plata (Cámara del palacio)",
+"Llave de plata (Cámara del palacio)"
+],
+"03093": [
+"Llave de oro (Cámara del palacio)",
+"Llave de oro (Cámara del palacio)"
+],
+"03094": [
+"Poción de tala P1-A",
+"Poción de tala P1-A"
+],
+"03095": [
+"Esencia sintonizada",
+"Esencia sintonizada"
+],
+"03096": [
+"Poción de tala P2-A",
+"Poción de tala P2-A"
+],
+"03097": [
+"Poción de tala P2-B",
+"Poción de tala P2-B"
+],
+"03098": [
+"Poción de pesca P1-A",
+"Poción de pesca P1-A"
+],
+"03099": [
+"Poción de pesca P2-A",
+"Poción de pesca P2-A"
+],
+"03100": [
+"Poción de pesca P2-B",
+"Poción de pesca P2-B"
+],
+"03101": [
+"Poción de minería P1-A",
+"Poción de minería P1-A"
+],
+"03102": [
+"Poción de minería P2-A",
+"Poción de minería P2-A"
+],
+"03103": [
+"Poción de minería P2-B",
+"Poción de minería P2-B"
+],
+"03104": [
+"Poción de dominio del fuego P1-A",
+"Poción de dominio del fuego P1-A"
+],
+"03105": [
+"Poción de dominio del fuego P2-A",
+"Poción de dominio del fuego P2-A"
+],
+"03106": [
+"Poción de dominio del fuego P2-B",
+"Poción de dominio del fuego P2-B"
+]
+}

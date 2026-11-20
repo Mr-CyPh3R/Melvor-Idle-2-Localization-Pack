@@ -3,7 +3,8 @@
 ## Unreleased
 
 ### New languages
-* French (Français): 13,605 texts. 586 (4%) from the official French translation of Melvor Idle, 13,019 (96%) translated by AI.
+* French (Français): 13,603 texts. 586 (4%) from the official French translation of Melvor Idle, 13,017 (96%) translated by AI.
+* Spanish (Español): 13,603 texts. 601 (4%) from the official Spanish translation of Melvor Idle, 13,002 (96%) translated by AI.
 
 ### Fixes
 * Time units are now always shown in the selected language. The game formats durations (for example "10 minutes" in the "Welcome back" window) in the Windows language, not in the game language. The script now recognises time units of every language in the pack and replaces them with the selected language.

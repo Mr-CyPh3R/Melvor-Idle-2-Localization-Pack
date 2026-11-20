@@ -64,6 +64,36 @@
       "work": "fr",
       "display": "Français, France",
       "locale": "fr"
+    },
+    "es_ES": {
+      "name": "Español",
+      "english_name": "Spanish",
+      "file": "Languages/es_ES.po",
+      "work": "es",
+      "display": "Español, España",
+      "locale": "es",
+      "units": {
+        "day": [
+          "día",
+          "días"
+        ],
+        "hour": [
+          "hora",
+          "horas"
+        ],
+        "minute": [
+          "minuto",
+          "minutos"
+        ],
+        "second": [
+          "segundo",
+          "segundos"
+        ],
+        "turn": [
+          "turno",
+          "turnos"
+        ]
+      }
     }
   }
 }
