@@ -1,0 +1,64 @@
+{
+ "13267": "Moeda possuída na ação",
+ "13268": "Exige possuir uma quantidade de uma moeda na carteira de uma ação",
+ "13269": "Item possuído na ação",
+ "13270": "Exige possuir uma quantidade de um item no inventário de uma ação",
+ "13271": "Máximo de moeda possuída na ação",
+ "13272": "Exige possuir uma quantidade menor ou igual de uma moeda na carteira de uma ação",
+ "13273": "Máximo de item possuído na ação",
+ "13274": "Exige possuir uma quantidade menor ou igual de um item no inventário de uma ação",
+ "13275": "Redimensionar",
+ "13276": "Topo",
+ "13277": "Base",
+ "13278": "Este conteúdo não está disponível na Demo",
+ "13279": "[img height=1.25em]{EntityIcon}[/img] Compre [b]{CategoryName} -> {PurchaseName} {Current} / {Max}[/b] vezes na Loja",
+ "13280": [
+  "Geodo",
+  "Geodos"
+ ],
+ "13281": [
+  "Laranja",
+  "Laranjas"
+ ],
+ "13282": [
+  "Manga",
+  "Mangas"
+ ],
+ "13283": [
+  "ToolbeltOPnessItem",
+  "ToolbeltOPnessItem"
+ ],
+ "13284": [
+  "Aurora",
+  "Auroras"
+ ],
+ "13285": "Túnica de Mago da Terra",
+ "13286": "Túnica de Mago do Fogo",
+ "13287": "Isca de Legumes",
+ "13288": "Monóculo do Artesão",
+ "13289": "Túnica de Sangue",
+ "13290": "Túnica Afogada",
+ "13291": "Túnica de Escama Noturna",
+ "13292": "Capuz do Ateneu de Marfim",
+ "13293": "Capuzes do Ateneu de Marfim",
+ "13294": "Túnica do Ateneu de Marfim",
+ "13295": "Túnicas do Ateneu de Marfim",
+ "13296": "Calças do Ateneu de Marfim",
+ "13297": "Túnica de Massa de Lodo",
+ "13298": "Contrate um Ajudante da Fazenda I, que desbloqueia automações para todas as ações de Agricultura com [b]requisito de nível de Agricultura abaixo de [color=orange]30[/color][/b]. Cobra Vinho como pagamento pelos serviços.",
+ "13299": "Concede acesso a novas zonas de Extermínio.",
+ "13300": "É... dizem que eu sei encontrar umas coisas, de vez em quando.",
+ "13301": "E o que os seus... contatos iriam querer?",
+ "13302": "Depois de uma breve estadia em Azamire, você e [Companion Name] têm dificuldade para descansar. Ainda há muito a ser feito. O Cabecilha foi só o primeiro passo.",
+ "13303": "O dia seguinte ao ataque ao forte do Cabecilha é recebido com uma mistura de alegria, alívio, luto e... incerteza. \nEmbora o ataque tenha sido um sucesso, as baixas chegam a algumas dezenas, um duro golpe para a população já abalada da sua terra.\n\nNo entanto, com tantos refugiados indo e vindo hoje em dia, fica difícil acompanhar as altas e baixas da população local. Pode parecer frieza, mas é um alívio que ninguém próximo de você tenha caído, embora alguns dos primeiros recrutas da milícia que você e [Companion Name] treinaram estivessem entre os corpos trazidos de volta nas carroças.\n\nMas os acontecimentos de ontem não bastaram para deixar você ou [Companion Name] abatidos por muito tempo. Vocês dois partem de volta ao forte ao raiar do dia, em busca de rastros da caravana que viram deixar o forte na primeira missão de reconhecimento. As construções atrás da muralha grossa ainda fumegavam da noite anterior, lembrando a batalha a vocês dois.",
+ "13304": "Seguir a caravana leva uma eternidade. Você viaja para o norte, para fora do Bosque Ancestral, até que, a apenas uma hora de caminhada da cidade de Hirane, os rastros acabam. Várias carroças foram paradas ali e queimadas, provavelmente pelos próprios hobgolbins que as traziam. Parece que vários prisioneiros foram mortos, embora você não saiba por quê. Pelo que consegue deduzir, o grupo se dividiu em bem mais de trinta grupos menores, cada um seguindo numa direção. Sem dúvida é impossível seguir todos, ainda mais porque são bem mais difíceis de rastrear do que as carroças.\n\nPor um instante, você se preocupa com a segurança de Hirane, até perceber que os golbins precisariam de um pequeno exército para arrasar uma cidade daquele tamanho. Ficar na Estrada do Coração, uma das principais rotas para a capital de Melvor, certamente tinha suas vantagens. Poder comprar armas e armaduras bem trabalhadas era a principal delas, mas a presença dos Golbins ainda deixava você com um pé atrás.\n\nVocê e [Companion Name] decidem entrar na cidade, e o clima geral do lugar é... tenso. Pessoas que parecem ser moradores passam apressadas por aldeões abatidos, com ar assombrado. É uma cena que você conhece bem, mas é uma surpresa vê-la aqui. Logo um homem de aparência meticulosa, com um bigode impecavelmente cuidado e uma carranca permanente gravada no rosto, aborda você e [Companion Name].",
+ "13305": "Simplesmente não tenho tempo para conversa fiada. Vocês dois são só mais um entre muitos grupos chegando à cidade.",
+ "13306": "Curo aperta os lábios ao dizer isso, parecendo um pouco perdido sobre o que falar em seguida. Ele opta por um leve aceno de cabeça e então pede licença, com seus acompanhantes logo atrás.\n\nA mulher com quem você deixou as mercadorias pergunta, educada mas tímida, se vocês dois poderiam dar só mais uma ajudinha, já que pelo jeito vão ficar presos aqui de qualquer forma. Você olha para [Companion Name], que só dá de ombros. Por que não? Ela logo leva vocês até uma tenda de cozinha ali perto, onde uma fila de refugiados famintos espera ansiosa. Parece que a equipe atual não está dando conta.",
+ "13307": "Depois de estudar a fundo os relatórios dos batedores de Hirane, você tem certeza de uma coisa. As figuras encapuzadas que atacaram Azamire e parecem estar sequestrando e transportando moradores seguiram para bem longe, a leste. Com que objetivo, você nem consegue arriscar um palpite.",
+ "13308": "Você sai pelo portão de Hirane e se vê no meio do interior. Você viaja para o leste pela Estrada do Coração, sabendo que, se for longe o bastante, será quase impossível não encontrar Clearwater. Pelo que conseguiu descobrir com o pessoal de Hirane, Clearwater funciona como o principal ponto de parada entre o lado leste e o lado oeste das Planícies Desérticas. Você ouviu falar de muitos pequenos pontos de descanso e vilarejos entre lá e aqui, mas poucos eram notáveis o bastante para guardar na memória.\n\nA Estrada do Coração costuma ser bem construída e conservada, mesmo tão longe da capital, mas à medida que a grama vira solo árido e, por fim, areia, fica mais difícil acompanhar a Estrada do Coração. Apesar do que o povo de Hirane disse sobre haver lugares para descansar no caminho até Clearwater, a maioria das construções pelas quais vocês passam está abandonada, engolida pelas areias.\n\nO sol castiga lá de cima de um jeito que você não conhece, a não ser nos dias mais quentes de verão em Azamire. Não há trégua do calor, só areia se estendendo no que parecem ondas douradas sem fim.",
+ "13309": "Você limpa a água de cacto da boca. Vocês dois furaram muitos dos cactos por perto e começam a se afastar do grupo original. Vocês se pegam dando risadinhas e cambaleando de um lado para o outro, apesar de estarem definitivamente mais hidratados. Você se preocupa que algo possa estar errado, mas como poderia? Você se sente tão bem. [Companion Name] quase desaba em cima de você numa crise de risadinhas, com a areia ondulando em padrões hipnotizantes embaixo de vocês.",
+ "13310": "Os cactos à sua frente agora parecem... maiores. E se mexem. Mas tudo está se mexendo, então isso não é tão estranho. O estranho é que um dos cactos balança um dos braços espinhosos na direção da sua cabeça quando você tenta cortá-lo com o machado. Os espinhos cravados na lateral do seu rosto tiram você dos efeitos alucinógenos da água de cacto.\n\nTudo ao seu redor para de se mexer, menos o... cacto furioso à sua frente. E todos os que estão atrás dele. Eles deslizam pela areia e estendem os braços. São de verdade. Você chama [Companion Name], que parece estar tendo uma revelação parecida.",
+ "13311": "Os espinhos dos cactos são difíceis de encarar e exigem uma forma de lutar muito mais defensiva do que o seu costume, mas está tudo bem. O grupo de cactos jaz abatido aos seus pés, e os... efeitos da água de cacto parecem ter passado.\n\nVocê segue para Clearwater, tomando só goles pequenos e ocasionais da água de cacto que coletou quando é absolutamente necessário. Você com certeza dá mais risadinhas do que de costume e cambaleia de leve, mas, com essa moderação, os piores efeitos nunca chegam a se instalar.\n\nA cidade de Clearwater é um colírio para olhos cansados e castigados pelo sol. Seus pés doem, sua pele está queimada de sol e você está morrendo de sede. Uma pequena multidão de moradores se junta ao redor, rindo do seu infortúnio e avisando sobre alguns dos perigos que você pode encontrar mais adentro do deserto.\n\nQuando você pergunta sobre as figuras, boa parte da descontração dá lugar ao medo. Uma boa parcela da população daqui parece ter vindo das cidades abandonadas dos arredores, fugindo dos... Forjadores de Almas. É estranho finalmente ter um nome para o grupo que destruiu sua terra. Aqui, lidar com eles é algo constante, e o nome não carrega peso algum. Os moradores dizem ter visto as caravanas seguirem para o leste, rumo à capital, e avisam para você ficar bem longe da parte leste da Estrada do Coração por enquanto. Quando você e [Companion Name] contam as histórias de Azamire e do Cabecilha, e falam do objetivo de levar os Forjadores de Almas à justiça, parece que metade da cidade abre as portas de casa para vocês, mantendo vocês alimentados e hidratados enquanto se recuperam.\n\nDepois de um descanso merecido, vocês dois continuam para o leste, finalmente saindo das dunas e voltando aos campos gramados. Vocês entram num terreno mais rochoso ao se aproximarem do Planalto de Flinkcrest. Grandes rochas pontiagudas salpicam o solo pedregoso, projetando-se em ângulos estranhos.",
+ "13312": "Com isso, [Companion Name] continua examinando as rochas enquanto vocês dois seguem pela Estrada do Coração, como se elas fossem ganhar vida e contar de onde vieram. Você já teve o bastante de coisas que ganharam consciência quando não deveriam, então tenta não ficar encarando demais.\n\nFinalmente, vocês chegam a uma pequena estalagem que parece ter sido construída dentro de uma muralha de pedra e de uma guarnição que ocupa a ampla entrada do Desfiladeiro Partido. A Pedra Adormecida é lendária, e com razão. Além de ser a sede da Guilda dos Exterminadores na região leste do continente, ela atrai aventureiros de renome mundial que desejam se aventurar nos Picos Perigosos para provar que são os melhores dos melhores.\n\nO Desfiladeiro Partido é o caminho mais rápido até a capital, mas costuma ser percorrido por caravanas fortemente armadas, capazes de pagar o pedágio para passar pelo portão e de se defender de quaisquer feras que desçam da montanha propriamente dita. Quando vocês ficam sabendo que caravanas estão sendo desviadas para o sul, contornando a cordilheira, por causa de um bando especialmente agressivo de Saltapedras, você logo oferece os seus serviços e os de [Companion Name]. \n\nO dono da Pedra Adormecida faz uma oferta ainda melhor: se vocês derem conta deles, terão passagem livre pelo Desfiladeiro Partido para a vida toda. A proposta é boa demais para recusar.",
+ "13313": "Você conta os corpos das feras altas e desajeitadas. Os Saltapedras eram uma mistura meio estranha de criaturas. Tinham escamas como um lagarto e usavam uma cauda longa, parecida com um chicote, para se equilibrar. Tinham duas asas grandes que ajudavam a saltar de pedra em pedra, daí o nome, mas tecnicamente não voavam. Essas \"aves\" andavam sobre duas pernas poderosas, que usavam para chutar as presas, o que felizmente facilitou prendê-las nas armadilhas.\n\nO que surpreendeu você foi a quantidade. Parecia que, toda vez que você pegava um, via mais dois saltando lá em cima."
+}

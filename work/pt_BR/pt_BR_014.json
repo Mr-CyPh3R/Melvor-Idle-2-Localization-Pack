@@ -1,0 +1,648 @@
+{
+ "02790": [
+  "Pizza Combinada",
+  "Pizzas Combinadas"
+ ],
+ "02791": [
+  "Sopa Brilhante",
+  "Sopas Brilhantes"
+ ],
+ "02792": [
+  "Isca de Sementes",
+  "Iscas de Sementes"
+ ],
+ "02793": [
+  "Isca de Legumes",
+  "Iscas de Legumes"
+ ],
+ "02794": [
+  "Isca de Casca com Mel",
+  "Iscas de Casca com Mel"
+ ],
+ "02795": [
+  "Isca de Carne",
+  "Iscas de Carne"
+ ],
+ "02796": [
+  "Ossão",
+  "Ossões"
+ ],
+ "02797": [
+  "Isca de Farinha de Osso",
+  "Iscas de Farinha de Osso"
+ ],
+ "02798": [
+  "Isca Cintilante",
+  "Iscas Cintilantes"
+ ],
+ "02799": [
+  "Capim-do-rio",
+  "Capim-do-rio"
+ ],
+ "02800": [
+  "Cevaaada",
+  "Cevaaada"
+ ],
+ "02801": [
+  "Carne de Coelho",
+  "Carnes de Coelho"
+ ],
+ "02802": [
+  "Laço Básico",
+  "Laços Básicos"
+ ],
+ "02803": "Um Laço usado na Caça.",
+ "02804": [
+  "Laço Reforçado",
+  "Laços Reforçados"
+ ],
+ "02805": [
+  "Laço Fortificado",
+  "Laços Fortificados"
+ ],
+ "02806": [
+  "Apanhador de Pássaros Pequenos Básico",
+  "Apanhadores de Pássaros Pequenos Básicos"
+ ],
+ "02807": "Um Apanhador de Pássaros Pequenos usado na Caça.",
+ "02808": [
+  "Apanhador de Pássaros Pequenos Reforçado",
+  "Apanhadores de Pássaros Pequenos Reforçados"
+ ],
+ "02809": [
+  "Apanhador de Pássaros Pequenos Fortificado",
+  "Apanhadores de Pássaros Pequenos Fortificados"
+ ],
+ "02810": [
+  "Pele de Coelho",
+  "Peles de Coelho"
+ ],
+ "02811": [
+  "Pé de Coelho",
+  "Pés de Coelho"
+ ],
+ "02812": [
+  "Espinho de Lagarto Dorso Espinhoso",
+  "Espinhos de Lagarto Dorso Espinhoso"
+ ],
+ "02813": [
+  "Borboleta Verde no Pote",
+  "Borboletas Verdes no Pote"
+ ],
+ "02814": [
+  "Pele de Sapo Travesso",
+  "Peles de Sapo Travesso"
+ ],
+ "02815": [
+  "Pele de Cobra do Pântano",
+  "Peles de Cobra do Pântano"
+ ],
+ "02816": [
+  "Presa de Cobra",
+  "Presas de Cobra"
+ ],
+ "02817": [
+  "Pele de Sapo Verde",
+  "Peles de Sapo Verde"
+ ],
+ "02818": [
+  "Borboleta-caveira no Pote",
+  "Borboletas-caveira no Pote"
+ ],
+ "02819": [
+  "Seda de Aranha",
+  "Seda de Aranha"
+ ],
+ "02820": [
+  "Ovo de Cria",
+  "Ovos de Cria"
+ ],
+ "02821": [
+  "Presa Negra",
+  "Presas Negras"
+ ],
+ "02822": [
+  "Pena de Abutre",
+  "Penas de Abutre"
+ ],
+ "02823": [
+  "Pele de Hiena Listrada",
+  "Peles de Hiena Listrada"
+ ],
+ "02824": [
+  "Osso Grande",
+  "Ossos Grandes"
+ ],
+ "02825": [
+  "Chifre de Gnu",
+  "Chifres de Gnu"
+ ],
+ "02826": [
+  "Borboleta Fantasmagórica no Pote",
+  "Borboletas Fantasmagóricas no Pote"
+ ],
+ "02827": [
+  "Pó Mágico",
+  "Pó Mágico"
+ ],
+ "02828": [
+  "Fio Espiritual",
+  "Fios Espirituais"
+ ],
+ "02829": [
+  "Ectoplasma de Espectro",
+  "Ectoplasma de Espectro"
+ ],
+ "02830": [
+  "Pena de Águia Gigante",
+  "Penas de Águia Gigante"
+ ],
+ "02831": [
+  "Pena de Grifo",
+  "Penas de Grifo"
+ ],
+ "02832": [
+  "Pele de Torag",
+  "Peles de Torag"
+ ],
+ "02833": [
+  "Cristal de Belra",
+  "Cristais de Belra"
+ ],
+ "02834": [
+  "Núcleo de Gar Torag",
+  "Núcleos de Gar Torag"
+ ],
+ "02835": [
+  "Núcleo de Fin Torag",
+  "Núcleos de Fin Torag"
+ ],
+ "02836": [
+  "Núcleo de Cul Torag",
+  "Núcleos de Cul Torag"
+ ],
+ "02837": [
+  "Cordão",
+  "Cordões"
+ ],
+ "02838": [
+  "Cordão Reforçado",
+  "Cordões Reforçados"
+ ],
+ "02839": [
+  "Cordão Fortificado",
+  "Cordões Fortificados"
+ ],
+ "02840": [
+  "Rede Básica",
+  "Redes Básicas"
+ ],
+ "02841": [
+  "Rede Reforçada",
+  "Redes Reforçadas"
+ ],
+ "02842": [
+  "Rede Fortificada",
+  "Redes Fortificadas"
+ ],
+ "02843": [
+  "Rede para Pássaros Grandes Básica",
+  "Redes para Pássaros Grandes Básicas"
+ ],
+ "02844": [
+  "Rede para Pássaros Grandes Reforçada",
+  "Redes para Pássaros Grandes Reforçadas"
+ ],
+ "02845": [
+  "Rede para Pássaros Grandes Fortificada",
+  "Redes para Pássaros Grandes Fortificadas"
+ ],
+ "02846": [
+  "Armadilha de Fosso Básica",
+  "Armadilhas de Fosso Básicas"
+ ],
+ "02847": [
+  "Armadilha de Fosso Reforçada",
+  "Armadilhas de Fosso Reforçadas"
+ ],
+ "02848": [
+  "Armadilha de Fosso Fortificada",
+  "Armadilhas de Fosso Fortificadas"
+ ],
+ "02849": [
+  "Pote de Vidro",
+  "Potes de Vidro"
+ ],
+ "02850": [
+  "Kit para Borboletas Básico",
+  "Kits para Borboletas Básicos"
+ ],
+ "02851": [
+  "Kit para Borboletas Reforçado",
+  "Kits para Borboletas Reforçados"
+ ],
+ "02852": [
+  "Kit para Borboletas Fortificado",
+  "Kits para Borboletas Fortificados"
+ ],
+ "02853": [
+  "Caixa de Espíritos Básica",
+  "Caixas de Espíritos Básicas"
+ ],
+ "02854": [
+  "Caixa de Espíritos Reforçada",
+  "Caixas de Espíritos Reforçadas"
+ ],
+ "02855": [
+  "Caixa de Espíritos Fortificada",
+  "Caixas de Espíritos Fortificadas"
+ ],
+ "02856": [
+  "Bracelete do Rastreador I",
+  "Braceletes do Rastreador I"
+ ],
+ "02857": [
+  "Bracelete do Rastreador II",
+  "Braceletes do Rastreador II"
+ ],
+ "02858": [
+  "Bracelete do Rastreador III",
+  "Braceletes do Rastreador III"
+ ],
+ "02859": [
+  "Bracelete do Rastreador IV",
+  "Braceletes do Rastreador IV"
+ ],
+ "02860": [
+  "Bracelete do Rastreador V",
+  "Braceletes do Rastreador V"
+ ],
+ "02861": [
+  "Bolsa de Armadilhas de Pele de Cobra",
+  "Bolsas de Armadilhas de Pele de Cobra"
+ ],
+ "02862": [
+  "Bolsa de Armadilhas de Seda de Aranha",
+  "Bolsas de Armadilhas de Seda de Aranha"
+ ],
+ "02863": [
+  "Bolsa de Armadilhas de Grifo",
+  "Bolsas de Armadilhas de Grifo"
+ ],
+ "02864": [
+  "Elmo de Mata-feras I",
+  "Elmos de Mata-feras I"
+ ],
+ "02865": [
+  "Calças de Mata-feras I",
+  "Calças de Mata-feras I"
+ ],
+ "02866": [
+  "Cota de Mata-feras I",
+  "Cotas de Mata-feras I"
+ ],
+ "02867": [
+  "Elmo de Mata-feras II",
+  "Elmos de Mata-feras II"
+ ],
+ "02868": [
+  "Calças de Mata-feras II",
+  "Calças de Mata-feras II"
+ ],
+ "02869": [
+  "Cota de Mata-feras II",
+  "Cotas de Mata-feras II"
+ ],
+ "02870": [
+  "Elmo de Mata-feras III",
+  "Elmos de Mata-feras III"
+ ],
+ "02871": [
+  "Calças de Mata-feras III",
+  "Calças de Mata-feras III"
+ ],
+ "02872": [
+  "Cota de Mata-feras III",
+  "Cotas de Mata-feras III"
+ ],
+ "02873": [
+  "Elmo de Mata-feras IV",
+  "Elmos de Mata-feras IV"
+ ],
+ "02874": [
+  "Calças de Mata-feras IV",
+  "Calças de Mata-feras IV"
+ ],
+ "02875": [
+  "Cota de Mata-feras IV",
+  "Cotas de Mata-feras IV"
+ ],
+ "02876": [
+  "Capa de Pele de Cobra",
+  "Capas de Pele de Cobra"
+ ],
+ "02877": [
+  "Escudo de Pele de Sapo Verde",
+  "Escudos de Pele de Sapo Verde"
+ ],
+ "02878": [
+  "Elmo de Chifre de Alce",
+  "Elmos de Chifre de Alce"
+ ],
+ "02879": [
+  "Capa Listrada",
+  "Capas Listradas"
+ ],
+ "02880": [
+  "Escudo Fantasma",
+  "Escudos Fantasmas"
+ ],
+ "02881": [
+  "Mitenes de Espectro",
+  "Mitenes de Espectro"
+ ],
+ "02882": [
+  "Braceleiras de Grifo",
+  "Braceleiras de Grifo"
+ ],
+ "02883": [
+  "Manto de Grifo",
+  "Mantos de Grifo"
+ ],
+ "02884": [
+  "Garras de Presa Negra",
+  "Garras de Presa Negra"
+ ],
+ "02885": [
+  "Adaga de Presa Negra",
+  "Adagas de Presa Negra"
+ ],
+ "02886": [
+  "Varinha Fantasma",
+  "Varinhas Fantasmas"
+ ],
+ "02887": [
+  "Cajado Fantasma",
+  "Cajados Fantasmas"
+ ],
+ "02888": [
+  "Adaga de Gnu",
+  "Adagas de Gnu"
+ ],
+ "02889": [
+  "Varinha de Espectro",
+  "Varinhas de Espectro"
+ ],
+ "02890": [
+  "Cajado de Espectro",
+  "Cajados de Espectro"
+ ],
+ "02891": [
+  "Balestra de Grifo",
+  "Balestras de Grifo"
+ ],
+ "02892": [
+  "Balestra de 2m de Grifo",
+  "Balestras de 2m de Grifo"
+ ],
+ "02893": [
+  "Garras de Grifo",
+  "Garras de Grifo"
+ ],
+ "02894": [
+  "Colar de Pé de Coelho",
+  "Colares de Pé de Coelho"
+ ],
+ "02895": [
+  "Anel de Presa de Cobra",
+  "Anéis de Presa de Cobra"
+ ],
+ "02896": [
+  "Amuleto de Pele de Sapo",
+  "Amuletos de Pele de Sapo"
+ ],
+ "02897": [
+  "Anel de Presa Negra",
+  "Anéis de Presa Negra"
+ ],
+ "02898": [
+  "Amuleto de Presa de Lobo",
+  "Amuletos de Presa de Lobo"
+ ],
+ "02899": [
+  "Amuleto Fantasma",
+  "Amuletos Fantasmas"
+ ],
+ "02900": [
+  "Amuleto de Falcão Sangrento",
+  "Amuletos de Falcão Sangrento"
+ ],
+ "02901": [
+  "Amuleto de Espectro",
+  "Amuletos de Espectro"
+ ],
+ "02902": [
+  "Anel Gar Belra",
+  "Anéis Gar Belra"
+ ],
+ "02903": [
+  "Anel Fin Belra",
+  "Anéis Fin Belra"
+ ],
+ "02904": [
+  "Anel Cul Belra",
+  "Anéis Cul Belra"
+ ],
+ "02905": [
+  "Flecha de Osso",
+  "Flechas de Osso"
+ ],
+ "02906": [
+  "Setas de Osso",
+  "Setas de Osso"
+ ],
+ "02907": [
+  "Flecha de Presa Negra",
+  "Flechas de Presa Negra"
+ ],
+ "02908": [
+  "Setas de Presa Negra",
+  "Setas de Presa Negra"
+ ],
+ "02909": [
+  "Flechas de Espectro",
+  "Flechas de Espectro"
+ ],
+ "02910": [
+  "Setas de Espectro",
+  "Setas de Espectro"
+ ],
+ "02911": [
+  "Garra de Raptor",
+  "Garras de Raptor"
+ ],
+ "02912": [
+  "Garra de Falcão Sangrento",
+  "Garras de Falcão Sangrento"
+ ],
+ "02913": [
+  "Garra de Grifo",
+  "Garras de Grifo"
+ ],
+ "02914": [
+  "Invólucro de Osso",
+  "Invólucros de Osso"
+ ],
+ "02915": [
+  "Luvas de Forno de Coelho",
+  "Luvas de Forno de Coelho"
+ ],
+ "02916": [
+  "Unhas Espinhosas de Dorso Espinhoso",
+  "Unhas Espinhosas de Dorso Espinhoso"
+ ],
+ "02917": [
+  "Bolsa de Moedas de Pele de Cobra",
+  "Bolsas de Moedas de Pele de Cobra"
+ ],
+ "02918": [
+  "Cinzel de Chifre de Alce",
+  "Cinzéis de Chifre de Alce"
+ ],
+ "02919": [
+  "Entalhador de Chifre de Alce",
+  "Entalhadores de Chifre de Alce"
+ ],
+ "02920": [
+  "Glaive Secundária de Osso de Dragão",
+  "Glaives Secundárias de Osso de Dragão"
+ ],
+ "02921": [
+  "Faca de Presa de Lobo",
+  "Facas de Presa de Lobo"
+ ],
+ "02922": [
+  "Véu Fantasma",
+  "Véus Fantasmas"
+ ],
+ "02923": [
+  "Osso de Dragão Pequeno",
+  "Ossos de Dragão Pequenos"
+ ],
+ "02924": [
+  "Osso de Dragão",
+  "Ossos de Dragão"
+ ],
+ "02925": [
+  "Pele de Alce",
+  "Peles de Alce"
+ ],
+ "02926": [
+  "Pele de Caribu",
+  "Peles de Caribu"
+ ],
+ "02927": [
+  "Chifre de Caribu",
+  "Chifres de Caribu"
+ ],
+ "02928": [
+  "Couro de Alce",
+  "Couro de Alce"
+ ],
+ "02929": [
+  "Braceleiras de Couro de Alce",
+  "Braceleiras de Couro de Alce"
+ ],
+ "02930": [
+  "Botas de Couro de Alce",
+  "Botas de Couro de Alce"
+ ],
+ "02931": [
+  "Capuz de Couro de Alce",
+  "Capuzes de Couro de Alce"
+ ],
+ "02932": [
+  "Escudo de Couro de Alce",
+  "Escudos de Couro de Alce"
+ ],
+ "02933": [
+  "Perneiras de Couro de Alce",
+  "Perneiras de Couro de Alce"
+ ],
+ "02934": [
+  "Cota de Couro de Alce",
+  "Cotas de Couro de Alce"
+ ],
+ "02935": [
+  "Braceleiras de Couro de Alce Duro",
+  "Braceleiras de Couro de Alce Duro"
+ ],
+ "02936": [
+  "Botas de Couro de Alce Duro",
+  "Botas de Couro de Alce Duro"
+ ],
+ "02937": [
+  "Capuz de Couro de Alce Duro",
+  "Capuzes de Couro de Alce Duro"
+ ],
+ "02938": [
+  "Escudo de Couro de Alce Duro",
+  "Escudos de Couro de Alce Duro"
+ ],
+ "02939": [
+  "Perneiras de Couro de Alce Duro",
+  "Perneiras de Couro de Alce Duro"
+ ],
+ "02940": [
+  "Cota de Couro de Alce Duro",
+  "Cotas de Couro de Alce Duro"
+ ],
+ "02941": [
+  "Braceleiras de Couro de Alce Tachonado",
+  "Braceleiras de Couro de Alce Tachonado"
+ ],
+ "02942": [
+  "Botas de Couro de Alce Tachonado",
+  "Botas de Couro de Alce Tachonado"
+ ],
+ "02943": [
+  "Capuz de Couro de Alce Tachonado",
+  "Capuzes de Couro de Alce Tachonado"
+ ],
+ "02944": [
+  "Escudo de Couro de Alce Tachonado",
+  "Escudos de Couro de Alce Tachonado"
+ ],
+ "02945": [
+  "Perneiras de Couro de Alce Tachonado",
+  "Perneiras de Couro de Alce Tachonado"
+ ],
+ "02946": [
+  "Cota de Couro de Alce Tachonado",
+  "Cotas de Couro de Alce Tachonado"
+ ],
+ "02947": [
+  "Couro de Caribu",
+  "Couro de Caribu"
+ ],
+ "02948": [
+  "Braceleiras de Couro de Caribu",
+  "Braceleiras de Couro de Caribu"
+ ],
+ "02949": [
+  "Botas de Couro de Caribu",
+  "Botas de Couro de Caribu"
+ ],
+ "02950": [
+  "Capuz de Couro de Caribu",
+  "Capuzes de Couro de Caribu"
+ ],
+ "02951": [
+  "Escudo de Couro de Caribu",
+  "Escudos de Couro de Caribu"
+ ],
+ "02952": [
+  "Perneiras de Couro de Caribu",
+  "Perneiras de Couro de Caribu"
+ ]
+}

@@ -1,7 +1,7 @@
 # Localization Pack for Melvor Idle 2
 
 Unofficial community translations for Melvor Idle 2 in one mod.
-Currently **German (Deutsch)**, **French (Français)** and **Spanish (Español)**. More languages are coming. Missing your language? Open an issue and suggest it.
+Currently **German (Deutsch)**, **French (Français)**, **Spanish (Español)**, **Brazilian Portuguese (Português, Brasil)** and **Japanese (日本語)**. More languages are coming. Missing your language? Open an issue and suggest it.
 
 Not affiliated with or endorsed by Games By Malcs or Jagex.
 
@@ -20,6 +20,8 @@ Please read this first. We want to be open about where the texts come from.
 | German (Deutsch) | 13,603 | 566 (4%) | 13,037 (96%) |
 | French (Français) | 13,603 | 586 (4%) | 13,017 (96%) |
 | Spanish (Español) | 13,603 | 601 (4%) | 13,002 (96%) |
+| Brazilian Portuguese (Português, Brasil) | 13,603 | 599 (4%) | 13,004 (96%) |
+| Japanese (日本語) | 13,603 | 618 (5%) | 12,985 (95%) |
 
 * **From Melvor Idle:** texts that are identical in the first game (Melvor Idle) were taken from its official translation.
 * **Translated by AI:** all other texts were translated with AI and checked automatically (placeholders, formatting tags and line breaks must match the original). They have not been fully reviewed by a human yet.
@@ -69,8 +71,8 @@ Melvor Idle 2/
 |---|---|
 | `mod/` | The mod exactly as it is installed (`override.cfg`, `Mods/Localization Pack/`) |
 | `work/items.json` | All texts of the game that need a translation, with stable ids |
-| `work/<lang>/*.json` | Translations by id (`de`, `fr`, `es`) |
-| `work/STYLE.md`, `work/STYLE_fr.md`, `work/STYLE_es.md` | Translation rules and terms per language |
+| `work/<lang>/*.json` | Translations by id (`de`, `fr`, `es`, `pt_BR`, `ja`) |
+| `work/STYLE.md`, `work/STYLE_<lang>.md` | Translation rules and terms per language |
 | `tools/` | Build and maintenance scripts (Python 3, needs `polib`) |
 
 ### Building from source

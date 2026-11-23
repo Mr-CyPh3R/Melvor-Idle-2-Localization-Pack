@@ -1,0 +1,593 @@
+{
+ "02068": "Tronco de Agricultura",
+ "02069": "Pernas de Agricultura",
+ "02070": "Botas de Agricultura",
+ "02071": "Luvas de Agricultura",
+ "02072": "Ferramenta de Agricultura",
+ "02073": "Poção de Agricultura",
+ "02074": "Item utilitário 1 de Agricultura",
+ "02075": "Item utilitário 2 de Agricultura",
+ "02076": "Capa de Agricultura",
+ "02077": "Elmo de Pecuária",
+ "02078": "Tronco de Pecuária",
+ "02079": "Pernas de Pecuária",
+ "02080": "Botas de Pecuária",
+ "02081": "Luvas de Pecuária",
+ "02082": "Ferramenta de Pecuária",
+ "02083": "Poção de Pecuária",
+ "02084": "Item utilitário 1 de Pecuária",
+ "02085": "Item utilitário 2 de Pecuária",
+ "02086": "Capa de Pecuária",
+ "02087": "Registro de avistamentos de Mineração",
+ "02088": "Elmo de Astrologia",
+ "02089": "Tronco de Astrologia",
+ "02090": "Pernas de Astrologia",
+ "02091": "Botas de Astrologia",
+ "02092": "Luvas de Astrologia",
+ "02093": "Ferramenta de Astrologia",
+ "02094": "Poção de Astrologia",
+ "02095": "Item utilitário 1 de Astrologia",
+ "02096": "Item utilitário 2 de Astrologia",
+ "02097": "Capa de Astrologia",
+ "02098": "Catalisador de Herbologia",
+ "02099": "Poção",
+ "02100": "Item utilitário",
+ "02101": "Ferramenta",
+ "02102": "Registro de avistamentos",
+ "02103": "Catalisador",
+ "02104": "Item utilitário de Combate",
+ "02105": "Item utilitário de Corte de Lenha",
+ "02106": "Item utilitário de Pesca",
+ "02107": "Item utilitário de Arte do Fogo",
+ "02108": "Item utilitário de Culinária",
+ "02109": "Item utilitário de Mineração",
+ "02110": "Item utilitário de Metalurgia",
+ "02111": "Item utilitário de Fabricação de Flechas",
+ "02112": "Item utilitário de Artesanato",
+ "02113": "Item utilitário de Criação de Runas",
+ "02114": "Item utilitário de Caça",
+ "02115": "Item utilitário de Artesanato Bestial",
+ "02116": "Item utilitário de Herbologia",
+ "02117": "Item utilitário de Roubo",
+ "02118": "Item utilitário de Agilidade",
+ "02119": "Item utilitário de Agricultura",
+ "02120": "Item utilitário de Pecuária",
+ "02121": "Item utilitário de Astrologia",
+ "02122": "Moedas de Ouro",
+ "02125": "ME",
+ "02127": "PO",
+ "02128": [
+  "Punhos",
+  "Punhos"
+ ],
+ "02129": [
+  "Lenha Normal",
+  "Lenhas Normais"
+ ],
+ "02130": [
+  "Lenha de Carvalho",
+  "Lenhas de Carvalho"
+ ],
+ "02131": [
+  "Lenha de Salgueiro",
+  "Lenhas de Salgueiro"
+ ],
+ "02132": [
+  "Lenha de Teca",
+  "Lenhas de Teca"
+ ],
+ "02133": [
+  "Lenha de Bordo",
+  "Lenhas de Bordo"
+ ],
+ "02134": [
+  "Lenha de Mogno",
+  "Lenhas de Mogno"
+ ],
+ "02135": [
+  "Lenha de Teixo",
+  "Lenhas de Teixo"
+ ],
+ "02136": [
+  "Lenha Mágica",
+  "Lenhas Mágicas"
+ ],
+ "02137": [
+  "Lenha de Sequoia",
+  "Lenhas de Sequoia"
+ ],
+ "02138": [
+  "Linho",
+  "Linho"
+ ],
+ "02139": [
+  "Graveto",
+  "Gravetos"
+ ],
+ "02140": [
+  "Folha de trepadeira de âmbar",
+  "Folhas de trepadeira de âmbar"
+ ],
+ "02141": [
+  "Folha de musgo espinhoso",
+  "Folhas de musgo espinhoso"
+ ],
+ "02142": [
+  "Folha do crepúsculo",
+  "Folhas do crepúsculo"
+ ],
+ "02143": [
+  "Camarão Cru",
+  "Camarões Crus"
+ ],
+ "02144": [
+  "Sardinha Crua",
+  "Sardinhas Cruas"
+ ],
+ "02145": [
+  "Arenque Cru",
+  "Arenques Crus"
+ ],
+ "02146": [
+  "Truta Crua",
+  "Trutas Cruas"
+ ],
+ "02147": [
+  "Salmão Cru",
+  "Salmões Crus"
+ ],
+ "02148": [
+  "Lagosta Crua",
+  "Lagostas Cruas"
+ ],
+ "02149": [
+  "Tubarão Cru",
+  "Tubarões Crus"
+ ],
+ "02150": [
+  "Arraia Jamanta Crua",
+  "Arraias Jamanta Cruas"
+ ],
+ "02151": [
+  "Baleia Crua",
+  "Baleias Cruas"
+ ],
+ "02152": [
+  "Pedra",
+  "Pedras"
+ ],
+ "02153": [
+  "Minério de Cobre",
+  "Minérios de Cobre"
+ ],
+ "02154": [
+  "Minério de Ferro",
+  "Minérios de Ferro"
+ ],
+ "02155": [
+  "Minério de Prata",
+  "Minérios de Prata"
+ ],
+ "02156": [
+  "Minério de Ouro",
+  "Minérios de Ouro"
+ ],
+ "02157": [
+  "Minério de Mithril",
+  "Minérios de Mithril"
+ ],
+ "02158": [
+  "Minério de Adamantio",
+  "Minérios de Adamantio"
+ ],
+ "02159": [
+  "Minério de Runita",
+  "Minérios de Runita"
+ ],
+ "02160": [
+  "Minério de Aço da Aurora",
+  "Minérios de Aço da Aurora"
+ ],
+ "02161": [
+  "Minério de Dragonita",
+  "Minérios de Dragonita"
+ ],
+ "02162": [
+  "Geodo",
+  "Geodos"
+ ],
+ "02163": "Abra para receber recompensas.",
+ "02164": [
+  "Pó de geodo",
+  "Pó de geodo"
+ ],
+ "02165": "Cheio de poeira",
+ "02166": [
+  "Barra de Cobre",
+  "Barras de Cobre"
+ ],
+ "02167": [
+  "Barra de Ferro",
+  "Barras de Ferro"
+ ],
+ "02168": [
+  "Barra de Aço",
+  "Barras de Aço"
+ ],
+ "02169": [
+  "Barra de Ouro",
+  "Barras de Ouro"
+ ],
+ "02170": [
+  "Barra de Mithril",
+  "Barras de Mithril"
+ ],
+ "02171": [
+  "Barra de Adamantio",
+  "Barras de Adamantio"
+ ],
+ "02172": [
+  "Barra de Runita",
+  "Barras de Runita"
+ ],
+ "02173": [
+  "Barra de Aço da Aurora",
+  "Barras de Aço da Aurora"
+ ],
+ "02174": [
+  "Barra de Dragonita",
+  "Barras de Dragonita"
+ ],
+ "02175": [
+  "Pontas de Flecha de Pedra",
+  "Pontas de Flecha de Pedra"
+ ],
+ "02176": [
+  "Luvas de Pedra",
+  "Luvas de Pedra"
+ ],
+ "02177": [
+  "Elmo de Pedra",
+  "Elmos de Pedra"
+ ],
+ "02178": [
+  "Botas de Pedra",
+  "Botas de Pedra"
+ ],
+ "02179": [
+  "Maço de Pedra",
+  "Maços de Pedra"
+ ],
+ "02180": [
+  "Perneiras de Placa de Pedra",
+  "Perneiras de Placa de Pedra"
+ ],
+ "02181": [
+  "Cota de Placa de Pedra",
+  "Cotas de Placa de Pedra"
+ ],
+ "02182": [
+  "Adaga de Cobre",
+  "Adagas de Cobre"
+ ],
+ "02183": [
+  "Defensora de Cobre",
+  "Defensoras de Cobre"
+ ],
+ "02184": [
+  "Pontas de Flecha de Cobre",
+  "Pontas de Flecha de Cobre"
+ ],
+ "02185": [
+  "Pontas de Dardo Longo de Cobre",
+  "Pontas de Dardo Longo de Cobre"
+ ],
+ "02186": [
+  "Espada de Cobre",
+  "Espadas de Cobre"
+ ],
+ "02187": [
+  "Luvas de Cobre",
+  "Luvas de Cobre"
+ ],
+ "02188": [
+  "Cimitarra de Cobre",
+  "Cimitarras de Cobre"
+ ],
+ "02189": [
+  "Elmo de Cobre",
+  "Elmos de Cobre"
+ ],
+ "02190": [
+  "Botas de Cobre",
+  "Botas de Cobre"
+ ],
+ "02191": [
+  "Escudo de Cobre",
+  "Escudos de Cobre"
+ ],
+ "02192": [
+  "Espada de 2m de Cobre",
+  "Espadas de 2m de Cobre"
+ ],
+ "02193": [
+  "Maço de Cobre",
+  "Maços de Cobre"
+ ],
+ "02194": [
+  "Perneiras de Placa de Cobre",
+  "Perneiras de Placa de Cobre"
+ ],
+ "02195": [
+  "Cota de Placa de Cobre",
+  "Cotas de Placa de Cobre"
+ ],
+ "02196": [
+  "Adaga de Ferro",
+  "Adagas de Ferro"
+ ],
+ "02197": [
+  "Defensora de Ferro",
+  "Defensoras de Ferro"
+ ],
+ "02198": [
+  "Pontas de Flecha de Ferro",
+  "Pontas de Flecha de Ferro"
+ ],
+ "02199": [
+  "Pontas de Dardo Longo de Ferro",
+  "Pontas de Dardo Longo de Ferro"
+ ],
+ "02200": [
+  "Espada de Ferro",
+  "Espadas de Ferro"
+ ],
+ "02201": [
+  "Luvas de Ferro",
+  "Luvas de Ferro"
+ ],
+ "02202": [
+  "Cimitarra de Ferro",
+  "Cimitarras de Ferro"
+ ],
+ "02203": [
+  "Elmo de Ferro",
+  "Elmos de Ferro"
+ ],
+ "02204": [
+  "Botas de Ferro",
+  "Botas de Ferro"
+ ],
+ "02205": [
+  "Escudo de Ferro",
+  "Escudos de Ferro"
+ ],
+ "02206": [
+  "Espada de 2m de Ferro",
+  "Espadas de 2m de Ferro"
+ ],
+ "02207": [
+  "Maço de Ferro",
+  "Maços de Ferro"
+ ],
+ "02208": [
+  "Limbo de Balestra de Ferro",
+  "Limbos de Balestra de Ferro"
+ ],
+ "02209": [
+  "Perneiras de Placa de Ferro",
+  "Perneiras de Placa de Ferro"
+ ],
+ "02210": [
+  "Cota de Placa de Ferro",
+  "Cotas de Placa de Ferro"
+ ],
+ "02211": [
+  "Adaga de Aço",
+  "Adagas de Aço"
+ ],
+ "02212": [
+  "Defensora de Aço",
+  "Defensoras de Aço"
+ ],
+ "02213": [
+  "Pontas de Flecha de Aço",
+  "Pontas de Flecha de Aço"
+ ],
+ "02214": [
+  "Pontas de Dardo Longo de Aço",
+  "Pontas de Dardo Longo de Aço"
+ ],
+ "02215": [
+  "Espada de Aço",
+  "Espadas de Aço"
+ ],
+ "02216": [
+  "Luvas de Aço",
+  "Luvas de Aço"
+ ],
+ "02217": [
+  "Cimitarra de Aço",
+  "Cimitarras de Aço"
+ ],
+ "02218": [
+  "Elmo de Aço",
+  "Elmos de Aço"
+ ],
+ "02219": [
+  "Botas de Aço",
+  "Botas de Aço"
+ ],
+ "02220": [
+  "Escudo de Aço",
+  "Escudos de Aço"
+ ],
+ "02221": [
+  "Espada de 2m de Aço",
+  "Espadas de 2m de Aço"
+ ],
+ "02222": [
+  "Maço de Aço",
+  "Maços de Aço"
+ ],
+ "02223": [
+  "Limbo de Balestra de Aço",
+  "Limbos de Balestra de Aço"
+ ],
+ "02224": [
+  "Perneiras de Placa de Aço",
+  "Perneiras de Placa de Aço"
+ ],
+ "02225": [
+  "Cota de Placa de Aço",
+  "Cotas de Placa de Aço"
+ ],
+ "02226": [
+  "Adaga de Mithril",
+  "Adagas de Mithril"
+ ],
+ "02227": [
+  "Defensora de Mithril",
+  "Defensoras de Mithril"
+ ],
+ "02228": [
+  "Pontas de Flecha de Mithril",
+  "Pontas de Flecha de Mithril"
+ ],
+ "02229": [
+  "Pontas de Dardo Longo de Mithril",
+  "Pontas de Dardo Longo de Mithril"
+ ],
+ "02230": [
+  "Espada de Mithril",
+  "Espadas de Mithril"
+ ],
+ "02231": [
+  "Luvas de Mithril",
+  "Luvas de Mithril"
+ ],
+ "02232": [
+  "Cimitarra de Mithril",
+  "Cimitarras de Mithril"
+ ],
+ "02233": [
+  "Elmo de Mithril",
+  "Elmos de Mithril"
+ ],
+ "02234": [
+  "Botas de Mithril",
+  "Botas de Mithril"
+ ],
+ "02235": [
+  "Escudo de Mithril",
+  "Escudos de Mithril"
+ ],
+ "02236": [
+  "Espada de 2m de Mithril",
+  "Espadas de 2m de Mithril"
+ ],
+ "02237": [
+  "Maço de Mithril",
+  "Maços de Mithril"
+ ],
+ "02238": [
+  "Limbo de Balestra de Mithril",
+  "Limbos de Balestra de Mithril"
+ ],
+ "02239": [
+  "Perneiras de Placa de Mithril",
+  "Perneiras de Placa de Mithril"
+ ],
+ "02240": [
+  "Cota de Placa de Mithril",
+  "Cotas de Placa de Mithril"
+ ],
+ "02241": [
+  "Adaga de Adamantio",
+  "Adagas de Adamantio"
+ ],
+ "02242": [
+  "Defensora de Adamantio",
+  "Defensoras de Adamantio"
+ ],
+ "02243": [
+  "Pontas de Flecha de Adamantio",
+  "Pontas de Flecha de Adamantio"
+ ],
+ "02244": [
+  "Pontas de Dardo Longo de Adamantio",
+  "Pontas de Dardo Longo de Adamantio"
+ ],
+ "02245": [
+  "Espada de Adamantio",
+  "Espadas de Adamantio"
+ ],
+ "02246": [
+  "Luvas de Adamantio",
+  "Luvas de Adamantio"
+ ],
+ "02247": [
+  "Cimitarra de Adamantio",
+  "Cimitarras de Adamantio"
+ ],
+ "02248": [
+  "Elmo de Adamantio",
+  "Elmos de Adamantio"
+ ],
+ "02249": [
+  "Botas de Adamantio",
+  "Botas de Adamantio"
+ ],
+ "02250": [
+  "Escudo de Adamantio",
+  "Escudos de Adamantio"
+ ],
+ "02251": [
+  "Espada de 2m de Adamantio",
+  "Espadas de 2m de Adamantio"
+ ],
+ "02252": [
+  "Maço de Adamantio",
+  "Maços de Adamantio"
+ ],
+ "02253": [
+  "Limbo de Balestra de Adamantio",
+  "Limbos de Balestra de Adamantio"
+ ],
+ "02254": [
+  "Perneiras de Placa de Adamantio",
+  "Perneiras de Placa de Adamantio"
+ ],
+ "02255": [
+  "Cota de Placa de Adamantio",
+  "Cotas de Placa de Adamantio"
+ ],
+ "02256": [
+  "Adaga Rúnica",
+  "Adagas Rúnicas"
+ ],
+ "02257": [
+  "Defensora Rúnica",
+  "Defensoras Rúnicas"
+ ],
+ "02258": [
+  "Pontas de Flecha Rúnicas",
+  "Pontas de Flecha Rúnicas"
+ ],
+ "02259": [
+  "Pontas de Dardo Longo Rúnico",
+  "Pontas de Dardo Longo Rúnico"
+ ],
+ "02260": [
+  "Espada Rúnica",
+  "Espadas Rúnicas"
+ ],
+ "02261": [
+  "Luvas Rúnicas",
+  "Luvas Rúnicas"
+ ],
+ "02262": [
+  "Cimitarra Rúnica",
+  "Cimitarras Rúnicas"
+ ]
+}

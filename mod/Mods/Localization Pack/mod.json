@@ -94,6 +94,69 @@
           "turnos"
         ]
       }
+    },
+    "pt_BR": {
+      "name": "Português",
+      "english_name": "Brazilian Portuguese",
+      "file": "Languages/pt_BR.po",
+      "work": "pt_BR",
+      "display": "Português, Brasil",
+      "locale": "pt_BR",
+      "units": {
+        "day": [
+          "dia",
+          "dias"
+        ],
+        "hour": [
+          "hora",
+          "horas"
+        ],
+        "minute": [
+          "minuto",
+          "minutos"
+        ],
+        "second": [
+          "segundo",
+          "segundos"
+        ],
+        "turn": [
+          "turno",
+          "turnos"
+        ]
+      }
+    },
+    "ja_JP": {
+      "name": "日本語",
+      "english_name": "Japanese",
+      "file": "Languages/ja_JP.po",
+      "work": "ja",
+      "display": "日本語, 日本",
+      "locale": "ja",
+      "units": {
+        "day": [
+          "日",
+          "日"
+        ],
+        "hour": [
+          "時間",
+          "時間"
+        ],
+        "minute": [
+          "分",
+          "分"
+        ],
+        "second": [
+          "秒",
+          "秒"
+        ],
+        "turn": [
+          "ターン",
+          "ターン"
+        ]
+      },
+      "unit_separator": "",
+      "less_than": "{0}未満",
+      "wrap_anywhere": true
     }
   }
 }

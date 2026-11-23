@@ -1,0 +1,195 @@
+{
+ "10322": "{0:P0}の確率で[effectIcon/] {1}を付与する",
+ "10323": "{0:P0}の確率で[effectIcon/] {1}を与える",
+ "10324": [
+  "[effectIcon/] {1}を{0:N0}スタック得る",
+  "[effectIcon/] {1}を{0:N0}スタック得る"
+ ],
+ "10325": [
+  "自身に[effectIcon/] {1}を{0:N0}スタック与える",
+  "自身に[effectIcon/] {1}を{0:N0}スタック与える"
+ ],
+ "10326": [
+  "[effectIcon/] {1}を{0:N0}スタック付与する",
+  "[effectIcon/] {1}を{0:N0}スタック付与する"
+ ],
+ "10327": [
+  "[effectIcon/] {1}を{0:N0}スタック与える",
+  "[effectIcon/] {1}を{0:N0}スタック与える"
+ ],
+ "10328": [
+  "{0:P0}の確率で[effectIcon/] {2}を{1:N0}スタック得る",
+  "{0:P0}の確率で[effectIcon/] {2}を{1:N0}スタック得る"
+ ],
+ "10329": [
+  "{0:P0}の確率で自身に[effectIcon/] {2}を{1:N0}スタック与える",
+  "{0:P0}の確率で自身に[effectIcon/] {2}を{1:N0}スタック与える"
+ ],
+ "10330": [
+  "{0:P0}の確率で[effectIcon/] {2}を{1:N0}スタック付与する",
+  "{0:P0}の確率で[effectIcon/] {2}を{1:N0}スタック付与する"
+ ],
+ "10331": [
+  "{0:P0}の確率で[effectIcon/] {2}を{1:N0}スタック与える",
+  "{0:P0}の確率で[effectIcon/] {2}を{1:N0}スタック与える"
+ ],
+ "10332": [
+  "{1:N0}ターンの間、[effectIcon/] {0}を得る",
+  "{1:N0}ターンの間、[effectIcon/] {0}を得る"
+ ],
+ "10333": [
+  "{1:N0}ターンの間、自身に[effectIcon/] {0}を与える",
+  "{1:N0}ターンの間、自身に[effectIcon/] {0}を与える"
+ ],
+ "10334": [
+  "{1:N0}ターンの間、[effectIcon/] {0}を付与する",
+  "{1:N0}ターンの間、[effectIcon/] {0}を付与する"
+ ],
+ "10335": [
+  "{1:N0}ターンの間、[effectIcon/] {0}を与える",
+  "{1:N0}ターンの間、[effectIcon/] {0}を与える"
+ ],
+ "10336": [
+  "{0:P0}の確率で、{2:N0}ターンの間[effectIcon/] {1}を得る",
+  "{0:P0}の確率で、{2:N0}ターンの間[effectIcon/] {1}を得る"
+ ],
+ "10337": [
+  "{0:P0}の確率で、{2:N0}ターンの間自身に[effectIcon/] {1}を与える",
+  "{0:P0}の確率で、{2:N0}ターンの間自身に[effectIcon/] {1}を与える"
+ ],
+ "10338": [
+  "{0:P0}の確率で、{2:N0}ターンの間[effectIcon/] {1}を付与する",
+  "{0:P0}の確率で、{2:N0}ターンの間[effectIcon/] {1}を付与する"
+ ],
+ "10339": [
+  "{0:P0}の確率で、{2:N0}ターンの間[effectIcon/] {1}を与える",
+  "{0:P0}の確率で、{2:N0}ターンの間[effectIcon/] {1}を与える"
+ ],
+ "10340": [
+  "{3:N0}ターンの間、[effectIcon/] {2}を{0:N0}～{1:N0}スタック得る",
+  "{3:N0}ターンの間、[effectIcon/] {2}を{0:N0}～{1:N0}スタック得る"
+ ],
+ "10341": [
+  "{3:N0}ターンの間、自身に[effectIcon/] {2}を{0:N0}～{1:N0}スタック与える",
+  "{3:N0}ターンの間、自身に[effectIcon/] {2}を{0:N0}～{1:N0}スタック与える"
+ ],
+ "10342": [
+  "{3:N0}ターンの間、[effectIcon/] {2}を{0:N0}～{1:N0}スタック付与する",
+  "{3:N0}ターンの間、[effectIcon/] {2}を{0:N0}～{1:N0}スタック付与する"
+ ],
+ "10343": [
+  "{3:N0}ターンの間、[effectIcon/] {2}を{0:N0}～{1:N0}スタック与える",
+  "{3:N0}ターンの間、[effectIcon/] {2}を{0:N0}～{1:N0}スタック与える"
+ ],
+ "10344": [
+  "{0:P0}の確率で、{4:N0}ターンの間[effectIcon/] {3}を{1:N0}～{2:N0}スタック得る",
+  "{0:P0}の確率で、{4:N0}ターンの間[effectIcon/] {3}を{1:N0}～{2:N0}スタック得る"
+ ],
+ "10345": [
+  "{0:P0}の確率で、{4:N0}ターンの間自身に[effectIcon/] {3}を{1:N0}～{2:N0}スタック与える",
+  "{0:P0}の確率で、{4:N0}ターンの間自身に[effectIcon/] {3}を{1:N0}～{2:N0}スタック与える"
+ ],
+ "10346": [
+  "{0:P0}の確率で、{4:N0}ターンの間[effectIcon/] {3}を{1:N0}～{2:N0}スタック付与する",
+  "{0:P0}の確率で、{4:N0}ターンの間[effectIcon/] {3}を{1:N0}～{2:N0}スタック付与する"
+ ],
+ "10347": [
+  "{0:P0}の確率で、{4:N0}ターンの間[effectIcon/] {3}を{1:N0}～{2:N0}スタック与える",
+  "{0:P0}の確率で、{4:N0}ターンの間[effectIcon/] {3}を{1:N0}～{2:N0}スタック与える"
+ ],
+ "10348": [
+  "{1:N0}回攻撃されるまで[effectIcon/] {0}を得る",
+  "{1:N0}回攻撃されるまで[effectIcon/] {0}を得る"
+ ],
+ "10349": [
+  "{1:N0}回攻撃されるまで自身に[effectIcon/] {0}を与える",
+  "{1:N0}回攻撃されるまで自身に[effectIcon/] {0}を与える"
+ ],
+ "10350": [
+  "攻撃{1:N0}回分の[effectIcon/] {0}を付与する",
+  "攻撃{1:N0}回分の[effectIcon/] {0}を付与する"
+ ],
+ "10351": [
+  "攻撃{1:N0}回分の[effectIcon/] {0}を与える",
+  "攻撃{1:N0}回分の[effectIcon/] {0}を与える"
+ ],
+ "10352": [
+  "{0:P0}の確率で、{2:N0}回攻撃されるまで[effectIcon/] {1}を得る",
+  "{0:P0}の確率で、{2:N0}回攻撃されるまで[effectIcon/] {1}を得る"
+ ],
+ "10353": [
+  "{0:P0}の確率で、{2:N0}回攻撃されるまで自身に[effectIcon/] {1}を与える",
+  "{0:P0}の確率で、{2:N0}回攻撃されるまで自身に[effectIcon/] {1}を与える"
+ ],
+ "10354": [
+  "{0:P0}の確率で、攻撃{2:N0}回分の[effectIcon/] {1}を付与する",
+  "{0:P0}の確率で、攻撃{2:N0}回分の[effectIcon/] {1}を付与する"
+ ],
+ "10355": [
+  "{0:P0}の確率で、攻撃{2:N0}回分の[effectIcon/] {1}を与える",
+  "{0:P0}の確率で、攻撃{2:N0}回分の[effectIcon/] {1}を与える"
+ ],
+ "10356": "戦闘開始時：",
+ "10357": "食べ物を食べたとき：",
+ "10358": "手動で食べ物を食べたとき：",
+ "10359": "自動摂取時：",
+ "10360": "攻撃時：",
+ "10361": "ターン最初の攻撃時：",
+ "10362": "命中時：",
+ "10363": "ターン最初の命中時：",
+ "10364": "攻撃が外れたとき：",
+ "10365": "ターン最初に攻撃が外れたとき：",
+ "10366": "ターン最初の攻撃が命中したとき：",
+ "10367": "ターン最初の攻撃が外れたとき：",
+ "10368": "死亡時：",
+ "10369": "攻撃されたとき：",
+ "10370": "最初に攻撃されたとき：",
+ "10371": "被弾時：",
+ "10372": "最初の被弾時：",
+ "10373": "攻撃をかわしたとき：",
+ "10374": "最初に攻撃をかわしたとき：",
+ "10375": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]で効果を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回受ける",
+ "10376": "効果を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回受ける",
+ "10377": "[img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b]の効果を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回受ける",
+ "10378": "[img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b]に[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回冒される",
+ "10379": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]で[img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b]の効果を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回受ける",
+ "10380": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]で[img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b]に[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回冒される",
+ "10381": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]で敵に効果を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回かける",
+ "10382": "敵に効果を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回かける",
+ "10383": "[img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color]を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回付与する",
+ "10384": "[img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color]を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回与える",
+ "10385": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]で[img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color]を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回付与する",
+ "10386": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]で[img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color]を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回与える",
+ "10387": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]で自分に効果を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回かける",
+ "10388": "自分に効果を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回かける",
+ "10389": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回得る",
+ "10390": "自身に[img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b]を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回与える",
+ "10391": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]で[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回得る",
+ "10392": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]で自身に[img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b]を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回与える",
+ "10393": "食べ物が選択されていません",
+ "10394": "装備済み",
+ "10395": [
+  "{0:N0}個のアイテムが絞り込み設定で非表示になっています",
+  "{0:N0}個のアイテムが絞り込み設定で非表示になっています"
+ ],
+ "10396": "食べ物を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]個食べる",
+ "10397": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]で食べ物を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]個食べる",
+ "10398": "[img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b]を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]個食べる",
+ "10399": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]で[img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b]を[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]個食べる",
+ "10400": "食べ物でHPを[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回復",
+ "10401": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]で食べ物でHPを[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回復",
+ "10402": "[img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b]でHPを[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回復",
+ "10403": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]で[img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b]でHPを[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b]回復",
+ "10404": "{0:N0}～{1:N0}",
+ "10405": "一定の確率で次のいずれか：",
+ "10406": "この要素は[b]体験版[/b]では利用できません",
+ "10407": "[b]{CategoryName}[/b]の総達成度 [b]{Current:0.##%} / {Max:0.##%}[/b]",
+ "10408": "資源が足りません。",
+ "10409": "作成したレシピ",
+ "10410": "{2.Entity.DisplayName}でレシピを{0:F0} / {1:F1}回作成",
+ "10411": "{0.Quantity:N0} {0.Currency.DisplayNameShort}",
+ "10412": [
+  "[img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b]を装備中",
+  "[img height=1.25em]{ItemIcon}[/img] [b]{ItemName} {Current} / {Max}[/b]を装備中"
+ ]
+}

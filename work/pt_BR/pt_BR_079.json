@@ -1,0 +1,195 @@
+{
+ "10322": "{0:P0} de chance de aplicar [effectIcon/] {1}",
+ "10323": "{0:P0} de chance de infligir [effectIcon/] {1}",
+ "10324": [
+  "Ganha {0:N0} acúmulo de [effectIcon/] {1}",
+  "Ganha {0:N0} acúmulos de [effectIcon/] {1}"
+ ],
+ "10325": [
+  "Autoinflige {0:N0} acúmulo de [effectIcon/] {1}",
+  "Autoinflige {0:N0} acúmulos de [effectIcon/] {1}"
+ ],
+ "10326": [
+  "Aplica {0:N0} acúmulo de [effectIcon/] {1}",
+  "Aplica {0:N0} acúmulos de [effectIcon/] {1}"
+ ],
+ "10327": [
+  "Inflige {0:N0} acúmulo de [effectIcon/] {1}",
+  "Inflige {0:N0} acúmulos de [effectIcon/] {1}"
+ ],
+ "10328": [
+  "{0:P0} de chance de ganhar {1:N0} acúmulo de [effectIcon/] {2}",
+  "{0:P0} de chance de ganhar {1:N0} acúmulos de [effectIcon/] {2}"
+ ],
+ "10329": [
+  "{0:P0} de chance de autoinfligir {1:N0} acúmulo de [effectIcon/] {2}",
+  "{0:P0} de chance de autoinfligir {1:N0} acúmulos de [effectIcon/] {2}"
+ ],
+ "10330": [
+  "{0:P0} de chance de aplicar {1:N0} acúmulo de [effectIcon/] {2}",
+  "{0:P0} de chance de aplicar {1:N0} acúmulos de [effectIcon/] {2}"
+ ],
+ "10331": [
+  "{0:P0} de chance de infligir {1:N0} acúmulo de [effectIcon/] {2}",
+  "{0:P0} de chance de infligir {1:N0} acúmulos de [effectIcon/] {2}"
+ ],
+ "10332": [
+  "Ganha [effectIcon/] {0} por {1:N0} turno",
+  "Ganha [effectIcon/] {0} por {1:N0} turnos"
+ ],
+ "10333": [
+  "Autoinflige [effectIcon/] {0} por {1:N0} turno",
+  "Autoinflige [effectIcon/] {0} por {1:N0} turnos"
+ ],
+ "10334": [
+  "Aplica [effectIcon/] {0} por {1:N0} turno",
+  "Aplica [effectIcon/] {0} por {1:N0} turnos"
+ ],
+ "10335": [
+  "Inflige [effectIcon/] {0} por {1:N0} turno",
+  "Inflige [effectIcon/] {0} por {1:N0} turnos"
+ ],
+ "10336": [
+  "{0:P0} de chance de ganhar [effectIcon/] {1} por {2:N0} turno",
+  "{0:P0} de chance de ganhar [effectIcon/] {1} por {2:N0} turnos"
+ ],
+ "10337": [
+  "{0:P0} de chance de autoinfligir [effectIcon/] {1} por {2:N0} turno",
+  "{0:P0} de chance de autoinfligir [effectIcon/] {1} por {2:N0} turnos"
+ ],
+ "10338": [
+  "{0:P0} de chance de aplicar [effectIcon/] {1} por {2:N0} turno",
+  "{0:P0} de chance de aplicar [effectIcon/] {1} por {2:N0} turnos"
+ ],
+ "10339": [
+  "{0:P0} de chance de infligir [effectIcon/] {1} por {2:N0} turno",
+  "{0:P0} de chance de infligir [effectIcon/] {1} por {2:N0} turnos"
+ ],
+ "10340": [
+  "Ganha {0:N0}-{1:N0} acúmulos de [effectIcon/] {2} por {3:N0} turno",
+  "Ganha {0:N0}-{1:N0} acúmulos de [effectIcon/] {2} por {3:N0} turnos"
+ ],
+ "10341": [
+  "Autoinflige {0:N0}-{1:N0} acúmulos de [effectIcon/] {2} por {3:N0} turno",
+  "Autoinflige {0:N0}-{1:N0} acúmulos de [effectIcon/] {2} por {3:N0} turnos"
+ ],
+ "10342": [
+  "Aplica {0:N0}-{1:N0} acúmulos de [effectIcon/] {2} por {3:N0} turno",
+  "Aplica {0:N0}-{1:N0} acúmulos de [effectIcon/] {2} por {3:N0} turnos"
+ ],
+ "10343": [
+  "Inflige {0:N0}-{1:N0} acúmulos de [effectIcon/] {2} por {3:N0} turno",
+  "Inflige {0:N0}-{1:N0} acúmulos de [effectIcon/] {2} por {3:N0} turnos"
+ ],
+ "10344": [
+  "{0:P0} de chance de ganhar {1:N0}-{2:N0} acúmulos de [effectIcon/] {3} por {4:N0} turno",
+  "{0:P0} de chance de ganhar {1:N0}-{2:N0} acúmulos de [effectIcon/] {3} por {4:N0} turnos"
+ ],
+ "10345": [
+  "{0:P0} de chance de autoinfligir {1:N0}-{2:N0} acúmulos de [effectIcon/] {3} por {4:N0} turno",
+  "{0:P0} de chance de autoinfligir {1:N0}-{2:N0} acúmulos de [effectIcon/] {3} por {4:N0} turnos"
+ ],
+ "10346": [
+  "{0:P0} de chance de aplicar {1:N0}-{2:N0} acúmulos de [effectIcon/] {3} por {4:N0} turno",
+  "{0:P0} de chance de aplicar {1:N0}-{2:N0} acúmulos de [effectIcon/] {3} por {4:N0} turnos"
+ ],
+ "10347": [
+  "{0:P0} de chance de infligir {1:N0}-{2:N0} acúmulos de [effectIcon/] {3} por {4:N0} turno",
+  "{0:P0} de chance de infligir {1:N0}-{2:N0} acúmulos de [effectIcon/] {3} por {4:N0} turnos"
+ ],
+ "10348": [
+  "Ganha [effectIcon/] {0} até sofrer {1:N0} ataque",
+  "Ganha [effectIcon/] {0} até sofrer {1:N0} ataques"
+ ],
+ "10349": [
+  "Autoinflige [effectIcon/] {0} até sofrer {1:N0} ataque",
+  "Autoinflige [effectIcon/] {0} até sofrer {1:N0} ataques"
+ ],
+ "10350": [
+  "Aplica [effectIcon/] {0} por {1:N0} ataque",
+  "Aplica [effectIcon/] {0} por {1:N0} ataques"
+ ],
+ "10351": [
+  "Inflige [effectIcon/] {0} por {1:N0} ataque",
+  "Inflige [effectIcon/] {0} por {1:N0} ataques"
+ ],
+ "10352": [
+  "{0:P0} de chance de ganhar [effectIcon/] {1} até sofrer {2:N0} ataque",
+  "{0:P0} de chance de ganhar [effectIcon/] {1} até sofrer {2:N0} ataques"
+ ],
+ "10353": [
+  "{0:P0} de chance de autoinfligir [effectIcon/] {1} até sofrer {2:N0} ataque",
+  "{0:P0} de chance de autoinfligir [effectIcon/] {1} até sofrer {2:N0} ataques"
+ ],
+ "10354": [
+  "{0:P0} de chance de aplicar [effectIcon/] {1} por {2:N0} ataque",
+  "{0:P0} de chance de aplicar [effectIcon/] {1} por {2:N0} ataques"
+ ],
+ "10355": [
+  "{0:P0} de chance de infligir [effectIcon/] {1} por {2:N0} ataque",
+  "{0:P0} de chance de infligir [effectIcon/] {1} por {2:N0} ataques"
+ ],
+ "10356": "No início do combate:",
+ "10357": "Ao comer:",
+ "10358": "Ao comer manualmente:",
+ "10359": "Na Alimentação Automática:",
+ "10360": "Ao atacar:",
+ "10361": "No primeiro ataque do turno:",
+ "10362": "Ao acertar:",
+ "10363": "No primeiro acerto do turno:",
+ "10364": "Ao errar:",
+ "10365": "No primeiro erro do turno:",
+ "10366": "Se o primeiro ataque do turno acertar:",
+ "10367": "Se o primeiro ataque do turno errar:",
+ "10368": "Ao morrer:",
+ "10369": "Ao sofrer um ataque:",
+ "10370": "Ao sofrer o primeiro ataque:",
+ "10371": "Ao receber um golpe:",
+ "10372": "Ao receber o primeiro golpe:",
+ "10373": "Ao se esquivar de um ataque:",
+ "10374": "Ao se esquivar do primeiro ataque:",
+ "10375": "Receba [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] efeitos em [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10376": "Receba [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] efeitos",
+ "10377": "Receba [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vezes",
+ "10378": "Sofra [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vezes",
+ "10379": "Receba [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vezes em [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10380": "Sofra [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vezes em [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10381": "Aplique/inflija [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] efeitos em [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10382": "Aplique/inflija [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] efeitos",
+ "10383": "Aplique [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vezes",
+ "10384": "Inflija [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vezes",
+ "10385": "Aplique [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vezes em [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10386": "Inflija [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vezes em [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10387": "Ganhe/autoinflija [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] efeitos em [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10388": "Ganhe/autoinflija [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] efeitos",
+ "10389": "Ganhe [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vezes",
+ "10390": "Autoinflija [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vezes",
+ "10391": "Ganhe [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vezes em [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10392": "Autoinflija [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vezes em [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10393": "Nenhuma comida selecionada",
+ "10394": "Já equipado",
+ "10395": [
+  "{0:N0} item oculto pelos filtros",
+  "{0:N0} itens ocultos pelos filtros"
+ ],
+ "10396": "Coma [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] alimentos",
+ "10397": "Coma [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] alimentos em [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10398": "Coma [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b]",
+ "10399": "Coma [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b] em [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10400": "Recupere [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Pontos Vitais com comida",
+ "10401": "Recupere [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Pontos Vitais com comida em [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10402": "Recupere [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Pontos Vitais com [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b]",
+ "10403": "Recupere [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] Pontos Vitais com [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b] em [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10404": "{0:N0} - {1:N0}",
+ "10405": "Chance de um dos seguintes:",
+ "10406": "Este conteúdo não está disponível na [b]Demo[/b]",
+ "10407": "Conclusão total de [b]{CategoryName}[/b]: [b]{Current:0.##%} / {Max:0.##%}[/b]",
+ "10408": "Recursos insuficientes.",
+ "10409": "Receitas criadas",
+ "10410": "Crie {0:F0} / {1:F1} receitas em {2.Entity.DisplayName}",
+ "10411": "{0.Quantity:N0} {0.Currency.DisplayNameShort}",
+ "10412": [
+  "[img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b] está equipado",
+  "[img height=1.25em]{ItemIcon}[/img] [b]{Current} / {Max} {ItemName}[/b] estão equipados"
+ ]
+}

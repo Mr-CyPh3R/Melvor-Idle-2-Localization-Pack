@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.2.0 (Unreleased)
+
+### New languages
+* Brazilian Portuguese (Português, Brasil): 13,603 texts. 599 (4%) from the official Brazilian Portuguese translation of Melvor Idle, 13,004 (96%) translated by AI.
+* Japanese (日本語): 13,603 texts. 618 (5%) from the official Japanese translation of Melvor Idle, 12,985 (95%) translated by AI.
+
+### Fixes
+* Local and cloud save times in the pause menu now keep their translated units on every timer update.
+* Switching languages now refreshes shop item names and the hidden item filters in Woodcutting and Mining while those screens are open.
+* The combat screen now refreshes the player's and enemy's accuracy labels, including the attack stance, when switching languages.
+* The startup loading message now follows the selected game language even when the game initially supplies text in another language.
+* Shop descriptions with named colors or item icons now use the language pack.
+
+### Other
+* Languages written without spaces (Japanese) wrap long texts such as quest synopses inside their boxes.
+
 ## 1.1.0 (2026-11-20)
 
 ### New languages

@@ -39,7 +39,7 @@ LANG = sys.argv[sys.argv.index('--lang') + 1] if '--lang' in sys.argv else 'de'
 _cfg = json.load(open('mod/Mods/Localization Pack/mod.json', encoding='utf-8'))
 LOCALE = next((c for c, l in _cfg['languages'].items() if l.get('work') == LANG), LANG)
 # Pluralregel der Zielsprache (Godot liest sie aus dem Kopf der .po)
-PLURAL = {'fr': 'nplurals=2; plural=(n > 1);'}
+PLURAL = {'fr': 'nplurals=2; plural=(n > 1);', 'pt_BR': 'nplurals=2; plural=(n > 1);'}
 
 
 # Sprachnamen, die in jeder Sprache im Original bleiben (Sprachliste zeigt jede Sprache in ihrem eigenen Namen)

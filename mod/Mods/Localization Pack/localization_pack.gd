@@ -14,6 +14,9 @@ const MAX_TEMPLATE_LEN := 200   # longer texts are not used as patterns
 const LOG_IGNORE := ["Games by Malcs (C)"]  # texts that stay English on purpose (start of text)
 
 var _languages: PackedStringArray = []    # language codes of this pack, e.g. ["de"]
+var _loading_label: Control
+const LOADING_MESSAGES := ["Loading...", "Loading Game View...", "Loading Offline Progress...", "Loading Save...", "Preloading Base Game Data...", "Loading Entity Resources...", "Loading Data Editor..."]
+var _loading_messages := {}
 var _log_missing := false
 var _log_file: FileAccess
 var _logged := {}
@@ -24,8 +27,13 @@ var _queue: Array = []     # newly added controls
 var _pos := 0
 var _written := {}         # instance_id -> text we wrote last
 var _original := {}        # instance_id -> original English text
+var _wrap_modes := {}      # instance_id -> [control, original autowrap mode] (wrap_anywhere only)
 var _cache := {}
 var _templates := {}       # keyword -> array of {re, tokens, dst}
+var _rich_sources := {}
+var _rich_style := RegEx.create_from_string("\\[(?:/?b|/color|color=(?:#[0-9A-Fa-f]+|[A-Za-z]+))\\]")
+var _rich_icon := RegEx.create_from_string("\\[img(?: [^\\]]*)?\\]res://[^\\[]+\\[/img\\]")
+var _less_than_prefix := RegEx.create_from_string("(?i)less than\\s+$")
 var _units := {}           # language -> settings from mod.json (time units etc.)
 var _lang_names := {}      # Godot's English language name -> display name ("German, Germany" -> "Deutsch, Deutschland")
 var _words_en := {}        # words from English source texts (log_missing only)
@@ -41,6 +49,7 @@ var _unit_words := {}     # lower-case unit word -> unit key ("sekunden" -> "sec
 
 func _ready() -> void:
 	process_mode = Node.PROCESS_MODE_ALWAYS
+	process_priority = 100
 	_read_config()
 	get_tree().node_added.connect(_on_node_added)
 	_add_tree(get_tree().root)
@@ -58,6 +67,13 @@ func _read_config() -> void:
 		return
 	for lang in cfg.get("languages", {}):
 		_languages.append(lang)
+		var catalog := TranslationServer.get_translation_object(lang)
+		if catalog != null:
+			for source in LOADING_MESSAGES:
+				_loading_messages[source] = source
+				var translated := String(catalog.get_message(source))
+				if not translated.is_empty():
+					_loading_messages[translated] = source
 		var native: String = cfg.languages[lang].get("display", cfg.languages[lang].get("name", ""))
 		if not native.is_empty():  # otherwise the language list shows Godot's English name ("German, Germany")
 			_lang_names[TranslationServer.get_locale_name(lang)] = native
@@ -78,12 +94,14 @@ func _read_config() -> void:
 	var alternatives := PackedStringArray()
 	for w in words:
 		alternatives.append(_escape(w))
-	_re_unit = RegEx.create_from_string("(?i)\\b(\\d+(?:[.,]\\d+)?) ?(" + "|".join(alternatives) + ")(?!\\p{L})")
+	_re_unit = RegEx.create_from_string("(?i)(?<![\\p{Latin}\\d])(\\d+(?:[.,]\\d+)?) ?(" + "|".join(alternatives) + ")(?!\\p{Latin})")
 	_log_missing = cfg.get("log_missing", false)
 	print("Localization Pack %s loaded, languages: %s" % [cfg.get("version", "?"), ", ".join(_languages)])
 
 
 func _process(_delta: float) -> void:
+	if is_instance_valid(_loading_label):
+		_update_loading_message(_loading_label)
 	var lang := _pack_language(TranslationServer.get_locale())
 	if lang != _active:
 		if _active != "":
@@ -93,6 +111,7 @@ func _process(_delta: float) -> void:
 		_written.clear()
 		if lang != "":
 			_build_templates(lang)
+		_refresh_language_views()
 	for n in _queue:
 		_check(n)
 	_queue.clear()
@@ -123,16 +142,86 @@ func _add_tree(n: Node) -> void:
 
 
 func _on_node_added(n: Node) -> void:
+	if n is Control and "TimeUpdateTimer" in n and "LastSavedTime" in n and "LastCloudSavedTime" in n:
+		if n.is_node_ready():
+			_bind_save_times(n)
+		else:
+			n.ready.connect(_bind_save_times.bind(n), CONNECT_ONE_SHOT)
+	elif n is PanelContainer and n.has_method("UpdatePurchaseQuantity") and "_purchaseQuantity" in n:
+		n.add_to_group(&"LocalizationPackShopCards")
+	elif n is Control and n.has_method("PopulateCategoryList") and "ShowHiddenCheckBox" in n and n.has_method("Update"):
+		n.add_to_group(&"LocalizationPackCategoryFilters")
+	elif n is Control and n.has_method("UpdateStats") and "AccuracyStanceLabel" in n:
+		n.add_to_group(&"LocalizationPackOffensiveStats")
 	if n is Label or n is RichTextLabel or n is Button:
+		if n.name == &"Message" and n.get_path() == ^"/root/Main/LoadingScreen/ColorRect/Message":
+			_loading_label = n
 		_nodes.append(weakref(n))
 		_queue.append(n)
+
+
+func _bind_save_times(menu: Control) -> void:
+	var timer: Timer = menu.get("TimeUpdateTimer")
+	var local_time: Label = menu.get("LastSavedTime")
+	var cloud_time: Label = menu.get("LastCloudSavedTime")
+	if timer == null or local_time == null or cloud_time == null:
+		return
+	var refresh := _refresh_save_times.bind(local_time, cloud_time)
+	if not timer.timeout.is_connected(refresh):
+		timer.timeout.connect(refresh, CONNECT_DEFERRED)
+	if not menu.visibility_changed.is_connected(refresh):
+		menu.visibility_changed.connect(refresh, CONNECT_DEFERRED)
+
+
+func _refresh_save_times(local_time: Label, cloud_time: Label) -> void:
+	_check(local_time)
+	_check(cloud_time)
+
+
+func _refresh_language_views() -> void:
+	for card in get_tree().get_nodes_in_group(&"LocalizationPackShopCards"):
+		var quantity: int = card.get("_purchaseQuantity")
+		if card.is_node_ready() and quantity >= 0:
+			card.set("_purchaseQuantity", -1)
+			card.call("UpdatePurchaseQuantity")
+			if card.get("_purchaseQuantity") == -1:
+				card.set("_purchaseQuantity", quantity)
+	for view in get_tree().get_nodes_in_group(&"LocalizationPackCategoryFilters"):
+		if view.is_node_ready():
+			view.call("Update")
+	for view in get_tree().get_nodes_in_group(&"LocalizationPackOffensiveStats"):
+		if view.is_node_ready():
+			view.call("UpdateStats")
+
+
+func _update_loading_message(n) -> void:
+	if not n.is_visible_in_tree() or not _loading_messages.has(n.text):
+		return
+	var loading := String(TranslationServer.translate(_loading_messages[n.text]))
+	if n.text != loading:
+		n.text = loading
 
 
 func _check(n) -> void:
 	if not is_instance_valid(n) or not n.is_visible_in_tree():
 		return
+	if _active != "":
+		_apply_wrap(n)
 	var s: String = n.text
 	if s.is_empty():
+		if _active != "" and n is RichTextLabel and n.name in [&"Description", &"CustomDescription", &"InstructionLabel"]:
+			var rendered: String = n.get_parsed_text()
+			var rich_id: int = n.get_instance_id()
+			if _written.get(rich_id) == rendered:
+				return
+			_written[rich_id] = rendered
+			_original.erase(rich_id)
+			var source: String = _rich_sources.get(rendered, rendered)
+			var translated := _t(source)
+			if translated != source:
+				_original[rich_id] = source
+				_written[rich_id] = translated
+				n.text = translated
 		return
 	if n is Button and _lang_names.has(s):
 		n.text = _lang_names[s]
@@ -144,13 +233,30 @@ func _check(n) -> void:
 		return
 	var t := _convert(s)
 	if t != s:
-		if not _original.has(id):
-			_original[id] = s
+		_original[id] = s
 		n.text = t
+	else:
+		_original.erase(id)
 	_written[id] = t
 
 
+# Languages without spaces (wrap_anywhere in mod.json) never break at word boundaries, so long
+# texts run past their box. Let word-wrapping controls break anywhere while such a language is active.
+func _apply_wrap(n) -> void:
+	if not _units.get(_active, {}).get("wrap_anywhere", false) or not "autowrap_mode" in n:
+		return
+	var mode: int = n.autowrap_mode
+	if mode == TextServer.AUTOWRAP_WORD or mode == TextServer.AUTOWRAP_WORD_SMART:
+		_wrap_modes[n.get_instance_id()] = [weakref(n), mode]
+		n.autowrap_mode = TextServer.AUTOWRAP_ARBITRARY
+
+
 func _restore_all() -> void:
+	for entry in _wrap_modes.values():
+		var c = entry[0].get_ref()
+		if c != null and c.autowrap_mode == TextServer.AUTOWRAP_ARBITRARY:
+			c.autowrap_mode = entry[1]
+	_wrap_modes.clear()
 	for ref in _nodes:
 		var n = ref.get_ref()
 		if n == null:
@@ -226,6 +332,7 @@ func _translate(s: String) -> String:
 ## Build patterns from all translated entries with placeholders, e.g. "{0:N0} Unlocks Available".
 func _build_templates(lang: String) -> void:
 	_templates.clear()
+	_rich_sources.clear()
 	var trans := TranslationServer.get_translation_object(lang)
 	if trans == null:
 		return
@@ -233,6 +340,10 @@ func _build_templates(lang: String) -> void:
 	_words_tr.clear()
 	for src in trans.get_message_list():
 		var dst := String(trans.get_message(src))
+		if "[" in src and "{" not in src and dst != src:
+			var plain := _rich_style.sub(_rich_icon.sub(src, " ", true), "", true)
+			if plain != src and "[" not in plain and not _rich_sources.has(plain):
+				_rich_sources[plain] = src
 		if _log_missing:
 			for m in _re_latin.search_all(src):
 				_words_en[m.get_string().to_lower()] = true
@@ -295,6 +406,8 @@ func _replace_units(s: String) -> String:
 		return s
 	var matches := _re_unit.search_all(s)
 	var out := s
+	var separator: String = _units[_active].get("unit_separator", " ")
+	var less_than: String = _units[_active].get("less_than", "")
 	for i in range(matches.size() - 1, -1, -1):
 		var m: RegExMatch = matches[i]
 		var unit: String = _unit_words.get(m.get_string(2).to_lower(), "")
@@ -302,7 +415,14 @@ func _replace_units(s: String) -> String:
 			continue
 		var forms: Array = names[unit]
 		var one := m.get_string(1) == "1"
-		out = out.substr(0, m.get_start()) + m.get_string(1) + " " + forms[0 if one else 1] + out.substr(m.get_end())
+		var value := m.get_string(1) + separator + String(forms[0 if one else 1])
+		var prefix := out.substr(0, m.get_start())
+		if not less_than.is_empty():
+			var qualifier := _less_than_prefix.search(prefix)
+			if qualifier != null:
+				prefix = prefix.substr(0, qualifier.get_start())
+				value = less_than.replace("{0}", value)
+		out = prefix + value + out.substr(m.get_end())
 	return out
 
 
@@ -317,7 +437,7 @@ func _escape(s: String) -> String:
 
 func _log_line(s: String) -> void:
 	if _log_file == null:
-		# Append across game sessions; tools/import_missing.py collects the file later.
+		# Append across game sessions; tools/add_texts.py --missing collects the file later.
 		var path := "user://localization_pack_missing.txt"
 		if FileAccess.file_exists(path):
 			_log_file = FileAccess.open(path, FileAccess.READ_WRITE)
