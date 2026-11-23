@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.2.0 (Unreleased)
+## 1.2.0 (2026-11-23)
 
 ### New languages
 * Brazilian Portuguese (Português, Brasil): 13,603 texts. 599 (4%) from the official Brazilian Portuguese translation of Melvor Idle, 13,004 (96%) translated by AI.
