@@ -15,6 +15,8 @@ const LOG_IGNORE := ["Games by Malcs (C)"]  # texts that stay English on purpose
 
 var _languages: PackedStringArray = []    # language codes of this pack, e.g. ["de"]
 var _loading_label: Control
+const ENGLISH_UNITS := {"units": {"day": ["day", "days"], "hour": ["hour", "hours"], "minute": ["minute", "minutes"], "second": ["second", "seconds"], "turn": ["turn", "turns"]}}
+const PLURAL_PROBE := "Localization Pack plural probe"  # helper message, see _plural_index
 const LOADING_MESSAGES := ["Loading...", "Loading Game View...", "Loading Offline Progress...", "Loading Save...", "Preloading Base Game Data...", "Loading Entity Resources...", "Loading Data Editor..."]
 var _loading_messages := {}
 var _log_missing := false
@@ -22,6 +24,7 @@ var _log_file: FileAccess
 var _logged := {}
 
 var _active := ""          # currently active pack language ("" = off)
+var _plural_probes := {}   # languages whose catalog already holds PLURAL_PROBE
 var _nodes: Array = []     # tracked text controls (WeakRef)
 var _queue: Array = []     # newly added controls
 var _pos := 0
@@ -31,7 +34,7 @@ var _wrap_modes := {}      # instance_id -> [control, original autowrap mode] (w
 var _cache := {}
 var _templates := {}       # keyword -> array of {re, tokens, dst}
 var _rich_sources := {}
-var _rich_style := RegEx.create_from_string("\\[(?:/?b|/color|color=(?:#[0-9A-Fa-f]+|[A-Za-z]+))\\]")
+var _rich_style := RegEx.create_from_string("\\[(?:/?[bu]|/color|color=(?:#[0-9A-Fa-f]+|[A-Za-z]+))\\]")
 var _rich_icon := RegEx.create_from_string("\\[img(?: [^\\]]*)?\\]res://[^\\[]+\\[/img\\]")
 var _less_than_prefix := RegEx.create_from_string("(?i)less than\\s+$")
 var _units := {}           # language -> settings from mod.json (time units etc.)
@@ -67,7 +70,7 @@ func _read_config() -> void:
 		return
 	for lang in cfg.get("languages", {}):
 		_languages.append(lang)
-		var catalog := TranslationServer.get_translation_object(lang)
+		var catalog := _game_catalog(lang, cfg.languages[lang])
 		if catalog != null:
 			for source in LOADING_MESSAGES:
 				_loading_messages[source] = source
@@ -209,8 +212,11 @@ func _check(n) -> void:
 		_apply_wrap(n)
 	var s: String = n.text
 	if s.is_empty():
-		if _active != "" and n is RichTextLabel and n.name in [&"Description", &"CustomDescription", &"InstructionLabel"]:
+		if _active != "" and n is RichTextLabel:
 			var rendered: String = n.get_parsed_text()
+			# Labels filled with append_text (quest requirements, for example) have no readable source text
+			if not _rich_sources.has(rendered) and not n.name in [&"Description", &"CustomDescription", &"InstructionLabel", &"CustomRewardsLabel"]:
+				return
 			var rich_id: int = n.get_instance_id()
 			if _written.get(rich_id) == rendered:
 				return
@@ -226,12 +232,14 @@ func _check(n) -> void:
 	if n is Button and _lang_names.has(s):
 		n.text = _lang_names[s]
 		return
-	if _active == "":
+	# English: the game writes durations in the Windows language ("19 Minuten"), so only the units are replaced.
+	var english := _active == "" and TranslationServer.get_locale().begins_with("en")
+	if _active == "" and not english:
 		return
 	var id: int = n.get_instance_id()
 	if _written.get(id, "") == s:
 		return
-	var t := _convert(s)
+	var t := _replace_units(s) if english else _convert(s)
 	if t != s:
 		_original[id] = s
 		n.text = t
@@ -333,51 +341,71 @@ func _translate(s: String) -> String:
 func _build_templates(lang: String) -> void:
 	_templates.clear()
 	_rich_sources.clear()
-	var trans := TranslationServer.get_translation_object(lang)
+	var trans := _game_catalog(lang, _units.get(lang, {}))
 	if trans == null:
 		return
 	_words_en.clear()
 	_words_tr.clear()
-	for src in trans.get_message_list():
-		var dst := String(trans.get_message(src))
-		if "[" in src and "{" not in src and dst != src:
-			var plain := _rich_style.sub(_rich_icon.sub(src, " ", true), "", true)
-			if plain != src and "[" not in plain and not _rich_sources.has(plain):
-				_rich_sources[plain] = src
-		if _log_missing:
-			for m in _re_latin.search_all(src):
-				_words_en[m.get_string().to_lower()] = true
-			for m in _re_latin.search_all(dst):
-				_words_tr[m.get_string().to_lower()] = true
-		if src.length() > MAX_TEMPLATE_LEN or not "{" in src:
-			continue
-		if dst.is_empty() or dst == src:
-			continue
-		var pattern := "^"
-		var tokens := []
-		var literal := ""
-		var pos := 0
-		for m in _re_token.search_all(src):
-			var lit := src.substr(pos, m.get_start() - pos)
-			pattern += _escape(lit) + "(.+?)"
-			literal += lit + " "
-			tokens.append(m.get_string())
-			pos = m.get_end()
-		pattern += _escape(src.substr(pos)) + "$"
-		literal += src.substr(pos)
-		var key := ""
-		for w in _re_word.search_all(literal):
-			if w.get_string().length() > key.length():
-				key = w.get_string()
-		if key.is_empty() or tokens.is_empty():
-			continue
-		var re := RegEx.new()
-		if re.compile(pattern) != OK:
-			continue
-		key = key.to_lower()
-		if not _templates.has(key):
-			_templates[key] = []
-		_templates[key].append({"re": re, "tokens": tokens, "dst": dst})
+	# Other mods' texts (Languages/Mods/<Mod>/<same file name>) can hold patterns as well.
+	var catalogs: Array[Translation] = [trans]
+	var mods_dir := OS.get_executable_path().get_base_dir().path_join(MOD_DIR).path_join("Languages/Mods")
+	var file_name := String(_units.get(lang, {}).get("file", "")).get_file()
+	if not file_name.is_empty() and DirAccess.dir_exists_absolute(mods_dir):
+		for d in DirAccess.get_directories_at(mods_dir):
+			var path := mods_dir.path_join(d).path_join(file_name)
+			if FileAccess.file_exists(path):
+				var extra = load(path)
+				if extra is Translation:
+					catalogs.append(extra)
+	for catalog in catalogs:
+		for src in catalog.get_message_list():
+			var dst := String(catalog.get_message(src))
+			if "[" in src and "{" not in src and dst != src:
+				var plain := _rich_style.sub(_rich_icon.sub(src, " ", true), "", true)
+				if plain != src and "[" not in plain and not _rich_sources.has(plain):
+					_rich_sources[plain] = src
+			if _log_missing:
+				for m in _re_latin.search_all(src):
+					_words_en[m.get_string().to_lower()] = true
+				for m in _re_latin.search_all(dst):
+					_words_tr[m.get_string().to_lower()] = true
+			if src.length() > MAX_TEMPLATE_LEN or not "{" in src:
+				continue
+			if dst.is_empty() or dst == src:
+				continue
+			var pattern := "^"
+			var tokens := []
+			var literal := ""
+			var pos := 0
+			for m in _re_token.search_all(src):
+				var lit := src.substr(pos, m.get_start() - pos)
+				pattern += _escape(lit) + "(.+?)"
+				literal += lit + " "
+				tokens.append(m.get_string())
+				pos = m.get_end()
+			pattern += _escape(src.substr(pos)) + "$"
+			literal += src.substr(pos)
+			var key := ""
+			for w in _re_word.search_all(literal):
+				if w.get_string().length() > key.length():
+					key = w.get_string()
+			if key.is_empty() or tokens.is_empty():
+				continue
+			var re := RegEx.new()
+			if re.compile(pattern) != OK:
+				continue
+			key = key.to_lower()
+			if not _templates.has(key):
+				_templates[key] = []
+			_templates[key].append({"re": re, "tokens": tokens, "dst": dst})
+
+
+## The pack's catalog of the game's texts for lang. TranslationServer.get_translation_object() may return
+## another catalog of the same language instead (Languages/Mods/ModLoader).
+func _game_catalog(lang: String, entry: Dictionary) -> Translation:
+	var path := OS.get_executable_path().get_base_dir().path_join(MOD_DIR).path_join(String(entry.get("file", "")))
+	var catalog = load(path) if FileAccess.file_exists(path) else null
+	return catalog if catalog is Translation else TranslationServer.get_translation_object(lang)
 
 
 func _from_template(s: String) -> String:
@@ -401,21 +429,32 @@ func _from_template(s: String) -> String:
 
 ## "10 minutes" or "10 Minuten" -> words of the active language, using the units from mod.json.
 func _replace_units(s: String) -> String:
-	var names: Dictionary = _units.get(_active, {}).get("units", {})
+	var settings: Dictionary = _units.get(_active, {}) if _active != "" else ENGLISH_UNITS
+	var names: Dictionary = settings.get("units", {})
 	if names.is_empty() or _re_unit == null:
 		return s
 	var matches := _re_unit.search_all(s)
 	var out := s
-	var separator: String = _units[_active].get("unit_separator", " ")
-	var less_than: String = _units[_active].get("less_than", "")
+	var separator: String = settings.get("unit_separator", " ")
+	var less_than: String = settings.get("less_than", "")
+	if _active == "":
+		# English: leave texts the game wrote in English ("3 Turns"); fix those with a unit word of another
+		# language ("1 Minute 1 Sekunde"; "Minute" alone is the same word in German and English).
+		var foreign := false
+		for m in matches:
+			var word := m.get_string(2).to_lower()
+			var unit: String = _unit_words.get(word, "")
+			if not (unit in names and word in names[unit]):
+				foreign = true
+		if not foreign:
+			return s
 	for i in range(matches.size() - 1, -1, -1):
 		var m: RegExMatch = matches[i]
 		var unit: String = _unit_words.get(m.get_string(2).to_lower(), "")
 		if not names.has(unit):
 			continue
 		var forms: Array = names[unit]
-		var one := m.get_string(1) == "1"
-		var value := m.get_string(1) + separator + String(forms[0 if one else 1])
+		var value := m.get_string(1) + separator + String(forms[_plural_index(m.get_string(1), forms.size())])
 		var prefix := out.substr(0, m.get_start())
 		if not less_than.is_empty():
 			var qualifier := _less_than_prefix.search(prefix)
@@ -424,6 +463,26 @@ func _replace_units(s: String) -> String:
 				value = less_than.replace("{0}", value)
 		out = prefix + value + out.substr(m.get_end())
 	return out
+
+
+## Which of the unit forms in mod.json fits the number. Two forms: "1" singular, else plural (as before).
+## More forms (Polish: 1 / 2-4 / 5+): Godot evaluates the "Plural-Forms" rule of the active .po
+## (tools/build.py writes it from "plural_forms" in mod.json), so no language is named here.
+func _plural_index(number: String, count: int) -> int:
+	if count <= 2 or not number.is_valid_int():
+		# Decimals ("1.5") take the second form: plural in two-form languages, Polish "1,5 sekundy".
+		return 0 if number == "1" else mini(1, count - 1)
+	var catalog := _game_catalog(_active, _units.get(_active, {}))
+	if catalog == null:
+		return 0 if number == "1" else mini(1, count - 1)
+	if not _plural_probes.has(_active):
+		var forms := PackedStringArray()
+		for i in count:
+			forms.append(str(i))
+		catalog.add_plural_message(PLURAL_PROBE, forms)
+		_plural_probes[_active] = true
+	var index := String(catalog.get_plural_message(PLURAL_PROBE, PLURAL_PROBE, number.to_int()))
+	return clampi(index.to_int(), 0, count - 1) if index.is_valid_int() else mini(1, count - 1)
 
 
 func _escape(s: String) -> String:

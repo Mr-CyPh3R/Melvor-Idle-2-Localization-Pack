@@ -2,7 +2,8 @@
 
 Aufruf (im Projektordner): python tools/package.py [--install]
 Sprachen stehen in mod/Mods/Localization Pack/mod.json unter "languages" ("file": Pfad im Mod-Ordner).
-Für jede Sprache <code> wird dist/<code>.po (aus tools/build.py) an den Pfad aus "file" kopiert (Languages/<code>.po).
+Für jede Sprache <code> wird dist/<code>.po (aus tools/build.py) an den Pfad aus "file" kopiert (Languages/Game/<code>.po),
+Übersetzungen für andere Mods (dist/mods/<Mod>/) nach Languages/Mods/<Mod>/.
 Die override.cfg wird aus dieser Liste erzeugt, damit alle Sprachen des Packs geladen werden.
 Ergebnis: dist/Localization_Pack_v<version>.zip mit override.cfg und Mods/Localization Pack/
 --install kopiert alles in den Spielordner (überschreibt nur eine eigene override.cfg).
@@ -26,6 +27,16 @@ for code, lang in cfg['languages'].items():
     os.makedirs(os.path.dirname(dst), exist_ok=True)
     shutil.copyfile(built, dst)
     paths.append(f'res://{MOD_REL}/{lang["file"]}')
+
+# Übersetzungen für andere Mods (dist/mods/<Mod>/<code>.po aus tools/build.py) unter Languages/Mods/<Mod>/
+for mod in sorted(os.listdir('dist/mods')) if os.path.isdir('dist/mods') else []:
+    for code, lang in cfg['languages'].items():
+        built = f'dist/mods/{mod}/{code}.po'
+        if os.path.exists(built):
+            rel = f'Languages/Mods/{mod}/{os.path.basename(lang["file"])}'
+            os.makedirs(os.path.join(MOD_DIR, os.path.dirname(rel)), exist_ok=True)
+            shutil.copyfile(built, os.path.join(MOD_DIR, rel))
+            paths.append(f'res://{MOD_REL}/{rel}')
 
 langs = ', '.join(f'{l["english_name"]} ({l["name"]})' for c, l in cfg['languages'].items())
 
@@ -63,6 +74,29 @@ with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as z:
 print('Paket:', zip_path)
 for i in zipfile.ZipFile(zip_path).infolist():
     print(f'  {i.file_size:>9}  {i.filename}')
+
+# Version für Melvor Mod Loader: derselbe Mod-Ordner plus LocalizationPack.dll, ohne override.cfg
+# (die gehört dem Loader); README mit eigenem Abschnitt INSTALLATION/UNINSTALL aus tools/README.modloader.txt
+dll = 'modloader/LocalizationPack/bin/LocalizationPack.dll'
+if os.path.exists(dll):
+    loader_readme = readme[:readme.index('INSTALLATION\n')] + open('tools/README.modloader.txt', encoding='utf-8').read() \
+        + readme[readme.index('NOTES\n'):].replace('- Only one mod can use override.cfg. Remove other translation mods first.', '- Remove other translation mods first.')
+    loader = cfg['mod_loader_version']  # Titel: "1.2.0 (Mod Loader 0.2.0)"
+    loader_readme = loader_readme.replace(f'Version {cfg["version"]},', f'Version {cfg["version"]} (Mod Loader {loader}),', 1)
+    loader_zip = f'dist/Localization_Pack_v{cfg["version"]}_ModLoader_{loader}.zip'
+    with zipfile.ZipFile(loader_zip, 'w', zipfile.ZIP_DEFLATED) as z:
+        for root, _, files in os.walk(MOD_DIR):
+            for f in files:
+                full = os.path.join(root, f)
+                arc = os.path.relpath(full, SRC).replace(os.sep, '/')
+                if f == 'README.txt':
+                    z.writestr(arc, loader_readme)
+                else:
+                    z.write(full, arc)
+        z.write(dll, f'{MOD_REL}/LocalizationPack.dll')
+    print('Paket:', loader_zip)
+else:
+    print('Hinweis: kein ModLoader-Paket,', dll, 'fehlt (cd modloader/LocalizationPack; dotnet build -c Release -o bin)')
 
 if '--install' in sys.argv:
     target = os.path.join(GAME, 'override.cfg')

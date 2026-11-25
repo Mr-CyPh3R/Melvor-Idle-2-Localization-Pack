@@ -1,0 +1,87 @@
+#
+msgid ""
+msgstr ""
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "MODS"
+msgstr "MOD"
+
+msgid "Open a mod window, or change its key."
+msgstr "MODウィンドウを開くか、キーを変更します。"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Close  ({0})"
+msgstr "閉じる（{0}）"
+
+msgid "This menu"
+msgstr "このメニュー"
+
+msgid "this menu"
+msgstr "このメニュー"
+
+msgid "Off"
+msgstr "なし"
+
+msgid "No mod has a window here yet."
+msgstr "ここにウィンドウを持つMODはまだありません。"
+
+msgid ""
+"Click a key to change it, then press the new key (Ctrl, Shift or Alt can "
+"come with it; Esc cancels)."
+msgstr "キーをクリックして変更し、新しいキーを押してください（Ctrl、Shift、Altも組み合わせ可能、Escでキャンセル）。"
+
+msgid ""
+"\"Off\" frees the key, the window still opens from here. Saved in "
+"mods\\hotkeys.json."
+msgstr "「なし」でキーを解除します。ウィンドウはここから引き続き開けます。mods\\hotkeys.jsonに保存されます。"
+
+msgid "Reset all keys"
+msgstr "すべてのキーをリセット"
+
+msgid "Every key back to what its mod uses by default."
+msgstr "すべてのキーを各MODの既定値に戻します。"
+
+msgid "Mods"
+msgstr "MOD"
+
+msgid "Open any mod window, or change or switch off its key."
+msgstr "MODウィンドウを開くか、キーを変更または無効にします。"
+
+msgid "Press a key..."
+msgstr "キーを押してください..."
+
+msgid "Press the new key now. Esc cancels."
+msgstr "新しいキーを押してください。Escでキャンセルします。"
+
+msgid "Click, then press the new key."
+msgstr "クリックして新しいキーを押してください。"
+
+msgid "No key for this window."
+msgstr "このウィンドウにはキーがありません。"
+
+msgid "The key that opens this menu."
+msgstr "このメニューを開くキーです。"
+
+msgid "Two mods use the same key: open this to fix it."
+msgstr "2つのMODが同じキーを使っています。開いて修正してください。"
+
+msgid "no key"
+msgstr "キーなし"
+
+msgid "also used by {0}"
+msgstr "{0}でも使用中"
+
+msgid "Melvor Mod Loader {0}  -  {1} mod"
+msgstr "Melvor Mod Loader {0}、MOD: {1}"
+
+msgid ""
+"Click a key to change it, then press the new key (Ctrl, Shift or Alt can come with it; Esc cancels).\n"
+"\"Off\" frees the key, the window still opens from here. Saved in mods\\hotkeys.json."
+msgstr ""
+"キーをクリックして変更し、新しいキーを押してください（Ctrl、Shift、Altも組み合わせ可能、Escでキャンセル）。\n"
+"「なし」でキーを解除します。ウィンドウはここから引き続き開けます。mods\\hotkeys.jsonに保存されます。"

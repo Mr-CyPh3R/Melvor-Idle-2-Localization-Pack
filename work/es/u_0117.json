@@ -1,0 +1,170 @@
+{
+"13605": "Llave de la Cámara abisal",
+"13606": [
+"Túnica de mago de tierra",
+"Túnicas de mago de tierra"
+],
+"13607": [
+"Túnica de mago de fuego",
+"Túnicas de mago de fuego"
+],
+"13608": [
+"Cebo vegetal",
+"Cebo vegetal"
+],
+"13609": [
+"Monóculo de artesano",
+"Monóculo de artesano"
+],
+"13610": [
+"Túnica de sangre",
+"Túnica de sangre"
+],
+"13611": [
+"Túnica ahogada",
+"Túnica ahogada"
+],
+"13612": [
+"Túnica de escama nocturna",
+"Túnica de escama nocturna"
+],
+"13613": [
+"Capucha del Ateneo de marfil",
+"Capuchas del Ateneo de marfil"
+],
+"13614": [
+"Túnica del Ateneo de marfil",
+"Túnicas del Ateneo de marfil"
+],
+"13615": [
+"Prenda inferior del Ateneo de marfil",
+"Prendas inferiores del Ateneo de marfil"
+],
+"13616": [
+"Fragmento abismal",
+"Fragmentos abismales"
+],
+"13617": [
+"Fragmentos benditos",
+"Fragmentos benditos"
+],
+"13618": [
+"Lingote abismal",
+"Lingotes abismales"
+],
+"13619": [
+"Túnica de masa de limo",
+"Túnica de masa de limo"
+],
+"13620": [
+"Hebilla espinosa",
+"Hebillas espinosas"
+],
+"13621": [
+"Amuleto de centinela",
+"Amuletos de centinela"
+],
+"13622": [
+"Hebra helada",
+"Hebras heladas"
+],
+"13623": [
+"Carne regenerativa",
+"Carne regenerativa"
+],
+"13624": "Poción rompeprotecciones P2-A",
+"13625": "Eres tú.",
+"13626": "Has aprovechado al máximo tu juventud y cada oportunidad de ver un poco más de tu pequeño rincón del mundo. Desde las orillas azotadas por el viento hasta el límite de la Arboleda ancestral, cada paso que has dado lo ha dado contigo tu mejor amistad, siempre a tu lado.\n\nLlegó a la aldea sin compañía, igual que tú apenas un año antes. Ver huérfanos tan adentro del bosque no era raro, pero era el segundo caso que Azamire veía en una década. Los aldeanos te daban sobras de comida o tareas sencillas cuando les sobraban un par de monedas, pero esas ocasiones eran escasas. Era natural que empezarais a cuidar y a velar el uno por el otro. La vida se hizo más fácil al crecer y demostrar que valíais para algo más que fregar suelos o recoger coles.\n\nA pesar de la escasez, las comidas perdidas y las noches frías, su presencia fue una luz constante que te ayudó a superar tus primeros años, y diría lo mismo de ti. Has viajado desde la Bahía del Viento salado hasta el límite de la Arboleda ancestral, parándote a buscar bajo cada roca, cada árbol caído y en cada cueva oscura del camino, siempre con su compañía dos pasos por detrás o uno por delante. Con su valentía, su talento y una bondad que roza el exceso, no te imaginas pasando el tiempo con nadie más.\n\nSu nombre es...",
+"13627": "Debes poder derrotar a un enemigo de [color=#FFD16D]nivel de combate 1[/color] con el [color=#FFD16D]estilo de combate a distancia[/color]",
+"13628": "Debes poder derrotar varias veces a un enemigo de [color=#FFD16D]nivel de combate 4[/color]",
+"13629": "Debes poder derrotar a un enemigo de [color=#FFD16D]nivel de combate 8[/color]",
+"13630": "Debes poder derrotar varias veces a un [u]jefe de mazmorra[/u] de [color=#FFD16D]nivel de combate 15[/color]",
+"13631": "Debes poder derrotar varias veces a un enemigo de [color=#FFD16D]nivel de combate 25[/color]",
+"13632": "Debes poder derrotar a un [b][u]minijefe[/u][/b] de [color=#FFD16D]nivel de combate 35[/color]",
+"13633": "Debes poder derrotar varias veces a un enemigo de [color=#FFD16D]nivel de combate 36[/color]",
+"13634": "Debes poder derrotar a un [b][u]jefe supremo[/u][/b] de [color=#FFD16D]nivel de combate 39[/color]",
+"13635": "Debes poder derrotar varias veces a un enemigo de [color=#FFD16D]nivel de combate 40[/color]",
+"13636": "Debes poder derrotar varias veces a un enemigo de [color=#FFD16D]nivel de combate 42[/color]",
+"13637": "Debes poder derrotar a un [b][u]minijefe[/u][/b] de [color=#FFD16D]nivel de combate 40[/color]",
+"13638": "Desbloquea la zona de combate Oasis enlodado.",
+"13639": "Debes poder derrotar varias veces a un enemigo de [color=#FFD16D]nivel de combate 45[/color]",
+"13640": "Desbloquea la zona de combate Acantilado marino",
+"13641": "Debes poder derrotar a un [u]jefe de mazmorra[/u] de [color=#FFD16D]nivel de combate 50[/color]",
+"13642": "(Próximamente) Desbloquea la habilidad Invocación\n(Próximamente) Desbloquea la ubicación de robo Ateneo de marfil (con temática de Invocación)",
+"13643": "Debes poder derrotar varias veces a un enemigo de [color=#FFD16D]nivel de combate 55[/color]",
+"13644": "Debes poder derrotar a un [b][u]minijefe[/u][/b] de [color=#FFD16D]nivel de combate 60[/color]",
+"13645": "Debes poder derrotar varias veces a un enemigo de [color=#FFD16D]nivel de combate 67[/color]",
+"13646": "Debes poder derrotar a un [b][u]jefe supremo[/u][/b] de [color=#FFD16D]nivel de combate 69[/color]",
+"13647": "Nombre del personaje",
+"13648": [
+"Completa [img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vez",
+"Completa [img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] veces"
+],
+"13649": [
+"Completa [img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vez en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+"Completa [img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] veces en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]"
+],
+"13650": "El ajuste fijo de tu probabilidad de recibir objetos de los obstáculos",
+"13651": "El ajuste fijo de tu probabilidad de éxito con las trampas",
+"13652": "Si es mayor que 0, se conservan las recompensas de obstáculos al fallar un obstáculo",
+"13653": "Este PNJ aún no tiene trasfondo.",
+"13654": "Error desconocido: {0}. Actualizar el cliente de Steam puede resolver este problema.",
+"13655": "[color=#E9DFC1]Reduce [color=#FFD16D]todo[/color] el daño recibido en una cantidad fija igual al [color=#FFD16D]valor de armadura[/color].[/color]\n\n[color=#E9DFC1]Este es el paso [color=#FFD16D]final[/color] del cálculo de daño.[/color]\n\n[color=#E9DFC1][color=#FFD16D]La armadura se puede romper[/color] con un golpe [color=#FFD16D]igual o superior[/color] al valor de armadura.[/color]\n\n[color=#E9DFC1]XP adicional base otorgada por muerte:[/color]\n[color=#FFD16D]Puntos de vida:[/color] [color=#26D345]{1:N0}[/color]\n[color=#FFD16D]Otras:[/color] [color=#26D345]{0:N0}[/color] [color=#E9DFC1](repartida según tu postura)[/color]",
+"13656": "(Multiplicado)",
+"13657": "Editar este PNJ",
+"13658": "Mostrar siempre las estadísticas del objeto en las descripciones emergentes",
+"13659": "Las descripciones emergentes del equipo siempre mostrarán el panel de estadísticas del objeto, en vez de solo al mantener pulsada la tecla Shift.",
+"13660": "Mostrar los objetos encontrados en el botín de los objetos que se pueden abrir",
+"13661": "Muestra una marca junto a los objetos que ya has encontrado al ver el botín de un objeto que se puede abrir.",
+"13662": "Suavizado de bordes (MSAA)",
+"13663": "Suaviza los bordes dentados. Los valores altos pueden reducir el rendimiento.",
+"13664": "Comportamiento al hacer clic en las notificaciones del gremio",
+"13665": "Ajusta el comportamiento predeterminado al hacer clic en las notificaciones de tareas del Gremio de maestría.",
+"13666": "Solo la actual",
+"13667": "Todas",
+"13668": "Ctrl/CMD + clic para descartar todas las notificaciones del gremio",
+"13669": "Activa o desactiva el atajo para descartar rápidamente todas las notificaciones en cola del Gremio de maestría.",
+"13670": "Poner en cola las notificaciones de tareas del Gremio de maestría",
+"13671": "Indica si las notificaciones de tareas del Gremio de maestría se ponen en cola en vez de mostrarse todas a la vez.",
+"13672": "Haz clic para descartar",
+"13673": "Haz clic para descartar todas",
+"13674": "{0} + clic para descartar todas",
+"13675": "+{0} más",
+"13676": "Completadas: {0}",
+"13677": "En curso: {0}",
+"13678": [
+"Equipa {0:N0} objeto del conjunto necesario para:",
+"Equipa {0:N0} objetos del conjunto necesarios para:"
+],
+"13679": "Bonificaciones de conjunto",
+"13680": "Bonificaciones de conjunto:",
+"13681": "Objetos del conjunto válidos:",
+"13682": "(Cambia de configuración con [color=#FFD16D]{0}[/color])",
+"13683": "(Cambia de configuración con [color=#FFD16D]Q[/color])",
+"13684": "[color=#FFD16D]Mantén pulsado {0}[/color] para ver las [img height=1.25em]res://Assets/Icons/StatsIcon_28.png[/img] [b]estadísticas del objeto[/b]",
+"13685": "[color=#FFD16D]Mantén pulsado Shift[/color] para ver las [img height=1.25em]res://Assets/Icons/StatsIcon_28.png[/img] [b]estadísticas del objeto[/b]",
+"13686": "Usar como icono de la pestaña",
+"13687": "Restablecer el icono de la pestaña",
+"13688": "Borra el icono guardado de la pestaña del inventario y restablece el predeterminado (primer objeto de la pestaña).",
+"13689": "Usar gris para las condiciones no cumplidas",
+"13690": "Muestra las condiciones no cumplidas en gris en vez de en rojo.",
+"13691": "Últimas noticias y actualizaciones",
+"13692": "Últimas noticias de Patreon",
+"13693": "Cargando las últimas noticias... Por favor, espera...",
+"13694": "Amuletos de combate",
+"13695": "Chuletas de agilidad",
+"13696": "Equipo de tala",
+"13697": "Equipo de pesca",
+"13698": "Equipo de minería",
+"13699": "Equipo de herrería",
+"13700": "Equipo de artesanía",
+"13701": "Equipo de arquería",
+"13702": "Equipo de creación de runas",
+"13703": "Equipo de artesanía bestial",
+"13704": "Equipo de herbología",
+"13705": "Equípalo en Minería para extraer mineral de meteorito",
+"13706": "Equípalo en Minería para extraer estrellas caídas",
+"13707": "Equípalo en Minería para extraer estrellas caídas doradas",
+"13708": "Recorridos difíciles con recompensas según la velocidad.",
+"13709": "Opcional. Las categorías de receta que no pueden usar este modo alternativo"
+}

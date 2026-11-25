@@ -1,7 +1,7 @@
 # Localization Pack for Melvor Idle 2
 
 Unofficial community translations for Melvor Idle 2 in one mod.
-Currently **German (Deutsch)**, **French (Français)**, **Spanish (Español)**, **Brazilian Portuguese (Português, Brasil)** and **Japanese (日本語)**. More languages are coming. Missing your language? Open an issue and suggest it.
+Currently **German (Deutsch)**, **French (Français)**, **Spanish (Español)**, **Brazilian Portuguese (Português, Brasil)**, **Japanese (日本語)**, **Polish (Polski)** and **Russian (Русский)**. More languages are coming. Missing your language? Open an issue and suggest it.
 
 Not affiliated with or endorsed by Games By Malcs or Jagex.
 
@@ -17,11 +17,13 @@ Please read this first. We want to be open about where the texts come from.
 
 | Language | Texts | From Melvor Idle | Translated by AI |
 |---|---|---|---|
-| German (Deutsch) | 13,603 | 566 (4%) | 13,037 (96%) |
-| French (Français) | 13,603 | 586 (4%) | 13,017 (96%) |
-| Spanish (Español) | 13,603 | 601 (4%) | 13,002 (96%) |
-| Brazilian Portuguese (Português, Brasil) | 13,603 | 599 (4%) | 13,004 (96%) |
-| Japanese (日本語) | 13,603 | 618 (5%) | 12,985 (95%) |
+| German (Deutsch) | 13,708 | 566 (4%) | 13,142 (96%) |
+| French (Français) | 13,708 | 586 (4%) | 13,122 (96%) |
+| Spanish (Español) | 13,708 | 601 (4%) | 13,107 (96%) |
+| Brazilian Portuguese (Português, Brasil) | 13,708 | 599 (4%) | 13,109 (96%) |
+| Japanese (日本語) | 13,708 | 618 (5%) | 13,090 (95%) |
+| Polish (Polski) | 13,708 | 0 (0%) | 13,708 (100%) |
+| Russian (Русский) | 13,708 | 622 (5%) | 13,086 (95%) |
 
 * **From Melvor Idle:** texts that are identical in the first game (Melvor Idle) were taken from its official translation.
 * **Translated by AI:** all other texts were translated with AI and checked automatically (placeholders, formatting tags and line breaks must match the original). They have not been fully reviewed by a human yet.
@@ -43,7 +45,8 @@ Melvor Idle 2/
 └── Mods/
     └── Localization Pack/
         ├── Languages/
-        │   └── (one .po file per language)
+        │   ├── Game/   (one .po file per language)
+        │   └── Mods/   (texts of other mods, for example Melvor Mod Loader)
         ├── localization_pack.gd
         ├── mod.json
         └── README.txt
@@ -51,10 +54,20 @@ Melvor Idle 2/
 
 **Uninstall:** delete `override.cfg` and the folder `Mods/Localization Pack`, then select English again in the game.
 
+### Installation with Melvor Mod Loader
+
+If you play with [Melvor Mod Loader](https://falorfrozen-cmd.github.io/MelvorModLoader/) (0.2.0 or newer), download the **Mod Loader version** (`Localization_Pack_v<version>_ModLoader_<loader>.zip`) instead. It works together with other Mod Loader mods.
+
+1. Install Melvor Mod Loader first, then close the game.
+2. Extract the archive (only the `Mods` folder) next to `Melvor2.exe`. Keep the `override.cfg` of Mod Loader, this version does not bring its own.
+3. Start the game and choose your language in **Settings > Language**. The Mod Loader menu (F1) follows the chosen language.
+
+**Uninstall:** delete the folder `Mods/Localization Pack`, then select English again in the game.
+
 ## Notes
 
 * Does not change any game files or save games. Steam Cloud and achievements keep working.
-* Only one mod can use `override.cfg`. Remove other translation mods first.
+* Only one mod can use `override.cfg`. Remove other translation mods first. If you use Melvor Mod Loader, take the Mod Loader version instead.
 * All languages of this pack are installed together. You may delete the `.po` files of languages you don't need from the `Languages` folder.
 * After a game update, some new texts may stay in English until the pack is updated.
 
@@ -71,7 +84,9 @@ Melvor Idle 2/
 |---|---|
 | `mod/` | The mod exactly as it is installed (`override.cfg`, `Mods/Localization Pack/`) |
 | `work/items.json` | All texts of the game that need a translation, with stable ids |
-| `work/<lang>/*.json` | Translations by id (`de`, `fr`, `es`, `pt_BR`, `ja`) |
+| `work/<lang>/*.json` | Translations by id (`de`, `fr`, `es`, `pt_BR`, `ja`, `pl`, `ru`) |
+| `work/mods/<Mod>/` | Texts of other mods (`items.json`) and their translations (`<lang>.json`) |
+| `modloader/` | `LocalizationPack.dll` for Melvor Mod Loader (C#, .NET 10) |
 | `work/STYLE.md`, `work/STYLE_<lang>.md` | Translation rules and terms per language |
 | `tools/` | Build and maintenance scripts (Python 3, needs `polib`) |
 

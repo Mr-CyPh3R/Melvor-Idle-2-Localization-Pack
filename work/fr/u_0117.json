@@ -1,0 +1,170 @@
+{
+"13605": "Clé de la chambre forte abyssale",
+"13606": [
+"Chemise de magicien de la terre",
+"Chemises de magicien de la terre"
+],
+"13607": [
+"Chemise de magicien du feu",
+"Chemises de magicien du feu"
+],
+"13608": [
+"Appât végétal",
+"Appâts végétaux"
+],
+"13609": [
+"Monocle d'artisan",
+"Monocles d'artisan"
+],
+"13610": [
+"Chemise de sang",
+"Chemises de sang"
+],
+"13611": [
+"Chemise noyée",
+"Chemises noyées"
+],
+"13612": [
+"Chemise en écaille nocturne",
+"Chemises en écaille nocturne"
+],
+"13613": [
+"Capuche de l'Athenaeum d'ivoire",
+"Capuches de l'Athenaeum d'ivoire"
+],
+"13614": [
+"Chemise de l'Athenaeum d'ivoire",
+"Chemises de l'Athenaeum d'ivoire"
+],
+"13615": [
+"Robe de l'Athenaeum d'ivoire",
+"Robes de l'Athenaeum d'ivoire"
+],
+"13616": [
+"Fragment abyssal",
+"Fragments abyssaux"
+],
+"13617": [
+"Fragments bénis",
+"Fragments bénis"
+],
+"13618": [
+"Lingot abyssal",
+"Lingots abyssaux"
+],
+"13619": [
+"Robe de masse de limon",
+"Robes de masse de limon"
+],
+"13620": [
+"Boucle épineuse",
+"Boucles épineuses"
+],
+"13621": [
+"Charme de sentinelle",
+"Charmes de sentinelle"
+],
+"13622": [
+"Brin glacé",
+"Brins glacés"
+],
+"13623": [
+"Chair régénérée",
+"Chairs régénérées"
+],
+"13624": "Potion brise-protection P2-A",
+"13625": "C'est vous.",
+"13626": "Vous avez profité au mieux de votre jeunesse, saisissant chaque occasion de découvrir un peu plus votre petit coin du monde. Des rivages battus par les vents jusqu'à la lisière du Bosquet ancestral, chacun de vos pas a été partagé par la personne dont vous êtes le plus proche, toujours à vos côtés.\n\nCette personne est arrivée seule au village, tout comme vous à peine un an plus tôt. Voir des orphelins si loin dans les bois n'avait rien de rare, mais Azamire n'en avait vu que deux en dix ans. Les villageois vous donnaient des restes ou de petites tâches quand ils avaient quelques pièces à dépenser, mais ces occasions étaient bien rares. Il était naturel que vous commenciez à veiller l'un sur l'autre et à subvenir à vos besoins ensemble. La vie est devenue plus facile à mesure que vous grandissiez et prouviez que vous valiez mieux que laver les sols ou ramasser des choux.\n\nMalgré la pénurie, les repas sautés et les nuits froides, cette présence a été une lumière constante qui vous a aidé à traverser vos jeunes années, et l'inverse est tout aussi vrai. Vous vous êtes aventurés de la Baie du Vent salé à la lisière du Bosquet ancestral, fouillant sous chaque pierre, chaque arbre renversé et dans chaque grotte sombre, toujours ensemble, deux pas derrière ou un pas devant. Du courage, du talent et une bonté sans limite : vous ne pourriez imaginer passer votre temps avec quelqu'un d'autre.\n\nSon nom est...",
+"13627": "Vous devez pouvoir vaincre un ennemi de [color=#FFD16D]niveau de combat 1[/color] avec le [color=#FFD16D]style de combat à distance[/color]",
+"13628": "Vous devez pouvoir vaincre plusieurs fois un ennemi de [color=#FFD16D]niveau de combat 4[/color]",
+"13629": "Vous devez pouvoir vaincre un ennemi de [color=#FFD16D]niveau de combat 8[/color]",
+"13630": "Vous devez pouvoir vaincre plusieurs fois un [u]boss de donjon[/u] de [color=#FFD16D]niveau de combat 15[/color]",
+"13631": "Vous devez pouvoir vaincre plusieurs fois un ennemi de [color=#FFD16D]niveau de combat 25[/color]",
+"13632": "Vous devez pouvoir vaincre un [b][u]mini-boss[/u][/b] de [color=#FFD16D]niveau de combat 35[/color]",
+"13633": "Vous devez pouvoir vaincre plusieurs fois un ennemi de [color=#FFD16D]niveau de combat 36[/color]",
+"13634": "Vous devez pouvoir vaincre un [b][u]boss ultime[/u][/b] de [color=#FFD16D]niveau de combat 39[/color]",
+"13635": "Vous devez pouvoir vaincre plusieurs fois un ennemi de [color=#FFD16D]niveau de combat 40[/color]",
+"13636": "Vous devez pouvoir vaincre plusieurs fois un ennemi de [color=#FFD16D]niveau de combat 42[/color]",
+"13637": "Vous devez pouvoir vaincre un [b][u]mini-boss[/u][/b] de [color=#FFD16D]niveau de combat 40[/color]",
+"13638": "Débloque la zone de combat Oasis envasée.",
+"13639": "Vous devez pouvoir vaincre plusieurs fois un ennemi de [color=#FFD16D]niveau de combat 45[/color]",
+"13640": "Débloque la zone de combat Falaise marine",
+"13641": "Vous devez pouvoir vaincre un [u]boss de donjon[/u] de [color=#FFD16D]niveau de combat 50[/color]",
+"13642": "(Bientôt disponible) Débloque la compétence Invocation\n(Bientôt disponible) Débloque le lieu de vol Athenaeum d'ivoire (thème : Invocation)",
+"13643": "Vous devez pouvoir vaincre plusieurs fois un ennemi de [color=#FFD16D]niveau de combat 55[/color]",
+"13644": "Vous devez pouvoir vaincre un [b][u]mini-boss[/u][/b] de [color=#FFD16D]niveau de combat 60[/color]",
+"13645": "Vous devez pouvoir vaincre plusieurs fois un ennemi de [color=#FFD16D]niveau de combat 67[/color]",
+"13646": "Vous devez pouvoir vaincre un [b][u]boss ultime[/u][/b] de [color=#FFD16D]niveau de combat 69[/color]",
+"13647": "Nom du personnage",
+"13648": [
+"Terminez [img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois",
+"Terminez [img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois"
+],
+"13649": [
+"Terminez [img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+"Terminez [img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] fois en [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]"
+],
+"13650": "Ajustement fixe de votre chance de recevoir des objets des obstacles",
+"13651": "Ajustement fixe de votre chance de réussite face aux pièges",
+"13652": "Si la valeur est supérieure à 0, les récompenses d'obstacle sont conservées en cas d'échec à un obstacle",
+"13653": "Ce PNJ n'a pas encore d'histoire.",
+"13654": "Erreur inconnue : {0}. Mettre à jour le client Steam peut résoudre ce problème.",
+"13655": "[color=#E9DFC1]Réduit [color=#FFD16D]tous[/color] les dégâts subis d'une valeur fixe égale à la [color=#FFD16D]valeur d'armure[/color].[/color]\n\n[color=#E9DFC1]Il s'agit de la [color=#FFD16D]dernière[/color] étape du calcul des dégâts.[/color]\n\n[color=#E9DFC1][color=#FFD16D]L'armure peut être brisée[/color] par un coup [color=#FFD16D]supérieur ou égal[/color] à la valeur d'armure.[/color]\n\n[color=#E9DFC1]XP bonus de base accordée par ennemi tué :[/color]\n[color=#FFD16D]Constitution :[/color] [color=#26D345]{1:N0}[/color]\n[color=#FFD16D]Autres :[/color] [color=#26D345]{0:N0}[/color] [color=#E9DFC1](répartie selon votre posture)[/color]",
+"13656": "(Multiplié)",
+"13657": "Modifier ce PNJ",
+"13658": "Toujours afficher les stats de l'objet dans les infobulles",
+"13659": "Les infobulles d'équipement affichent toujours le panneau des stats de l'objet, et pas seulement en maintenant Maj (Shift).",
+"13660": "Afficher les objets trouvés dans les butins des objets ouvrables",
+"13661": "Affiche une coche à côté des objets déjà trouvés lorsque vous consultez les butins d'un objet ouvrable.",
+"13662": "Anticrénelage (MSAA)",
+"13663": "Lisse les bords crénelés. Des valeurs élevées peuvent réduire les performances.",
+"13664": "Comportement au clic des notifications de guilde",
+"13665": "Règle le comportement par défaut au clic sur les notifications de tâches de la Guilde de maîtrise.",
+"13666": "Actuelle",
+"13667": "Toutes",
+"13668": "Ctrl/CMD + clic pour fermer toutes les notifications de guilde",
+"13669": "Active ou désactive le raccourci qui ferme rapidement toutes les notifications de la Guilde de maîtrise en attente.",
+"13670": "Mettre en file d'attente les notifications de tâches de la Guilde de maîtrise",
+"13671": "Mettre ou non en file d'attente les notifications de tâches de la Guilde de maîtrise au lieu de les afficher toutes en même temps.",
+"13672": "Cliquez pour fermer",
+"13673": "Cliquez pour tout fermer",
+"13674": "{0} + clic pour tout fermer",
+"13675": "+{0} de plus",
+"13676": "Terminées : {0}",
+"13677": "En cours : {0}",
+"13678": [
+"Équipez {0:N0} objet de l'ensemble requis pour :",
+"Équipez {0:N0} objets de l'ensemble requis pour :"
+],
+"13679": "Bonus d'ensemble",
+"13680": "Bonus d'ensemble :",
+"13681": "Objets d'ensemble valides :",
+"13682": "(Changez de configuration avec [color=#FFD16D]{0}[/color])",
+"13683": "(Changez de configuration avec [color=#FFD16D]Q[/color])",
+"13684": "[color=#FFD16D]Maintenez {0}[/color] pour afficher les [img height=1.25em]res://Assets/Icons/StatsIcon_28.png[/img] [b]stats de l'objet[/b]",
+"13685": "[color=#FFD16D]Maintenez Shift[/color] pour afficher les [img height=1.25em]res://Assets/Icons/StatsIcon_28.png[/img] [b]stats de l'objet[/b]",
+"13686": "Définir comme icône d'onglet",
+"13687": "Réinitialiser l'icône d'onglet",
+"13688": "Efface l'icône enregistrée de l'onglet de banque et rétablit l'icône par défaut (premier objet de l'onglet).",
+"13689": "Utiliser le gris pour les conditions non remplies",
+"13690": "Affiche les conditions non remplies en gris au lieu de rouge.",
+"13691": "Dernières actualités et mises à jour",
+"13692": "Dernières actualités Patreon",
+"13693": "Chargement des dernières actualités... Veuillez patienter...",
+"13694": "Charmes de combat",
+"13695": "Antisèches d'agilité",
+"13696": "Équipement de Coupe de bois",
+"13697": "Équipement de Pêche",
+"13698": "Équipement d'Exploitation minière",
+"13699": "Équipement de Métallurgie",
+"13700": "Équipement d'Artisanat",
+"13701": "Équipement d'Archerie",
+"13702": "Équipement de Création de runes",
+"13703": "Équipement de Façonnage bestial",
+"13704": "Équipement d'Herboristerie",
+"13705": "Équipez ceci en Exploitation minière pour extraire du minerai de météorite",
+"13706": "Équipez ceci en Exploitation minière pour extraire des étoiles tombées",
+"13707": "Équipez ceci en Exploitation minière pour extraire des étoiles tombées dorées",
+"13708": "Parcours difficiles avec des récompenses selon la vitesse.",
+"13709": "Facultatif. Les catégories de recette qui ne peuvent pas utiliser ce mode alternatif"
+}

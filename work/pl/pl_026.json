@@ -1,0 +1,186 @@
+{
+ "04564": "A1",
+ "04565": "A2",
+ "04566": "A3",
+ "04567": "A4",
+ "04568": "B1",
+ "04569": "B2",
+ "04570": "B3",
+ "04571": "B4",
+ "04572": "C1",
+ "04573": "C2",
+ "04574": "C3",
+ "04575": "C4",
+ "04576": "D1",
+ "04577": "D2",
+ "04578": "D3",
+ "04579": "D4",
+ "04580": "Główny 1",
+ "04581": "Bujny wzrost daje +1 do liczby przedmiotów „przy trafieniu” i „przy ścięciu”. Każde pełne ścięcie zużywa jedną kumulację. ",
+ "04582": "Główny 2",
+ "04583": "Trafienie w słaby punkt zadaje (0,1 × maks. PŻ + 3) obrażeń",
+ "04584": "Główny 3",
+ "04585": "Główny 4",
+ "04586": "Roztrzaskanie daje +200% premii do liczby produktów i +100% premii do PD umiejętności",
+ "04587": "Odblokowuje możliwość obserwowania zdarzeń [color=#FFD16D]Deszcz meteorów[/color] i [color=#FFD16D]Spadające gwiazdy[/color] w Rozpalaniu ognia",
+ "04588": "Odblokowuje możliwość zdobywania [color=#FFD16D]świetlików[/color] podczas palenia kłód w Rozpalaniu ognia",
+ "04589": "Odblokowuje przełącznik [color=#FFD16D]Astralne dary[/color] w Rzemiośle bestii dla broni z bestii i zbroi z bestii, dzięki któremu możesz ofiarować wykonany przedmiot w zamian za możliwy podarunek.",
+ "04590": "Odblokowuje [color=#FFD16D]Ofiarne kowadło[/color] w Kowalstwie, dzięki któremu możesz poświęcić wykuty przedmiot w zamian za dodatkowe PD umiejętności, złoto albo rzadki przedmiot kolekcjonerski",
+ "04591": "Odblokowuje [color=#FFD16D]Wytapianie -> Gwiezdna kuźnia[/color] w Kowalstwie, dzięki czemu możesz tworzyć sztabki stopów, takich jak żelazostal czy smocza runa",
+ "04592": "Odblokowuje [color=#FFD16D]Astralną biżuterię[/color] w Rzemiośle",
+ "04593": "Odblokowuje [color=#FFD16D]Nocne sprinty[/color] w Zwinności.",
+ "04594": "Odblokowuje [color=#FFD16D]miejsce na katalizator w pasie na narzędzia[/color] w Zielarstwie",
+ "04595": [
+  "Obserwacja",
+  "Obserwacje",
+  "Obserwacji"
+ ],
+ "04596": "Uważnie studiujesz gwiazdy, ale one milczą.",
+ "04597": "Tym razem konstelacja niczego nie zdradza.",
+ "04598": "Cokolwiek gwiazdy chciały przekazać, już umknęło.",
+ "04599": "Wyczuwasz wśród gwiazd słabą obecność, ale szybko się rozwiewa.",
+ "04600": "Światło konstelacji migocze, nie zdradzając jej sekretów.",
+ "04601": "Cierpliwie czekasz na znak, ale żaden się nie pojawia.",
+ "04602": "Już prawie odczytujesz przesłanie, ale ono znika z twoich myśli.",
+ "04603": "Konstelacja uprzejmie odmawia dalszych wyjaśnień.",
+ "04604": "Masz pewność, że gwiazdy oceniły twoją próbę. Nie komentują tego dalej.",
+ "04605": "Nawet gwiazdy miewają gorsze dni.",
+ "04606": "Dalej obserwujesz gwiazdy i potwierdzasz, że to rzeczywiście gwiazdy.",
+ "04607": [
+  "Obserwacja Deedree",
+  "Obserwacje Deedree",
+  "Obserwacji Deedree"
+ ],
+ "04608": "Gwiazdy twierdzą, że rozmowa z roślinami pomaga. Nie chcą jednak zdradzić, czy rośliny słuchają.",
+ "04609": "Konstelacja ostrzega, że najwyższe drzewo zawsze wygrywa kłótnię z tępą siekierą.",
+ "04610": "Gwiazdy zdradzają, że chwasty to po prostu uprawy o wyjątkowej pewności siebie.",
+ "04611": "Gwiazdy podpowiadają, że sadzenie dziś jest mądrzejsze niż obietnica, że posadzisz coś jutro.",
+ "04612": "Konstelacja twierdzi, że każdy potężny dąb był kiedyś nasionkiem, które zignorowało fatalną radę.",
+ "04613": "Gwiazdy cicho przypominają, że ścięcie drzewa przed zebraniem owoców rzadko jest najlepszą strategią.",
+ "04614": [
+  "Obserwacja Terry",
+  "Obserwacje Terry",
+  "Obserwacji Terry"
+ ],
+ "04615": "Gwiazdy zastanawiają się, czemu właśnie teraz nie wydobywasz węgla.",
+ "04616": "Gwiazdy upierają się, że mocniejsze uderzanie w skałę to słuszna strategia górnicza.",
+ "04617": "Konstelacja zapewnia, że dzieli cię tylko jedna geoda od znalezienia tego rzadkiego przedmiotu.",
+ "04618": "Gwiazdy zastanawiają się, jak wpatrywanie się w nie przez całą noc ma pomóc w rozwijaniu Siły.",
+ "04619": "Konstelacja przypomina, że wysoki poziom Siły nie uratuje cię przed kopalniami węgla.",
+ "04620": "Gwiazdy odwzajemniają twoje spojrzenie.",
+ "04621": [
+  "Obserwacja Amerii",
+  "Obserwacje Amerii",
+  "Obserwacji Amerii"
+ ],
+ "04622": "Gwiazdy szepczą, że ryby są znacznie mniej chętne do współpracy, gdy zrozumieją, że trafią do menu.",
+ "04623": "Gwiazdy radzą wysuszyć drewno na opał, zanim zaczniesz narzekać, że się nie pali.",
+ "04624": "Konstelacja przypomina, że rybę zwykle łatwiej ugotować, kiedy już się ją złowi.",
+ "04625": "Konstelacja twierdzi, że ciepłe ognisko zakończyło więcej przygód niż jakikolwiek potwór.",
+ "04626": "Gwiazdy prowadzą cię do ustronnego strumienia nad Rzeką Odłamków.",
+ "04627": "[color=green]Ta obserwacja daje ci dostęp do łowiska Księżycowy Strumień.[/color]",
+ "04628": [
+  "Zatoczka Północy Amerii",
+  "Zatoczki Północy Amerii",
+  "Zatoczek Północy Amerii"
+ ],
+ "04629": "Gwiazdy prowadzą cię do ukrytego miejsca na Wietrznym Wybrzeżu.",
+ "04630": "[color=green]Ta obserwacja daje ci dostęp do łowiska Zatoczka Północy.[/color]",
+ "04631": [
+  "Obserwacja Ceedyra",
+  "Obserwacje Ceedyra",
+  "Obserwacji Ceedyra"
+ ],
+ "04632": "Konstelacja twierdzi, że każda doskonała skóra należała kiedyś do stworzenia, które bardzo chciało ją zatrzymać.",
+ "04633": "Konstelacja zastanawia się, czemu stworzenia są tak przywiązane do materiałów, których wyraźnie potrzebujesz do rzemiosła.",
+ "04634": "Gwiazdy przypominają, że gonienie zwierzyny jest znacznie łatwiejsze, gdy nie dźwigasz połowy warsztatu.",
+ "04635": "Gwiazdy twierdzą, że „upoluję jeszcze tylko jedno” zwiodło już niezliczonych poszukiwaczy przygód.",
+ "04636": "Konstelacja zdradza, że zbieranie materiałów „na wszelki wypadek” w końcu kończy się brakiem miejsca.",
+ "04637": [
+  "Księżycowe Wzgórza Ceedyra",
+  "Księżycowe Wzgórza Ceedyra",
+  "Księżycowe Wzgórza Ceedyra"
+ ],
+ "04638": "Konstelacja oświetla ścieżkę do ukrytego przejścia we Wzgórzach.",
+ "04639": "[color=green]Ta obserwacja daje ci dostęp do łowiska zwierzyny Księżycowe Wzgórza.[/color]",
+ "04640": [
+  "Jezioro Półksiężyca Iridana",
+  "Jeziora Półksiężyca Iridana",
+  "Jezior Półksiężyca Iridana"
+ ],
+ "04641": "Konstelacja wskazuje spokojne jezioro, którego woda wygina się niczym sierp księżyca. Ukryty brzeg wzywa tych, którzy zechcą go odszukać.",
+ "04642": "[color=green]Ta obserwacja daje ci dostęp do obszaru walki Jezioro Półksiężyca.[/color]",
+ "04643": [
+  "Obserwacja Iridana",
+  "Obserwacje Iridana",
+  "Obserwacji Iridana"
+ ],
+ "04644": "Gwiazdy twierdzą, że krzyk podczas ataku zwiększa celność.",
+ "04645": "Gwiazdy przypominają, że każde wgniecenie w zbroi to cenna lekcja. Najlepiej cudza.",
+ "04646": "Konstelacja twierdzi, że pudłowanie to nie jest słuszna strategia.",
+ "04647": "Gwiazdy twierdzą, że każda wyjątkowa broń zaczynała jako „na razie wystarczy”.",
+ "04648": "Gwiazdy upierają się, że mocniejsze uderzenia to całkowicie słuszna strategia.",
+ "04649": [
+  "Obserwacja Syllii",
+  "Obserwacje Syllii",
+  "Obserwacji Syllii"
+ ],
+ "04650": "Konstelacja twierdzi, że każda strzała leci prosto, dopóki wiatr nie nabierze charakteru.",
+ "04651": "Gwiazdy radzą najpierw wycelować, a dopiero potem świętować strzał.",
+ "04652": "Konstelacja przypomina, że drzewa rzadko same zgłaszają się, by zostać strzałami.",
+ "04653": "Gwiazdy zastanawiają się, czemu strzały zawsze znajdują się w najbardziej niewygodnych miejscach.",
+ "04654": "Konstelacja twierdzi, że kołczan to po prostu bardzo uporządkowany zbiór przyszłych pomyłek.",
+ "04655": "Konstelacja radzi pamiętać, że bumerangi są stworzone po to, by wracać.",
+ "04656": [
+  "Obserwacja Haemira",
+  "Obserwacje Haemira",
+  "Obserwacji Haemira"
+ ],
+ "04657": "Tekst zastępczy do podmiany.",
+ "04658": [
+  "Obserwacja Arachi",
+  "Obserwacje Arachi",
+  "Obserwacji Arachi"
+ ],
+ "04659": "Gwiazdy upierają się, że każde zaklęcie jest całkowicie bezpieczne, dopóki nie okaże się inaczej.",
+ "04660": "Konstelacja zastanawia się, czemu czarodzieje ciągle coś zapisują, skoro ledwo potrafią odczytać własne księgi zaklęć.",
+ "04661": "Niebiosa upierają się, że magiczne eksplozje to po prostu entuzjastyczne sukcesy.",
+ "04662": "Gwiazdy zdradzają, że każdemu wielkiemu magowi zdarzyło się przypadkiem rzucić coś, czego absolutnie nie zamierzał.",
+ "04663": "Konstelacja przypomina, że wpatrywanie się w nią przez całą noc nie rozwiąże twoich problemów z zapasem run.",
+ "04664": [
+  "Astralna nauka Arachi",
+  "Astralne nauki Arachi",
+  "Astralnych nauk Arachi"
+ ],
+ "04665": "Jakimś cudem uczysz się nowej formy magii, po prostu patrząc w gwiazdy i udając, że je odczytujesz, czy coś w tym stylu, hehe.",
+ "04666": "[color=green]Ta obserwacja daje ci wiedzę potrzebną do używania zaklęć astralnych.[/color]",
+ "04667": [
+  "Astralna nauka Hydena",
+  "Astralne nauki Hydena",
+  "Astralnych nauk Hydena"
+ ],
+ "04668": "Konstelacja odsłania pradawny obrzęd. Jej niebiańskie słowa budzą moc modlitw astralnych.",
+ "04669": "[color=green]Ta obserwacja daje ci wiedzę potrzebną do używania modlitw astralnych.[/color]",
+ "04670": [
+  "Obserwacja Hydena",
+  "Obserwacje Hydena",
+  "Obserwacji Hydena"
+ ],
+ "04671": "Gwiazdy zdradzają, że pobłogosławione kłody płoną jaśniej niż zwykłe. Być może to przypadek.",
+ "04672": "Gwiazdy zastanawiają się, kto pierwszy spojrzał na stos kości i pomyślał: „Bogowie to pokochają”.",
+ "04673": "Konstelacja upiera się, że łaski bogów nie można kupić. Dary są jednak przyjmowane z radością.",
+ "04674": "Konstelacja twierdzi, że bogowie mają wyśmienity gust w kwestii darów, choć ich upodobania są dziwnie konkretne.",
+ "04675": "Konstelacja zauważa, że bogowie rzadko wyjaśniają, czemu lubią kości. Po prostu lubią.",
+ "04676": [
+  "Krater Księżycowej Blizny Vale",
+  "Kratery Księżycowej Blizny Vale",
+  "Kraterów Księżycowej Blizny Vale"
+ ],
+ "04677": "Gwiazdy odsłaniają krater, w którym światło księżyca nigdy naprawdę nie gaśnie. W jego bliźnie wciąż porusza się coś pradawnego.",
+ "04678": "[color=green]Ta obserwacja daje ci dostęp do strefy Pogromcy Krater Księżycowej Blizny.[/color]",
+ "04679": [
+  "Obserwacja Vale",
+  "Obserwacje Vale",
+  "Obserwacji Vale"
+ ]
+}

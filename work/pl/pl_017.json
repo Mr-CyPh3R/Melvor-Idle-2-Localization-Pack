@@ -1,0 +1,713 @@
+{
+ "03077": [
+  "Elegancka koszula",
+  "Eleganckie koszule",
+  "Eleganckich koszul"
+ ],
+ "03078": [
+  "Pałacowy bułat",
+  "Pałacowe bułaty",
+  "Pałacowych bułatów"
+ ],
+ "03079": [
+  "Pałacowa różdżka",
+  "Pałacowe różdżki",
+  "Pałacowych różdżek"
+ ],
+ "03080": [
+  "Skrzydlate buty",
+  "Skrzydlate buty",
+  "Skrzydlatych butów"
+ ],
+ "03081": [
+  "Medalion Aphiros",
+  "Medaliony Aphiros",
+  "Medalionów Aphiros"
+ ],
+ "03082": [
+  "Zestaw do ponownego tropienia",
+  "Zestawy do ponownego tropienia",
+  "Zestawów do ponownego tropienia"
+ ],
+ "03083": [
+  "Połówka klucza do skrzyni bestii (a)",
+  "Połówki klucza do skrzyni bestii (a)",
+  "Połówek klucza do skrzyni bestii (a)"
+ ],
+ "03084": [
+  "Połówka klucza do skrzyni bestii (b)",
+  "Połówki klucza do skrzyni bestii (b)",
+  "Połówek klucza do skrzyni bestii (b)"
+ ],
+ "03085": [
+  "Klucz do skrzyni bestii",
+  "Klucze do skrzyni bestii",
+  "Kluczy do skrzyni bestii"
+ ],
+ "03086": [
+  "Srebrny klucz (Zakazana Biblioteka)",
+  "Srebrne klucze (Zakazana Biblioteka)",
+  "Srebrnych kluczy (Zakazana Biblioteka)"
+ ],
+ "03087": [
+  "Złoty klucz (Zakazana Biblioteka)",
+  "Złote klucze (Zakazana Biblioteka)",
+  "Złotych kluczy (Zakazana Biblioteka)"
+ ],
+ "03088": [
+  "Srebrny klucz (Skradzione Dobra)",
+  "Srebrne klucze (Skradzione Dobra)",
+  "Srebrnych kluczy (Skradzione Dobra)"
+ ],
+ "03089": [
+  "Złoty klucz (Skradzione Dobra)",
+  "Złote klucze (Skradzione Dobra)",
+  "Złotych kluczy (Skradzione Dobra)"
+ ],
+ "03090": [
+  "Srebrny klucz (Głęboka Kopalnia)",
+  "Srebrne klucze (Głęboka Kopalnia)",
+  "Srebrnych kluczy (Głęboka Kopalnia)"
+ ],
+ "03091": [
+  "Złoty klucz (Głęboka Kopalnia)",
+  "Złote klucze (Głęboka Kopalnia)",
+  "Złotych kluczy (Głęboka Kopalnia)"
+ ],
+ "03092": [
+  "Srebrny klucz (Pałacowy Skarbiec)",
+  "Srebrne klucze (Pałacowy Skarbiec)",
+  "Srebrnych kluczy (Pałacowy Skarbiec)"
+ ],
+ "03093": [
+  "Złoty klucz (Pałacowy Skarbiec)",
+  "Złote klucze (Pałacowy Skarbiec)",
+  "Złotych kluczy (Pałacowy Skarbiec)"
+ ],
+ "03094": [
+  "Mikstura drwalnictwa P1-A",
+  "Mikstury drwalnictwa P1-A",
+  "Mikstur drwalnictwa P1-A"
+ ],
+ "03095": [
+  "Zestrojona esencja",
+  "Zestrojone esencje",
+  "Zestrojonych esencji"
+ ],
+ "03096": [
+  "Mikstura drwalnictwa P2-A",
+  "Mikstury drwalnictwa P2-A",
+  "Mikstur drwalnictwa P2-A"
+ ],
+ "03097": [
+  "Mikstura drwalnictwa P2-B",
+  "Mikstury drwalnictwa P2-B",
+  "Mikstur drwalnictwa P2-B"
+ ],
+ "03098": [
+  "Mikstura wędkarstwa P1-A",
+  "Mikstury wędkarstwa P1-A",
+  "Mikstur wędkarstwa P1-A"
+ ],
+ "03099": [
+  "Mikstura wędkarstwa P2-A",
+  "Mikstury wędkarstwa P2-A",
+  "Mikstur wędkarstwa P2-A"
+ ],
+ "03100": [
+  "Mikstura wędkarstwa P2-B",
+  "Mikstury wędkarstwa P2-B",
+  "Mikstur wędkarstwa P2-B"
+ ],
+ "03101": [
+  "Mikstura górnictwa P1-A",
+  "Mikstury górnictwa P1-A",
+  "Mikstur górnictwa P1-A"
+ ],
+ "03102": [
+  "Mikstura górnictwa P2-A",
+  "Mikstury górnictwa P2-A",
+  "Mikstur górnictwa P2-A"
+ ],
+ "03103": [
+  "Mikstura górnictwa P2-B",
+  "Mikstury górnictwa P2-B",
+  "Mikstur górnictwa P2-B"
+ ],
+ "03104": [
+  "Mikstura rozpalania ognia P1-A",
+  "Mikstury rozpalania ognia P1-A",
+  "Mikstur rozpalania ognia P1-A"
+ ],
+ "03105": [
+  "Mikstura rozpalania ognia P2-A",
+  "Mikstury rozpalania ognia P2-A",
+  "Mikstur rozpalania ognia P2-A"
+ ],
+ "03106": [
+  "Mikstura rozpalania ognia P2-B",
+  "Mikstury rozpalania ognia P2-B",
+  "Mikstur rozpalania ognia P2-B"
+ ],
+ "03107": [
+  "Mikstura gotowania P1-A",
+  "Mikstury gotowania P1-A",
+  "Mikstur gotowania P1-A"
+ ],
+ "03108": [
+  "Mikstura gotowania P2-A",
+  "Mikstury gotowania P2-A",
+  "Mikstur gotowania P2-A"
+ ],
+ "03109": [
+  "Mikstura gotowania P2-B",
+  "Mikstury gotowania P2-B",
+  "Mikstur gotowania P2-B"
+ ],
+ "03110": [
+  "Mikstura kowalstwa P1-A",
+  "Mikstury kowalstwa P1-A",
+  "Mikstur kowalstwa P1-A"
+ ],
+ "03111": [
+  "Mikstura kowalstwa P2-A",
+  "Mikstury kowalstwa P2-A",
+  "Mikstur kowalstwa P2-A"
+ ],
+ "03112": [
+  "Mikstura kowalstwa P2-B",
+  "Mikstury kowalstwa P2-B",
+  "Mikstur kowalstwa P2-B"
+ ],
+ "03113": [
+  "Mikstura rzemiosła P1-A",
+  "Mikstury rzemiosła P1-A",
+  "Mikstur rzemiosła P1-A"
+ ],
+ "03114": [
+  "Mikstura rzemiosła P2-A",
+  "Mikstury rzemiosła P2-A",
+  "Mikstur rzemiosła P2-A"
+ ],
+ "03115": [
+  "Mikstura rzemiosła P2-B",
+  "Mikstury rzemiosła P2-B",
+  "Mikstur rzemiosła P2-B"
+ ],
+ "03116": [
+  "Mikstura łuczarstwa P1-A",
+  "Mikstury łuczarstwa P1-A",
+  "Mikstur łuczarstwa P1-A"
+ ],
+ "03117": [
+  "Mikstura łuczarstwa P2-A",
+  "Mikstury łuczarstwa P2-A",
+  "Mikstur łuczarstwa P2-A"
+ ],
+ "03118": [
+  "Mikstura łuczarstwa P2-B",
+  "Mikstury łuczarstwa P2-B",
+  "Mikstur łuczarstwa P2-B"
+ ],
+ "03119": [
+  "Mikstura tworzenia run P1-A",
+  "Mikstury tworzenia run P1-A",
+  "Mikstur tworzenia run P1-A"
+ ],
+ "03120": [
+  "Mikstura tworzenia run P2-A",
+  "Mikstury tworzenia run P2-A",
+  "Mikstur tworzenia run P2-A"
+ ],
+ "03121": [
+  "Mikstura tworzenia run P2-B",
+  "Mikstury tworzenia run P2-B",
+  "Mikstur tworzenia run P2-B"
+ ],
+ "03122": [
+  "Mikstura łowiectwa P1-A",
+  "Mikstury łowiectwa P1-A",
+  "Mikstur łowiectwa P1-A"
+ ],
+ "03123": [
+  "Mikstura łowiectwa P2-A",
+  "Mikstury łowiectwa P2-A",
+  "Mikstur łowiectwa P2-A"
+ ],
+ "03124": [
+  "Mikstura łowiectwa P2-B",
+  "Mikstury łowiectwa P2-B",
+  "Mikstur łowiectwa P2-B"
+ ],
+ "03125": [
+  "Mikstura rolnictwa P1-A",
+  "Mikstury rolnictwa P1-A",
+  "Mikstur rolnictwa P1-A"
+ ],
+ "03126": [
+  "Mikstura rolnictwa P2-A",
+  "Mikstury rolnictwa P2-A",
+  "Mikstur rolnictwa P2-A"
+ ],
+ "03127": [
+  "Mikstura rolnictwa P2-B",
+  "Mikstury rolnictwa P2-B",
+  "Mikstur rolnictwa P2-B"
+ ],
+ "03128": [
+  "Mikstura hodowli P1-A",
+  "Mikstury hodowli P1-A",
+  "Mikstur hodowli P1-A"
+ ],
+ "03129": [
+  "Mikstura hodowli P2-A",
+  "Mikstury hodowli P2-A",
+  "Mikstur hodowli P2-A"
+ ],
+ "03130": [
+  "Mikstura hodowli P2-B",
+  "Mikstury hodowli P2-B",
+  "Mikstur hodowli P2-B"
+ ],
+ "03131": [
+  "Mikstura zielarstwa P1-A",
+  "Mikstury zielarstwa P1-A",
+  "Mikstur zielarstwa P1-A"
+ ],
+ "03132": [
+  "Mikstura zielarstwa P2-A",
+  "Mikstury zielarstwa P2-A",
+  "Mikstur zielarstwa P2-A"
+ ],
+ "03133": [
+  "Mikstura zielarstwa P2-B",
+  "Mikstury zielarstwa P2-B",
+  "Mikstur zielarstwa P2-B"
+ ],
+ "03134": [
+  "Mikstura rzemiosła bestii P1-A",
+  "Mikstury rzemiosła bestii P1-A",
+  "Mikstur rzemiosła bestii P1-A"
+ ],
+ "03135": [
+  "Mikstura rzemiosła bestii P2-A",
+  "Mikstury rzemiosła bestii P2-A",
+  "Mikstur rzemiosła bestii P2-A"
+ ],
+ "03136": [
+  "Mikstura rzemiosła bestii P2-B",
+  "Mikstury rzemiosła bestii P2-B",
+  "Mikstur rzemiosła bestii P2-B"
+ ],
+ "03137": [
+  "Mikstura zwinności P1-A",
+  "Mikstury zwinności P1-A",
+  "Mikstur zwinności P1-A"
+ ],
+ "03138": [
+  "Mikstura zwinności P2-A",
+  "Mikstury zwinności P2-A",
+  "Mikstur zwinności P2-A"
+ ],
+ "03139": [
+  "Mikstura zwinności P2-B",
+  "Mikstury zwinności P2-B",
+  "Mikstur zwinności P2-B"
+ ],
+ "03140": [
+  "Mikstura złodziejstwa P1-A",
+  "Mikstury złodziejstwa P1-A",
+  "Mikstur złodziejstwa P1-A"
+ ],
+ "03141": [
+  "Mikstura złodziejstwa P2-A",
+  "Mikstury złodziejstwa P2-A",
+  "Mikstur złodziejstwa P2-A"
+ ],
+ "03142": [
+  "Mikstura złodziejstwa P2-B",
+  "Mikstury złodziejstwa P2-B",
+  "Mikstur złodziejstwa P2-B"
+ ],
+ "03143": [
+  "Super mikstura drwalnictwa P1-A",
+  "Super mikstury drwalnictwa P1-A",
+  "Super mikstur drwalnictwa P1-A"
+ ],
+ "03144": [
+  "Świecący zarodnik",
+  "Świecące zarodniki",
+  "Świecących zarodników"
+ ],
+ "03145": [
+  "Super mikstura drwalnictwa P2-A",
+  "Super mikstury drwalnictwa P2-A",
+  "Super mikstur drwalnictwa P2-A"
+ ],
+ "03146": [
+  "Super mikstura drwalnictwa P2-B ",
+  "Super mikstury drwalnictwa P2-B ",
+  "Super mikstur drwalnictwa P2-B "
+ ],
+ "03147": [
+  "Super mikstura wędkarstwa P1-A",
+  "Super mikstury wędkarstwa P1-A",
+  "Super mikstur wędkarstwa P1-A"
+ ],
+ "03148": [
+  "Super mikstura wędkarstwa P2-A",
+  "Super mikstury wędkarstwa P2-A",
+  "Super mikstur wędkarstwa P2-A"
+ ],
+ "03149": [
+  "Super mikstura wędkarstwa P2-B",
+  "Super mikstury wędkarstwa P2-B",
+  "Super mikstur wędkarstwa P2-B"
+ ],
+ "03150": [
+  "Super mikstura górnictwa P1-A",
+  "Super mikstury górnictwa P1-A",
+  "Super mikstur górnictwa P1-A"
+ ],
+ "03151": [
+  "Super mikstura górnictwa P2-A",
+  "Super mikstury górnictwa P2-A",
+  "Super mikstur górnictwa P2-A"
+ ],
+ "03152": [
+  "Super mikstura górnictwa P2-B",
+  "Super mikstury górnictwa P2-B",
+  "Super mikstur górnictwa P2-B"
+ ],
+ "03153": [
+  "Super mikstura rozpalania ognia P1-A",
+  "Super mikstury rozpalania ognia P1-A",
+  "Super mikstur rozpalania ognia P1-A"
+ ],
+ "03154": [
+  "Super mikstura rozpalania ognia P2-A",
+  "Super mikstury rozpalania ognia P2-A",
+  "Super mikstur rozpalania ognia P2-A"
+ ],
+ "03155": [
+  "Super mikstura rozpalania ognia P2-B",
+  "Super mikstury rozpalania ognia P2-B",
+  "Super mikstur rozpalania ognia P2-B"
+ ],
+ "03156": [
+  "Super mikstura gotowania P1-A",
+  "Super mikstury gotowania P1-A",
+  "Super mikstur gotowania P1-A"
+ ],
+ "03157": [
+  "Super mikstura gotowania P2-A",
+  "Super mikstury gotowania P2-A",
+  "Super mikstur gotowania P2-A"
+ ],
+ "03158": [
+  "Super mikstura gotowania P2-B",
+  "Super mikstury gotowania P2-B",
+  "Super mikstur gotowania P2-B"
+ ],
+ "03159": [
+  "Super mikstura kowalstwa P1-A",
+  "Super mikstury kowalstwa P1-A",
+  "Super mikstur kowalstwa P1-A"
+ ],
+ "03160": [
+  "Super mikstura kowalstwa P2-A",
+  "Super mikstury kowalstwa P2-A",
+  "Super mikstur kowalstwa P2-A"
+ ],
+ "03161": [
+  "Super mikstura kowalstwa P2-B",
+  "Super mikstury kowalstwa P2-B",
+  "Super mikstur kowalstwa P2-B"
+ ],
+ "03162": [
+  "Super mikstura rzemiosła P1-A",
+  "Super mikstury rzemiosła P1-A",
+  "Super mikstur rzemiosła P1-A"
+ ],
+ "03163": [
+  "Super mikstura rzemiosła P2-A",
+  "Super mikstury rzemiosła P2-A",
+  "Super mikstur rzemiosła P2-A"
+ ],
+ "03164": [
+  "Super mikstura rzemiosła P2-B",
+  "Super mikstury rzemiosła P2-B",
+  "Super mikstur rzemiosła P2-B"
+ ],
+ "03165": [
+  "Super mikstura łuczarstwa P1-A",
+  "Super mikstury łuczarstwa P1-A",
+  "Super mikstur łuczarstwa P1-A"
+ ],
+ "03166": [
+  "Super mikstura łuczarstwa P2-A",
+  "Super mikstury łuczarstwa P2-A",
+  "Super mikstur łuczarstwa P2-A"
+ ],
+ "03167": [
+  "Super mikstura łuczarstwa P2-B",
+  "Super mikstury łuczarstwa P2-B",
+  "Super mikstur łuczarstwa P2-B"
+ ],
+ "03168": [
+  "Super mikstura tworzenia run P1-A",
+  "Super mikstury tworzenia run P1-A",
+  "Super mikstur tworzenia run P1-A"
+ ],
+ "03169": [
+  "Super mikstura tworzenia run P2-A",
+  "Super mikstury tworzenia run P2-A",
+  "Super mikstur tworzenia run P2-A"
+ ],
+ "03170": [
+  "Super mikstura tworzenia run P2-B",
+  "Super mikstury tworzenia run P2-B",
+  "Super mikstur tworzenia run P2-B"
+ ],
+ "03171": [
+  "Super mikstura łowiectwa P1-A",
+  "Super mikstury łowiectwa P1-A",
+  "Super mikstur łowiectwa P1-A"
+ ],
+ "03172": [
+  "Super mikstura łowiectwa P2-A",
+  "Super mikstury łowiectwa P2-A",
+  "Super mikstur łowiectwa P2-A"
+ ],
+ "03173": [
+  "Super mikstura łowiectwa P2-B",
+  "Super mikstury łowiectwa P2-B",
+  "Super mikstur łowiectwa P2-B"
+ ],
+ "03174": [
+  "Super mikstura rolnictwa P1-A",
+  "Super mikstury rolnictwa P1-A",
+  "Super mikstur rolnictwa P1-A"
+ ],
+ "03175": [
+  "Super mikstura rolnictwa P2-A",
+  "Super mikstury rolnictwa P2-A",
+  "Super mikstur rolnictwa P2-A"
+ ],
+ "03176": [
+  "Super mikstura rolnictwa P2-B",
+  "Super mikstury rolnictwa P2-B",
+  "Super mikstur rolnictwa P2-B"
+ ],
+ "03177": [
+  "Super mikstura hodowli P1-A",
+  "Super mikstury hodowli P1-A",
+  "Super mikstur hodowli P1-A"
+ ],
+ "03178": [
+  "Super mikstura hodowli P2-A",
+  "Super mikstury hodowli P2-A",
+  "Super mikstur hodowli P2-A"
+ ],
+ "03179": [
+  "Super mikstura hodowli P2-B",
+  "Super mikstury hodowli P2-B",
+  "Super mikstur hodowli P2-B"
+ ],
+ "03180": [
+  "Super mikstura zielarstwa P1-A",
+  "Super mikstury zielarstwa P1-A",
+  "Super mikstur zielarstwa P1-A"
+ ],
+ "03181": [
+  "Super mikstura zielarstwa P2-A",
+  "Super mikstury zielarstwa P2-A",
+  "Super mikstur zielarstwa P2-A"
+ ],
+ "03182": [
+  "Super mikstura zielarstwa P2-B",
+  "Super mikstury zielarstwa P2-B",
+  "Super mikstur zielarstwa P2-B"
+ ],
+ "03183": [
+  "Super mikstura rzemiosła bestii P1-A",
+  "Super mikstury rzemiosła bestii P1-A",
+  "Super mikstur rzemiosła bestii P1-A"
+ ],
+ "03184": [
+  "Super mikstura rzemiosła bestii P2-A",
+  "Super mikstury rzemiosła bestii P2-A",
+  "Super mikstur rzemiosła bestii P2-A"
+ ],
+ "03185": [
+  "Super mikstura rzemiosła bestii P2-B",
+  "Super mikstury rzemiosła bestii P2-B",
+  "Super mikstur rzemiosła bestii P2-B"
+ ],
+ "03186": [
+  "Super mikstura zwinności P1-A",
+  "Super mikstury zwinności P1-A",
+  "Super mikstur zwinności P1-A"
+ ],
+ "03187": [
+  "Super mikstura zwinności P2-A",
+  "Super mikstury zwinności P2-A",
+  "Super mikstur zwinności P2-A"
+ ],
+ "03188": [
+  "Super mikstura zwinności P2-B",
+  "Super mikstury zwinności P2-B",
+  "Super mikstur zwinności P2-B"
+ ],
+ "03189": [
+  "Super mikstura złodziejstwa P1-A",
+  "Super mikstury złodziejstwa P1-A",
+  "Super mikstur złodziejstwa P1-A"
+ ],
+ "03190": [
+  "Super mikstura złodziejstwa P2-A",
+  "Super mikstury złodziejstwa P2-A",
+  "Super mikstur złodziejstwa P2-A"
+ ],
+ "03191": [
+  "Super mikstura złodziejstwa P2-B",
+  "Super mikstury złodziejstwa P2-B",
+  "Super mikstur złodziejstwa P2-B"
+ ],
+ "03192": [
+  "Bułat toksycznych ostrzy",
+  "Bułaty toksycznych ostrzy",
+  "Bułatów toksycznych ostrzy"
+ ],
+ "03193": [
+  "Sztylet okrutnych pchnięć",
+  "Sztylety okrutnych pchnięć",
+  "Sztyletów okrutnych pchnięć"
+ ],
+ "03194": [
+  "Sztylet wysysający krew",
+  "Sztylety wysysające krew",
+  "Sztyletów wysysających krew"
+ ],
+ "03195": [
+  "Bicz obdzierającego chwytu",
+  "Bicze obdzierającego chwytu",
+  "Biczy obdzierającego chwytu"
+ ],
+ "03196": [
+  "Wielki miecz oszałamiającego smagnięcia",
+  "Wielkie miecze oszałamiającego smagnięcia",
+  "Wielkich mieczy oszałamiającego smagnięcia"
+ ],
+ "03197": [
+  "Kosa krwawych żniw",
+  "Kosy krwawych żniw",
+  "Kos krwawych żniw"
+ ],
+ "03198": [
+  "Pobijak skorpioniego żądła",
+  "Pobijaki skorpioniego żądła",
+  "Pobijaków skorpioniego żądła"
+ ],
+ "03199": [
+  "Pobijak mrocznej otchłani",
+  "Pobijaki mrocznej otchłani",
+  "Pobijaków mrocznej otchłani"
+ ],
+ "03200": [
+  "Utopiony obrońca",
+  "Utopieni obrońcy",
+  "Utopionych obrońców"
+ ],
+ "03201": [
+  "Mithrilowy hełm (u)",
+  "Mithrilowe hełmy (u)",
+  "Mithrilowych hełmów (u)"
+ ],
+ "03202": [
+  "Mithrilowy napierśnik płytowy (u)",
+  "Mithrilowe napierśniki płytowe (u)",
+  "Mithrilowych napierśników płytowych (u)"
+ ],
+ "03203": [
+  "Mithrilowe nogawice płytowe (u)",
+  "Mithrilowe nogawice płytowe (u)",
+  "Mithrilowych nogawic płytowych (u)"
+ ],
+ "03204": [
+  "Mithrilowe buty (u)",
+  "Mithrilowe buty (u)",
+  "Mithrilowych butów (u)"
+ ],
+ "03205": [
+  "Adamantowy hełm (u)",
+  "Adamantowe hełmy (u)",
+  "Adamantowych hełmów (u)"
+ ],
+ "03206": [
+  "Hełm duchowego jelenia",
+  "Hełmy duchowego jelenia",
+  "Hełmów duchowego jelenia"
+ ],
+ "03207": [
+  "Adamantowy napierśnik płytowy (u)",
+  "Adamantowe napierśniki płytowe (u)",
+  "Adamantowych napierśników płytowych (u)"
+ ],
+ "03208": [
+  "Adamantowe nogawice płytowe (u)",
+  "Adamantowe nogawice płytowe (u)",
+  "Adamantowych nogawic płytowych (u)"
+ ],
+ "03209": [
+  "Adamantowe buty (u)",
+  "Adamantowe buty (u)",
+  "Adamantowych butów (u)"
+ ],
+ "03210": [
+  "Runiczny hełm (u)",
+  "Runiczne hełmy (u)",
+  "Runicznych hełmów (u)"
+ ],
+ "03211": [
+  "Runiczny napierśnik płytowy (u)",
+  "Runiczne napierśniki płytowe (u)",
+  "Runicznych napierśników płytowych (u)"
+ ],
+ "03212": [
+  "Runiczne nogawice płytowe (u)",
+  "Runiczne nogawice płytowe (u)",
+  "Runicznych nogawic płytowych (u)"
+ ],
+ "03213": [
+  "Runiczne buty (u)",
+  "Runiczne buty (u)",
+  "Runicznych butów (u)"
+ ],
+ "03214": [
+  "Napierśnik płytowy z czarnego kamienia",
+  "Napierśniki płytowe z czarnego kamienia",
+  "Napierśników płytowych z czarnego kamienia"
+ ],
+ "03215": [
+  "Rękawica z czarnego kamienia",
+  "Rękawice z czarnego kamienia",
+  "Rękawic z czarnego kamienia"
+ ],
+ "03216": [
+  "Hełm ze stali świtu (u)",
+  "Hełmy ze stali świtu (u)",
+  "Hełmów ze stali świtu (u)"
+ ],
+ "03217": "Premia za zestaw (3 części ekwipunku ze stali świtu (u), bez rękawic i tarczy): +8 światła",
+ "03218": [
+  "Hełm z poroża karibu",
+  "Hełmy z poroża karibu",
+  "Hełmów z poroża karibu"
+ ],
+ "03219": [
+  "Napierśnik płytowy ze stali świtu (u)",
+  "Napierśniki płytowe ze stali świtu (u)",
+  "Napierśników płytowych ze stali świtu (u)"
+ ]
+}

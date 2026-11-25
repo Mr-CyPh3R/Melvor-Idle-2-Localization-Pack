@@ -1,0 +1,820 @@
+{
+ "02405": [
+  "Surowy olbrzymi węgorz",
+  "Surowe olbrzymie węgorze",
+  "Surowych olbrzymich węgorzy"
+ ],
+ "02406": [
+  "Dębowy bumerang",
+  "Dębowe bumerangi",
+  "Dębowych bumerangów"
+ ],
+ "02407": [
+  "Wierzbowy bumerang",
+  "Wierzbowe bumerangi",
+  "Wierzbowych bumerangów"
+ ],
+ "02408": [
+  "Klonowy bumerang",
+  "Klonowe bumerangi",
+  "Klonowych bumerangów"
+ ],
+ "02409": [
+  "Cisowy bumerang",
+  "Cisowe bumerangi",
+  "Cisowych bumerangów"
+ ],
+ "02410": [
+  "Magiczny bumerang",
+  "Magiczne bumerangi",
+  "Magicznych bumerangów"
+ ],
+ "02411": [
+  "Sekwojowy bumerang",
+  "Sekwojowe bumerangi",
+  "Sekwojowych bumerangów"
+ ],
+ "02412": [
+  "Żelazna kusza",
+  "Żelazne kusze",
+  "Żelaznych kusz"
+ ],
+ "02413": [
+  "Stalowa kusza",
+  "Stalowe kusze",
+  "Stalowych kusz"
+ ],
+ "02414": [
+  "Mithrilowa kusza",
+  "Mithrilowe kusze",
+  "Mithrilowych kusz"
+ ],
+ "02415": [
+  "Adamantowa kusza",
+  "Adamantowe kusze",
+  "Adamantowych kusz"
+ ],
+ "02416": [
+  "Runiczna kusza",
+  "Runiczne kusze",
+  "Runicznych kusz"
+ ],
+ "02417": [
+  "Kusza ze stali świtu",
+  "Kusze ze stali świtu",
+  "Kusz ze stali świtu"
+ ],
+ "02418": [
+  "Smocza kusza",
+  "Smocze kusze",
+  "Smoczych kusz"
+ ],
+ "02419": [
+  "Stalowa kusza dwuręczna",
+  "Stalowe kusze dwuręczne",
+  "Stalowych kusz dwuręcznych"
+ ],
+ "02420": [
+  "Mithrilowa kusza dwuręczna",
+  "Mithrilowe kusze dwuręczne",
+  "Mithrilowych kusz dwuręcznych"
+ ],
+ "02421": [
+  "Adamantowa kusza dwuręczna",
+  "Adamantowe kusze dwuręczne",
+  "Adamantowych kusz dwuręcznych"
+ ],
+ "02422": [
+  "Runiczna kusza dwuręczna",
+  "Runiczne kusze dwuręczne",
+  "Runicznych kusz dwuręcznych"
+ ],
+ "02423": [
+  "Kusza dwuręczna ze stali świtu",
+  "Kusze dwuręczne ze stali świtu",
+  "Kusz dwuręcznych ze stali świtu"
+ ],
+ "02424": [
+  "Smocza kusza dwuręczna",
+  "Smocze kusze dwuręczne",
+  "Smoczych kusz dwuręcznych"
+ ],
+ "02425": [
+  "Runa rozkładu",
+  "Runy rozkładu",
+  "Run rozkładu"
+ ],
+ "02426": [
+  "Różdżka powietrza",
+  "Różdżki powietrza",
+  "Różdżek powietrza"
+ ],
+ "02427": [
+  "Kostur powietrza",
+  "Kostury powietrza",
+  "Kosturów powietrza"
+ ],
+ "02428": [
+  "Różdżka wody",
+  "Różdżki wody",
+  "Różdżek wody"
+ ],
+ "02429": [
+  "Kostur wody",
+  "Kostury wody",
+  "Kosturów wody"
+ ],
+ "02430": [
+  "Różdżka ziemi",
+  "Różdżki ziemi",
+  "Różdżek ziemi"
+ ],
+ "02431": [
+  "Kostur ziemi",
+  "Kostury ziemi",
+  "Kosturów ziemi"
+ ],
+ "02432": [
+  "Różdżka ognia",
+  "Różdżki ognia",
+  "Różdżek ognia"
+ ],
+ "02433": [
+  "Kostur ognia",
+  "Kostury ognia",
+  "Kosturów ognia"
+ ],
+ "02434": [
+  "Kapelusz czarodzieja powietrza",
+  "Kapelusze czarodzieja powietrza",
+  "Kapeluszy czarodzieja powietrza"
+ ],
+ "02435": "Informacje o premii za zestaw pojawią się wkrótce (na razie załóż przedmiot, aby ją zobaczyć).",
+ "02436": [
+  "Buty czarodzieja powietrza",
+  "Buty czarodzieja powietrza",
+  "Butów czarodzieja powietrza"
+ ],
+ "02437": [
+  "Spodnie czarodzieja powietrza",
+  "Spodnie czarodzieja powietrza",
+  "Spodni czarodzieja powietrza"
+ ],
+ "02438": [
+  "Szata czarodzieja powietrza",
+  "Szaty czarodzieja powietrza",
+  "Szat czarodzieja powietrza"
+ ],
+ "02439": [
+  "Kapelusz czarodzieja wody",
+  "Kapelusze czarodzieja wody",
+  "Kapeluszy czarodzieja wody"
+ ],
+ "02440": [
+  "Buty czarodzieja wody",
+  "Buty czarodzieja wody",
+  "Butów czarodzieja wody"
+ ],
+ "02441": [
+  "Spodnie czarodzieja wody",
+  "Spodnie czarodzieja wody",
+  "Spodni czarodzieja wody"
+ ],
+ "02442": [
+  "Szata czarodzieja wody",
+  "Szaty czarodzieja wody",
+  "Szat czarodzieja wody"
+ ],
+ "02443": [
+  "Kapelusz czarodzieja ziemi",
+  "Kapelusze czarodzieja ziemi",
+  "Kapeluszy czarodzieja ziemi"
+ ],
+ "02444": [
+  "Buty czarodzieja ziemi",
+  "Buty czarodzieja ziemi",
+  "Butów czarodzieja ziemi"
+ ],
+ "02445": [
+  "Spodnie czarodzieja ziemi",
+  "Spodnie czarodzieja ziemi",
+  "Spodni czarodzieja ziemi"
+ ],
+ "02446": [
+  "Szata czarodzieja ziemi",
+  "Szaty czarodzieja ziemi",
+  "Szat czarodzieja ziemi"
+ ],
+ "02447": [
+  "Kapelusz czarodzieja ognia",
+  "Kapelusze czarodzieja ognia",
+  "Kapeluszy czarodzieja ognia"
+ ],
+ "02448": [
+  "Buty czarodzieja ognia",
+  "Buty czarodzieja ognia",
+  "Butów czarodzieja ognia"
+ ],
+ "02449": [
+  "Spodnie czarodzieja ognia",
+  "Spodnie czarodzieja ognia",
+  "Spodni czarodzieja ognia"
+ ],
+ "02450": [
+  "Szata czarodzieja ognia",
+  "Szaty czarodzieja ognia",
+  "Szat czarodzieja ognia"
+ ],
+ "02451": [
+  "Kamienny miecz",
+  "Kamienne miecze",
+  "Kamiennych mieczy"
+ ],
+ "02452": [
+  "Kamienny grot włóczni",
+  "Kamienne groty włóczni",
+  "Kamiennych grotów włóczni"
+ ],
+ "02453": [
+  "Stalowy grot włóczni",
+  "Stalowe groty włóczni",
+  "Stalowych grotów włóczni"
+ ],
+ "02454": [
+  "Mithrilowy grot włóczni",
+  "Mithrilowe groty włóczni",
+  "Mithrilowych grotów włóczni"
+ ],
+ "02455": [
+  "Adamantowy grot włóczni",
+  "Adamantowe groty włóczni",
+  "Adamantowych grotów włóczni"
+ ],
+ "02456": [
+  "Runiczny grot włóczni",
+  "Runiczne groty włóczni",
+  "Runicznych grotów włóczni"
+ ],
+ "02457": [
+  "Grot włóczni ze stali świtu",
+  "Groty włóczni ze stali świtu",
+  "Grotów włóczni ze stali świtu"
+ ],
+ "02458": [
+  "Smoczy grot włóczni",
+  "Smocze groty włóczni",
+  "Smoczych grotów włóczni"
+ ],
+ "02459": [
+  "Drzewce strzał",
+  "Drzewca strzał",
+  "Drzewc strzał"
+ ],
+ "02460": [
+  "Miedziany oszczep",
+  "Miedziane oszczepy",
+  "Miedzianych oszczepów"
+ ],
+ "02461": [
+  "Żelazny oszczep",
+  "Żelazne oszczepy",
+  "Żelaznych oszczepów"
+ ],
+ "02462": "Rzuć tym w potwora i zobacz, co się stanie.",
+ "02463": [
+  "Stalowy oszczep",
+  "Stalowe oszczepy",
+  "Stalowych oszczepów"
+ ],
+ "02464": [
+  "Mithrilowy oszczep",
+  "Mithrilowe oszczepy",
+  "Mithrilowych oszczepów"
+ ],
+ "02465": [
+  "Adamantowy oszczep",
+  "Adamantowe oszczepy",
+  "Adamantowych oszczepów"
+ ],
+ "02466": [
+  "Runiczny oszczep",
+  "Runiczne oszczepy",
+  "Runicznych oszczepów"
+ ],
+ "02467": [
+  "Oszczep ze stali świtu",
+  "Oszczepy ze stali świtu",
+  "Oszczepów ze stali świtu"
+ ],
+ "02468": [
+  "Smoczy oszczep",
+  "Smocze oszczepy",
+  "Smoczych oszczepów"
+ ],
+ "02469": [
+  "Skórzana tarcza",
+  "Skórzane tarcze",
+  "Skórzanych tarcz"
+ ],
+ "02470": [
+  "Skórzany kaftan",
+  "Skórzane kaftany",
+  "Skórzanych kaftanów"
+ ],
+ "02471": [
+  "Karwasze z twardej skóry",
+  "Karwasze z twardej skóry",
+  "Karwaszy z twardej skóry"
+ ],
+ "02472": [
+  "Buty z twardej skóry",
+  "Buty z twardej skóry",
+  "Butów z twardej skóry"
+ ],
+ "02473": [
+  "Kaptur z twardej skóry",
+  "Kaptury z twardej skóry",
+  "Kapturów z twardej skóry"
+ ],
+ "02474": [
+  "Tarcza z twardej skóry",
+  "Tarcze z twardej skóry",
+  "Tarcz z twardej skóry"
+ ],
+ "02475": [
+  "Nogawice z twardej skóry",
+  "Nogawice z twardej skóry",
+  "Nogawic z twardej skóry"
+ ],
+ "02476": [
+  "Kaftan z twardej skóry",
+  "Kaftany z twardej skóry",
+  "Kaftanów z twardej skóry"
+ ],
+ "02477": [
+  "Karwasze z ćwiekowanej skóry",
+  "Karwasze z ćwiekowanej skóry",
+  "Karwaszy z ćwiekowanej skóry"
+ ],
+ "02478": [
+  "Buty z ćwiekowanej skóry",
+  "Buty z ćwiekowanej skóry",
+  "Butów z ćwiekowanej skóry"
+ ],
+ "02479": [
+  "Kaptur z ćwiekowanej skóry",
+  "Kaptury z ćwiekowanej skóry",
+  "Kapturów z ćwiekowanej skóry"
+ ],
+ "02480": [
+  "Tarcza z ćwiekowanej skóry",
+  "Tarcze z ćwiekowanej skóry",
+  "Tarcz z ćwiekowanej skóry"
+ ],
+ "02481": [
+  "Nogawice z ćwiekowanej skóry",
+  "Nogawice z ćwiekowanej skóry",
+  "Nogawic z ćwiekowanej skóry"
+ ],
+ "02482": [
+  "Kaftan z ćwiekowanej skóry",
+  "Kaftany z ćwiekowanej skóry",
+  "Kaftanów z ćwiekowanej skóry"
+ ],
+ "02483": [
+  "Kolcze karwasze",
+  "Kolcze karwasze",
+  "Kolczych karwaszy"
+ ],
+ "02484": [
+  "Kolcze buty",
+  "Kolcze buty",
+  "Kolczych butów"
+ ],
+ "02485": [
+  "Kolczy kaptur",
+  "Kolcze kaptury",
+  "Kolczych kapturów"
+ ],
+ "02486": [
+  "Kolcza tarcza",
+  "Kolcze tarcze",
+  "Kolczych tarcz"
+ ],
+ "02487": [
+  "Kolcze nogawice",
+  "Kolcze nogawice",
+  "Kolczych nogawic"
+ ],
+ "02488": [
+  "Kolczuga",
+  "Kolczugi",
+  "Kolczug"
+ ],
+ "02489": [
+  "Kaptur ze skóry zielonego smoka",
+  "Kaptury ze skóry zielonego smoka",
+  "Kapturów ze skóry zielonego smoka"
+ ],
+ "02490": [
+  "Nogawice ze skóry zielonego smoka",
+  "Nogawice ze skóry zielonego smoka",
+  "Nogawic ze skóry zielonego smoka"
+ ],
+ "02491": [
+  "Kaftan ze skóry zielonego smoka",
+  "Kaftany ze skóry zielonego smoka",
+  "Kaftanów ze skóry zielonego smoka"
+ ],
+ "02492": [
+  "Kaptur ze skóry niebieskiego smoka",
+  "Kaptury ze skóry niebieskiego smoka",
+  "Kapturów ze skóry niebieskiego smoka"
+ ],
+ "02493": [
+  "Nogawice ze skóry niebieskiego smoka",
+  "Nogawice ze skóry niebieskiego smoka",
+  "Nogawic ze skóry niebieskiego smoka"
+ ],
+ "02494": [
+  "Kaftan ze skóry niebieskiego smoka",
+  "Kaftany ze skóry niebieskiego smoka",
+  "Kaftanów ze skóry niebieskiego smoka"
+ ],
+ "02495": [
+  "Kaptur ze skóry czerwonego smoka",
+  "Kaptury ze skóry czerwonego smoka",
+  "Kapturów ze skóry czerwonego smoka"
+ ],
+ "02496": [
+  "Nogawice ze skóry czerwonego smoka",
+  "Nogawice ze skóry czerwonego smoka",
+  "Nogawic ze skóry czerwonego smoka"
+ ],
+ "02497": [
+  "Kaftan ze skóry czerwonego smoka",
+  "Kaftany ze skóry czerwonego smoka",
+  "Kaftanów ze skóry czerwonego smoka"
+ ],
+ "02498": [
+  "Kaptur ze skóry czarnego smoka",
+  "Kaptury ze skóry czarnego smoka",
+  "Kapturów ze skóry czarnego smoka"
+ ],
+ "02499": [
+  "Nogawice ze skóry czarnego smoka",
+  "Nogawice ze skóry czarnego smoka",
+  "Nogawic ze skóry czarnego smoka"
+ ],
+ "02500": [
+  "Kaftan ze skóry czarnego smoka",
+  "Kaftany ze skóry czarnego smoka",
+  "Kaftanów ze skóry czarnego smoka"
+ ],
+ "02501": [
+  "Srebrny pierścień z topazem",
+  "Srebrne pierścienie z topazem",
+  "Srebrnych pierścieni z topazem"
+ ],
+ "02502": [
+  "Srebrny pierścień z szafirem",
+  "Srebrne pierścienie z szafirem",
+  "Srebrnych pierścieni z szafirem"
+ ],
+ "02503": [
+  "Srebrny pierścień z rubinem",
+  "Srebrne pierścienie z rubinem",
+  "Srebrnych pierścieni z rubinem"
+ ],
+ "02504": [
+  "Srebrny pierścień ze szmaragdem",
+  "Srebrne pierścienie ze szmaragdem",
+  "Srebrnych pierścieni ze szmaragdem"
+ ],
+ "02505": [
+  "Srebrny pierścień z diamentem",
+  "Srebrne pierścienie z diamentem",
+  "Srebrnych pierścieni z diamentem"
+ ],
+ "02506": [
+  "Srebrny pierścień z jadeitem",
+  "Srebrne pierścienie z jadeitem",
+  "Srebrnych pierścieni z jadeitem"
+ ],
+ "02507": [
+  "Złoty pierścień z szafirem",
+  "Złote pierścienie z szafirem",
+  "Złotych pierścieni z szafirem"
+ ],
+ "02508": [
+  "Złoty pierścień z rubinem",
+  "Złote pierścienie z rubinem",
+  "Złotych pierścieni z rubinem"
+ ],
+ "02509": [
+  "Złoty pierścień ze szmaragdem",
+  "Złote pierścienie ze szmaragdem",
+  "Złotych pierścieni ze szmaragdem"
+ ],
+ "02510": [
+  "Złoty pierścień z diamentem",
+  "Złote pierścienie z diamentem",
+  "Złotych pierścieni z diamentem"
+ ],
+ "02511": [
+  "Złoty pierścień z jadeitem",
+  "Złote pierścienie z jadeitem",
+  "Złotych pierścieni z jadeitem"
+ ],
+ "02512": [
+  "Srebrny amulet z topazem",
+  "Srebrne amulety z topazem",
+  "Srebrnych amuletów z topazem"
+ ],
+ "02513": [
+  "Srebrny amulet z szafirem",
+  "Srebrne amulety z szafirem",
+  "Srebrnych amuletów z szafirem"
+ ],
+ "02514": [
+  "Srebrny amulet z rubinem",
+  "Srebrne amulety z rubinem",
+  "Srebrnych amuletów z rubinem"
+ ],
+ "02515": [
+  "Srebrny amulet ze szmaragdem",
+  "Srebrne amulety ze szmaragdem",
+  "Srebrnych amuletów ze szmaragdem"
+ ],
+ "02516": [
+  "Srebrny amulet z diamentem",
+  "Srebrne amulety z diamentem",
+  "Srebrnych amuletów z diamentem"
+ ],
+ "02517": [
+  "Srebrny amulet z jadeitem",
+  "Srebrne amulety z jadeitem",
+  "Srebrnych amuletów z jadeitem"
+ ],
+ "02518": [
+  "Złoty amulet z topazem",
+  "Złote amulety z topazem",
+  "Złotych amuletów z topazem"
+ ],
+ "02519": [
+  "Złoty amulet z szafirem",
+  "Złote amulety z szafirem",
+  "Złotych amuletów z szafirem"
+ ],
+ "02520": [
+  "Złoty amulet z rubinem",
+  "Złote amulety z rubinem",
+  "Złotych amuletów z rubinem"
+ ],
+ "02521": [
+  "Złoty amulet ze szmaragdem",
+  "Złote amulety ze szmaragdem",
+  "Złotych amuletów ze szmaragdem"
+ ],
+ "02522": [
+  "Złoty amulet z diamentem",
+  "Złote amulety z diamentem",
+  "Złotych amuletów z diamentem"
+ ],
+ "02523": [
+  "Złoty amulet z jadeitem",
+  "Złote amulety z jadeitem",
+  "Złotych amuletów z jadeitem"
+ ],
+ "02524": [
+  "Pióro harpii",
+  "Pióra harpii",
+  "Piór harpii"
+ ],
+ "02525": [
+  "Węgiel",
+  "Węgiel",
+  "Węgiel"
+ ],
+ "02526": [
+  "Nieoszlifowany topaz",
+  "Nieoszlifowane topazy",
+  "Nieoszlifowanych topazów"
+ ],
+ "02527": [
+  "Nieoszlifowany szafir",
+  "Nieoszlifowane szafiry",
+  "Nieoszlifowanych szafirów"
+ ],
+ "02528": [
+  "Nieoszlifowany rubin",
+  "Nieoszlifowane rubiny",
+  "Nieoszlifowanych rubinów"
+ ],
+ "02529": [
+  "Nieoszlifowany szmaragd",
+  "Nieoszlifowane szmaragdy",
+  "Nieoszlifowanych szmaragdów"
+ ],
+ "02530": [
+  "Nieoszlifowany diament",
+  "Nieoszlifowane diamenty",
+  "Nieoszlifowanych diamentów"
+ ],
+ "02531": [
+  "Nieoszlifowany jadeit",
+  "Nieoszlifowane jadeity",
+  "Nieoszlifowanych jadeitów"
+ ],
+ "02532": [
+  "Glina",
+  "Glina",
+  "Glina"
+ ],
+ "02533": [
+  "Wiadro wody",
+  "Wiadra wody",
+  "Wiader wody"
+ ],
+ "02534": [
+  "Wiadro piasku",
+  "Wiadra piasku",
+  "Wiader piasku"
+ ],
+ "02535": [
+  "Stopione szkło",
+  "Stopione szkło",
+  "Stopione szkło"
+ ],
+ "02536": [
+  "Pakiet fiolek",
+  "Pakiety fiolek",
+  "Pakietów fiolek"
+ ],
+ "02537": [
+  "Nienaładowana kula",
+  "Nienaładowane kule",
+  "Nienaładowanych kul"
+ ],
+ "02538": [
+  "Pusta latarnia",
+  "Puste latarnie",
+  "Pustych latarni"
+ ],
+ "02539": [
+  "Nasiono sekwoi",
+  "Nasiona sekwoi",
+  "Nasion sekwoi"
+ ],
+ "02540": [
+  "Węgiel drzewny",
+  "Węgiel drzewny",
+  "Węgiel drzewny"
+ ],
+ "02541": [
+  "Popiół",
+  "Popiół",
+  "Popiół"
+ ],
+ "02542": [
+  "Sadza",
+  "Sadza",
+  "Sadza"
+ ],
+ "02543": [
+  "Żarzący się węgielek",
+  "Żarzące się węgielki",
+  "Żarzących się węgielków"
+ ],
+ "02544": [
+  "Łuk z twardego dębu",
+  "Łuki z twardego dębu",
+  "Łuków z twardego dębu"
+ ],
+ "02545": [
+  "Kłoda twardego dębu",
+  "Kłody twardego dębu",
+  "Kłód twardego dębu"
+ ],
+ "02546": [
+  "Bumerang z twardego dębu",
+  "Bumerangi z twardego dębu",
+  "Bumerangów z twardego dębu"
+ ],
+ "02547": [
+  "Żelazna kusza dwuręczna",
+  "Żelazne kusze dwuręczne",
+  "Żelaznych kusz dwuręcznych"
+ ],
+ "02548": [
+  "Czysta esencja",
+  "Czyste esencje",
+  "Czystych esencji"
+ ],
+ "02549": [
+  "Stalowa włócznia",
+  "Stalowe włócznie",
+  "Stalowych włóczni"
+ ],
+ "02550": [
+  "Mithrilowa włócznia",
+  "Mithrilowe włócznie",
+  "Mithrilowych włóczni"
+ ],
+ "02551": [
+  "Adamantowa włócznia",
+  "Adamantowe włócznie",
+  "Adamantowych włóczni"
+ ],
+ "02552": [
+  "Runiczna włócznia",
+  "Runiczne włócznie",
+  "Runicznych włóczni"
+ ],
+ "02553": [
+  "Włócznia ze stali świtu",
+  "Włócznie ze stali świtu",
+  "Włóczni ze stali świtu"
+ ],
+ "02554": [
+  "Smocza włócznia",
+  "Smocze włócznie",
+  "Smoczych włóczni"
+ ],
+ "02555": [
+  "Małż perłowy",
+  "Małże perłowe",
+  "Małży perłowych"
+ ],
+ "02556": "Cenny przedmiot na sprzedaż.",
+ "02557": [
+  "Naszyjnik z muszli",
+  "Naszyjniki z muszli",
+  "Naszyjników z muszli"
+ ],
+ "02558": [
+  "Zardzewiały starożytny sztylet",
+  "Zardzewiałe starożytne sztylety",
+  "Zardzewiałych starożytnych sztyletów"
+ ],
+ "02559": [
+  "Rękawice odporne na odłamki",
+  "Rękawice odporne na odłamki",
+  "Rękawic odpornych na odłamki"
+ ],
+ "02560": [
+  "Niezawodna sieć",
+  "Niezawodne sieci",
+  "Niezawodnych sieci"
+ ],
+ "02561": [
+  "Podarte starożytne płótno żaglowe",
+  "Podarte starożytne płótna żaglowe",
+  "Podartych starożytnych płócien żaglowych"
+ ],
+ "02562": [
+  "Świecący kamień z głębin",
+  "Świecące kamienie z głębin",
+  "Świecących kamieni z głębin"
+ ],
+ "02563": [
+  "Zagubiony pierścień wędkarza",
+  "Zagubione pierścienie wędkarza",
+  "Zagubionych pierścieni wędkarza"
+ ],
+ "02564": [
+  "Naszyjnik z zębem rekina",
+  "Naszyjniki z zębem rekina",
+  "Naszyjników z zębem rekina"
+ ],
+ "02565": [
+  "Tęczowy koral",
+  "Tęczowe korale",
+  "Tęczowych korali"
+ ],
+ "02566": [
+  "Pierścień z mieniącą się łuską",
+  "Pierścienie z mieniącą się łuską",
+  "Pierścieni z mieniącą się łuską"
+ ],
+ "02567": [
+  "Kępa wodorostów",
+  "Kępy wodorostów",
+  "Kęp wodorostów"
+ ],
+ "02568": [
+  "Runa duszy",
+  "Runy duszy",
+  "Run duszy"
+ ],
+ "02569": [
+  "Bojowa różdżka powietrza",
+  "Bojowe różdżki powietrza",
+  "Bojowych różdżek powietrza"
+ ],
+ "02570": [
+  "Bojowa różdżka wody",
+  "Bojowe różdżki wody",
+  "Bojowych różdżek wody"
+ ]
+}

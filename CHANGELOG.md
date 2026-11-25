@@ -1,5 +1,28 @@
 # Changelog
 
+## 1.3.0 (2026-11-25)
+
+### New languages
+* Polish (Polski): 13,708 texts, all translated by AI. Melvor Idle has no official Polish translation, so there were no official terms to start from.
+* Russian (Русский): 13,708 texts. 622 (5%) from the official Russian translation of Melvor Idle, 13,086 (95%) translated by AI.
+
+### Melvor Mod Loader
+* The Localization Pack is now compatible with Melvor Mod Loader: players who use mods can play in their own language too. Download the file "Mod Loader version".
+* `LocalizationPack.dll` loads the pack through Mod Loader instead of its own override.cfg, so it works together with other Mod Loader mods.
+* The Mod Loader menu (F1) is translated into every language of the pack.
+
+### Game update
+* On 2026-11-25 the game update v0.11.7-alpha was released. 105 new texts were found and translated into all languages of the pack (for example the new bank tab icons, set bonuses, notification settings and shop categories).
+
+### Fixes
+* Quest requirements such as "Must be able to defeat a Combat Level 1 Enemy" are now translated.
+* With English selected, times in the "Welcome back" window no longer show units in the Windows language (for example "19 Minuten").
+* Shorter texts in the shop toolbar and shorter item names on the Agility shop cards, so the shop no longer slides under the sidebar in French, Polish, Brazilian Portuguese and Russian.
+
+### Other
+* Languages with more than two plural forms are supported. Polish and Russian use three ("1 sekunda", "2 sekundy", "5 sekund"); the rule for each language is set in `mod.json`.
+* Language files are now in `Languages/Game`, texts of other mods in `Languages/Mods/<Mod>`. When updating, delete the old folder "Mods/Localization Pack" first.
+
 ## 1.2.0 (2026-11-23)
 
 ### New languages

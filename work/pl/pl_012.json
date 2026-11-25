@@ -1,0 +1,879 @@
+{
+ "02228": [
+  "Mithrilowe groty strzał",
+  "Mithrilowe groty strzał",
+  "Mithrilowych grotów strzał"
+ ],
+ "02229": [
+  "Mithrilowe groty oszczepów",
+  "Mithrilowe groty oszczepów",
+  "Mithrilowych grotów oszczepów"
+ ],
+ "02230": [
+  "Mithrilowy miecz",
+  "Mithrilowe miecze",
+  "Mithrilowych mieczy"
+ ],
+ "02231": [
+  "Mithrilowe rękawice",
+  "Mithrilowe rękawice",
+  "Mithrilowych rękawic"
+ ],
+ "02232": [
+  "Mithrilowy bułat",
+  "Mithrilowe bułaty",
+  "Mithrilowych bułatów"
+ ],
+ "02233": [
+  "Mithrilowy hełm",
+  "Mithrilowe hełmy",
+  "Mithrilowych hełmów"
+ ],
+ "02234": [
+  "Mithrilowe buty",
+  "Mithrilowe buty",
+  "Mithrilowych butów"
+ ],
+ "02235": [
+  "Mithrilowa tarcza",
+  "Mithrilowe tarcze",
+  "Mithrilowych tarcz"
+ ],
+ "02236": [
+  "Mithrilowy miecz dwuręczny",
+  "Mithrilowe miecze dwuręczne",
+  "Mithrilowych mieczy dwuręcznych"
+ ],
+ "02237": [
+  "Mithrilowy pobijak",
+  "Mithrilowe pobijaki",
+  "Mithrilowych pobijaków"
+ ],
+ "02238": [
+  "Mithrilowa głowica kuszy",
+  "Mithrilowe głowice kuszy",
+  "Mithrilowych głowic kuszy"
+ ],
+ "02239": [
+  "Mithrilowe nogawice płytowe",
+  "Mithrilowe nogawice płytowe",
+  "Mithrilowych nogawic płytowych"
+ ],
+ "02240": [
+  "Mithrilowy napierśnik płytowy",
+  "Mithrilowe napierśniki płytowe",
+  "Mithrilowych napierśników płytowych"
+ ],
+ "02241": [
+  "Adamantowy sztylet",
+  "Adamantowe sztylety",
+  "Adamantowych sztyletów"
+ ],
+ "02242": [
+  "Adamantowy obrońca",
+  "Adamantowi obrońcy",
+  "Adamantowych obrońców"
+ ],
+ "02243": [
+  "Adamantowe groty strzał",
+  "Adamantowe groty strzał",
+  "Adamantowych grotów strzał"
+ ],
+ "02244": [
+  "Adamantowe groty oszczepów",
+  "Adamantowe groty oszczepów",
+  "Adamantowych grotów oszczepów"
+ ],
+ "02245": [
+  "Adamantowy miecz",
+  "Adamantowe miecze",
+  "Adamantowych mieczy"
+ ],
+ "02246": [
+  "Adamantowe rękawice",
+  "Adamantowe rękawice",
+  "Adamantowych rękawic"
+ ],
+ "02247": [
+  "Adamantowy bułat",
+  "Adamantowe bułaty",
+  "Adamantowych bułatów"
+ ],
+ "02248": [
+  "Adamantowy hełm",
+  "Adamantowe hełmy",
+  "Adamantowych hełmów"
+ ],
+ "02249": [
+  "Adamantowe buty",
+  "Adamantowe buty",
+  "Adamantowych butów"
+ ],
+ "02250": [
+  "Adamantowa tarcza",
+  "Adamantowe tarcze",
+  "Adamantowych tarcz"
+ ],
+ "02251": [
+  "Adamantowy miecz dwuręczny",
+  "Adamantowe miecze dwuręczne",
+  "Adamantowych mieczy dwuręcznych"
+ ],
+ "02252": [
+  "Adamantowy pobijak",
+  "Adamantowe pobijaki",
+  "Adamantowych pobijaków"
+ ],
+ "02253": [
+  "Adamantowa głowica kuszy",
+  "Adamantowe głowice kuszy",
+  "Adamantowych głowic kuszy"
+ ],
+ "02254": [
+  "Adamantowe nogawice płytowe",
+  "Adamantowe nogawice płytowe",
+  "Adamantowych nogawic płytowych"
+ ],
+ "02255": [
+  "Adamantowy napierśnik płytowy",
+  "Adamantowe napierśniki płytowe",
+  "Adamantowych napierśników płytowych"
+ ],
+ "02256": [
+  "Runiczny sztylet",
+  "Runiczne sztylety",
+  "Runicznych sztyletów"
+ ],
+ "02257": [
+  "Runiczny obrońca",
+  "Runiczni obrońcy",
+  "Runicznych obrońców"
+ ],
+ "02258": [
+  "Runiczne groty strzał",
+  "Runiczne groty strzał",
+  "Runicznych grotów strzał"
+ ],
+ "02259": [
+  "Runiczne groty oszczepów",
+  "Runiczne groty oszczepów",
+  "Runicznych grotów oszczepów"
+ ],
+ "02260": [
+  "Runiczny miecz",
+  "Runiczne miecze",
+  "Runicznych mieczy"
+ ],
+ "02261": [
+  "Runiczne rękawice",
+  "Runiczne rękawice",
+  "Runicznych rękawic"
+ ],
+ "02262": [
+  "Runiczny bułat",
+  "Runiczne bułaty",
+  "Runicznych bułatów"
+ ],
+ "02263": [
+  "Runiczny hełm",
+  "Runiczne hełmy",
+  "Runicznych hełmów"
+ ],
+ "02264": [
+  "Runiczne buty",
+  "Runiczne buty",
+  "Runicznych butów"
+ ],
+ "02265": [
+  "Runiczna tarcza",
+  "Runiczne tarcze",
+  "Runicznych tarcz"
+ ],
+ "02266": [
+  "Runiczny miecz dwuręczny",
+  "Runiczne miecze dwuręczne",
+  "Runicznych mieczy dwuręcznych"
+ ],
+ "02267": [
+  "Runiczny pobijak",
+  "Runiczne pobijaki",
+  "Runicznych pobijaków"
+ ],
+ "02268": [
+  "Runiczna głowica kuszy",
+  "Runiczne głowice kuszy",
+  "Runicznych głowic kuszy"
+ ],
+ "02269": [
+  "Runiczne nogawice płytowe",
+  "Runiczne nogawice płytowe",
+  "Runicznych nogawic płytowych"
+ ],
+ "02270": [
+  "Runiczny napierśnik płytowy",
+  "Runiczne napierśniki płytowe",
+  "Runicznych napierśników płytowych"
+ ],
+ "02271": [
+  "Sztylet ze stali świtu",
+  "Sztylety ze stali świtu",
+  "Sztyletów ze stali świtu"
+ ],
+ "02272": [
+  "Obrońca ze stali świtu",
+  "Obrońcy ze stali świtu",
+  "Obrońców ze stali świtu"
+ ],
+ "02273": [
+  "Groty strzał ze stali świtu",
+  "Groty strzał ze stali świtu",
+  "Grotów strzał ze stali świtu"
+ ],
+ "02274": [
+  "Groty oszczepów ze stali świtu",
+  "Groty oszczepów ze stali świtu",
+  "Grotów oszczepów ze stali świtu"
+ ],
+ "02275": [
+  "Miecz ze stali świtu",
+  "Miecze ze stali świtu",
+  "Mieczy ze stali świtu"
+ ],
+ "02276": [
+  "Rękawice ze stali świtu",
+  "Rękawice ze stali świtu",
+  "Rękawic ze stali świtu"
+ ],
+ "02277": [
+  "Bułat ze stali świtu",
+  "Bułaty ze stali świtu",
+  "Bułatów ze stali świtu"
+ ],
+ "02278": [
+  "Hełm ze stali świtu",
+  "Hełmy ze stali świtu",
+  "Hełmów ze stali świtu"
+ ],
+ "02279": "Premia za zestaw (3 części ekwipunku ze stali świtu, bez rękawic): +5 światła",
+ "02280": [
+  "Buty ze stali świtu",
+  "Buty ze stali świtu",
+  "Butów ze stali świtu"
+ ],
+ "02281": [
+  "Tarcza ze stali świtu",
+  "Tarcze ze stali świtu",
+  "Tarcz ze stali świtu"
+ ],
+ "02282": [
+  "Miecz dwuręczny ze stali świtu",
+  "Miecze dwuręczne ze stali świtu",
+  "Mieczy dwuręcznych ze stali świtu"
+ ],
+ "02283": [
+  "Pobijak ze stali świtu",
+  "Pobijaki ze stali świtu",
+  "Pobijaków ze stali świtu"
+ ],
+ "02284": [
+  "Głowica kuszy ze stali świtu",
+  "Głowice kuszy ze stali świtu",
+  "Głowic kuszy ze stali świtu"
+ ],
+ "02285": [
+  "Nogawice płytowe ze stali świtu",
+  "Nogawice płytowe ze stali świtu",
+  "Nogawic płytowych ze stali świtu"
+ ],
+ "02286": "Premia za zestaw (3 części ekwipunku ze stali świtu, bez rękawic i tarczy): +5 światła",
+ "02287": [
+  "Napierśnik płytowy ze stali świtu",
+  "Napierśniki płytowe ze stali świtu",
+  "Napierśników płytowych ze stali świtu"
+ ],
+ "02288": [
+  "Smoczy sztylet",
+  "Smocze sztylety",
+  "Smoczych sztyletów"
+ ],
+ "02289": [
+  "Smoczy obrońca",
+  "Smoczy obrońcy",
+  "Smoczych obrońców"
+ ],
+ "02290": [
+  "Smocze groty strzał",
+  "Smocze groty strzał",
+  "Smoczych grotów strzał"
+ ],
+ "02291": [
+  "Smocze groty oszczepów",
+  "Smocze groty oszczepów",
+  "Smoczych grotów oszczepów"
+ ],
+ "02292": [
+  "Smoczy miecz",
+  "Smocze miecze",
+  "Smoczych mieczy"
+ ],
+ "02293": [
+  "Smocze rękawice",
+  "Smocze rękawice",
+  "Smoczych rękawic"
+ ],
+ "02294": [
+  "Smoczy bułat",
+  "Smocze bułaty",
+  "Smoczych bułatów"
+ ],
+ "02295": [
+  "Smoczy hełm",
+  "Smocze hełmy",
+  "Smoczych hełmów"
+ ],
+ "02296": [
+  "Smocze buty",
+  "Smocze buty",
+  "Smoczych butów"
+ ],
+ "02297": [
+  "Smocza tarcza",
+  "Smocze tarcze",
+  "Smoczych tarcz"
+ ],
+ "02298": [
+  "Smoczy miecz dwuręczny",
+  "Smocze miecze dwuręczne",
+  "Smoczych mieczy dwuręcznych"
+ ],
+ "02299": [
+  "Smoczy pobijak",
+  "Smocze pobijaki",
+  "Smoczych pobijaków"
+ ],
+ "02300": [
+  "Smocza głowica kuszy",
+  "Smocze głowice kuszy",
+  "Smoczych głowic kuszy"
+ ],
+ "02301": [
+  "Smocze nogawice płytowe",
+  "Smocze nogawice płytowe",
+  "Smoczych nogawic płytowych"
+ ],
+ "02302": [
+  "Smoczy napierśnik płytowy",
+  "Smocze napierśniki płytowe",
+  "Smoczych napierśników płytowych"
+ ],
+ "02303": [
+  "Topaz",
+  "Topazy",
+  "Topazów"
+ ],
+ "02304": [
+  "Szafir",
+  "Szafiry",
+  "Szafirów"
+ ],
+ "02305": [
+  "Rubin",
+  "Rubiny",
+  "Rubinów"
+ ],
+ "02306": [
+  "Szmaragd",
+  "Szmaragdy",
+  "Szmaragdów"
+ ],
+ "02307": [
+  "Diament",
+  "Diamenty",
+  "Diamentów"
+ ],
+ "02308": [
+  "Jadeit",
+  "Jadeity",
+  "Jadeitów"
+ ],
+ "02309": [
+  "Sztabka srebra",
+  "Sztabki srebra",
+  "Sztabek srebra"
+ ],
+ "02310": [
+  "Nasiono dębu",
+  "Nasiona dębu",
+  "Nasion dębu"
+ ],
+ "02311": [
+  "Nasiono wierzby",
+  "Nasiona wierzby",
+  "Nasion wierzby"
+ ],
+ "02312": [
+  "Nasiono teku",
+  "Nasiona teku",
+  "Nasion teku"
+ ],
+ "02313": [
+  "Nasiono klonu",
+  "Nasiona klonu",
+  "Nasion klonu"
+ ],
+ "02314": [
+  "Nasiono mahoniu",
+  "Nasiona mahoniu",
+  "Nasion mahoniu"
+ ],
+ "02315": [
+  "Nasiono cisu",
+  "Nasiona cisu",
+  "Nasion cisu"
+ ],
+ "02316": [
+  "Nasiono magicznego drzewa",
+  "Nasiona magicznego drzewa",
+  "Nasion magicznego drzewa"
+ ],
+ "02317": [
+  "Nasiono twardego dębu",
+  "Nasiona twardego dębu",
+  "Nasion twardego dębu"
+ ],
+ "02318": [
+  "Zwykły łuk",
+  "Zwykłe łuki",
+  "Zwykłych łuków"
+ ],
+ "02319": [
+  "Dębowy łuk",
+  "Dębowe łuki",
+  "Dębowych łuków"
+ ],
+ "02320": [
+  "Wierzbowy łuk",
+  "Wierzbowe łuki",
+  "Wierzbowych łuków"
+ ],
+ "02321": [
+  "Klonowy łuk",
+  "Klonowe łuki",
+  "Klonowych łuków"
+ ],
+ "02322": [
+  "Cisowy łuk",
+  "Cisowe łuki",
+  "Cisowych łuków"
+ ],
+ "02323": [
+  "Magiczny łuk",
+  "Magiczne łuki",
+  "Magicznych łuków"
+ ],
+ "02324": [
+  "Sekwojowy łuk",
+  "Sekwojowe łuki",
+  "Sekwojowych łuków"
+ ],
+ "02325": [
+  "Kamienne strzały",
+  "Kamienne strzały",
+  "Kamiennych strzał"
+ ],
+ "02326": [
+  "Miedziane strzały",
+  "Miedziane strzały",
+  "Miedzianych strzał"
+ ],
+ "02327": [
+  "Żelazne strzały",
+  "Żelazne strzały",
+  "Żelaznych strzał"
+ ],
+ "02328": [
+  "Stalowe strzały",
+  "Stalowe strzały",
+  "Stalowych strzał"
+ ],
+ "02329": [
+  "Mithrilowe strzały",
+  "Mithrilowe strzały",
+  "Mithrilowych strzał"
+ ],
+ "02330": [
+  "Adamantowe strzały",
+  "Adamantowe strzały",
+  "Adamantowych strzał"
+ ],
+ "02331": [
+  "Runiczne strzały",
+  "Runiczne strzały",
+  "Runicznych strzał"
+ ],
+ "02332": [
+  "Strzały ze stali świtu",
+  "Strzały ze stali świtu",
+  "Strzał ze stali świtu"
+ ],
+ "02333": [
+  "Smocze strzały",
+  "Smocze strzały",
+  "Smoczych strzał"
+ ],
+ "02334": [
+  "Strzały bez grotów",
+  "Strzały bez grotów",
+  "Strzał bez grotów"
+ ],
+ "02335": [
+  "Pióra",
+  "Pióra",
+  "Piór"
+ ],
+ "02336": [
+  "Cięciwa",
+  "Cięciwy",
+  "Cięciw"
+ ],
+ "02337": [
+  "Wyprawiona skóra",
+  "Wyprawione skóry",
+  "Wyprawionych skór"
+ ],
+ "02338": [
+  "Skóra zielonego smoka",
+  "Skóry zielonego smoka",
+  "Skór zielonego smoka"
+ ],
+ "02339": [
+  "Wyprawiona skóra zielonego smoka",
+  "Wyprawione skóry zielonego smoka",
+  "Wyprawionych skór zielonego smoka"
+ ],
+ "02340": [
+  "Skóra niebieskiego smoka",
+  "Skóry niebieskiego smoka",
+  "Skór niebieskiego smoka"
+ ],
+ "02341": [
+  "Wyprawiona skóra niebieskiego smoka",
+  "Wyprawione skóry niebieskiego smoka",
+  "Wyprawionych skór niebieskiego smoka"
+ ],
+ "02342": [
+  "Skóra czerwonego smoka",
+  "Skóry czerwonego smoka",
+  "Skór czerwonego smoka"
+ ],
+ "02343": [
+  "Wyprawiona skóra czerwonego smoka",
+  "Wyprawione skóry czerwonego smoka",
+  "Wyprawionych skór czerwonego smoka"
+ ],
+ "02344": [
+  "Skóra czarnego smoka",
+  "Skóry czarnego smoka",
+  "Skór czarnego smoka"
+ ],
+ "02345": [
+  "Wyprawiona skóra czarnego smoka",
+  "Wyprawione skóry czarnego smoka",
+  "Wyprawionych skór czarnego smoka"
+ ],
+ "02346": [
+  "Skórzane buty",
+  "Skórzane buty",
+  "Skórzanych butów"
+ ],
+ "02347": [
+  "Skórzany kaptur",
+  "Skórzane kaptury",
+  "Skórzanych kapturów"
+ ],
+ "02348": [
+  "Skórzane karwasze",
+  "Skórzane karwasze",
+  "Skórzanych karwaszy"
+ ],
+ "02349": [
+  "Skórzane nogawice",
+  "Skórzane nogawice",
+  "Skórzanych nogawic"
+ ],
+ "02350": [
+  "Złoty pierścień z topazem",
+  "Złote pierścienie z topazem",
+  "Złotych pierścieni z topazem"
+ ],
+ "02351": [
+  "Esencja runiczna",
+  "Esencje runiczne",
+  "Esencji runicznych"
+ ],
+ "02352": [
+  "Runa powietrza",
+  "Runy powietrza",
+  "Run powietrza"
+ ],
+ "02353": [
+  "Runa umysłu",
+  "Runy umysłu",
+  "Run umysłu"
+ ],
+ "02354": [
+  "Runa wody",
+  "Runy wody",
+  "Run wody"
+ ],
+ "02355": [
+  "Runa ziemi",
+  "Runy ziemi",
+  "Run ziemi"
+ ],
+ "02356": [
+  "Runa ognia",
+  "Runy ognia",
+  "Run ognia"
+ ],
+ "02357": [
+  "Runa ciała",
+  "Runy ciała",
+  "Run ciała"
+ ],
+ "02358": [
+  "Runa chaosu",
+  "Runy chaosu",
+  "Run chaosu"
+ ],
+ "02359": [
+  "Runa śmierci",
+  "Runy śmierci",
+  "Run śmierci"
+ ],
+ "02360": [
+  "Runa krwi",
+  "Runy krwi",
+  "Run krwi"
+ ],
+ "02361": [
+  "Bojowy kostur powietrza",
+  "Bojowe kostury powietrza",
+  "Bojowych kosturów powietrza"
+ ],
+ "02362": [
+  "Bojowy kostur wody",
+  "Bojowe kostury wody",
+  "Bojowych kosturów wody"
+ ],
+ "02363": [
+  "Bojowy kostur ziemi",
+  "Bojowe kostury ziemi",
+  "Bojowych kosturów ziemi"
+ ],
+ "02364": [
+  "Bojowy kostur ognia",
+  "Bojowe kostury ognia",
+  "Bojowych kosturów ognia"
+ ],
+ "02365": [
+  "Wodorost",
+  "Wodorosty",
+  "Wodorostów"
+ ],
+ "02366": [
+  "Lina",
+  "Liny",
+  "Lin"
+ ],
+ "02367": [
+  "Śmieci",
+  "Śmieci",
+  "Śmieci"
+ ],
+ "02368": [
+  "Mithrilowy dwuręczny młot do rzucania",
+  "Mithrilowe dwuręczne młoty do rzucania",
+  "Mithrilowych dwuręcznych młotów do rzucania"
+ ],
+ "02369": [
+  "Adamantowy dwuręczny młot do rzucania",
+  "Adamantowe dwuręczne młoty do rzucania",
+  "Adamantowych dwuręcznych młotów do rzucania"
+ ],
+ "02370": [
+  "Runiczny dwuręczny młot do rzucania",
+  "Runiczne dwuręczne młoty do rzucania",
+  "Runicznych dwuręcznych młotów do rzucania"
+ ],
+ "02371": [
+  "Dwuręczny młot do rzucania ze stali świtu",
+  "Dwuręczne młoty do rzucania ze stali świtu",
+  "Dwuręcznych młotów do rzucania ze stali świtu"
+ ],
+ "02372": [
+  "Smoczy dwuręczny młot do rzucania",
+  "Smocze dwuręczne młoty do rzucania",
+  "Smoczych dwuręcznych młotów do rzucania"
+ ],
+ "02373": [
+  "Bełty bez grotów",
+  "Bełty bez grotów",
+  "Bełtów bez grotów"
+ ],
+ "02374": [
+  "Runa mgły",
+  "Runy mgły",
+  "Run mgły"
+ ],
+ "02375": [
+  "Runa pyłu",
+  "Runy pyłu",
+  "Run pyłu"
+ ],
+ "02376": [
+  "Runa błota",
+  "Runy błota",
+  "Run błota"
+ ],
+ "02377": [
+  "Runa dymu",
+  "Runy dymu",
+  "Run dymu"
+ ],
+ "02378": [
+  "Runa pary",
+  "Runy pary",
+  "Run pary"
+ ],
+ "02379": [
+  "Runa lawy",
+  "Runy lawy",
+  "Run lawy"
+ ],
+ "02380": [
+  "Łosie poroże",
+  "Łosie poroża",
+  "Łosich poroży"
+ ],
+ "02381": [
+  "Chleb",
+  "Chleby",
+  "Chlebów"
+ ],
+ "02382": [
+  "Surowa wołowina",
+  "Surowa wołowina",
+  "Surowa wołowina"
+ ],
+ "02383": [
+  "Wołowina",
+  "Wołowina",
+  "Wołowina"
+ ],
+ "02384": [
+  "Surowe mięso",
+  "Surowe mięso",
+  "Surowe mięso"
+ ],
+ "02385": [
+  "Surowy kurczak",
+  "Surowe kurczaki",
+  "Surowych kurczaków"
+ ],
+ "02386": [
+  "Kurczak",
+  "Kurczaki",
+  "Kurczaków"
+ ],
+ "02387": [
+  "Ser",
+  "Sery",
+  "Serów"
+ ],
+ "02388": [
+  "Topazowe bełty",
+  "Topazowe bełty",
+  "Topazowych bełtów"
+ ],
+ "02389": [
+  "Szafirowe bełty",
+  "Szafirowe bełty",
+  "Szafirowych bełtów"
+ ],
+ "02390": [
+  "Rubinowe bełty",
+  "Rubinowe bełty",
+  "Rubinowych bełtów"
+ ],
+ "02391": [
+  "Szmaragdowe bełty",
+  "Szmaragdowe bełty",
+  "Szmaragdowych bełtów"
+ ],
+ "02392": [
+  "Diamentowe bełty",
+  "Diamentowe bełty",
+  "Diamentowych bełtów"
+ ],
+ "02393": [
+  "Jadeitowe bełty",
+  "Jadeitowe bełty",
+  "Jadeitowych bełtów"
+ ],
+ "02394": [
+  "Surowy okoń",
+  "Surowe okonie",
+  "Surowych okoni"
+ ],
+ "02395": [
+  "Surowa makrela",
+  "Surowe makrele",
+  "Surowych makrel"
+ ],
+ "02396": [
+  "Surowy szczupak",
+  "Surowe szczupaki",
+  "Surowych szczupaków"
+ ],
+ "02397": [
+  "Surowy lśniopłetw",
+  "Surowe lśniopłetwy",
+  "Surowych lśniopłetwów"
+ ],
+ "02398": [
+  "Surowa dorada",
+  "Surowe dorady",
+  "Surowych dorad"
+ ],
+ "02399": [
+  "Surowy dorsz",
+  "Surowe dorsze",
+  "Surowych dorszy"
+ ],
+ "02400": [
+  "Surowy labraks",
+  "Surowe labraksy",
+  "Surowych labraksów"
+ ],
+ "02401": [
+  "Surowa skrzydlica",
+  "Surowe skrzydlice",
+  "Surowych skrzydlic"
+ ],
+ "02402": [
+  "Surowa świecąca meduza",
+  "Surowe świecące meduzy",
+  "Surowych świecących meduz"
+ ],
+ "02403": [
+  "Surowy tuńczyk",
+  "Surowe tuńczyki",
+  "Surowych tuńczyków"
+ ],
+ "02404": [
+  "Surowa świecąca kałamarnica",
+  "Surowe świecące kałamarnice",
+  "Surowych świecących kałamarnic"
+ ]
+}

@@ -1,0 +1,712 @@
+{
+"03535": [
+"Łuska drakolita tyrana",
+"Łuski drakolita tyrana",
+"Łusek drakolita tyrana"
+],
+"03536": [
+"Pas pokryty piaskiem",
+"Pasy pokryte piaskiem",
+"Pasów pokrytych piaskiem"
+],
+"03537": [
+"Szafirowa łuska klejnotowa",
+"Szafirowe łuski klejnotowe",
+"Szafirowych łusek klejnotowych"
+],
+"03538": [
+"Rubinowa łuska klejnotowa",
+"Rubinowe łuski klejnotowe",
+"Rubinowych łusek klejnotowych"
+],
+"03539": [
+"Szmaragdowa łuska klejnotowa",
+"Szmaragdowe łuski klejnotowe",
+"Szmaragdowych łusek klejnotowych"
+],
+"03540": [
+"Pustynny kapelusz",
+"Pustynne kapelusze",
+"Pustynnych kapeluszy"
+],
+"03541": [
+"Podstawowa rękawica Pogromcy",
+"Podstawowe rękawice Pogromcy",
+"Podstawowych rękawic Pogromcy"
+],
+"03542": [
+"Kontrakt wyzwania Pogromcy",
+"Kontrakty wyzwania Pogromcy",
+"Kontraktów wyzwania Pogromcy"
+],
+"03543": [
+"Odłamek klejnotu",
+"Odłamki klejnotu",
+"Odłamków klejnotu"
+],
+"03544": [
+"Kotwiczka z liną",
+"Kotwiczki z liną",
+"Kotwiczek z liną"
+],
+"03545": [
+"Wyprawiona skóra burzowego smoka",
+"Wyprawione skóry burzowego smoka",
+"Wyprawionych skór burzowego smoka"
+],
+"03546": [
+"Wyprawiona skóra piaskowego czerwia",
+"Wyprawione skóry piaskowego czerwia",
+"Wyprawionych skór piaskowego czerwia"
+],
+"03547": [
+"Rdzeń burzowego żywiołaka",
+"Rdzenie burzowego żywiołaka",
+"Rdzeni burzowego żywiołaka"
+],
+"03548": [
+"Kombinezon pszczelarza",
+"Kombinezony pszczelarza",
+"Kombinezonów pszczelarza"
+],
+"03549": [
+"Fokus mrocznego czarodzieja",
+"Fokusy mrocznego czarodzieja",
+"Fokusów mrocznego czarodzieja"
+],
+"03550": [
+"Rękawice ostrożnego zbieracza",
+"Rękawice ostrożnego zbieracza",
+"Rękawic ostrożnego zbieracza"
+],
+"03551": [
+"Buty z drzewnych pędów",
+"Buty z drzewnych pędów",
+"Butów z drzewnych pędów"
+],
+"03552": [
+"Rękawice płonącego żaru",
+"Rękawice płonącego żaru",
+"Rękawic płonącego żaru"
+],
+"03553": [
+"Garnek koczownika",
+"Garnki koczownika",
+"Garnków koczownika"
+],
+"03554": [
+"Runiczna księga akolity",
+"Runiczne księgi akolity",
+"Runicznych ksiąg akolity"
+],
+"03555": [
+"Ostry kolec łuczarski",
+"Ostre kolce łuczarskie",
+"Ostrych kolców łuczarskich"
+],
+"03556": [
+"Zestaw do szycia ze smoczego kła",
+"Zestawy do szycia ze smoczego kła",
+"Zestawów do szycia ze smoczego kła"
+],
+"03557": [
+"Rękawice tkacza",
+"Rękawice tkacza",
+"Rękawic tkacza"
+],
+"03558": [
+"Torba rabusia grobów",
+"Torby rabusia grobów",
+"Toreb rabusia grobów"
+],
+"03559": [
+"Rękawice z Hobkuźni",
+"Rękawice z Hobkuźni",
+"Rękawic z Hobkuźni"
+],
+"03560": [
+"Samorodek złota",
+"Samorodki złota",
+"Samorodków złota"
+],
+"03561": [
+"Kilof kamieniarza (uszkodzony)",
+"Kilofy kamieniarza (uszkodzone)",
+"Kilofów kamieniarza (uszkodzonych)"
+],
+"03562": "Może warto naprawić go w Kowalstwie.",
+"03563": [
+"Kilof kamieniarza",
+"Kilofy kamieniarza",
+"Kilofów kamieniarza"
+],
+"03564": [
+"Kilof nasycony esencją (uszkodzony)",
+"Kilofy nasycone esencją (uszkodzone)",
+"Kilofów nasyconych esencją (uszkodzonych)"
+],
+"03565": [
+"Kilof nasycony esencją",
+"Kilofy nasycone esencją",
+"Kilofów nasyconych esencją"
+],
+"03566": [
+"Piekielny kilof (uszkodzony)",
+"Piekielne kilofy (uszkodzone)",
+"Piekielnych kilofów (uszkodzonych)"
+],
+"03567": [
+"Piekielny kilof",
+"Piekielne kilofy",
+"Piekielnych kilofów"
+],
+"03568": [
+"Znak zwinności",
+"Znaki zwinności",
+"Znaków zwinności"
+],
+"03569": [
+"Lekkie nakrycie głowy",
+"Lekkie nakrycia głowy",
+"Lekkich nakryć głowy"
+],
+"03570": "Premia za zestaw (3 części lekkiego ekwipunku): -2% interwału Zwinności",
+"03571": [
+"Lekki kaftan",
+"Lekkie kaftany",
+"Lekkich kaftanów"
+],
+"03572": [
+"Lekkie spodnie",
+"Lekkie spodnie",
+"Lekkich spodni"
+],
+"03573": [
+"Lekkie buty",
+"Lekkie buty",
+"Lekkich butów"
+],
+"03574": [
+"Nakrycie głowy chyżości",
+"Nakrycia głowy chyżości",
+"Nakryć głowy chyżości"
+],
+"03575": "Premia za zestaw (3 części ekwipunku chyżości): -4% interwału Zwinności, -2% otrzymanych obrażeń w Zwinności",
+"03576": [
+"Kaftan chyżości",
+"Kaftany chyżości",
+"Kaftanów chyżości"
+],
+"03577": [
+"Spodnie chyżości",
+"Spodnie chyżości",
+"Spodni chyżości"
+],
+"03578": [
+"Buty chyżości",
+"Buty chyżości",
+"Butów chyżości"
+],
+"03579": [
+"Nakrycie głowy wdzięku",
+"Nakrycia głowy wdzięku",
+"Nakryć głowy wdzięku"
+],
+"03580": "Premia za zestaw (3 części ekwipunku wdzięku): -6% interwału Zwinności, -4% otrzymanych obrażeń w Zwinności",
+"03581": [
+"Kaftan wdzięku",
+"Kaftany wdzięku",
+"Kaftanów wdzięku"
+],
+"03582": [
+"Spodnie wdzięku",
+"Spodnie wdzięku",
+"Spodni wdzięku"
+],
+"03583": [
+"Buty wdzięku",
+"Buty wdzięku",
+"Butów wdzięku"
+],
+"03584": [
+"Wyściełane nakrycie głowy",
+"Wyściełane nakrycia głowy",
+"Wyściełanych nakryć głowy"
+],
+"03585": [
+"Ochraniacze stawów",
+"Ochraniacze stawów",
+"Ochraniaczy stawów"
+],
+"03586": [
+"Pakiet nasion ziół I",
+"Pakiety nasion ziół I",
+"Pakietów nasion ziół I"
+],
+"03587": [
+"Pakiet nasion ziół II",
+"Pakiety nasion ziół II",
+"Pakietów nasion ziół II"
+],
+"03588": [
+"Pakiet run żywiołów I",
+"Pakiety run żywiołów I",
+"Pakietów run żywiołów I"
+],
+"03589": [
+"Pakiet run żywiołów II",
+"Pakiety run żywiołów II",
+"Pakietów run żywiołów II"
+],
+"03590": [
+"Pakiet run drugorzędnych I",
+"Pakiety run drugorzędnych I",
+"Pakietów run drugorzędnych I"
+],
+"03591": [
+"Pakiet run drugorzędnych II",
+"Pakiety run drugorzędnych II",
+"Pakietów run drugorzędnych II"
+],
+"03592": [
+"Pakiet amunicji I (strzały)",
+"Pakiety amunicji I (strzały)",
+"Pakietów amunicji I (strzały)"
+],
+"03593": [
+"Pakiet amunicji II (strzały)",
+"Pakiety amunicji II (strzały)",
+"Pakietów amunicji II (strzały)"
+],
+"03594": [
+"Pakiet amunicji I (bełty)",
+"Pakiety amunicji I (bełty)",
+"Pakietów amunicji I (bełty)"
+],
+"03595": [
+"Pakiet amunicji II (bełty)",
+"Pakiety amunicji II (bełty)",
+"Pakietów amunicji II (bełty)"
+],
+"03596": [
+"Pakiet amunicji I (bumerangi)",
+"Pakiety amunicji I (bumerangi)",
+"Pakietów amunicji I (bumerangi)"
+],
+"03597": [
+"Pakiet amunicji II (bumerangi)",
+"Pakiety amunicji II (bumerangi)",
+"Pakietów amunicji II (bumerangi)"
+],
+"03598": [
+"Talizman uniku (walka wręcz)",
+"Talizmany uniku (walka wręcz)",
+"Talizmanów uniku (walka wręcz)"
+],
+"03599": [
+"Talizman uniku (dystans)",
+"Talizmany uniku (dystans)",
+"Talizmanów uniku (dystans)"
+],
+"03600": [
+"Talizman uniku (magia)",
+"Talizmany uniku (magia)",
+"Talizmanów uniku (magia)"
+],
+"03601": [
+"Talizman celności (walka wręcz)",
+"Talizmany celności (walka wręcz)",
+"Talizmanów celności (walka wręcz)"
+],
+"03602": [
+"Talizman celności (dystans)",
+"Talizmany celności (dystans)",
+"Talizmanów celności (dystans)"
+],
+"03603": [
+"Talizman celności (magia)",
+"Talizmany celności (magia)",
+"Talizmanów celności (magia)"
+],
+"03604": [
+"Talizman ochrony",
+"Talizmany ochrony",
+"Talizmanów ochrony"
+],
+"03605": [
+"Ściąga do wspinaczki",
+"Ściągi do wspinaczki",
+"Ściąg do wspinaczki"
+],
+"03606": [
+"Ściąga do skakania",
+"Ściągi do skakania",
+"Ściąg do skakania"
+],
+"03607": [
+"Ściąga do unikania",
+"Ściągi do unikania",
+"Ściąg do unikania"
+],
+"03608": [
+"Ściąga do balansowania",
+"Ściągi do balansowania",
+"Ściąg do balansowania"
+],
+"03609": [
+"Ściąga do zjazdu na linie",
+"Ściągi do zjazdu na linie",
+"Ściąg do zjazdu na linie"
+],
+"03610": [
+"Czapka drwala nowicjusza",
+"Czapki drwala nowicjusza",
+"Czapek drwala nowicjusza"
+],
+"03611": [
+"Kaftan drwala nowicjusza",
+"Kaftany drwala nowicjusza",
+"Kaftanów drwala nowicjusza"
+],
+"03612": [
+"Spodnie drwala nowicjusza",
+"Spodnie drwala nowicjusza",
+"Spodni drwala nowicjusza"
+],
+"03613": [
+"Buty drwala nowicjusza",
+"Buty drwala nowicjusza",
+"Butów drwala nowicjusza"
+],
+"03614": [
+"Czapka wędkarza nowicjusza",
+"Czapki wędkarza nowicjusza",
+"Czapek wędkarza nowicjusza"
+],
+"03615": [
+"Kaftan wędkarza nowicjusza",
+"Kaftany wędkarza nowicjusza",
+"Kaftanów wędkarza nowicjusza"
+],
+"03616": [
+"Spodnie wędkarza nowicjusza",
+"Spodnie wędkarza nowicjusza",
+"Spodni wędkarza nowicjusza"
+],
+"03617": [
+"Buty wędkarza nowicjusza",
+"Buty wędkarza nowicjusza",
+"Butów wędkarza nowicjusza"
+],
+"03618": [
+"Czapka górnika nowicjusza",
+"Czapki górnika nowicjusza",
+"Czapek górnika nowicjusza"
+],
+"03619": [
+"Kaftan górnika nowicjusza",
+"Kaftany górnika nowicjusza",
+"Kaftanów górnika nowicjusza"
+],
+"03620": [
+"Spodnie górnika nowicjusza",
+"Spodnie górnika nowicjusza",
+"Spodni górnika nowicjusza"
+],
+"03621": [
+"Buty górnika nowicjusza",
+"Buty górnika nowicjusza",
+"Butów górnika nowicjusza"
+],
+"03622": [
+"Czapka wprawnego drwala",
+"Czapki wprawnego drwala",
+"Czapek wprawnego drwala"
+],
+"03623": "Premia za zestaw (3 części średniozaawansowanego sprzętu do Drwalnictwa): +0,025% szansy na ptasie lub orle gniazdo",
+"03624": [
+"Kaftan wprawnego drwala",
+"Kaftany wprawnego drwala",
+"Kaftanów wprawnego drwala"
+],
+"03625": [
+"Spodnie wprawnego drwala",
+"Spodnie wprawnego drwala",
+"Spodni wprawnego drwala"
+],
+"03626": [
+"Buty wprawnego drwala",
+"Buty wprawnego drwala",
+"Butów wprawnego drwala"
+],
+"03627": [
+"Czapka wprawnego wędkarza",
+"Czapki wprawnego wędkarza",
+"Czapek wprawnego wędkarza"
+],
+"03628": "Premia za zestaw (3 części średniozaawansowanego sprzętu do Wędkarstwa): 10% większa szansa na przedmiot specjalny w Wędkarstwie",
+"03629": [
+"Kaftan wprawnego wędkarza",
+"Kaftany wprawnego wędkarza",
+"Kaftanów wprawnego wędkarza"
+],
+"03630": [
+"Spodnie wprawnego wędkarza",
+"Spodnie wprawnego wędkarza",
+"Spodni wprawnego wędkarza"
+],
+"03631": [
+"Buty wprawnego wędkarza",
+"Buty wprawnego wędkarza",
+"Butów wprawnego wędkarza"
+],
+"03632": [
+"Czapka wprawnego górnika",
+"Czapki wprawnego górnika",
+"Czapek wprawnego górnika"
+],
+"03633": "Premia za zestaw (3 części średniozaawansowanego sprzętu do Górnictwa): 20% większa szansa na geodę",
+"03634": [
+"Kaftan wprawnego górnika",
+"Kaftany wprawnego górnika",
+"Kaftanów wprawnego górnika"
+],
+"03635": [
+"Spodnie wprawnego górnika",
+"Spodnie wprawnego górnika",
+"Spodni wprawnego górnika"
+],
+"03636": [
+"Buty wprawnego górnika",
+"Buty wprawnego górnika",
+"Butów wprawnego górnika"
+],
+"03637": [
+"Czapka elitarnego drwala",
+"Czapki elitarnego drwala",
+"Czapek elitarnego drwala"
+],
+"03638": "Premia za zestaw (3 części elitarnego sprzętu do Drwalnictwa): +2% szansy na ścięcie drzew i krzewów",
+"03639": [
+"Kaftan elitarnego drwala",
+"Kaftany elitarnego drwala",
+"Kaftanów elitarnego drwala"
+],
+"03640": [
+"Spodnie elitarnego drwala",
+"Spodnie elitarnego drwala",
+"Spodni elitarnego drwala"
+],
+"03641": [
+"Buty elitarnego drwala",
+"Buty elitarnego drwala",
+"Butów elitarnego drwala"
+],
+"03642": [
+"Czapka elitarnego wędkarza",
+"Czapki elitarnego wędkarza",
+"Czapek elitarnego wędkarza"
+],
+"03643": "Premia za zestaw (3 części elitarnego sprzętu do Wędkarstwa): 20% większa szansa na przedmiot specjalny w Wędkarstwie",
+"03644": [
+"Kaftan elitarnego wędkarza",
+"Kaftany elitarnego wędkarza",
+"Kaftanów elitarnego wędkarza"
+],
+"03645": [
+"Spodnie elitarnego wędkarza",
+"Spodnie elitarnego wędkarza",
+"Spodni elitarnego wędkarza"
+],
+"03646": [
+"Buty elitarnego wędkarza",
+"Buty elitarnego wędkarza",
+"Butów elitarnego wędkarza"
+],
+"03647": [
+"Czapka elitarnego górnika",
+"Czapki elitarnego górnika",
+"Czapek elitarnego górnika"
+],
+"03648": "Premia za zestaw (3 części elitarnego sprzętu do Górnictwa): +5% szansy na podwojenie w Górnictwie",
+"03649": [
+"Kaftan elitarnego górnika",
+"Kaftany elitarnego górnika",
+"Kaftanów elitarnego górnika"
+],
+"03650": [
+"Spodnie elitarnego górnika",
+"Spodnie elitarnego górnika",
+"Spodni elitarnego górnika"
+],
+"03651": [
+"Buty elitarnego górnika",
+"Buty elitarnego górnika",
+"Butów elitarnego górnika"
+],
+"03652": [
+"Rękawice kowalskie I",
+"Rękawice kowalskie I",
+"Rękawic kowalskich I"
+],
+"03653": [
+"Rękawice kowalskie II",
+"Rękawice kowalskie II",
+"Rękawic kowalskich II"
+],
+"03654": [
+"Rękawice rzemieślnicze I",
+"Rękawice rzemieślnicze I",
+"Rękawic rzemieślniczych I"
+],
+"03655": [
+"Rękawice rzemieślnicze II",
+"Rękawice rzemieślnicze II",
+"Rękawic rzemieślniczych II"
+],
+"03656": [
+"Rękawice łuczarskie I",
+"Rękawice łuczarskie I",
+"Rękawic łuczarskich I"
+],
+"03657": [
+"Rękawice łuczarskie II",
+"Rękawice łuczarskie II",
+"Rękawic łuczarskich II"
+],
+"03658": [
+"Rękawice do tworzenia run I",
+"Rękawice do tworzenia run I",
+"Rękawic do tworzenia run I"
+],
+"03659": [
+"Rękawice do tworzenia run II",
+"Rękawice do tworzenia run II",
+"Rękawic do tworzenia run II"
+],
+"03660": [
+"Rękawice do rzemiosła bestii I",
+"Rękawice do rzemiosła bestii I",
+"Rękawic do rzemiosła bestii I"
+],
+"03661": [
+"Rękawice do rzemiosła bestii II",
+"Rękawice do rzemiosła bestii II",
+"Rękawic do rzemiosła bestii II"
+],
+"03662": [
+"Rękawice zielarskie I",
+"Rękawice zielarskie I",
+"Rękawic zielarskich I"
+],
+"03663": [
+"Rękawice zielarskie II",
+"Rękawice zielarskie II",
+"Rękawic zielarskich II"
+],
+"03664": [
+"ToolbeltOPnessItem",
+"ToolbeltOPnessItem",
+"ToolbeltOPnessItem"
+],
+"03665": [
+"Mapa Popielnych Ziem",
+"Mapy Popielnych Ziem",
+"Map Popielnych Ziem"
+],
+"03666": [
+"Mapa Gęstej Jaskini",
+"Mapy Gęstej Jaskini",
+"Map Gęstej Jaskini"
+],
+"03667": [
+"Mapa Ziem Toragów",
+"Mapy Ziem Toragów",
+"Map Ziem Toragów"
+],
+"03668": [
+"Wyprawiona skóra toraga",
+"Wyprawione skóry toraga",
+"Wyprawionych skór toraga"
+],
+"03669": [
+"Wyprawiona skóra burzowego rysia",
+"Wyprawione skóry burzowego rysia",
+"Wyprawionych skór burzowego rysia"
+],
+"03670": [
+"Podstawowa pułapka na toragi",
+"Podstawowe pułapki na toragi",
+"Podstawowych pułapek na toragi"
+],
+"03671": [
+"Wzmocniona pułapka na toragi",
+"Wzmocnione pułapki na toragi",
+"Wzmocnionych pułapek na toragi"
+],
+"03672": [
+"Umocniona pułapka na toragi",
+"Umocnione pułapki na toragi",
+"Umocnionych pułapek na toragi"
+],
+"03673": [
+"Surowy stek z gryfa",
+"Surowe steki z gryfa",
+"Surowych steków z gryfa"
+],
+"03674": [
+"Stek z gryfa",
+"Steki z gryfa",
+"Steków z gryfa"
+],
+"03675": [
+"Wielki plaster miodu",
+"Wielkie plastry miodu",
+"Wielkich plastrów miodu"
+],
+"03676": [
+"Osłona ze smoczej kości",
+"Osłony ze smoczej kości",
+"Osłon ze smoczej kości"
+],
+"03677": [
+"Trujący strąk",
+"Trujące strąki",
+"Trujących strąków"
+],
+"03678": [
+"Słoik pustynnych przypraw",
+"Słoiki pustynnych przypraw",
+"Słoików pustynnych przypraw"
+],
+"03679": [
+"Łuska piaskowego drakona",
+"Łuski piaskowego drakona",
+"Łusek piaskowego drakona"
+],
+"03680": [
+"Szybujący sol",
+"Szybujące sole",
+"Szybujących soli"
+],
+"03681": [
+"Ruda meteorytu",
+"Rudy meteorytu",
+"Rud meteorytu"
+],
+"03682": [
+"Gwiezdny pył",
+"Gwiezdny pył",
+"Gwiezdny pył"
+],
+"03683": [
+"Złoty gwiezdny pył",
+"Złoty gwiezdny pył",
+"Złoty gwiezdny pył"
+],
+"03684": [
+"Dziennik obserwacji meteorytów",
+"Dzienniki obserwacji meteorytów",
+"Dzienników obserwacji meteorytów"
+]
+}

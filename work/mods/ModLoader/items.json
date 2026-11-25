@@ -1,0 +1,98 @@
+[
+ {
+  "id": "ML01",
+  "en": "MODS"
+ },
+ {
+  "id": "ML02",
+  "en": "Open a mod window, or change its key."
+ },
+ {
+  "id": "ML03",
+  "en": "Close"
+ },
+ {
+  "id": "ML04",
+  "en": "Close  ({0})"
+ },
+ {
+  "id": "ML05",
+  "en": "This menu"
+ },
+ {
+  "id": "ML06",
+  "en": "this menu"
+ },
+ {
+  "id": "ML07",
+  "en": "Off"
+ },
+ {
+  "id": "ML08",
+  "en": "No mod has a window here yet."
+ },
+ {
+  "id": "ML09",
+  "en": "Click a key to change it, then press the new key (Ctrl, Shift or Alt can come with it; Esc cancels)."
+ },
+ {
+  "id": "ML10",
+  "en": "\"Off\" frees the key, the window still opens from here. Saved in mods\\hotkeys.json."
+ },
+ {
+  "id": "ML11",
+  "en": "Reset all keys"
+ },
+ {
+  "id": "ML12",
+  "en": "Every key back to what its mod uses by default."
+ },
+ {
+  "id": "ML13",
+  "en": "Mods"
+ },
+ {
+  "id": "ML14",
+  "en": "Open any mod window, or change or switch off its key."
+ },
+ {
+  "id": "ML15",
+  "en": "Press a key..."
+ },
+ {
+  "id": "ML16",
+  "en": "Press the new key now. Esc cancels."
+ },
+ {
+  "id": "ML17",
+  "en": "Click, then press the new key."
+ },
+ {
+  "id": "ML18",
+  "en": "No key for this window."
+ },
+ {
+  "id": "ML19",
+  "en": "The key that opens this menu."
+ },
+ {
+  "id": "ML20",
+  "en": "Two mods use the same key: open this to fix it."
+ },
+ {
+  "id": "ML21",
+  "en": "no key"
+ },
+ {
+  "id": "ML22",
+  "en": "also used by {0}"
+ },
+ {
+  "id": "ML23",
+  "en": "Melvor Mod Loader {0}  -  {1} mod"
+ },
+ {
+  "id": "ML24",
+  "en": "Click a key to change it, then press the new key (Ctrl, Shift or Alt can come with it; Esc cancels).\n\"Off\" frees the key, the window still opens from here. Saved in mods\\hotkeys.json."
+ }
+]

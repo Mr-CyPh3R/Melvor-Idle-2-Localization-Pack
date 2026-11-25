@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "MODS"
+msgstr "МОДЫ"
+
+msgid "Open a mod window, or change its key."
+msgstr "Откройте окно мода или измените его клавишу."
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Close  ({0})"
+msgstr "Закрыть ({0})"
+
+msgid "This menu"
+msgstr "Это меню"
+
+msgid "this menu"
+msgstr "это меню"
+
+msgid "Off"
+msgstr "Выкл."
+
+msgid "No mod has a window here yet."
+msgstr "Здесь пока нет окон модов."
+
+msgid ""
+"Click a key to change it, then press the new key (Ctrl, Shift or Alt can "
+"come with it; Esc cancels)."
+msgstr ""
+"Нажмите на клавишу, чтобы изменить ее, затем нажмите новую клавишу (можно "
+"вместе с Ctrl, Shift или Alt; Esc отменяет)."
+
+msgid ""
+"\"Off\" frees the key, the window still opens from here. Saved in "
+"mods\\hotkeys.json."
+msgstr ""
+"«Выкл.» освобождает клавишу, окно по-прежнему открывается отсюда. "
+"Сохраняется в mods\\hotkeys.json."
+
+msgid "Reset all keys"
+msgstr "Сбросить все клавиши"
+
+msgid "Every key back to what its mod uses by default."
+msgstr "Вернуть каждой клавише значение по умолчанию ее мода."
+
+msgid "Mods"
+msgstr "Моды"
+
+msgid "Open any mod window, or change or switch off its key."
+msgstr "Откройте любое окно мода, измените или отключите его клавишу."
+
+msgid "Press a key..."
+msgstr "Нажмите клавишу..."
+
+msgid "Press the new key now. Esc cancels."
+msgstr "Нажмите новую клавишу. Esc отменяет."
+
+msgid "Click, then press the new key."
+msgstr "Нажмите, затем нажмите новую клавишу."
+
+msgid "No key for this window."
+msgstr "Для этого окна клавиша не назначена."
+
+msgid "The key that opens this menu."
+msgstr "Клавиша, открывающая это меню."
+
+msgid "Two mods use the same key: open this to fix it."
+msgstr "Два мода используют одну клавишу: откройте, чтобы исправить."
+
+msgid "no key"
+msgstr "нет клавиши"
+
+msgid "also used by {0}"
+msgstr "также занята: {0}"
+
+msgid "Melvor Mod Loader {0}  -  {1} mod"
+msgstr "Melvor Mod Loader {0}, модов: {1}"
+
+msgid ""
+"Click a key to change it, then press the new key (Ctrl, Shift or Alt can come with it; Esc cancels).\n"
+"\"Off\" frees the key, the window still opens from here. Saved in mods\\hotkeys.json."
+msgstr ""
+"Нажмите на клавишу, чтобы изменить ее, затем нажмите новую клавишу (можно вместе с Ctrl, Shift или Alt; Esc отменяет).\n"
+"«Выкл.» освобождает клавишу, окно по-прежнему открывается отсюда. Сохраняется в mods\\hotkeys.json."

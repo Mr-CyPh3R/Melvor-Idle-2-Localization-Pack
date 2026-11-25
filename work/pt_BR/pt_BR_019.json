@@ -123,8 +123,8 @@
   "Talismãs de Evasão Corpo a Corpo"
  ],
  "03599": [
-  "Talismã de Evasão de Combate à Distância",
-  "Talismãs de Evasão de Combate à Distância"
+  "Talismã de Evasão à Distância",
+  "Talismãs de Evasão à Distância"
  ],
  "03600": [
   "Talismã de Evasão Mágica",
@@ -135,8 +135,8 @@
   "Talismãs de Precisão Corpo a Corpo"
  ],
  "03602": [
-  "Talismã de Precisão de Combate à Distância",
-  "Talismãs de Precisão de Combate à Distância"
+  "Talismã de Precisão à Distância",
+  "Talismãs de Precisão à Distância"
  ],
  "03603": [
   "Talismã de Precisão Mágica",
@@ -167,154 +167,154 @@
   "Colas de Rapel"
  ],
  "03610": [
-  "Chapéu de Novato de Corte de Lenha",
-  "Chapéus de Novato de Corte de Lenha"
+  "Chapéu de Novato de Lenhador",
+  "Chapéus de Novato de Lenhador"
  ],
  "03611": [
-  "Veste de Novato de Corte de Lenha",
-  "Vestes de Novato de Corte de Lenha"
+  "Veste de Novato de Lenhador",
+  "Vestes de Novato de Lenhador"
  ],
  "03612": [
-  "Calças de Novato de Corte de Lenha",
-  "Calças de Novato de Corte de Lenha"
+  "Calças de Novato de Lenhador",
+  "Calças de Novato de Lenhador"
  ],
  "03613": [
-  "Botas de Novato de Corte de Lenha",
-  "Botas de Novato de Corte de Lenha"
+  "Botas de Novato de Lenhador",
+  "Botas de Novato de Lenhador"
  ],
  "03614": [
-  "Chapéu de Novato de Pesca",
-  "Chapéus de Novato de Pesca"
+  "Chapéu de Novato de Pescador",
+  "Chapéus de Novato de Pescador"
  ],
  "03615": [
-  "Veste de Novato de Pesca",
-  "Vestes de Novato de Pesca"
+  "Veste de Novato de Pescador",
+  "Vestes de Novato de Pescador"
  ],
  "03616": [
-  "Calças de Novato de Pesca",
-  "Calças de Novato de Pesca"
+  "Calças de Novato de Pescador",
+  "Calças de Novato de Pescador"
  ],
  "03617": [
-  "Botas de Novato de Pesca",
-  "Botas de Novato de Pesca"
+  "Botas de Novato de Pescador",
+  "Botas de Novato de Pescador"
  ],
  "03618": [
-  "Chapéu de Novato de Mineração",
-  "Chapéus de Novato de Mineração"
+  "Chapéu de Novato de Minerador",
+  "Chapéus de Novato de Minerador"
  ],
  "03619": [
-  "Veste de Novato de Mineração",
-  "Vestes de Novato de Mineração"
+  "Veste de Novato de Minerador",
+  "Vestes de Novato de Minerador"
  ],
  "03620": [
-  "Calças de Novato de Mineração",
-  "Calças de Novato de Mineração"
+  "Calças de Novato de Minerador",
+  "Calças de Novato de Minerador"
  ],
  "03621": [
-  "Botas de Novato de Mineração",
-  "Botas de Novato de Mineração"
+  "Botas de Novato de Minerador",
+  "Botas de Novato de Minerador"
  ],
  "03622": [
-  "Chapéu Intermediário de Corte de Lenha",
-  "Chapéus Intermediários de Corte de Lenha"
+  "Chapéu Intermediário de Lenhador",
+  "Chapéus Intermediários de Lenhador"
  ],
  "03623": "Bônus de conjunto (com 3 peças intermediárias de Corte de Lenha): +0,025% de chance de Ninho de Pássaro ou de Águia",
  "03624": [
-  "Veste Intermediária de Corte de Lenha",
-  "Vestes Intermediárias de Corte de Lenha"
+  "Veste Intermediária de Lenhador",
+  "Vestes Intermediárias de Lenhador"
  ],
  "03625": [
-  "Calças Intermediárias de Corte de Lenha",
-  "Calças Intermediárias de Corte de Lenha"
+  "Calças Intermediárias de Lenhador",
+  "Calças Intermediárias de Lenhador"
  ],
  "03626": [
-  "Botas Intermediárias de Corte de Lenha",
-  "Botas Intermediárias de Corte de Lenha"
+  "Botas Intermediárias de Lenhador",
+  "Botas Intermediárias de Lenhador"
  ],
  "03627": [
-  "Chapéu Intermediário de Pesca",
-  "Chapéus Intermediários de Pesca"
+  "Chapéu Intermediário de Pescador",
+  "Chapéus Intermediários de Pescador"
  ],
  "03628": "Bônus de conjunto (com 3 peças intermediárias de Pesca): +10% de chance de itens especiais em Pesca",
  "03629": [
-  "Veste Intermediária de Pesca",
-  "Vestes Intermediárias de Pesca"
+  "Veste Intermediária de Pescador",
+  "Vestes Intermediárias de Pescador"
  ],
  "03630": [
-  "Calças Intermediárias de Pesca",
-  "Calças Intermediárias de Pesca"
+  "Calças Intermediárias de Pescador",
+  "Calças Intermediárias de Pescador"
  ],
  "03631": [
-  "Botas Intermediárias de Pesca",
-  "Botas Intermediárias de Pesca"
+  "Botas Intermediárias de Pescador",
+  "Botas Intermediárias de Pescador"
  ],
  "03632": [
-  "Chapéu Intermediário de Mineração",
-  "Chapéus Intermediários de Mineração"
+  "Chapéu Intermediário de Minerador",
+  "Chapéus Intermediários de Minerador"
  ],
  "03633": "Bônus de conjunto (com 3 peças intermediárias de Mineração): +20% de chance de Geodo",
  "03634": [
-  "Veste Intermediária de Mineração",
-  "Vestes Intermediárias de Mineração"
+  "Veste Intermediária de Minerador",
+  "Vestes Intermediárias de Minerador"
  ],
  "03635": [
-  "Calças Intermediárias de Mineração",
-  "Calças Intermediárias de Mineração"
+  "Calças Intermediárias de Minerador",
+  "Calças Intermediárias de Minerador"
  ],
  "03636": [
-  "Botas Intermediárias de Mineração",
-  "Botas Intermediárias de Mineração"
+  "Botas Intermediárias de Minerador",
+  "Botas Intermediárias de Minerador"
  ],
  "03637": [
-  "Chapéu de Elite de Corte de Lenha",
-  "Chapéus de Elite de Corte de Lenha"
+  "Chapéu de Elite de Lenhador",
+  "Chapéus de Elite de Lenhador"
  ],
  "03638": "Bônus de conjunto (com 3 peças de elite de Corte de Lenha): +2% de chance de derrubar árvores e arbustos",
  "03639": [
-  "Veste de Elite de Corte de Lenha",
-  "Vestes de Elite de Corte de Lenha"
+  "Veste de Elite de Lenhador",
+  "Vestes de Elite de Lenhador"
  ],
  "03640": [
-  "Calças de Elite de Corte de Lenha",
-  "Calças de Elite de Corte de Lenha"
+  "Calças de Elite de Lenhador",
+  "Calças de Elite de Lenhador"
  ],
  "03641": [
-  "Botas de Elite de Corte de Lenha",
-  "Botas de Elite de Corte de Lenha"
+  "Botas de Elite de Lenhador",
+  "Botas de Elite de Lenhador"
  ],
  "03642": [
-  "Chapéu de Elite de Pesca",
-  "Chapéus de Elite de Pesca"
+  "Chapéu de Elite de Pescador",
+  "Chapéus de Elite de Pescador"
  ],
  "03643": "Bônus de conjunto (com 3 peças de elite de Pesca): +20% de chance de itens especiais em Pesca",
  "03644": [
-  "Veste de Elite de Pesca",
-  "Vestes de Elite de Pesca"
+  "Veste de Elite de Pescador",
+  "Vestes de Elite de Pescador"
  ],
  "03645": [
-  "Calças de Elite de Pesca",
-  "Calças de Elite de Pesca"
+  "Calças de Elite de Pescador",
+  "Calças de Elite de Pescador"
  ],
  "03646": [
-  "Botas de Elite de Pesca",
-  "Botas de Elite de Pesca"
+  "Botas de Elite de Pescador",
+  "Botas de Elite de Pescador"
  ],
  "03647": [
-  "Chapéu de Elite de Mineração",
-  "Chapéus de Elite de Mineração"
+  "Chapéu de Elite de Minerador",
+  "Chapéus de Elite de Minerador"
  ],
  "03648": "Bônus de conjunto (com 3 peças de elite de Mineração): +5% de chance de duplicação em Mineração",
  "03649": [
-  "Veste de Elite de Mineração",
-  "Vestes de Elite de Mineração"
+  "Veste de Elite de Minerador",
+  "Vestes de Elite de Minerador"
  ],
  "03650": [
-  "Calças de Elite de Mineração",
-  "Calças de Elite de Mineração"
+  "Calças de Elite de Minerador",
+  "Calças de Elite de Minerador"
  ],
  "03651": [
-  "Botas de Elite de Mineração",
-  "Botas de Elite de Mineração"
+  "Botas de Elite de Minerador",
+  "Botas de Elite de Minerador"
  ],
  "03652": [
   "Luvas de Metalurgia I",

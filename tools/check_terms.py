@@ -73,5 +73,5 @@ def check(lang):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="List possible terminology mismatches by source term and text ID.")
-    parser.add_argument("--lang", required=True, choices=("pt_BR", "ja"))
+    parser.add_argument("--lang", required=True, choices=("pt_BR", "ja", "pl"))
     check(parser.parse_args().lang)

@@ -1,0 +1,597 @@
+{
+"02025": "Łowiectwo: przedmiot użytkowy 2",
+"02026": "Łowiectwo: peleryna",
+"02027": "Rzemiosło bestii: hełm",
+"02028": "Rzemiosło bestii: tułów",
+"02029": "Rzemiosło bestii: nogi",
+"02030": "Rzemiosło bestii: buty",
+"02031": "Rzemiosło bestii: rękawice",
+"02032": "Rzemiosło bestii: narzędzie",
+"02033": "Mikstura rzemiosła bestii",
+"02034": "Rzemiosło bestii: przedmiot użytkowy 1",
+"02035": "Rzemiosło bestii: przedmiot użytkowy 2",
+"02036": "Rzemiosło bestii: peleryna",
+"02037": "Zielarstwo: hełm",
+"02038": "Zielarstwo: tułów",
+"02039": "Zielarstwo: nogi",
+"02040": "Zielarstwo: buty",
+"02041": "Zielarstwo: rękawice",
+"02042": "Zielarstwo: narzędzie",
+"02043": "Mikstura zielarstwa",
+"02044": "Zielarstwo: przedmiot użytkowy 1",
+"02045": "Zielarstwo: przedmiot użytkowy 2",
+"02046": "Zielarstwo: peleryna",
+"02047": "Złodziejstwo: hełm",
+"02048": "Złodziejstwo: tułów",
+"02049": "Złodziejstwo: nogi",
+"02050": "Złodziejstwo: buty",
+"02051": "Złodziejstwo: rękawice",
+"02052": "Złodziejstwo: narzędzie",
+"02053": "Mikstura złodziejstwa",
+"02054": "Złodziejstwo: przedmiot użytkowy 1",
+"02055": "Złodziejstwo: przedmiot użytkowy 2",
+"02056": "Złodziejstwo: peleryna",
+"02057": "Zwinność: hełm",
+"02058": "Zwinność: tułów",
+"02059": "Zwinność: nogi",
+"02060": "Zwinność: buty",
+"02061": "Zwinność: rękawice",
+"02062": "Zwinność: narzędzie",
+"02063": "Mikstura zwinności",
+"02064": "Zwinność: przedmiot użytkowy 1",
+"02065": "Zwinność: przedmiot użytkowy 2",
+"02066": "Zwinność: peleryna",
+"02067": "Rolnictwo: hełm",
+"02068": "Rolnictwo: tułów",
+"02069": "Rolnictwo: nogi",
+"02070": "Rolnictwo: buty",
+"02071": "Rolnictwo: rękawice",
+"02072": "Rolnictwo: narzędzie",
+"02073": "Mikstura rolnictwa",
+"02074": "Rolnictwo: przedmiot użytkowy 1",
+"02075": "Rolnictwo: przedmiot użytkowy 2",
+"02076": "Rolnictwo: peleryna",
+"02077": "Hodowla: hełm",
+"02078": "Hodowla: tułów",
+"02079": "Hodowla: nogi",
+"02080": "Hodowla: buty",
+"02081": "Hodowla: rękawice",
+"02082": "Hodowla: narzędzie",
+"02083": "Mikstura hodowli",
+"02084": "Hodowla: przedmiot użytkowy 1",
+"02085": "Hodowla: przedmiot użytkowy 2",
+"02086": "Hodowla: peleryna",
+"02087": "Górnictwo: dziennik obserwacji",
+"02088": "Astrologia: hełm",
+"02089": "Astrologia: tułów",
+"02090": "Astrologia: nogi",
+"02091": "Astrologia: buty",
+"02092": "Astrologia: rękawice",
+"02093": "Astrologia: narzędzie",
+"02094": "Mikstura astrologii",
+"02095": "Astrologia: przedmiot użytkowy 1",
+"02096": "Astrologia: przedmiot użytkowy 2",
+"02097": "Astrologia: peleryna",
+"02098": "Zielarstwo: katalizator",
+"02099": "Mikstura",
+"02100": "Przedmiot użytkowy",
+"02101": "Narzędzie",
+"02102": "Dziennik obserwacji",
+"02103": "Katalizator",
+"02104": "Walka: przedmiot użytkowy",
+"02105": "Drwalnictwo: przedmiot użytkowy",
+"02106": "Wędkarstwo: przedmiot użytkowy",
+"02107": "Rozpalanie ognia: przedmiot użytkowy",
+"02108": "Gotowanie: przedmiot użytkowy",
+"02109": "Górnictwo: przedmiot użytkowy",
+"02110": "Kowalstwo: przedmiot użytkowy",
+"02111": "Łuczarstwo: przedmiot użytkowy",
+"02112": "Rzemiosło: przedmiot użytkowy",
+"02113": "Tworzenie run: przedmiot użytkowy",
+"02114": "Łowiectwo: przedmiot użytkowy",
+"02115": "Rzemiosło bestii: przedmiot użytkowy",
+"02116": "Zielarstwo: przedmiot użytkowy",
+"02117": "Złodziejstwo: przedmiot użytkowy",
+"02118": "Zwinność: przedmiot użytkowy",
+"02119": "Rolnictwo: przedmiot użytkowy",
+"02120": "Hodowla: przedmiot użytkowy",
+"02121": "Astrologia: przedmiot użytkowy",
+"02122": "Złoto",
+"02123": "zł",
+"02124": "Monety Pogromcy",
+"02125": "MP",
+"02126": "Punkty modlitwy",
+"02127": "PM",
+"02128": [
+"Pięści",
+"Pięści",
+"Pięści"
+],
+"02129": [
+"Zwykła kłoda",
+"Zwykłe kłody",
+"Zwykłych kłód"
+],
+"02130": [
+"Dębowa kłoda",
+"Dębowe kłody",
+"Dębowych kłód"
+],
+"02131": [
+"Wierzbowa kłoda",
+"Wierzbowe kłody",
+"Wierzbowych kłód"
+],
+"02132": [
+"Tekowa kłoda",
+"Tekowe kłody",
+"Tekowych kłód"
+],
+"02133": [
+"Klonowa kłoda",
+"Klonowe kłody",
+"Klonowych kłód"
+],
+"02134": [
+"Mahoniowa kłoda",
+"Mahoniowe kłody",
+"Mahoniowych kłód"
+],
+"02135": [
+"Cisowa kłoda",
+"Cisowe kłody",
+"Cisowych kłód"
+],
+"02136": [
+"Magiczna kłoda",
+"Magiczne kłody",
+"Magicznych kłód"
+],
+"02137": [
+"Sekwojowa kłoda",
+"Sekwojowe kłody",
+"Sekwojowych kłód"
+],
+"02138": [
+"Len",
+"Len",
+"Len"
+],
+"02139": [
+"Patyk",
+"Patyki",
+"Patyków"
+],
+"02140": [
+"Liść bursztynowego pnącza",
+"Liście bursztynowego pnącza",
+"Liści bursztynowego pnącza"
+],
+"02141": [
+"Liść kolczastego mchu",
+"Liście kolczastego mchu",
+"Liści kolczastego mchu"
+],
+"02142": [
+"Liść zmroku",
+"Liście zmroku",
+"Liści zmroku"
+],
+"02143": [
+"Surowa krewetka",
+"Surowe krewetki",
+"Surowych krewetek"
+],
+"02144": [
+"Surowa sardynka",
+"Surowe sardynki",
+"Surowych sardynek"
+],
+"02145": [
+"Surowy śledź",
+"Surowe śledzie",
+"Surowych śledzi"
+],
+"02146": [
+"Surowy pstrąg",
+"Surowe pstrągi",
+"Surowych pstrągów"
+],
+"02147": [
+"Surowy łosoś",
+"Surowe łososie",
+"Surowych łososi"
+],
+"02148": [
+"Surowy homar",
+"Surowe homary",
+"Surowych homarów"
+],
+"02149": [
+"Surowy rekin",
+"Surowe rekiny",
+"Surowych rekinów"
+],
+"02150": [
+"Surowa manta",
+"Surowe manty",
+"Surowych mant"
+],
+"02151": [
+"Surowy wieloryb",
+"Surowe wieloryby",
+"Surowych wielorybów"
+],
+"02152": [
+"Kamień",
+"Kamienie",
+"Kamieni"
+],
+"02153": [
+"Ruda miedzi",
+"Rudy miedzi",
+"Rud miedzi"
+],
+"02154": [
+"Ruda żelaza",
+"Rudy żelaza",
+"Rud żelaza"
+],
+"02155": [
+"Ruda srebra",
+"Rudy srebra",
+"Rud srebra"
+],
+"02156": [
+"Ruda złota",
+"Rudy złota",
+"Rud złota"
+],
+"02157": [
+"Ruda mithrilu",
+"Rudy mithrilu",
+"Rud mithrilu"
+],
+"02158": [
+"Ruda adamantytu",
+"Rudy adamantytu",
+"Rud adamantytu"
+],
+"02159": [
+"Ruda runitu",
+"Rudy runitu",
+"Rud runitu"
+],
+"02160": [
+"Ruda stali świtu",
+"Rudy stali świtu",
+"Rud stali świtu"
+],
+"02161": [
+"Ruda smokitu",
+"Rudy smokitu",
+"Rud smokitu"
+],
+"02162": [
+"Geoda",
+"Geody",
+"Geod"
+],
+"02163": "Można otworzyć, aby zdobyć nagrody.",
+"02164": [
+"Pył z geody",
+"Pył z geody",
+"Pył z geody"
+],
+"02165": "Bardzo pylisty",
+"02166": [
+"Sztabka miedzi",
+"Sztabki miedzi",
+"Sztabek miedzi"
+],
+"02167": [
+"Sztabka żelaza",
+"Sztabki żelaza",
+"Sztabek żelaza"
+],
+"02168": [
+"Sztabka stali",
+"Sztabki stali",
+"Sztabek stali"
+],
+"02169": [
+"Sztabka złota",
+"Sztabki złota",
+"Sztabek złota"
+],
+"02170": [
+"Sztabka mithrilu",
+"Sztabki mithrilu",
+"Sztabek mithrilu"
+],
+"02171": [
+"Sztabka adamantytu",
+"Sztabki adamantytu",
+"Sztabek adamantytu"
+],
+"02172": [
+"Sztabka runitu",
+"Sztabki runitu",
+"Sztabek runitu"
+],
+"02173": [
+"Sztabka stali świtu",
+"Sztabki stali świtu",
+"Sztabek stali świtu"
+],
+"02174": [
+"Sztabka smokitu",
+"Sztabki smokitu",
+"Sztabek smokitu"
+],
+"02175": [
+"Kamienne groty strzał",
+"Kamienne groty strzał",
+"Kamiennych grotów strzał"
+],
+"02176": [
+"Kamienne rękawice",
+"Kamienne rękawice",
+"Kamiennych rękawic"
+],
+"02177": [
+"Kamienny hełm",
+"Kamienne hełmy",
+"Kamiennych hełmów"
+],
+"02178": [
+"Kamienne buty",
+"Kamienne buty",
+"Kamiennych butów"
+],
+"02179": [
+"Kamienny pobijak",
+"Kamienne pobijaki",
+"Kamiennych pobijaków"
+],
+"02180": [
+"Kamienne nogawice płytowe",
+"Kamienne nogawice płytowe",
+"Kamiennych nogawic płytowych"
+],
+"02181": [
+"Kamienny napierśnik płytowy",
+"Kamienne napierśniki płytowe",
+"Kamiennych napierśników płytowych"
+],
+"02182": [
+"Miedziany sztylet",
+"Miedziane sztylety",
+"Miedzianych sztyletów"
+],
+"02183": [
+"Miedziany obrońca",
+"Miedziani obrońcy",
+"Miedzianych obrońców"
+],
+"02184": [
+"Miedziane groty strzał",
+"Miedziane groty strzał",
+"Miedzianych grotów strzał"
+],
+"02185": [
+"Miedziane groty oszczepów",
+"Miedziane groty oszczepów",
+"Miedzianych grotów oszczepów"
+],
+"02186": [
+"Miedziany miecz",
+"Miedziane miecze",
+"Miedzianych mieczy"
+],
+"02187": [
+"Miedziane rękawice",
+"Miedziane rękawice",
+"Miedzianych rękawic"
+],
+"02188": [
+"Miedziany bułat",
+"Miedziane bułaty",
+"Miedzianych bułatów"
+],
+"02189": [
+"Miedziany hełm",
+"Miedziane hełmy",
+"Miedzianych hełmów"
+],
+"02190": [
+"Miedziane buty",
+"Miedziane buty",
+"Miedzianych butów"
+],
+"02191": [
+"Miedziana tarcza",
+"Miedziane tarcze",
+"Miedzianych tarcz"
+],
+"02192": [
+"Miedziany miecz dwuręczny",
+"Miedziane miecze dwuręczne",
+"Miedzianych mieczy dwuręcznych"
+],
+"02193": [
+"Miedziany pobijak",
+"Miedziane pobijaki",
+"Miedzianych pobijaków"
+],
+"02194": [
+"Miedziane nogawice płytowe",
+"Miedziane nogawice płytowe",
+"Miedzianych nogawic płytowych"
+],
+"02195": [
+"Miedziany napierśnik płytowy",
+"Miedziane napierśniki płytowe",
+"Miedzianych napierśników płytowych"
+],
+"02196": [
+"Żelazny sztylet",
+"Żelazne sztylety",
+"Żelaznych sztyletów"
+],
+"02197": [
+"Żelazny obrońca",
+"Żelaźni obrońcy",
+"Żelaznych obrońców"
+],
+"02198": [
+"Żelazne groty strzał",
+"Żelazne groty strzał",
+"Żelaznych grotów strzał"
+],
+"02199": [
+"Żelazne groty oszczepów",
+"Żelazne groty oszczepów",
+"Żelaznych grotów oszczepów"
+],
+"02200": [
+"Żelazny miecz",
+"Żelazne miecze",
+"Żelaznych mieczy"
+],
+"02201": [
+"Żelazne rękawice",
+"Żelazne rękawice",
+"Żelaznych rękawic"
+],
+"02202": [
+"Żelazny bułat",
+"Żelazne bułaty",
+"Żelaznych bułatów"
+],
+"02203": [
+"Żelazny hełm",
+"Żelazne hełmy",
+"Żelaznych hełmów"
+],
+"02204": [
+"Żelazne buty",
+"Żelazne buty",
+"Żelaznych butów"
+],
+"02205": [
+"Żelazna tarcza",
+"Żelazne tarcze",
+"Żelaznych tarcz"
+],
+"02206": [
+"Żelazny miecz dwuręczny",
+"Żelazne miecze dwuręczne",
+"Żelaznych mieczy dwuręcznych"
+],
+"02207": [
+"Żelazny pobijak",
+"Żelazne pobijaki",
+"Żelaznych pobijaków"
+],
+"02208": [
+"Żelazna głowica kuszy",
+"Żelazne głowice kuszy",
+"Żelaznych głowic kuszy"
+],
+"02209": [
+"Żelazne nogawice płytowe",
+"Żelazne nogawice płytowe",
+"Żelaznych nogawic płytowych"
+],
+"02210": [
+"Żelazny napierśnik płytowy",
+"Żelazne napierśniki płytowe",
+"Żelaznych napierśników płytowych"
+],
+"02211": [
+"Stalowy sztylet",
+"Stalowe sztylety",
+"Stalowych sztyletów"
+],
+"02212": [
+"Stalowy obrońca",
+"Stalowi obrońcy",
+"Stalowych obrońców"
+],
+"02213": [
+"Stalowe groty strzał",
+"Stalowe groty strzał",
+"Stalowych grotów strzał"
+],
+"02214": [
+"Stalowe groty oszczepów",
+"Stalowe groty oszczepów",
+"Stalowych grotów oszczepów"
+],
+"02215": [
+"Stalowy miecz",
+"Stalowe miecze",
+"Stalowych mieczy"
+],
+"02216": [
+"Stalowe rękawice",
+"Stalowe rękawice",
+"Stalowych rękawic"
+],
+"02217": [
+"Stalowy bułat",
+"Stalowe bułaty",
+"Stalowych bułatów"
+],
+"02218": [
+"Stalowy hełm",
+"Stalowe hełmy",
+"Stalowych hełmów"
+],
+"02219": [
+"Stalowe buty",
+"Stalowe buty",
+"Stalowych butów"
+],
+"02220": [
+"Stalowa tarcza",
+"Stalowe tarcze",
+"Stalowych tarcz"
+],
+"02221": [
+"Stalowy miecz dwuręczny",
+"Stalowe miecze dwuręczne",
+"Stalowych mieczy dwuręcznych"
+],
+"02222": [
+"Stalowy pobijak",
+"Stalowe pobijaki",
+"Stalowych pobijaków"
+],
+"02223": [
+"Stalowa głowica kuszy",
+"Stalowe głowice kuszy",
+"Stalowych głowic kuszy"
+],
+"02224": [
+"Stalowe nogawice płytowe",
+"Stalowe nogawice płytowe",
+"Stalowych nogawic płytowych"
+],
+"02225": [
+"Stalowy napierśnik płytowy",
+"Stalowe napierśniki płytowe",
+"Stalowych napierśników płytowych"
+],
+"02226": [
+"Mithrilowy sztylet",
+"Mithrilowe sztylety",
+"Mithrilowych sztyletów"
+],
+"02227": [
+"Mithrilowy obrońca",
+"Mithrilowi obrońcy",
+"Mithrilowych obrońców"
+]
+}

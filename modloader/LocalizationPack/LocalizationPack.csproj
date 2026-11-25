@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Bridge for Melvor Mod Loader: loads the pack's .po files and starts localization_pack.gd,
+       which the standalone install does through override.cfg. Build: dotnet build -c Release -->
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <AssemblyName>LocalizationPack</AssemblyName>
+    <RootNamespace>LocalizationPack</RootNamespace>
+    <Version>1.3.0</Version>
+    <Nullable>enable</Nullable>
+    <DebugType>none</DebugType>
+    <GenerateDependencyFile>false</GenerateDependencyFile>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <GameDir Condition="'$(GameDir)' == ''">G:\steam\steamapps\common\Melvor Idle 2</GameDir>
+    <LoaderDll Condition="'$(LoaderDll)' == ''">$(GameDir)\data_MelvorModLoader_windows_x86_64\MelvorModLoader.dll</LoaderDll>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Compile only: the running game already has these assemblies. -->
+    <Reference Include="MelvorModLoader">
+      <HintPath>$(LoaderDll)</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="GamesByMalcs.Melvor2">
+      <HintPath>$(GameDir)\data_GamesByMalcs.Melvor2_windows_x86_64\GamesByMalcs.Melvor2.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="GodotSharp">
+      <HintPath>$(GameDir)\data_GamesByMalcs.Melvor2_windows_x86_64\GodotSharp.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+</Project>

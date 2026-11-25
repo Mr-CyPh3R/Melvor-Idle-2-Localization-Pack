@@ -1,0 +1,92 @@
+#
+msgid ""
+msgstr ""
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "MODS"
+msgstr "MODS"
+
+msgid "Open a mod window, or change its key."
+msgstr "Ouvrez une fenêtre de mod ou modifiez sa touche."
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Close  ({0})"
+msgstr "Fermer ({0})"
+
+msgid "This menu"
+msgstr "Ce menu"
+
+msgid "this menu"
+msgstr "ce menu"
+
+msgid "Off"
+msgstr "Aucune"
+
+msgid "No mod has a window here yet."
+msgstr "Aucun mod n'a encore de fenêtre ici."
+
+msgid ""
+"Click a key to change it, then press the new key (Ctrl, Shift or Alt can "
+"come with it; Esc cancels)."
+msgstr ""
+"Cliquez sur une touche pour la changer, puis appuyez sur la nouvelle touche "
+"(Ctrl, Maj ou Alt possibles ; Échap annule)."
+
+msgid ""
+"\"Off\" frees the key, the window still opens from here. Saved in "
+"mods\\hotkeys.json."
+msgstr ""
+"« Aucune » libère la touche, la fenêtre s'ouvre toujours d'ici. Enregistré "
+"dans mods\\hotkeys.json."
+
+msgid "Reset all keys"
+msgstr "Réinitialiser les touches"
+
+msgid "Every key back to what its mod uses by default."
+msgstr "Remet chaque touche à la valeur par défaut de son mod."
+
+msgid "Mods"
+msgstr "Mods"
+
+msgid "Open any mod window, or change or switch off its key."
+msgstr ""
+"Ouvrez n'importe quelle fenêtre de mod, ou modifiez ou désactivez sa touche."
+
+msgid "Press a key..."
+msgstr "Appuyez sur une touche..."
+
+msgid "Press the new key now. Esc cancels."
+msgstr "Appuyez maintenant sur la nouvelle touche. Échap annule."
+
+msgid "Click, then press the new key."
+msgstr "Cliquez, puis appuyez sur la nouvelle touche."
+
+msgid "No key for this window."
+msgstr "Aucune touche pour cette fenêtre."
+
+msgid "The key that opens this menu."
+msgstr "La touche qui ouvre ce menu."
+
+msgid "Two mods use the same key: open this to fix it."
+msgstr "Deux mods utilisent la même touche : ouvrez ceci pour corriger."
+
+msgid "no key"
+msgstr "aucune touche"
+
+msgid "also used by {0}"
+msgstr "aussi utilisée par {0}"
+
+msgid "Melvor Mod Loader {0}  -  {1} mod"
+msgstr "Melvor Mod Loader {0}, mods : {1}"
+
+msgid ""
+"Click a key to change it, then press the new key (Ctrl, Shift or Alt can come with it; Esc cancels).\n"
+"\"Off\" frees the key, the window still opens from here. Saved in mods\\hotkeys.json."
+msgstr ""
+"Cliquez sur une touche pour la changer, puis appuyez sur la nouvelle touche (Ctrl, Maj ou Alt possibles ; Échap annule).\n"
+"« Aucune » libère la touche, la fenêtre s'ouvre toujours d'ici. Enregistré dans mods\\hotkeys.json."

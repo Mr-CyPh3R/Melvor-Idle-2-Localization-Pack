@@ -1,10 +1,10 @@
 Localization Pack for Melvor Idle 2
 ===================================
-Version 1.2.0, made for game version 0.11.6-alpha.1 (Steam Early Access)
+Version 1.3.0, made for game version 0.11.7-alpha (Steam Early Access)
 Unofficial community translations for Melvor Idle 2 in one mod.
 Not affiliated with or endorsed by Games By Malcs or Jagex.
 
-Languages: German (Deutsch), French (Français), Spanish (Español), Brazilian Portuguese (Português), Japanese (日本語)
+Languages: German (Deutsch), French (Français), Spanish (Español), Brazilian Portuguese (Português), Japanese (日本語), Polish (Polski), Russian (Русский)
 More languages are coming. Missing your language? Suggest it (see LINKS).
 
 
@@ -19,11 +19,13 @@ TRANSPARENCY: HOW THESE TRANSLATIONS WERE MADE
 ----------------------------------------------
 Language                          Texts   From Melvor Idle  Translated by AI
 --------------------------------  ------  ----------------  ----------------
-German (Deutsch)                  13,603  566 (4%)          13,037 (96%)
-French (Français)                 13,603  586 (4%)          13,017 (96%)
-Spanish (Español)                 13,603  601 (4%)          13,002 (96%)
-Brazilian Portuguese (Português)  13,603  599 (4%)          13,004 (96%)
-Japanese (日本語)                    13,603  618 (5%)          12,985 (95%)
+German (Deutsch)                  13,708  566 (4%)          13,142 (96%)
+French (Français)                 13,708  586 (4%)          13,122 (96%)
+Spanish (Español)                 13,708  601 (4%)          13,107 (96%)
+Brazilian Portuguese (Português)  13,708  599 (4%)          13,109 (96%)
+Japanese (日本語)                    13,708  618 (5%)          13,090 (95%)
+Polish (Polski)                   13,708  0 (0%)            13,708 (100%)
+Russian (Русский)                 13,708  622 (5%)          13,086 (95%)
 
 - From Melvor Idle: texts that are identical in the first game (Melvor Idle) were taken from
   its official translation.
@@ -48,7 +50,8 @@ INSTALLATION
      └── Mods/
          └── Localization Pack/
              ├── Languages/
-             │   └── (one .po file per language)
+             │   ├── Game/   (one .po file per language)
+             │   └── Mods/   (texts of other mods, for example Melvor Mod Loader)
              ├── localization_pack.gd
              ├── mod.json
              └── README.txt

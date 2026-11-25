@@ -1,11 +1,11 @@
 """Baut dist/<locale>.po (Locale-Code aus mod.json, z. B. de_DE) aus der Vorlage und den Übersetzungen in work/<lang>/*.json und prüft die Platzhalter.
 
 Aufruf (im Projektordner): python tools/build.py [--lang de] [--check]   (Standard: de)
-work/<lang>/*.json: {id: "Text"} oder bei Pluralen {id: ["Einzahl", "Mehrzahl"]}
+work/<lang>/*.json: {id: "Text"} oder bei Pluralen {id: ["Einzahl", "Mehrzahl"]} (so viele Formen, wie "plural_forms" in mod.json verlangt, Polnisch 3)
 Exit 1, wenn eine Übersetzung Platzhalter, Tags oder Zeilenumbrüche verändert.
 Installieren ins Spiel: python tools/package.py --install
 """
-import collections, glob, json, os, re, sys, polib
+import collections, gettext, glob, json, os, re, sys, polib
 
 BRACE = re.compile(r'\{[^{}]*\}')
 TAG = re.compile(r'\[/?[A-Za-z_]+[^\]]*\]')
@@ -35,11 +35,27 @@ def check(en, de):
 
 
 LANG = sys.argv[sys.argv.index('--lang') + 1] if '--lang' in sys.argv else 'de'
-# Locale-Code der fertigen Datei (z. B. de_DE) aus mod.json ("work": Ordner in work/); sonst der Ordnername
+# Locale-Code der fertigen Datei (z. B. de_DE) aus mod.json: Eintrag, dessen "locale" der Ordnername in work/ ist
 _cfg = json.load(open('mod/Mods/Localization Pack/mod.json', encoding='utf-8'))
-LOCALE = next((c for c, l in _cfg['languages'].items() if l.get('work') == LANG), LANG)
-# Pluralregel der Zielsprache (Godot liest sie aus dem Kopf der .po)
-PLURAL = {'fr': 'nplurals=2; plural=(n > 1);', 'pt_BR': 'nplurals=2; plural=(n > 1);'}
+LOCALE = next((c for c, l in _cfg['languages'].items() if l.get('locale') == LANG), LANG)
+# Pluralregel der Zielsprache aus mod.json ("plural_forms", gettext-Format); Godot liest sie aus dem Kopf der .po
+PLURAL = _cfg['languages'].get(LOCALE, {}).get('plural_forms')
+NPLURALS = int(re.search(r'nplurals\s*=\s*(\d+)', PLURAL).group(1)) if PLURAL else 2
+FORMS = '["Einzahl", "Mehrzahl"]' if NPLURALS == 2 else f'{NPLURALS} Formen'
+
+
+def plural_index(rule, n):
+    """Wertet die C-Formel aus "plural=..." für n aus; gettext.c2py prüft die Zeichen und nutzt kein freies eval."""
+    return gettext.c2py(rule.split('plural=', 1)[1].rstrip('; '))(n)
+
+
+assert [plural_index('nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);', n)
+        for n in (1, 2, 4, 5, 12, 22, 25, 101)] == [0, 1, 1, 2, 2, 1, 2, 2]
+assert [plural_index('nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);', n)
+        for n in (1, 2, 5, 11, 12, 21, 22, 25, 111)] == [0, 1, 2, 2, 2, 0, 1, 2, 2]  # Russisch: 21 wie 1
+assert [plural_index('nplurals=2; plural=(n > 1);', n) for n in (0, 1, 2)] == [0, 0, 1]
+if PLURAL:  # Regel aus mod.json muss gültig sein und genau NPLURALS Formen liefern
+    assert {plural_index(PLURAL, n) for n in range(200)} == set(range(NPLURALS)), PLURAL
 
 
 # Sprachnamen, die in jeder Sprache im Original bleiben (Sprachliste zeigt jede Sprache in ihrem eigenen Namen)
@@ -60,8 +76,8 @@ po = polib.pofile('source/en_GB.po')
 # Kurzer Code im Kopf (z. B. "de"): gespeicherte Spieleinstellungen "Language": "de" bleiben gültig
 po.metadata['Language'] = _cfg['languages'].get(LOCALE, {}).get('locale', LOCALE)
 po.metadata['Language-Team'] = f'{LANG} (Community)'
-if LANG in PLURAL:
-    po.metadata['Plural-Forms'] = PLURAL[LANG]
+if PLURAL:
+    po.metadata['Plural-Forms'] = PLURAL
 po.metadata['Last-Translator'] = 'Melvor Idle 2 Mods'
 done = errors = 0
 applied = set()
@@ -71,16 +87,16 @@ for e in po:
     if t is None or e.msgid in KEEP_ENGLISH:
         continue
     if e.msgid_plural:
-        if not (isinstance(t, list) and len(t) == 2):
-            print(f'FEHLER {it["id"]}: Plural braucht ["Einzahl", "Mehrzahl"]'); errors += 1; continue
-        errs = [check(e.msgid, t[0]), check(e.msgid_plural, t[1])]
+        if not (isinstance(t, list) and len(t) == NPLURALS):
+            print(f'FEHLER {it["id"]}: Plural braucht {FORMS}'); errors += 1; continue
+        errs = [check(e.msgid, t[0])] + [check(e.msgid_plural, x) for x in t[1:]]
     else:
         errs = [check(e.msgid, t)]
     errs = [x for x in errs if x]
     if errs:
         print(f'FEHLER {it["id"]}: {"; ".join(errs)}\n   EN: {e.msgid!r}\n   DE: {t!r}'); errors += 1; continue
     if e.msgid_plural:
-        e.msgstr_plural = {0: t[0], 1: t[1]}
+        e.msgstr_plural = dict(enumerate(t))
     else:
         e.msgstr = t
     done += 1; applied.add(it['id'])
@@ -91,21 +107,29 @@ for key, it in by_key.items():
     t = tr.get(it['id'])
     if key in known or t is None or it['en'] in KEEP_ENGLISH:
         continue
-    pairs = [(it['en'], t[0] if isinstance(t, list) else t)] + ([(it['en_plural'], t[1])] if it['en_plural'] and isinstance(t, list) else [])
+    pairs = [(it['en'], t[0] if isinstance(t, list) else t)] + ([(it['en_plural'], x) for x in t[1:]] if it['en_plural'] and isinstance(t, list) else [])
     errs = [x for x in (check(a, b) for a, b in pairs) if x]
-    if it['en_plural'] and not (isinstance(t, list) and len(t) == 2):
-        errs.append('Plural braucht ["Einzahl", "Mehrzahl"]')
+    if it['en_plural'] and not (isinstance(t, list) and len(t) == NPLURALS):
+        errs.append(f'Plural braucht {FORMS}')
     if errs:
         print(f'FEHLER {it["id"]}: {"; ".join(errs)}\n   EN: {it["en"]!r}\n   DE: {t!r}'); errors += 1; continue
     ne = polib.POEntry(msgctxt=it['ctx'], msgid=it['en'], comment='Zusatztext (nicht in der offiziellen Vorlage)')
     if it['en_plural']:
-        ne.msgid_plural, ne.msgstr_plural = it['en_plural'], {0: t[0], 1: t[1]}
+        ne.msgid_plural, ne.msgstr_plural = it['en_plural'], dict(enumerate(t))
     else:
         ne.msgstr = t
     po.append(ne); done += 1; applied.add(it['id'])
 
+# Godot verwirft die ganze .po, wenn ein Plural-Eintrag nicht genau NPLURALS Formen hat:
+# unübersetzte Einträge der Vorlage (2 Formen) mit der letzten Form auffüllen.
+for e in po:
+    if e.msgid_plural and len(e.msgstr_plural) < NPLURALS:
+        last = e.msgstr_plural[max(e.msgstr_plural)]
+        e.msgstr_plural = {i: e.msgstr_plural.get(i, last) for i in range(NPLURALS)}
+
 # Godot übersetzt angezeigte Texte automatisch per tr(text) ohne Kontext. Namen stehen in der Vorlage
-# aber nur mit msgctxt "PluralName" -> zusätzlich kontextlose Einträge für Einzahl und Mehrzahl anlegen.
+# aber nur mit msgctxt "PluralName" -> zusätzlich kontextlose Einträge für Einzahl und Mehrzahl anlegen
+# (Mehrzahl: Form 1, bei Polnisch die Form für 2 bis 4, also der Nominativ Plural für alleinstehende Namen).
 plain = {e.msgid for e in po if not e.msgctxt and not e.obsolete}
 added = 0
 for e in list(po):
@@ -126,4 +150,29 @@ mi1 = set(json.load(open(f'work/{LANG}/mi1.json', encoding='utf-8')))
 stats = {'translated': done, 'from_melvor_idle_1': len(applied & mi1), 'ai': done - len(applied & mi1), 'name_copies': added}
 json.dump(stats, open(f'dist/{LOCALE}.stats.json', 'w', encoding='utf-8'), indent=1)
 print('Herkunft:', stats)
+
+# Übersetzungen für andere Mods: work/mods/<Mod>/items.json ([{id, en}]) und <lang>.json ({id: Text})
+# -> dist/mods/<Mod>/<Locale>.po (tools/package.py legt sie unter Languages/Mods/<Mod>/ ab)
+for items_file in sorted(glob.glob('work/mods/*/items.json')):
+    mod_dir = os.path.dirname(items_file)
+    mod = os.path.basename(mod_dir)
+    tr_file = os.path.join(mod_dir, f'{LANG}.json')
+    if not os.path.exists(tr_file):
+        continue
+    mod_items = json.load(open(items_file, encoding='utf-8'))
+    mod_tr = json.load(open(tr_file, encoding='utf-8'))
+    mod_po = polib.POFile()
+    mod_po.metadata = {'Language': po.metadata['Language'], 'MIME-Version': '1.0',
+                       'Content-Type': 'text/plain; charset=UTF-8', 'Content-Transfer-Encoding': '8bit'}
+    for it in mod_items:
+        t = mod_tr.get(it['id'])
+        err = check(it['en'], t) if t is not None else None
+        if err:
+            print(f'FEHLER {mod} {it["id"]}: {err}\n   EN: {it["en"]!r}\n   DE: {t!r}'); errors += 1
+        elif t is not None:
+            mod_po.append(polib.POEntry(msgid=it['en'], msgstr=t))
+    if '--check' not in sys.argv:
+        os.makedirs(f'dist/mods/{mod}', exist_ok=True)
+        mod_po.save(f'dist/mods/{mod}/{LOCALE}.po')
+    print(f'{mod}: übersetzt {len(mod_po)} von {len(mod_items)}')
 sys.exit(1 if errors else 0)

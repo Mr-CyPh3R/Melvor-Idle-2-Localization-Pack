@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "MODS"
+msgstr "MODY"
+
+msgid "Open a mod window, or change its key."
+msgstr "Otwórz okno moda lub zmień jego klawisz."
+
+msgid "Close"
+msgstr "Zamknij"
+
+msgid "Close  ({0})"
+msgstr "Zamknij ({0})"
+
+msgid "This menu"
+msgstr "To menu"
+
+msgid "this menu"
+msgstr "to menu"
+
+msgid "Off"
+msgstr "Wył."
+
+msgid "No mod has a window here yet."
+msgstr "Żaden mod nie ma tu jeszcze okna."
+
+msgid ""
+"Click a key to change it, then press the new key (Ctrl, Shift or Alt can "
+"come with it; Esc cancels)."
+msgstr ""
+"Kliknij klawisz, aby go zmienić, a potem naciśnij nowy klawisz (może być z "
+"Ctrl, Shift lub Alt; Esc anuluje)."
+
+msgid ""
+"\"Off\" frees the key, the window still opens from here. Saved in "
+"mods\\hotkeys.json."
+msgstr ""
+"„Wył.” zwalnia klawisz, okno nadal można otworzyć stąd. Zapisywane w "
+"mods\\hotkeys.json."
+
+msgid "Reset all keys"
+msgstr "Przywróć wszystkie klawisze"
+
+msgid "Every key back to what its mod uses by default."
+msgstr "Przywraca każdy klawisz do domyślnego ustawienia jego moda."
+
+msgid "Mods"
+msgstr "Mody"
+
+msgid "Open any mod window, or change or switch off its key."
+msgstr "Otwórz dowolne okno moda albo zmień lub wyłącz jego klawisz."
+
+msgid "Press a key..."
+msgstr "Naciśnij klawisz..."
+
+msgid "Press the new key now. Esc cancels."
+msgstr "Naciśnij teraz nowy klawisz. Esc anuluje."
+
+msgid "Click, then press the new key."
+msgstr "Kliknij, a potem naciśnij nowy klawisz."
+
+msgid "No key for this window."
+msgstr "To okno nie ma przypisanego klawisza."
+
+msgid "The key that opens this menu."
+msgstr "Klawisz, który otwiera to menu."
+
+msgid "Two mods use the same key: open this to fix it."
+msgstr "Dwa mody używają tego samego klawisza: otwórz, aby to naprawić."
+
+msgid "no key"
+msgstr "brak klawisza"
+
+msgid "also used by {0}"
+msgstr "używany też przez: {0}"
+
+msgid "Melvor Mod Loader {0}  -  {1} mod"
+msgstr "Melvor Mod Loader {0}, liczba modów: {1}"
+
+msgid ""
+"Click a key to change it, then press the new key (Ctrl, Shift or Alt can come with it; Esc cancels).\n"
+"\"Off\" frees the key, the window still opens from here. Saved in mods\\hotkeys.json."
+msgstr ""
+"Kliknij klawisz, aby go zmienić, a potem naciśnij nowy klawisz (może być z Ctrl, Shift lub Alt; Esc anuluje).\n"
+"„Wył.” zwalnia klawisz, okno nadal można otworzyć stąd. Zapisywane w mods\\hotkeys.json."
