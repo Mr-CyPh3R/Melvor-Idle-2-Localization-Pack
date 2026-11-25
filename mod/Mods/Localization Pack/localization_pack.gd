@@ -131,6 +131,8 @@ func _process(_delta: float) -> void:
 
 
 func _pack_language(locale: String) -> String:
+	if locale in _languages:  # exact first: zh_CN and zh_TW share the language part
+		return locale
 	for lang in _languages:
 		# Same language part is enough: a saved setting "de" still activates the pack language "de_DE"
 		if locale.get_slice("_", 0) == lang.get_slice("_", 0):

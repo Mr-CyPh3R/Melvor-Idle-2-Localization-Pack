@@ -258,6 +258,39 @@
       "less_than": "不到{0}",
       "wrap_anywhere": true,
       "plural_forms": "nplurals=1; plural=0;"
+    },
+    "zh_TW": {
+      "name": "繁體中文",
+      "english_name": "Chinese (Traditional)",
+      "file": "Languages/Game/zh_TW.po",
+      "display": "繁體中文, 台灣",
+      "locale": "zh_TW",
+      "units": {
+        "day": [
+          "天",
+          "天"
+        ],
+        "hour": [
+          "小時",
+          "小時"
+        ],
+        "minute": [
+          "分鐘",
+          "分鐘"
+        ],
+        "second": [
+          "秒",
+          "秒"
+        ],
+        "turn": [
+          "回合",
+          "回合"
+        ]
+      },
+      "unit_separator": "",
+      "less_than": "不到{0}",
+      "wrap_anywhere": true,
+      "plural_forms": "nplurals=1; plural=0;"
     }
   }
 }

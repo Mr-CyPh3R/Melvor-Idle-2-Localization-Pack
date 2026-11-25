@@ -4,7 +4,7 @@ Version 1.3.0, made for game version 0.11.7-alpha (Steam Early Access)
 Unofficial community translations for Melvor Idle 2 in one mod.
 Not affiliated with or endorsed by Games By Malcs or Jagex.
 
-Languages: German (Deutsch), French (Français), Spanish (Español), Brazilian Portuguese (Português), Japanese (日本語), Polish (Polski), Russian (Русский), Chinese (Simplified) (简体中文)
+Languages: German (Deutsch), French (Français), Spanish (Español), Brazilian Portuguese (Português), Japanese (日本語), Polish (Polski), Russian (Русский), Chinese (Simplified) (简体中文), Chinese (Traditional) (繁體中文)
 More languages are coming. Missing your language? Suggest it (see LINKS).
 
 
@@ -26,12 +26,15 @@ Brazilian Portuguese (Português)  13,708  599 (4%)          0 (0%)             
 Japanese (日本語)                    13,708  618 (5%)          0 (0%)              13,090 (95%)
 Polish (Polski)                   13,708  0 (0%)            0 (0%)              13,708 (100%)
 Russian (Русский)                 13,708  622 (5%)          0 (0%)              13,086 (95%)
-Chinese (Simplified) (简体中文)       13,708  0 (0%)            11,445 (83%)        2,263 (17%)
+Chinese (Simplified) (简体中文)       13,708  0 (0%)            11,394 (83%)        2,314 (17%)
+Chinese (Traditional) (繁體中文)      13,708  0 (0%)            0 (0%)              13,708 (100%)
 
 - From Melvor Idle: texts that are identical in the first game (Melvor Idle) were taken from
   its official translation.
 - From Melvor Idle 2: texts from the game's own Chinese translation, which is included in the
   game files but not available in the language menu yet.
+  Traditional Chinese was converted from the finished Simplified texts and proofread by AI,
+  so it is counted as AI.
 - Translated by AI: all other texts were translated with AI and checked
   automatically (placeholders, formatting tags and line breaks must match the original).
   They have not been fully reviewed by a human yet.

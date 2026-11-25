@@ -2809,7 +2809,7 @@ msgstr "枫木弓"
 #. TRANSLATORS: ArtisanRecipe.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Yew Bow"
-msgstr "紫衫木弓"
+msgstr "紫杉木弓"
 
 #. TRANSLATORS: ArtisanRecipe.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -2846,7 +2846,7 @@ msgstr "枫木回旋镖"
 #. TRANSLATORS: ArtisanRecipe.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Yew Boomerang"
-msgstr "紫衫木回旋镖"
+msgstr "紫杉木回旋镖"
 
 #. TRANSLATORS: ArtisanRecipe.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -5451,7 +5451,7 @@ msgstr "黑暗灵魂箱子"
 #. TRANSLATORS: ArtisanRecipe.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Black Opal Bolts"
-msgstr "黑蛋白石靴"
+msgstr "黑蛋白石弩箭"
 
 #. TRANSLATORS: ArtisanRecipe.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -5827,7 +5827,7 @@ msgstr "巨龙关口"
 #. TRANSLATORS: CombatArea.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Cavern of Experiments (D)"
-msgstr "经验洞穴（地牢）"
+msgstr "实验洞穴（地牢）"
 
 #. TRANSLATORS: CombatArea.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -6513,7 +6513,7 @@ msgstr "血之气息"
 #. TRANSLATORS: TurnCountingEffect.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Desert Heat"
-msgstr "沙漠之心"
+msgstr "沙漠酷热"
 
 #. TRANSLATORS: TurnCountingEffect.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -11951,7 +11951,7 @@ msgstr[0] "桃花心木"
 msgctxt "PluralName"
 msgid "Yew Log"
 msgid_plural "Yew Logs"
-msgstr[0] "紫衫木"
+msgstr[0] "紫杉木"
 
 #. TRANSLATORS: Item.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -13203,7 +13203,7 @@ msgstr[0] "桃花心木种子"
 msgctxt "PluralName"
 msgid "Yew Tree Seed"
 msgid_plural "Yew Tree Seeds"
-msgstr[0] "紫衫树种子"
+msgstr[0] "紫杉树种子"
 
 #. TRANSLATORS: Item.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -13252,7 +13252,7 @@ msgstr[0] "枫木弓"
 msgctxt "PluralName"
 msgid "Yew Bow"
 msgid_plural "Yew Bows"
-msgstr[0] "紫衫木弓"
+msgstr[0] "紫杉木弓"
 
 #. TRANSLATORS: Item.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -13862,7 +13862,7 @@ msgstr[0] "枫木回旋镖"
 msgctxt "PluralName"
 msgid "Yew Boomerang"
 msgid_plural "Yew Boomerangs"
-msgstr[0] "紫衫木回旋镖"
+msgstr[0] "紫杉木回旋镖"
 
 #. TRANSLATORS: Item.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -15428,7 +15428,7 @@ msgstr[0] "空龙蜥巢穴"
 msgctxt "PluralName"
 msgid "Lemon Chest"
 msgid_plural "Lemon Chests"
-msgstr[0] "菜鸟宝箱"
+msgstr[0] "柠檬宝箱"
 
 #. TRANSLATORS: Item.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -16120,7 +16120,7 @@ msgstr[0] "巨型鱼饵"
 msgctxt "PluralName"
 msgid "Grain"
 msgid_plural "Grain"
-msgstr[0] "胭脂虫"
+msgstr[0] "谷物"
 
 #. TRANSLATORS: Item.Description
 #: Data/Packages/MelvorBase.json
@@ -18020,7 +18020,7 @@ msgstr[0] "远古猛禽战利品（收藏品）"
 msgctxt "PluralName"
 msgid "Ashwing Hawk Feather (c)"
 msgid_plural "Ashwing Hawk Feather (c)"
-msgstr[0] "灰翼鹰战利品（收藏品）"
+msgstr[0] "灰翼鹰羽毛（收藏品）"
 
 #. TRANSLATORS: Item.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -18240,21 +18240,21 @@ msgstr "完成灵巧竞技场挑战的奖励。可在商店使用。"
 msgctxt "PluralName"
 msgid "Lemon"
 msgid_plural "Lemon"
-msgstr[0] "菜鸟"
+msgstr[0] "柠檬"
 
 #. TRANSLATORS: Item.DisplayName
 #: Data/Packages/MelvorBase.json
 msgctxt "PluralName"
 msgid "Lockpick"
 msgid_plural "Lockpick"
-msgstr[0] "小贼"
+msgstr[0] "开锁器"
 
 #. TRANSLATORS: Item.DisplayName
 #: Data/Packages/MelvorBase.json
 msgctxt "PluralName"
 msgid "Balaclava"
 msgid_plural "Balaclava"
-msgstr[0] "蒙面恶棍"
+msgstr[0] "蒙面头套"
 
 #. TRANSLATORS: Item.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -22053,7 +22053,7 @@ msgstr[0] "衬垫帽子"
 msgctxt "PluralName"
 msgid "Joint Padding"
 msgid_plural "Joint Padding"
-msgstr[0] "复合填充"
+msgstr[0] "关节护垫"
 
 #. TRANSLATORS: Item.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -23844,7 +23844,7 @@ msgstr[0] "镀金优雅背心"
 msgctxt "PluralName"
 msgid "Gilded Graceful Pants"
 msgid_plural "Gilded Graceful Pants"
-msgstr[0] "镀金裤子"
+msgstr[0] "镀金优雅裤子"
 
 #. TRANSLATORS: Item.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -24136,7 +24136,7 @@ msgstr[0] "黑蛋白石金护符"
 msgctxt "PluralName"
 msgid "Black Opal Bolts"
 msgid_plural "Black Opal Bolts"
-msgstr[0] "黑蛋白石靴"
+msgstr[0] "黑蛋白石弩箭"
 
 #. TRANSLATORS: Item.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -28129,7 +28129,7 @@ msgstr "解锁锻造中的[color=#FFD16D]献祭砧台[/color]，让你可以献�
 msgid ""
 "Unlocks the [color=#FFD16D]Smelting -> Star Forge[/color] in Smithing, "
 "allowing to you create Alloy Bars such as Ironsteel or Dragonrune"
-msgstr "解锁锻造中的[color=#FFD16D]熔炼 -> 星辰熔炉[/color]，可用于制作铁钢、龙符文等合金锭"
+msgstr "解锁锻造中的[color=#FFD16D]熔炼 -> 星辰熔炉[/color]，可用于制作钢铁、龙符文等合金锭"
 
 #. TRANSLATORS: AstrologyNode.Description
 #: Data/Packages/MelvorBase.json
@@ -31702,7 +31702,7 @@ msgstr "桃花心木"
 #. WoodcuttingRecipe.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Yew Tree"
-msgstr "紫衫树"
+msgstr "紫杉树"
 
 #. TRANSLATORS: FarmingRecipe.DisplayName
 #. WoodcuttingRecipe.DisplayName
@@ -31866,7 +31866,7 @@ msgstr "枫树篝火"
 #. TRANSLATORS: FiremakingBonfire.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Yew Bonfire"
-msgstr "紫衫树篝火"
+msgstr "紫杉树篝火"
 
 #. TRANSLATORS: FiremakingBonfire.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -31926,7 +31926,7 @@ msgstr "桃花心木"
 #. TRANSLATORS: FiremakingRecipe.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Yew Log"
-msgstr "紫衫木"
+msgstr "紫杉木"
 
 #. TRANSLATORS: FiremakingRecipe.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -33500,7 +33500,7 @@ msgstr "首领库尔·托拉格"
 #. TRANSLATORS: HuntingAnimalSpecies.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Alpha Belra Torag"
-msgstr "首领贝尔·拉托拉格"
+msgstr "首领贝尔拉·托拉格"
 
 #. TRANSLATORS: HuntingAnimalSpecies.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -34015,7 +34015,7 @@ msgstr "既然是利拉，那就要最好的。我去采些新鲜食材，然后
 #. TRANSLATORS: Quest.Steps.CompletedDescription
 #: Data/Packages/MelvorBase.json
 msgid "These look great, hopefully it'll be enough to last her a while."
-msgstr "这些看起来不错，希望能够她撑一段时间。"
+msgstr "这些看起来不错，希望够她撑一段时间。"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -36630,7 +36630,7 @@ msgid ""
 "Well... I can't say that I'm not a little interested in what you had in "
 "mind, but really, that's not necessary. I'm just happy to see you on your "
 "feet, and a bit more clothed than last time."
-msgstr "那个……说实话，我有点好奇你是怎么想的，不过这没关系。看到你能站位脚跟，而且穿得也比上次像样些，我就很高兴了。"
+msgstr "那个……说实话，我有点好奇你是怎么想的，不过这没关系。看到你能站稳脚跟，而且穿得也比上次像样些，我就很高兴了。"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -38916,7 +38916,7 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.Description
 #: Data/Packages/MelvorBase.json
 msgid "Just catch some fish and don't look suspicious. Easy."
-msgstr "去抓几条鱼，别看起来很可以。这简单。"
+msgstr "去抓几条鱼，别看起来很可疑。这简单。"
 
 #. TRANSLATORS: Quest.Steps.CompletedDescription
 #: Data/Packages/MelvorBase.json
@@ -38939,7 +38939,7 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "Jass, you sure about this?"
-msgstr "杰斯，你确定吗？"
+msgstr "杰丝，你确定吗？"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -39054,7 +39054,7 @@ msgid ""
 msgstr ""
 "战斗逐渐平息，你看了看四周。哥布林的数量比你预想的要多，但你们的攻击跟预想的一样好。看着躺在地上的尸体，只有几具是人类的。考虑到大家的战斗经验，这比预想的结果要好。\n"
 "\n"
-"你听到杰丝大喊一声，赶快跑了过去。杰丝把一只深绿色的哥布林死死按在地上。这野兽要是站起来，恐怕还没你的腰高。它低声抽泣，求你们不要伤害它。为了活命，它说了一些信息。它说，它的氏族被一个敌对氏族控制了，领头的‘幕后头目’叫格鲁布。它还说，自己非常、非常想活命。杰丝打了它的嘴，问它被绑架的小女孩在哪儿，为什么要抓小女孩。格鲁布先开口了。它说带你们去它附近的营地，还说它们原本打算把他涂上颜色，然后卖掉。具体什么意思，不知道。\n"
+"你听到杰丝大喊一声，赶快跑了过去。杰丝把一只深绿色的哥布林死死按在地上。这野兽要是站起来，恐怕还没你的腰高。它低声抽泣，求你们不要伤害它。为了活命，它说了一些信息。它说，它的氏族被一个敌对氏族控制了，领头的‘幕后头目’叫格鲁布。它还说，自己非常、非常想活命。杰丝打了它的嘴，问它被绑架的小女孩在哪儿，为什么要抓小女孩。格鲁布先开口了。它说带你们去它附近的营地，还说它们原本打算把她涂上颜色，然后卖掉。具体什么意思，不知道。\n"
 "\n"
 "你们简单商量了一下，决定‘相信’它的话。果然，营地就在附近。营地的守卫发现自己的人太少，丢下营地，迅速逃走了。你和[Companion Name]很快在一个帐篷里找到了安娜，把她带回家。杰丝和民兵们负责处理从其他地方抓到的另外几十个人。在阿扎米尔的外面，安娜的母亲满眼泪水，一遍又一遍地感谢你们救了她女儿。"
 
@@ -39160,7 +39160,7 @@ msgid ""
 "chunks, but progress is slow, and Hapren asks for help before starting to "
 "work on the pile himself."
 msgstr ""
-"哈普伦带你们俩去镇中心，那里堆满了阿扎米尔清理出来的垃圾。他说想办个小聚会，让大家相互认识一下，在经历了那段艰苦日子之后回归正常生活。几个人努力将废墟杂碎，方便搬运。但他们进度很慢。哈普伦向你们寻求帮助，随后自己也去清理了。"
+"哈普伦带你们俩去镇中心，那里堆满了阿扎米尔清理出来的垃圾。他说想办个小聚会，让大家相互认识一下，在经历了那段艰苦日子之后回归正常生活。几个人努力将废墟砸碎，方便搬运。但他们进度很慢。哈普伦向你们寻求帮助，随后自己也去清理了。"
 
 #. TRANSLATORS: Quest.Steps.Description
 #: Data/Packages/MelvorBase.json
@@ -39444,7 +39444,7 @@ msgstr "我……个子小。其他哥布林都说我没什么用。还说我太
 msgid ""
 "They were going to tie me up and try to put me in one of the shipments, too,"
 " since I wanted to 'act like a human'. "
-msgstr "因为我想‘像人一样说话做事’，他们就想把我绑起来，跟那些人类一切运走。"
+msgstr "因为我想‘像人一样说话做事’，他们就想把我绑起来，跟那些人类一起运走。"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -39536,7 +39536,7 @@ msgstr ""
 "\n"
 "他们走后，你们三人用事先准备好的装备翻过围墙，悄悄来到墙的另一侧。格鲁布带你们在相对开阔的地方转了几圈。这里有一个破烂的小牢房，外面有几个恩特树人巡逻。你们经过几个守卫休息区，到了一间大木屋。格鲁布说，那是幕后头目的住处。最后，他带你们来到堆战利品的地方。这些东西是哥布林的宝贝，有的是贡品，有的是从附近城镇抢来的。这里堆满了兽皮、半腐烂的食物、武器盔甲、黄金，最引人注意的是许多桶易燃的油和酒。\n"
 "\n"
-"你和[Companion Name]等格鲁布把你们引入伏击，但陷阱始终没有出现。他没有说谎。勘察完堡垒的重要区域，你们三人翻出围墙，返回阿扎米尔。回来之后，你立马和杰丝讨论利用已经掌握的信息，突袭堡垒。你开始制定计划，让小镇做好准备。在突袭之前，要先清理出一条能让马车到达堡垒的道路，为牢房里的人找好撤离路线。此外，这也杰丝有更多的时间调动人手。"
+"你和[Companion Name]等格鲁布把你们引入伏击，但陷阱始终没有出现。他没有说谎。勘察完堡垒的重要区域，你们三人翻出围墙，返回阿扎米尔。回来之后，你立马和杰丝讨论利用已经掌握的信息，突袭堡垒。你开始制定计划，让小镇做好准备。在突袭之前，要先清理出一条能让马车到达堡垒的道路，为牢房里的人找好撤离路线。此外，这也让杰丝有更多的时间调动人手。"
 
 #. TRANSLATORS: Quest.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -39846,7 +39846,7 @@ msgstr "金币还不够，是吧？"
 #. TRANSLATORS: Quest.Steps.CompletedDescription
 #: Data/Packages/MelvorBase.json
 msgid "Hopefully Gloob's contacts pull through."
-msgstr "希望格鲁比找的人靠得住。"
+msgstr "希望格鲁布找的人靠得住。"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -40620,7 +40620,7 @@ msgid ""
 "\n"
 "You hear people roar in the battle behind you, some in victory, others... likely as their last act of defiance against the opposing force. You steel yourself and step forward, challenging the Ringleader."
 msgstr ""
-"大家抬起头，拿着武器，从你身边飞快地冲出去。幕后头目的手下也冲了过来。你看见有人的身体被直接撞穿了，但你没有退缩。你继续向前冲，把自己的安全交给战友。此时，时间好像慢了下来。你穿过一句句尸体，终于看见了幕后头目。它歪着嘴，露出狰狞的笑。它握着燃烧的半棵树当武器。火焰爬上它的手臂，但它似乎一点也不在乎。\n"
+"大家抬起头，拿着武器，从你身边飞快地冲出去。幕后头目的手下也冲了过来。你看见有人的身体被直接撞穿了，但你没有退缩。你继续向前冲，把自己的安全交给战友。此时，时间好像慢了下来。你穿过一具具尸体，终于看见了幕后头目。它歪着嘴，露出狰狞的笑。它握着燃烧的半棵树当武器。火焰爬上它的手臂，但它似乎一点也不在乎。\n"
 "\n"
 "你听到身后传来一阵阵的呼喊声。有的是胜利的呼叫，有的……或许是面对敌人的最后一次反抗。你镇静下来，继续向前，向幕后头目发起挑战。"
 
@@ -41007,7 +41007,7 @@ msgid ""
 msgstr ""
 "在发完热气腾腾的食物后，你和[Companion Name]累得气喘吁吁。难民的情绪已经基本稳住了。每隔半小时左右，偶尔会有几个难民来要吃的。主厨让你们去休息，感谢你们的帮忙，叮嘱你们走之前先吃一口热乎的。\n"
 "\n"
-"你们俩正准备大吃一顿，刚才库伦的一名随从跑到你们面前，没说一句话，把一个封好的卷轴递给你。你接过卷轴。他行了一个礼，转身就回去了。\n"
+"你们俩正准备大吃一顿，刚才库罗的一名随从跑到你们面前，没说一句话，把一个封好的卷轴递给你。你接过卷轴。他行了一个礼，转身就回去了。\n"
 "\n"
 "在昏暗的夜色中，你打开卷轴，里面详细记录了几个月的观察情况。你读到守卫和武装队伍的冲突、获救的俘虏，还有对某个无名组织的几次突袭。最后，你找到了想要的内容。\n"
 "\n"
@@ -41775,7 +41775,7 @@ msgstr "唉，我要这些羽毛干什么？总不能直接扔到靶子上，你
 msgid ""
 "I'd appreciate it if you fashioned them into some arrows. Steel tips are "
 "fine, that's what everyone else is using, don't want to stick out too much."
-msgstr "要是能做成箭，我感激不尽。钢的箭头就行。大家用的都是这种，我不想太太扎眼。"
+msgstr "要是能做成箭，我感激不尽。钢的箭头就行。大家用的都是这种，我不想太扎眼。"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -41901,7 +41901,7 @@ msgid ""
 msgstr ""
 "你回去找塔尔姆，希望这是最后一次了。你刚把药水涂在箭上，塔尔姆就被叫去靶场准备射箭。他射出的每一箭都正中靶心，速度和威力比他的所有对手都强。参赛者陆续淘汰，比赛越来越激烈，进入白热化阶段。之前塔尔姆总是一脸笑，现在慢慢变得全神贯注。剩下的六名对手用尽全力，相互比拼。目标距离和大小无法再进行调整，所以每次射击的标准也开始变了。几轮之后，七名参赛者开始射击豌豆大小的目标。所以现在，他们开始用倒立的姿势射击。在马背上。蒙着眼。\n"
 "\n"
-"每过几轮，当其他参赛者纷纷脱靶时，塔姆尔总能留下来。明知塔姆尔有外力相助，但每次他命中目标，你还是忍不住欢呼。除非他的对手是世界上最厉害的弓箭手，否则你难免会认为，对手获得的外力恐怕和他差不多。塔尔姆成功进入决赛。靶子是一根和头发一样细的线，线轻轻挂在靶场的另一端。他和另一名参赛者同时射出，但塔尔姆那支绿色羽毛的箭在空中将对方的箭击落，割断了另一端的线。\n"
+"每过几轮，当其他参赛者纷纷脱靶时，塔尔姆总能留下来。明知塔尔姆有外力相助，但每次他命中目标，你还是忍不住欢呼。除非他的对手是世界上最厉害的弓箭手，否则你难免会认为，对手获得的外力恐怕和他差不多。塔尔姆成功进入决赛。靶子是一根和头发一样细的线，线轻轻挂在靶场的另一端。他和另一名参赛者同时射出，但塔尔姆那支绿色羽毛的箭在空中将对方的箭击落，割断了另一端的线。\n"
 "\n"
 "人群开始欢呼，你也忍不住跟着一起欢呼。这时，塔尔姆被带上领奖台，获得的奖杯相当于他身体大小的四分之一。盛大的庆祝活动之后，他回到你和[Companion Name]身边。他说了一些得意和感谢的话，然后让你们在准备好领取奖励以后去找他。"
 
@@ -47518,7 +47518,7 @@ msgid ""
 msgstr ""
 "你和[Companion Name]连各自的第一锅汤都还没做好，就陆续有人走进食堂。既有纳里达西人，也有不少从接轨庆典上逃过一劫的弗拉姆贝里人，都是来问能不能帮忙换口饭吃的。佐蒂立刻指挥起来，架势活像个带惯了兵的将军。弗拉姆贝里人把身体烧热，直接充当炉子。这主意把两边的矮人都逗乐了。佐蒂在厨房里来回忙碌，见谁做得不对就上前指点，还不时让他们看看你和[Companion Name]是怎么做的。\n"
 "\n"
-"又忙活了一阵，帮手们终于煮出了让佐蒂满意的卵石汤，可以端给门外排着长队、饥肠辘辘的灾民了。你们干得太好，佐蒂实在舍不得放人。直到开张当晚，奥扎达兹米尼斯国王亲自过来，提出由他和典藏官接手你们的活儿，她才答应让你们走。她嘴里还念叨着“好帮手不好找”，又非要看着你们吃饱了饭，才肯放行。"
+"又忙活了一阵，帮手们终于煮出了让佐蒂满意的卵石汤，可以端给门外排着长队、饥肠辘辘的灾民了。你们干得太好，佐蒂实在舍不得放人。直到开张当晚，奥亚达兹米尼斯国王亲自过来，提出由他和典藏官接手你们的活儿，她才答应让你们走。她嘴里还念叨着“好帮手不好找”，又非要看着你们吃饱了饭，才肯放行。"
 
 #. TRANSLATORS: Quest.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -49760,7 +49760,7 @@ msgstr "灰烬围栏支架"
 #. TRANSLATORS: RanchingEnclosureUpgrade.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Ironsteel Enclosure Support"
-msgstr "铁钢围栏支架"
+msgstr "钢铁围栏支架"
 
 #. TRANSLATORS: RanchingEnclosureUpgrade.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -50067,7 +50067,7 @@ msgstr "秘银斧"
 #. TRANSLATORS: ShopPurchase.Description
 #: Data/Packages/MelvorBase.json
 msgid "Upgrades the Axe for Woodcutting to Mithril"
-msgstr "将伐木用的斧头升级为精金斧"
+msgstr "将伐木用的斧头升级为秘银斧"
 
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -50322,7 +50322,7 @@ msgstr "将钓鱼用的钓竿升级为精金钓竿"
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Rune Fishing Rod"
-msgstr "竿符文钓竿"
+msgstr "符文钓竿"
 
 #. TRANSLATORS: ShopPurchase.Description
 #: Data/Packages/MelvorBase.json
@@ -50332,7 +50332,7 @@ msgstr "将钓鱼用的钓竿升级为符文钓竿"
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Dawnsteel Fishing Rod"
-msgstr "黎明钢钓"
+msgstr "黎明钢钓竿"
 
 #. TRANSLATORS: ShopPurchase.Description
 #: Data/Packages/MelvorBase.json
@@ -50982,7 +50982,7 @@ msgstr "柚木追踪杖"
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Yew Tracking Stick"
-msgstr "紫衫木追踪杖"
+msgstr "紫杉木追踪杖"
 
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -51047,7 +51047,7 @@ msgstr "桃花心木兽哨"
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Yew Animal Whistle"
-msgstr "紫衫木兽哨"
+msgstr "紫杉木兽哨"
 
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -52349,7 +52349,7 @@ msgstr "枫木斧柄"
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Yew Axe Handle"
-msgstr "紫衫木斧柄"
+msgstr "紫杉木斧柄"
 
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -52459,7 +52459,7 @@ msgstr "枫木镐柄"
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Yew Pickaxe Handle"
-msgstr "紫衫木镐柄"
+msgstr "紫杉木镐柄"
 
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -52569,7 +52569,7 @@ msgstr "枫木钓竿"
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Yew Fishing Pole"
-msgstr "紫衫木钓竿"
+msgstr "紫杉木钓竿"
 
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -52619,17 +52619,17 @@ msgstr "坚固鱼线"
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Ironsteel Axe Head Coating"
-msgstr "斧头铁钢镀层"
+msgstr "斧头钢铁镀层"
 
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Ironsteel Pickaxe Head Coating"
-msgstr "镐头铁钢镀层"
+msgstr "镐头钢铁镀层"
 
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
 msgid "Ironsteel Reel Coating"
-msgstr "渔轮铁钢镀层"
+msgstr "渔轮钢铁镀层"
 
 #. TRANSLATORS: ShopPurchase.DisplayName
 #: Data/Packages/MelvorBase.json
@@ -68623,7 +68623,7 @@ msgid ""
 "\n"
 "You and [Companion Name] decide to head into town, and the general mood of the place is... tense. Folks who seem to be citizens quickly hurry past haggard, haunted-looking villagers. It's a sight you're well acquainted with, though you're surprised to see it here. You and [Companion Name] are quickly approached by a fussy-looking man with a immaculately cared for mustache and a permanent scowl etched on his face."
 msgstr ""
-"追踪那只车队花了你很长时间。你向北走，离开长者之林，在距离平根小镇一小时路程的地方，痕迹没了。这里停了几辆被烧的马车，想必是押送囚犯的大哥布林做的。似乎还有几名俘虏被杀了，但你不知道具体原因。根据你掌握的信息，这支车队分成了三十多支小队，向不同的地方走了。要追踪每一支小队是不可能的。况且，这些人比马车还难追踪，那就更难了。\n"
+"追踪那支车队花了你很长时间。你向北走，离开长者之林，在距离平根小镇一小时路程的地方，痕迹没了。这里停了几辆被烧的马车，想必是押送囚犯的大哥布林做的。似乎还有几名俘虏被杀了，但你不知道具体原因。根据你掌握的信息，这支车队分成了三十多支小队，向不同的地方走了。要追踪每一支小队是不可能的。况且，这些人比马车还难追踪，那就更难了。\n"
 "\n"
 "你有点担心平根的安全，但转念一想，要毁掉这么大的一个城镇，至少要有一支小军队。平根在心路上，而这条路是通往梅尔沃都城的主干道之一。所以，平根确实有优势。一个主要优势是能够买到精良的武器和盔甲。不过，哥布林的存在还是让你有点担心。\n"
 "\n"
@@ -68905,7 +68905,7 @@ msgstr ""
 "\n"
 "你们俩在城中闲逛，没有刚来时那么惊叹。没过多久，你们来到象牙藏书院的门前。你们跟这里的访客和工作人员交谈，听说这座宏伟的建筑里有人类有史以来最庞大的知识汇编。这里面的书数不胜数，涵盖人们所能想象的所有领域。\n"
 "\n"
-"你询问底层的情况，得知那里不对公众开放。要想进去，需要国王本人的直接邀请，因此那里的书中有危险的信息。他们向你介绍获得邀请的流程。那一长串的介绍就像是反复排练过的，滔滔不绝。你最关心的是需要的时间。即使是有机会获得邀请的名门望族，平均也要等三十年。太久了。"
+"你询问底层的情况，得知那里不对公众开放。要想进去，需要国王本人的直接邀请，因为那里的书中有危险的信息。他们向你介绍获得邀请的流程。那一长串的介绍就像是反复排练过的，滔滔不绝。你最关心的是需要的时间。即使是有机会获得邀请的名门望族，平均也要等三十年。太久了。"
 
 #. Zusatztext (nicht in der offiziellen Vorlage)
 msgid ""
@@ -77235,7 +77235,7 @@ msgstr "桃花心木"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Yew Logs"
-msgstr "紫衫木"
+msgstr "紫杉木"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Magic Logs"
@@ -77775,11 +77775,11 @@ msgstr "桃花心木种子"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Yew Tree Seed"
-msgstr "紫衫树种子"
+msgstr "紫杉树种子"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Yew Tree Seeds"
-msgstr "紫衫树种子"
+msgstr "紫杉树种子"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Magic Tree Seed"
@@ -77815,7 +77815,7 @@ msgstr "枫木弓"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Yew Bows"
-msgstr "紫衫木弓"
+msgstr "紫杉木弓"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Magic Bows"
@@ -78083,7 +78083,7 @@ msgstr "枫木回旋镖"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Yew Boomerangs"
-msgstr "紫衫木回旋镖"
+msgstr "紫杉木回旋镖"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Magic Boomerangs"
@@ -78859,11 +78859,11 @@ msgstr "空龙蜥巢穴"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Lemon Chest"
-msgstr "菜鸟宝箱"
+msgstr "柠檬宝箱"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Lemon Chests"
-msgstr "菜鸟宝箱"
+msgstr "柠檬宝箱"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Barnacle Covered Chest"
@@ -79295,7 +79295,7 @@ msgstr "巨鳗"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Grain"
-msgstr "胭脂虫"
+msgstr "谷物"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Mealworm"
@@ -79843,7 +79843,7 @@ msgstr "远古猛禽战利品（收藏品）"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Ashwing Hawk Feather (c)"
-msgstr "灰翼鹰战利品（收藏品）"
+msgstr "灰翼鹰羽毛（收藏品）"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Ancient Griffin Trophy (c)"
@@ -79883,15 +79883,15 @@ msgstr "竞技场奖励代币"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Lemon"
-msgstr "菜鸟"
+msgstr "柠檬"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Lockpick"
-msgstr "小贼"
+msgstr "开锁器"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Balaclava"
-msgstr "蒙面恶棍"
+msgstr "蒙面头套"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Thug Armband"
@@ -82199,7 +82199,7 @@ msgstr "镀金优雅背心"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Gilded Graceful Pants"
-msgstr "镀金裤子"
+msgstr "镀金优雅裤子"
 
 #. Kontextlos (automatisch aus PluralName)
 msgid "Gilded Graceful Boots"

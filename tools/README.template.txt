@@ -23,6 +23,8 @@ TRANSPARENCY: HOW THESE TRANSLATIONS WERE MADE
   its official translation.
 - From Melvor Idle 2: texts from the game's own Chinese translation, which is included in the
   game files but not available in the language menu yet.
+  Traditional Chinese was converted from the finished Simplified texts and proofread by AI,
+  so it is counted as AI.
 - Translated by AI: all other texts were translated with AI and checked
   automatically (placeholders, formatting tags and line breaks must match the original).
   They have not been fully reviewed by a human yet.

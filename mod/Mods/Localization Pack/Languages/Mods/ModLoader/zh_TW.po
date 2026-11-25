@@ -1,0 +1,87 @@
+#
+msgid ""
+msgstr ""
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "MODS"
+msgstr "模組"
+
+msgid "Open a mod window, or change its key."
+msgstr "打開模組視窗，或更改它的快速鍵。"
+
+msgid "Close"
+msgstr "關閉"
+
+msgid "Close  ({0})"
+msgstr "關閉（{0}）"
+
+msgid "This menu"
+msgstr "此選單"
+
+msgid "this menu"
+msgstr "此選單"
+
+msgid "Off"
+msgstr "無"
+
+msgid "No mod has a window here yet."
+msgstr "目前還沒有模組在這裡提供視窗。"
+
+msgid ""
+"Click a key to change it, then press the new key (Ctrl, Shift or Alt can "
+"come with it; Esc cancels)."
+msgstr "點擊按鍵進行更改，然後按下新按鍵（可與Ctrl、Shift或Alt組合，按Esc取消）。"
+
+msgid ""
+"\"Off\" frees the key, the window still opens from here. Saved in "
+"mods\\hotkeys.json."
+msgstr "選擇「無」可取消按鍵，仍可從這裡打開視窗。儲存在mods\\hotkeys.json中。"
+
+msgid "Reset all keys"
+msgstr "重置所有按鍵"
+
+msgid "Every key back to what its mod uses by default."
+msgstr "將所有按鍵恢復為各模組的預設值。"
+
+msgid "Mods"
+msgstr "模組"
+
+msgid "Open any mod window, or change or switch off its key."
+msgstr "打開任意模組視窗，或更改、停用它的快速鍵。"
+
+msgid "Press a key..."
+msgstr "請按下按鍵..."
+
+msgid "Press the new key now. Esc cancels."
+msgstr "請按下新按鍵。按Esc取消。"
+
+msgid "Click, then press the new key."
+msgstr "點擊後按下新按鍵。"
+
+msgid "No key for this window."
+msgstr "此視窗沒有快速鍵。"
+
+msgid "The key that opens this menu."
+msgstr "打開此選單的按鍵。"
+
+msgid "Two mods use the same key: open this to fix it."
+msgstr "兩個模組使用了相同的按鍵：打開此處進行修正。"
+
+msgid "no key"
+msgstr "無按鍵"
+
+msgid "also used by {0}"
+msgstr "{0}也在使用"
+
+msgid "Melvor Mod Loader {0}  -  {1} mod"
+msgstr "Melvor Mod Loader {0}，模組：{1}"
+
+msgid ""
+"Click a key to change it, then press the new key (Ctrl, Shift or Alt can come with it; Esc cancels).\n"
+"\"Off\" frees the key, the window still opens from here. Saved in mods\\hotkeys.json."
+msgstr ""
+"點擊按鍵進行更改，然後按下新按鍵（可與Ctrl、Shift或Alt組合，按Esc取消）。\n"
+"選擇「無」可取消按鍵，仍可從這裡打開視窗。儲存在mods\\hotkeys.json中。"
