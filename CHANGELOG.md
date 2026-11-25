@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.4.0 (Unreleased)
+
+### New languages
+* Chinese, Simplified (简体中文): 13,708 texts. 11,445 (83%) from the game's own Chinese translation, which is included in the game files but not available in the language menu yet, 2,263 (17%) translated or corrected by AI. The Mod Loader menu (F1) is translated too.
+
+### Other
+* Languages with only one plural form are supported.
+
 ## 1.3.0 (2026-11-25)
 
 ### New languages

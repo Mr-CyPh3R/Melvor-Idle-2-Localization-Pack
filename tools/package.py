@@ -41,12 +41,12 @@ for mod in sorted(os.listdir('dist/mods')) if os.path.isdir('dist/mods') else []
 langs = ', '.join(f'{l["english_name"]} ({l["name"]})' for c, l in cfg['languages'].items())
 
 # README aus Vorlage: Sprachliste und Herkunft der Texte (dist/<code>.stats.json aus tools/build.py)
-rows = [('Language', 'Texts', 'From Melvor Idle', 'Translated by AI')]
+rows = [('Language', 'Texts', 'From Melvor Idle', 'From Melvor Idle 2', 'Translated by AI')]
 for code, l in cfg['languages'].items():
     st = json.load(open(f'dist/{code}.stats.json', encoding='utf-8'))
     pct = lambda n: f'{n:,} ({round(100 * n / st["translated"])}%)'
-    rows.append((f'{l["english_name"]} ({l["name"]})', f'{st["translated"]:,}', pct(st['from_melvor_idle_1']), pct(st['ai'])))
-w = [max(len(r[i]) for r in rows) for i in range(4)]
+    rows.append((f'{l["english_name"]} ({l["name"]})', f'{st["translated"]:,}', pct(st['from_melvor_idle_1']), pct(st['from_game']), pct(st['ai'])))
+w = [max(len(r[i]) for r in rows) for i in range(len(rows[0]))]
 table = '\n'.join('  '.join(c.ljust(w[i]) for i, c in enumerate(r)).rstrip() for r in rows[:1] + [tuple('-' * x for x in w)] + rows[1:])
 readme = open('tools/README.template.txt', encoding='utf-8').read().format(
     version=cfg['version'], game_version=cfg['game_version'], languages=langs, language_table=table)

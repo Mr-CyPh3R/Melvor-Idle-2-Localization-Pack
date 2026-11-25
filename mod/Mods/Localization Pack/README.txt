@@ -4,7 +4,7 @@ Version 1.3.0, made for game version 0.11.7-alpha (Steam Early Access)
 Unofficial community translations for Melvor Idle 2 in one mod.
 Not affiliated with or endorsed by Games By Malcs or Jagex.
 
-Languages: German (Deutsch), French (Français), Spanish (Español), Brazilian Portuguese (Português), Japanese (日本語), Polish (Polski), Russian (Русский)
+Languages: German (Deutsch), French (Français), Spanish (Español), Brazilian Portuguese (Português), Japanese (日本語), Polish (Polski), Russian (Русский), Chinese (Simplified) (简体中文)
 More languages are coming. Missing your language? Suggest it (see LINKS).
 
 
@@ -17,18 +17,21 @@ Steam Guide: https://steamcommunity.com/sharedfiles/filedetails/?id=3841947675
 
 TRANSPARENCY: HOW THESE TRANSLATIONS WERE MADE
 ----------------------------------------------
-Language                          Texts   From Melvor Idle  Translated by AI
---------------------------------  ------  ----------------  ----------------
-German (Deutsch)                  13,708  566 (4%)          13,142 (96%)
-French (Français)                 13,708  586 (4%)          13,122 (96%)
-Spanish (Español)                 13,708  601 (4%)          13,107 (96%)
-Brazilian Portuguese (Português)  13,708  599 (4%)          13,109 (96%)
-Japanese (日本語)                    13,708  618 (5%)          13,090 (95%)
-Polish (Polski)                   13,708  0 (0%)            13,708 (100%)
-Russian (Русский)                 13,708  622 (5%)          13,086 (95%)
+Language                          Texts   From Melvor Idle  From Melvor Idle 2  Translated by AI
+--------------------------------  ------  ----------------  ------------------  ----------------
+German (Deutsch)                  13,708  566 (4%)          0 (0%)              13,142 (96%)
+French (Français)                 13,708  586 (4%)          0 (0%)              13,122 (96%)
+Spanish (Español)                 13,708  601 (4%)          0 (0%)              13,107 (96%)
+Brazilian Portuguese (Português)  13,708  599 (4%)          0 (0%)              13,109 (96%)
+Japanese (日本語)                    13,708  618 (5%)          0 (0%)              13,090 (95%)
+Polish (Polski)                   13,708  0 (0%)            0 (0%)              13,708 (100%)
+Russian (Русский)                 13,708  622 (5%)          0 (0%)              13,086 (95%)
+Chinese (Simplified) (简体中文)       13,708  0 (0%)            11,445 (83%)        2,263 (17%)
 
 - From Melvor Idle: texts that are identical in the first game (Melvor Idle) were taken from
   its official translation.
+- From Melvor Idle 2: texts from the game's own Chinese translation, which is included in the
+  game files but not available in the language menu yet.
 - Translated by AI: all other texts were translated with AI and checked
   automatically (placeholders, formatting tags and line breaks must match the original).
   They have not been fully reviewed by a human yet.

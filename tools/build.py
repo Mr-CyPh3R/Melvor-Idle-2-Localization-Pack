@@ -62,6 +62,11 @@ if PLURAL:  # Regel aus mod.json muss gültig sein und genau NPLURALS Formen lie
 KEEP_ENGLISH = {'English, United Kingdom', 'English (United Kingdom)'}
 
 
+def plural_pairs(one, many, forms):
+    """(Englisch, Übersetzung) je Form. Sprachen mit nur einer Form (Chinesisch) brauchen die Platzhalter der Mehrzahl."""
+    return [(many, forms[0])] if NPLURALS == 1 and forms else list(zip([one] + [many] * len(forms), forms))
+
+
 def entry_id(e):
     return f'{e.msgctxt or ""}\x04{e.msgid}\x04{e.msgid_plural or ""}'
 
@@ -89,7 +94,7 @@ for e in po:
     if e.msgid_plural:
         if not (isinstance(t, list) and len(t) == NPLURALS):
             print(f'FEHLER {it["id"]}: Plural braucht {FORMS}'); errors += 1; continue
-        errs = [check(e.msgid, t[0])] + [check(e.msgid_plural, x) for x in t[1:]]
+        errs = [check(a, b) for a, b in plural_pairs(e.msgid, e.msgid_plural, t)]
     else:
         errs = [check(e.msgid, t)]
     errs = [x for x in errs if x]
@@ -107,7 +112,7 @@ for key, it in by_key.items():
     t = tr.get(it['id'])
     if key in known or t is None or it['en'] in KEEP_ENGLISH:
         continue
-    pairs = [(it['en'], t[0] if isinstance(t, list) else t)] + ([(it['en_plural'], x) for x in t[1:]] if it['en_plural'] and isinstance(t, list) else [])
+    pairs = plural_pairs(it['en'], it['en_plural'], t) if it['en_plural'] and isinstance(t, list) else [(it['en'], t)]
     errs = [x for x in (check(a, b) for a, b in pairs) if x]
     if it['en_plural'] and not (isinstance(t, list) and len(t) == NPLURALS):
         errs.append(f'Plural braucht {FORMS}')
@@ -121,9 +126,9 @@ for key, it in by_key.items():
     po.append(ne); done += 1; applied.add(it['id'])
 
 # Godot verwirft die ganze .po, wenn ein Plural-Eintrag nicht genau NPLURALS Formen hat:
-# unübersetzte Einträge der Vorlage (2 Formen) mit der letzten Form auffüllen.
+# unübersetzte Einträge der Vorlage (2 Formen) mit der letzten Form auffüllen bzw. kürzen (Chinesisch: 1 Form).
 for e in po:
-    if e.msgid_plural and len(e.msgstr_plural) < NPLURALS:
+    if e.msgid_plural and len(e.msgstr_plural) != NPLURALS:
         last = e.msgstr_plural[max(e.msgstr_plural)]
         e.msgstr_plural = {i: e.msgstr_plural.get(i, last) for i in range(NPLURALS)}
 
@@ -135,7 +140,7 @@ added = 0
 for e in list(po):
     if e.msgctxt != 'PluralName' or not e.msgid_plural or not e.msgstr_plural.get(0):
         continue
-    for src, dst in ((e.msgid, e.msgstr_plural[0]), (e.msgid_plural, e.msgstr_plural[1])):
+    for src, dst in ((e.msgid, e.msgstr_plural[0]), (e.msgid_plural, e.msgstr_plural[min(1, NPLURALS - 1)])):
         if src not in plain and dst != src:
             po.append(polib.POEntry(msgid=src, msgstr=dst, comment='Kontextlos (automatisch aus PluralName)'))
             plain.add(src); added += 1
@@ -148,7 +153,10 @@ print(f'übersetzt {done} von {len([e for e in po if not e.obsolete])}, Fehler {
 # Herkunft für die Transparenz-Angabe in der README (tools/package.py liest dist/<lang>.stats.json)
 mi1_file = f'work/{LANG}/mi1.json'  # fehlt bei Sprachen ohne Melvor-Idle-1-Vorlage (zh_CN: Vorlage ist die .po des Spiels)
 mi1 = set(json.load(open(mi1_file, encoding='utf-8'))) if os.path.exists(mi1_file) else set()
-stats = {'translated': done, 'from_melvor_idle_1': len(applied & mi1), 'ai': done - len(applied & mi1), 'name_copies': added}
+game_file = f'work/{LANG}/game.json'  # Texte aus der Übersetzung, die das Spiel selbst mitbringt (tools/import_po.py)
+game = {k for k, v in json.load(open(game_file, encoding='utf-8')).items() if tr.get(k) == v} if os.path.exists(game_file) else set()
+stats = {'translated': done, 'from_melvor_idle_1': len(applied & mi1), 'from_game': len(applied & game - mi1),
+         'ai': len(applied - mi1 - game), 'name_copies': added}
 json.dump(stats, open(f'dist/{LOCALE}.stats.json', 'w', encoding='utf-8'), indent=1)
 print('Herkunft:', stats)
 
