@@ -146,7 +146,8 @@ if '--check' not in sys.argv:  # --check: nur prüfen, nichts schreiben (für pa
     po.save(f'dist/{LOCALE}.po')
 print(f'übersetzt {done} von {len([e for e in po if not e.obsolete])}, Fehler {errors}')
 # Herkunft für die Transparenz-Angabe in der README (tools/package.py liest dist/<lang>.stats.json)
-mi1 = set(json.load(open(f'work/{LANG}/mi1.json', encoding='utf-8')))
+mi1_file = f'work/{LANG}/mi1.json'  # fehlt bei Sprachen ohne Melvor-Idle-1-Vorlage (zh_CN: Vorlage ist die .po des Spiels)
+mi1 = set(json.load(open(mi1_file, encoding='utf-8'))) if os.path.exists(mi1_file) else set()
 stats = {'translated': done, 'from_melvor_idle_1': len(applied & mi1), 'ai': done - len(applied & mi1), 'name_copies': added}
 json.dump(stats, open(f'dist/{LOCALE}.stats.json', 'w', encoding='utf-8'), indent=1)
 print('Herkunft:', stats)
