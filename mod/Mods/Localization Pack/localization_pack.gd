@@ -158,6 +158,8 @@ func _on_node_added(n: Node) -> void:
 		n.add_to_group(&"LocalizationPackCategoryFilters")
 	elif n is Control and n.has_method("UpdateStats") and "AccuracyStanceLabel" in n:
 		n.add_to_group(&"LocalizationPackOffensiveStats")
+	elif n is Control and n.name == &"Container" and n.get_parent() != null and n.get_parent().name == &"GameVersion":
+		_move_version_info.call_deferred(n)
 	elif n is Control and n.has_method("UpdateDisplaySizeOptions") and n.has_method("GetMsaaLevelText") and "ScreenDropdown" in n:
 		n.add_to_group(&"LocalizationPackDisplaySettings")
 	if n is Label or n is RichTextLabel or n is Button:
@@ -183,6 +185,19 @@ func _bind_save_times(menu: Control) -> void:
 func _refresh_save_times(local_time: Label, cloud_time: Label) -> void:
 	_check(local_time)
 	_check(cloud_time)
+
+
+# The game version ("Melvor Idle 2: v0.11.7-alpha") sits at the top centre over the window title and the
+# skill header; move it to the bottom centre.
+func _move_version_info(container: Control) -> void:
+	var bar = container.get_node_or_null(^"Control/Background") if is_instance_valid(container) else null
+	if bar is Control and bar.anchor_top == 0.0:
+		# The bar hangs from the top edge (offsets -4 to 20); mirror it to hang from the bottom edge.
+		var top: float = bar.offset_top
+		bar.anchor_top = 1.0
+		bar.anchor_bottom = 1.0
+		bar.offset_top = -bar.offset_bottom
+		bar.offset_bottom = -top
 
 
 func _refresh_language_views() -> void:

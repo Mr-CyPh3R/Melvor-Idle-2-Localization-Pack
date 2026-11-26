@@ -11,6 +11,7 @@
 * After a language change, the window size, screen and anti-aliasing lists in the display settings now show the new language too.
 
 ### Other
+* The game version ("Melvor Idle 2: v0.11.7-alpha") is shown at the bottom centre instead of the top centre, so it no longer covers the window title and the skill header.
 * Languages with only one plural form are supported.
 * Two languages that share a language code (Chinese, Simplified and Traditional) are kept apart while the game runs.
 
