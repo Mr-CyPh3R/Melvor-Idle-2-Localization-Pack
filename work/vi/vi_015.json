@@ -1,0 +1,511 @@
+{
+ "02752": [
+  "Lúa mì"
+ ],
+ "02753": [
+  "Mía"
+ ],
+ "02754": [
+  "Đường"
+ ],
+ "02755": [
+  "Bột mì"
+ ],
+ "02756": [
+  "Trứng"
+ ],
+ "02757": [
+  "Sữa"
+ ],
+ "02758": [
+  "Bột nhào ngọt"
+ ],
+ "02759": [
+  "Bánh kẹp thịt bò"
+ ],
+ "02760": [
+  "Bánh nướng táo"
+ ],
+ "02761": [
+  "Súp cá tráp"
+ ],
+ "02762": [
+  "Bánh nướng bí ngô"
+ ],
+ "02763": [
+  "Hamburger phô mai"
+ ],
+ "02764": [
+  "Đế bánh ngọt"
+ ],
+ "02765": [
+  "Nước dùng"
+ ],
+ "02766": [
+  "Cơm sushi"
+ ],
+ "02767": [
+  "Bánh kẹp thịt gà"
+ ],
+ "02768": [
+  "Bánh kẹp tôm hùm"
+ ],
+ "02769": [
+  "Bánh kẹp cá ngừ"
+ ],
+ "02770": [
+  "Bánh kếp chuối"
+ ],
+ "02771": [
+  "Bánh kếp táo"
+ ],
+ "02772": [
+  "Bánh kếp anh đào"
+ ],
+ "02773": [
+  "Bánh kếp xoài"
+ ],
+ "02774": [
+  "Bánh ngọt dâu tây"
+ ],
+ "02775": [
+  "Bánh ngọt cà rốt"
+ ],
+ "02776": [
+  "Bánh ngọt cam"
+ ],
+ "02777": [
+  "Bánh nướng anh đào"
+ ],
+ "02778": [
+  "Bột nhào cơ bản"
+ ],
+ "02779": [
+  "Súp cá hồi"
+ ],
+ "02780": [
+  "Súp cá sư tử"
+ ],
+ "02781": [
+  "Súp cá mập"
+ ],
+ "02782": [
+  "Súp rau củ"
+ ],
+ "02783": [
+  "Sushi cá hồi vân"
+ ],
+ "02784": [
+  "Sushi cá hồi"
+ ],
+ "02785": [
+  "Sushi cá tuyết"
+ ],
+ "02786": [
+  "Sushi phát sáng"
+ ],
+ "02787": [
+  "Sushi cá ngừ cá mập"
+ ],
+ "02788": [
+  "Sushi rau củ"
+ ],
+ "02789": [
+  "Mì lasagna"
+ ],
+ "02790": [
+  "Pizza thập cẩm"
+ ],
+ "02791": [
+  "Súp phát sáng"
+ ],
+ "02792": [
+  "Mồi hạt"
+ ],
+ "02793": [
+  "Mồi rau"
+ ],
+ "02794": [
+  "Mồi vỏ cây mật ong"
+ ],
+ "02795": [
+  "Mồi thịt"
+ ],
+ "02796": [
+  "Xương to"
+ ],
+ "02797": [
+  "Mồi bột xương"
+ ],
+ "02798": [
+  "Mồi lấp lánh"
+ ],
+ "02799": [
+  "Cỏ sông"
+ ],
+ "02800": [
+  "Đại mạch be be"
+ ],
+ "02801": [
+  "Thịt thỏ"
+ ],
+ "02802": [
+  "Bẫy thòng lọng cơ bản"
+ ],
+ "02803": "Bẫy thòng lọng dùng trong Săn bắn.",
+ "02804": [
+  "Bẫy thòng lọng gia cố"
+ ],
+ "02805": [
+  "Bẫy thòng lọng kiên cố"
+ ],
+ "02806": [
+  "Bẫy chim nhỏ cơ bản"
+ ],
+ "02807": "Bẫy chim nhỏ dùng trong Săn bắn.",
+ "02808": [
+  "Bẫy chim nhỏ gia cố"
+ ],
+ "02809": [
+  "Bẫy chim nhỏ kiên cố"
+ ],
+ "02810": [
+  "Lông thỏ"
+ ],
+ "02811": [
+  "Chân thỏ"
+ ],
+ "02812": [
+  "Gai thằn lằn lưng gai"
+ ],
+ "02813": [
+  "Bướm xanh lục trong hũ"
+ ],
+ "02814": [
+  "Da cóc tinh quái"
+ ],
+ "02815": [
+  "Da rắn đầm lầy"
+ ],
+ "02816": [
+  "Nanh rắn"
+ ],
+ "02817": [
+  "Da cóc lục"
+ ],
+ "02818": [
+  "Bướm đầu lâu trong hũ"
+ ],
+ "02819": [
+  "Tơ nhện"
+ ],
+ "02820": [
+  "Trứng ấu trùng"
+ ],
+ "02821": [
+  "Nanh đen"
+ ],
+ "02822": [
+  "Lông kền kền"
+ ],
+ "02823": [
+  "Da sống linh cẩu vằn"
+ ],
+ "02824": [
+  "Xương lớn"
+ ],
+ "02825": [
+  "Sừng linh dương đầu bò"
+ ],
+ "02826": [
+  "Bướm ma trong hũ"
+ ],
+ "02827": [
+  "Bụi phép"
+ ],
+ "02828": [
+  "Sợi linh hồn"
+ ],
+ "02829": [
+  "Dịch thể u linh"
+ ],
+ "02830": [
+  "Lông đại bàng khổng lồ"
+ ],
+ "02831": [
+  "Lông sư điểu"
+ ],
+ "02832": [
+  "Da sống Torag"
+ ],
+ "02833": [
+  "Tinh thể Belra"
+ ],
+ "02834": [
+  "Lõi Gar Torag"
+ ],
+ "02835": [
+  "Lõi Fin Torag"
+ ],
+ "02836": [
+  "Lõi Cul Torag"
+ ],
+ "02837": [
+  "Sợi dây"
+ ],
+ "02838": [
+  "Sợi dây gia cố"
+ ],
+ "02839": [
+  "Sợi dây kiên cố"
+ ],
+ "02840": [
+  "Lưới cơ bản"
+ ],
+ "02841": [
+  "Lưới gia cố"
+ ],
+ "02842": [
+  "Lưới kiên cố"
+ ],
+ "02843": [
+  "Lưới chim lớn cơ bản"
+ ],
+ "02844": [
+  "Lưới chim lớn gia cố"
+ ],
+ "02845": [
+  "Lưới chim lớn kiên cố"
+ ],
+ "02846": [
+  "Bẫy hố cơ bản"
+ ],
+ "02847": [
+  "Bẫy hố gia cố"
+ ],
+ "02848": [
+  "Bẫy hố kiên cố"
+ ],
+ "02849": [
+  "Hũ thủy tinh"
+ ],
+ "02850": [
+  "Bộ bắt bướm cơ bản"
+ ],
+ "02851": [
+  "Bộ bắt bướm gia cố"
+ ],
+ "02852": [
+  "Bộ bắt bướm kiên cố"
+ ],
+ "02853": [
+  "Hộp linh hồn cơ bản"
+ ],
+ "02854": [
+  "Hộp linh hồn gia cố"
+ ],
+ "02855": [
+  "Hộp linh hồn kiên cố"
+ ],
+ "02856": [
+  "Vòng tay truy dấu I"
+ ],
+ "02857": [
+  "Vòng tay truy dấu II"
+ ],
+ "02858": [
+  "Vòng tay truy dấu III"
+ ],
+ "02859": [
+  "Vòng tay truy dấu IV"
+ ],
+ "02860": [
+  "Vòng tay truy dấu V"
+ ],
+ "02861": [
+  "Túi đặt bẫy da rắn"
+ ],
+ "02862": [
+  "Túi đặt bẫy tơ nhện"
+ ],
+ "02863": [
+  "Túi đặt bẫy sư điểu"
+ ],
+ "02864": [
+  "Mũ thợ săn quái I"
+ ],
+ "02865": [
+  "Quần thợ săn quái I"
+ ],
+ "02866": [
+  "Áo thợ săn quái I"
+ ],
+ "02867": [
+  "Mũ thợ săn quái II"
+ ],
+ "02868": [
+  "Quần thợ săn quái II"
+ ],
+ "02869": [
+  "Áo thợ săn quái II"
+ ],
+ "02870": [
+  "Mũ thợ săn quái III"
+ ],
+ "02871": [
+  "Quần thợ săn quái III"
+ ],
+ "02872": [
+  "Áo thợ săn quái III"
+ ],
+ "02873": [
+  "Mũ thợ săn quái IV"
+ ],
+ "02874": [
+  "Quần thợ săn quái IV"
+ ],
+ "02875": [
+  "Áo thợ săn quái IV"
+ ],
+ "02876": [
+  "Áo choàng da rắn"
+ ],
+ "02877": [
+  "Khiên da cóc lục"
+ ],
+ "02878": [
+  "Mũ giáp sừng nai"
+ ],
+ "02879": [
+  "Áo choàng vằn"
+ ],
+ "02880": [
+  "Khiên bóng ma"
+ ],
+ "02881": [
+  "Găng tay u linh"
+ ],
+ "02882": [
+  "Hộ cổ tay sư điểu"
+ ],
+ "02883": [
+  "Áo choàng sư điểu"
+ ],
+ "02884": [
+  "Vuốt nanh đen"
+ ],
+ "02885": [
+  "Dao găm nanh đen"
+ ],
+ "02886": [
+  "Đũa phép bóng ma"
+ ],
+ "02887": [
+  "Gậy bóng ma"
+ ],
+ "02888": [
+  "Dao găm linh dương đầu bò"
+ ],
+ "02889": [
+  "Đũa phép u linh"
+ ],
+ "02890": [
+  "Gậy u linh"
+ ],
+ "02891": [
+  "Nỏ sư điểu"
+ ],
+ "02892": [
+  "Nỏ hai tay sư điểu"
+ ],
+ "02893": [
+  "Vuốt sư điểu"
+ ],
+ "02894": [
+  "Vòng cổ chân thỏ"
+ ],
+ "02895": [
+  "Nhẫn nanh rắn"
+ ],
+ "02896": [
+  "Bùa hộ mệnh da cóc"
+ ],
+ "02897": [
+  "Nhẫn nanh đen"
+ ],
+ "02898": [
+  "Bùa hộ mệnh nanh sói"
+ ],
+ "02899": [
+  "Bùa hộ mệnh bóng ma"
+ ],
+ "02900": [
+  "Bùa hộ mệnh diều hâu máu"
+ ],
+ "02901": [
+  "Bùa hộ mệnh u linh"
+ ],
+ "02902": [
+  "Nhẫn Gar Belra"
+ ],
+ "02903": [
+  "Nhẫn Fin Belra"
+ ],
+ "02904": [
+  "Nhẫn Cul Belra"
+ ],
+ "02905": [
+  "Mũi tên xương"
+ ],
+ "02906": [
+  "Tên nỏ xương"
+ ],
+ "02907": [
+  "Mũi tên nanh đen"
+ ],
+ "02908": [
+  "Tên nỏ nanh đen"
+ ],
+ "02909": [
+  "Mũi tên u linh"
+ ],
+ "02910": [
+  "Tên nỏ u linh"
+ ],
+ "02911": [
+  "Móng vuốt mãnh cầm"
+ ],
+ "02912": [
+  "Móng vuốt diều hâu máu"
+ ],
+ "02913": [
+  "Móng vuốt sư điểu"
+ ],
+ "02914": [
+  "Vỏ xương"
+ ],
+ "02915": [
+  "Găng tay bếp lông thỏ"
+ ],
+ "02916": [
+  "Đinh nhọn lưng gai"
+ ],
+ "02917": [
+  "Túi tiền da rắn"
+ ],
+ "02918": [
+  "Đục sừng nai"
+ ],
+ "02919": [
+  "Dao khắc sừng nai"
+ ],
+ "02920": [
+  "Đao tay phụ xương rồng"
+ ],
+ "02921": [
+  "Dao nanh sói"
+ ],
+ "02922": [
+  "Mạng che bóng ma"
+ ]
+}

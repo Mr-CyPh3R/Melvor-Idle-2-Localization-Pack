@@ -22,5 +22,16 @@
  "ML21": "sin tecla",
  "ML22": "también usada por {0}",
  "ML23": "Melvor Mod Loader {0}, mods: {1}",
- "ML24": "Haz clic en una tecla para cambiarla y pulsa la nueva tecla (puedes añadir Ctrl, Mayús o Alt; Esc cancela).\n«Ninguna» libera la tecla; la ventana se sigue abriendo desde aquí. Se guarda en mods\\hotkeys.json."
+ "ML24": "Haz clic en una tecla para cambiarla y pulsa la nueva tecla (puedes añadir Ctrl, Mayús o Alt; Esc cancela).\n«Ninguna» libera la tecla; la ventana se sigue abriendo desde aquí. Se guarda en mods\\hotkeys.json.",
+ "ML25": "Mod Loader:",
+ "ML26": "Estos mods no se iniciaron: {0}. Puede que el juego se haya actualizado: busca una versión más nueva del mod. Detalles: MelvorModLoader.log.",
+ "ML27": "Este mod no se inició: {0}. Puede que el juego se haya actualizado: busca una versión más nueva del mod. Detalles: MelvorModLoader.log.",
+ "ML28": "El mod {0} tuvo un error y una parte quedó desactivada hasta que se vuelva a iniciar el juego. Puede que el juego se haya actualizado: busca una versión más nueva del mod. Detalles: MelvorModLoader.log.",
+ "ML29": "Todo lo de los mods eliminados ya está en tu banco.",
+ "ML30": "Objetos del mod eliminado {1} (cantidad: {0}) esperan espacio en tu banco. Libera algunas casillas y entrarán solos.",
+ "ML31": "Objetos del mod eliminado {1} (cantidad: {0}) no los conoce el juego ahora (falta otro mod); se guardan.",
+ "ML32": "{0} está instalado pero no se inició, por eso faltan sus objetos en esta sesión. NO se convirtieron en objetos normales: {1} guarda una copia y los devuelve cuando vuelva a funcionar. Busca una versión más nueva del mod.",
+ "ML33": "Se guardó una copia de tu partida actual en mods\\rescue-kept.",
+ "ML34": "El mod eliminado {0} tenía objetos en esta partida y no se pudo leer su lista. Vuelve a instalar ese mod antes de seguir jugando: el próximo guardado del juego no los incluirá.",
+ "ML35": "Se guardó una copia de la partida actual en {0}."
 }

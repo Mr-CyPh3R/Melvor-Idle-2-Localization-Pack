@@ -64218,7 +64218,7 @@ msgstr "Ausrüstungsset"
 #: Components/Trackers/experience_rate_row.tscn
 #: Components/Trackers/tracker_experience_view.tscn
 msgid "/hr"
-msgstr "/h"
+msgstr "/Std."
 
 #: Components/Trackers/tracker_bank_view.tscn
 #: Components/ItemEquipping/EquipmentQueryOptions.cs.uid
@@ -68201,11 +68201,11 @@ msgstr "Warte auf Aktion …"
 
 #: Components/Trackers/TrackerExperienceView.cs.uid
 msgid "--h --m --s"
-msgstr "--h --m --s"
+msgstr "-- Std. -- Min. -- Sek."
 
 #: Components/Trackers/TrackerExperienceView.cs.uid
 msgid "[b]--h --m --s[/b] left to"
-msgstr "[b]--h --m --s[/b] verbleibend bis"
+msgstr "[b]-- Std. -- Min. -- Sek.[/b] verbleibend bis"
 
 #: Components/Trackers/TrackerExperienceView.cs.uid
 msgid "[b]{0:time:d m full abbr}[/b] left to"

@@ -1,0 +1,432 @@
+{
+ "03535": [
+  "Vảy Dracolith bạo chúa"
+ ],
+ "03536": [
+  "Thắt lưng phủ cát"
+ ],
+ "03537": [
+  "Vảy đá quý ngọc lam"
+ ],
+ "03538": [
+  "Vảy đá quý hồng ngọc"
+ ],
+ "03539": [
+  "Vảy đá quý ngọc lục bảo"
+ ],
+ "03540": [
+  "Mũ sa mạc"
+ ],
+ "03541": [
+  "Găng giáp diệt quái cơ bản"
+ ],
+ "03542": [
+  "Khế ước thử thách diệt quái"
+ ],
+ "03543": [
+  "Mảnh đá quý"
+ ],
+ "03544": [
+  "Móc câu leo"
+ ],
+ "03545": [
+  "Da thuộc rồng bão"
+ ],
+ "03546": [
+  "Da giun cát"
+ ],
+ "03547": [
+  "Lõi nguyên tố bão"
+ ],
+ "03548": [
+  "Bộ đồ nuôi ong"
+ ],
+ "03549": [
+  "Pháp cụ pháp sư bóng tối"
+ ],
+ "03550": [
+  "Găng tay chiết xuất cẩn thận"
+ ],
+ "03551": [
+  "Giày mầm cây"
+ ],
+ "03552": [
+  "Găng tay than hồng"
+ ],
+ "03553": [
+  "Nồi nấu du mục"
+ ],
+ "03554": [
+  "Sách phù văn tập sự"
+ ],
+ "03555": [
+  "Dùi làm tên sắc bén"
+ ],
+ "03556": [
+  "Bộ kim khâu nanh rồng"
+ ],
+ "03557": [
+  "Găng tay thợ dệt"
+ ],
+ "03558": [
+  "Túi đeo kẻ trộm mộ"
+ ],
+ "03559": [
+  "Găng tay lò rèn Hob"
+ ],
+ "03560": [
+  "Cục vàng"
+ ],
+ "03561": [
+  "Cuốc chim thợ đá (hư hỏng)"
+ ],
+ "03562": "Có lẽ bạn nên sửa nó bằng kỹ năng Rèn.",
+ "03563": [
+  "Cuốc chim thợ đá"
+ ],
+ "03564": [
+  "Cuốc chim thấm tinh chất (hư hỏng)"
+ ],
+ "03565": [
+  "Cuốc chim thấm tinh chất"
+ ],
+ "03566": [
+  "Cuốc chim hỏa ngục (hư hỏng)"
+ ],
+ "03567": [
+  "Cuốc chim hỏa ngục"
+ ],
+ "03568": [
+  "Dấu Nhanh nhẹn"
+ ],
+ "03569": [
+  "Mũ nhẹ"
+ ],
+ "03570": "Thưởng bộ (với 3 món đồ nhẹ): -2% thời gian thực hiện Nhanh nhẹn",
+ "03571": [
+  "Áo nhẹ"
+ ],
+ "03572": [
+  "Quần nhẹ"
+ ],
+ "03573": [
+  "Giày nhẹ"
+ ],
+ "03574": [
+  "Mũ thần tốc"
+ ],
+ "03575": "Thưởng bộ (với 3 món đồ thần tốc): -4% thời gian thực hiện Nhanh nhẹn, -2% sát thương phải chịu trong Nhanh nhẹn",
+ "03576": [
+  "Áo thần tốc"
+ ],
+ "03577": [
+  "Quần thần tốc"
+ ],
+ "03578": [
+  "Giày thần tốc"
+ ],
+ "03579": [
+  "Mũ uyển chuyển"
+ ],
+ "03580": "Thưởng bộ (với 3 món đồ uyển chuyển): -6% thời gian thực hiện Nhanh nhẹn, -4% sát thương phải chịu trong Nhanh nhẹn",
+ "03581": [
+  "Áo uyển chuyển"
+ ],
+ "03582": [
+  "Quần uyển chuyển"
+ ],
+ "03583": [
+  "Giày uyển chuyển"
+ ],
+ "03584": [
+  "Mũ đệm"
+ ],
+ "03585": [
+  "Đệm khớp"
+ ],
+ "03586": [
+  "Gói hạt giống thảo dược I"
+ ],
+ "03587": [
+  "Gói hạt giống thảo dược II"
+ ],
+ "03588": [
+  "Gói phù văn nguyên tố I"
+ ],
+ "03589": [
+  "Gói phù văn nguyên tố II"
+ ],
+ "03590": [
+  "Gói phù văn phụ I"
+ ],
+ "03591": [
+  "Gói phù văn phụ II"
+ ],
+ "03592": [
+  "Gói đạn I (mũi tên)"
+ ],
+ "03593": [
+  "Gói đạn II (mũi tên)"
+ ],
+ "03594": [
+  "Gói đạn I (tên nỏ)"
+ ],
+ "03595": [
+  "Gói đạn II (tên nỏ)"
+ ],
+ "03596": [
+  "Gói đạn I (bumerang)"
+ ],
+ "03597": [
+  "Gói đạn II (bumerang)"
+ ],
+ "03598": [
+  "Bùa né tránh cận chiến"
+ ],
+ "03599": [
+  "Bùa né tránh tầm xa"
+ ],
+ "03600": [
+  "Bùa né tránh phép thuật"
+ ],
+ "03601": [
+  "Bùa chính xác cận chiến"
+ ],
+ "03602": [
+  "Bùa chính xác tầm xa"
+ ],
+ "03603": [
+  "Bùa chính xác phép thuật"
+ ],
+ "03604": [
+  "Bùa bảo vệ"
+ ],
+ "03605": [
+  "Bí kíp leo trèo"
+ ],
+ "03606": [
+  "Bí kíp nhảy"
+ ],
+ "03607": [
+  "Bí kíp né tránh"
+ ],
+ "03608": [
+  "Bí kíp giữ thăng bằng"
+ ],
+ "03609": [
+  "Bí kíp đu dây"
+ ],
+ "03610": [
+  "Mũ đốn gỗ sơ cấp"
+ ],
+ "03611": [
+  "Áo đốn gỗ sơ cấp"
+ ],
+ "03612": [
+  "Quần đốn gỗ sơ cấp"
+ ],
+ "03613": [
+  "Giày đốn gỗ sơ cấp"
+ ],
+ "03614": [
+  "Mũ câu cá sơ cấp"
+ ],
+ "03615": [
+  "Áo câu cá sơ cấp"
+ ],
+ "03616": [
+  "Quần câu cá sơ cấp"
+ ],
+ "03617": [
+  "Giày câu cá sơ cấp"
+ ],
+ "03618": [
+  "Mũ khai khoáng sơ cấp"
+ ],
+ "03619": [
+  "Áo khai khoáng sơ cấp"
+ ],
+ "03620": [
+  "Quần khai khoáng sơ cấp"
+ ],
+ "03621": [
+  "Giày khai khoáng sơ cấp"
+ ],
+ "03622": [
+  "Mũ đốn gỗ trung cấp"
+ ],
+ "03623": "Thưởng bộ (với 3 món đồ đốn gỗ trung cấp): +0.025% tỉ lệ tổ chim/tổ đại bàng",
+ "03624": [
+  "Áo đốn gỗ trung cấp"
+ ],
+ "03625": [
+  "Quần đốn gỗ trung cấp"
+ ],
+ "03626": [
+  "Giày đốn gỗ trung cấp"
+ ],
+ "03627": [
+  "Mũ câu cá trung cấp"
+ ],
+ "03628": "Thưởng bộ (với 3 món đồ câu cá trung cấp): tăng 10% tỉ lệ đặc biệt trong Câu cá",
+ "03629": [
+  "Áo câu cá trung cấp"
+ ],
+ "03630": [
+  "Quần câu cá trung cấp"
+ ],
+ "03631": [
+  "Giày câu cá trung cấp"
+ ],
+ "03632": [
+  "Mũ khai khoáng trung cấp"
+ ],
+ "03633": "Thưởng bộ (với 3 món đồ khai khoáng trung cấp): tăng 20% tỉ lệ hốc tinh thể",
+ "03634": [
+  "Áo khai khoáng trung cấp"
+ ],
+ "03635": [
+  "Quần khai khoáng trung cấp"
+ ],
+ "03636": [
+  "Giày khai khoáng trung cấp"
+ ],
+ "03637": [
+  "Mũ đốn gỗ tinh nhuệ"
+ ],
+ "03638": "Thưởng bộ (với 3 món đồ đốn gỗ tinh nhuệ): +2% tỉ lệ đốn đổ cây và bụi cây",
+ "03639": [
+  "Áo đốn gỗ tinh nhuệ"
+ ],
+ "03640": [
+  "Quần đốn gỗ tinh nhuệ"
+ ],
+ "03641": [
+  "Giày đốn gỗ tinh nhuệ"
+ ],
+ "03642": [
+  "Mũ câu cá tinh nhuệ"
+ ],
+ "03643": "Thưởng bộ (với 3 món đồ câu cá tinh nhuệ): tăng 20% tỉ lệ đặc biệt trong Câu cá",
+ "03644": [
+  "Áo câu cá tinh nhuệ"
+ ],
+ "03645": [
+  "Quần câu cá tinh nhuệ"
+ ],
+ "03646": [
+  "Giày câu cá tinh nhuệ"
+ ],
+ "03647": [
+  "Mũ khai khoáng tinh nhuệ"
+ ],
+ "03648": "Thưởng bộ (với 3 món đồ khai khoáng tinh nhuệ): +5% tỉ lệ nhân đôi trong Khai khoáng",
+ "03649": [
+  "Áo khai khoáng tinh nhuệ"
+ ],
+ "03650": [
+  "Quần khai khoáng tinh nhuệ"
+ ],
+ "03651": [
+  "Giày khai khoáng tinh nhuệ"
+ ],
+ "03652": [
+  "Găng tay rèn I"
+ ],
+ "03653": [
+  "Găng tay rèn II"
+ ],
+ "03654": [
+  "Găng tay chế tác I"
+ ],
+ "03655": [
+  "Găng tay chế tác II"
+ ],
+ "03656": [
+  "Găng tay chế tác cung tên I"
+ ],
+ "03657": [
+  "Găng tay chế tác cung tên II"
+ ],
+ "03658": [
+  "Găng tay chế tác phù văn I"
+ ],
+ "03659": [
+  "Găng tay chế tác phù văn II"
+ ],
+ "03660": [
+  "Găng tay chế tác da thú I"
+ ],
+ "03661": [
+  "Găng tay chế tác da thú II"
+ ],
+ "03662": [
+  "Găng tay thảo dược I"
+ ],
+ "03663": [
+  "Găng tay thảo dược II"
+ ],
+ "03664": [
+  "ToolbeltOPnessItem"
+ ],
+ "03665": [
+  "Bản đồ tới Vùng Đất Tro Tàn"
+ ],
+ "03666": [
+  "Bản đồ tới Hang Dày Đặc"
+ ],
+ "03667": [
+  "Bản đồ tới Bãi Torag"
+ ],
+ "03668": [
+  "Da Torag"
+ ],
+ "03669": [
+  "Da linh miêu bão"
+ ],
+ "03670": [
+  "Bẫy Torag cơ bản"
+ ],
+ "03671": [
+  "Bẫy Torag gia cố"
+ ],
+ "03672": [
+  "Bẫy Torag kiên cố"
+ ],
+ "03673": [
+  "Bít tết sư điểu sống"
+ ],
+ "03674": [
+  "Bít tết sư điểu"
+ ],
+ "03675": [
+  "Tầng ong khổng lồ"
+ ],
+ "03676": [
+  "Vỏ bọc xương rồng"
+ ],
+ "03677": [
+  "Quả độc"
+ ],
+ "03678": [
+  "Hũ gia vị sa mạc"
+ ],
+ "03679": [
+  "Vảy tiểu long cát"
+ ],
+ "03680": [
+  "Cá bơn lướt"
+ ],
+ "03681": [
+  "Quặng thiên thạch"
+ ],
+ "03682": [
+  "Bụi sao"
+ ],
+ "03683": [
+  "Bụi sao vàng"
+ ],
+ "03684": [
+  "Nhật ký quan sát thiên thạch"
+ ]
+}

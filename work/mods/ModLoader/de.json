@@ -22,5 +22,16 @@
  "ML21": "keine Taste",
  "ML22": "auch belegt von {0}",
  "ML23": "Melvor Mod Loader {0}, Mods: {1}",
- "ML24": "Klicke auf eine Taste, um sie zu ändern, und drücke dann die neue Taste (Strg, Umschalt oder Alt sind möglich; Esc bricht ab).\n„Aus“ gibt die Taste frei, das Fenster lässt sich weiter hier öffnen. Gespeichert in mods\\hotkeys.json."
+ "ML24": "Klicke auf eine Taste, um sie zu ändern, und drücke dann die neue Taste (Strg, Umschalt oder Alt sind möglich; Esc bricht ab).\n„Aus“ gibt die Taste frei, das Fenster lässt sich weiter hier öffnen. Gespeichert in mods\\hotkeys.json.",
+ "ML25": "Mod Loader:",
+ "ML26": "Diese Mods sind nicht gestartet: {0}. Vielleicht wurde das Spiel aktualisiert: Suche nach einer neueren Version der Mod. Details: MelvorModLoader.log.",
+ "ML27": "Diese Mod ist nicht gestartet: {0}. Vielleicht wurde das Spiel aktualisiert: Suche nach einer neueren Version der Mod. Details: MelvorModLoader.log.",
+ "ML28": "Die Mod {0} hatte einen Fehler, ein Teil von ihr ist bis zum nächsten Spielstart abgeschaltet. Vielleicht wurde das Spiel aktualisiert: Suche nach einer neueren Version der Mod. Details: MelvorModLoader.log.",
+ "ML29": "Alles von den entfernten Mods liegt jetzt in deiner Bank.",
+ "ML30": "Gegenstände der entfernten Mod {1} (Anzahl: {0}) warten auf Platz in deiner Bank. Mach ein paar Bankplätze frei, dann kommen sie von selbst hinein.",
+ "ML31": "Gegenstände der entfernten Mod {1} (Anzahl: {0}) kennt das Spiel gerade nicht (eine andere Mod fehlt); sie werden aufbewahrt.",
+ "ML32": "{0} ist installiert, aber nicht gestartet, deshalb fehlen ihre Gegenstände in dieser Sitzung. Sie wurden NICHT in normale Gegenstände umgewandelt: {1} bewahrt eine Kopie auf und gibt sie zurück, sobald die Mod wieder läuft. Suche nach einer neueren Version der Mod.",
+ "ML33": "Eine Kopie deines aktuellen Spielstands liegt in mods\\rescue-kept.",
+ "ML34": "Die entfernte Mod {0} hatte Gegenstände in diesem Spielstand, und ihre Liste ließ sich nicht lesen. Installiere die Mod wieder, bevor du weiterspielst: Der nächste Spielstand enthält sie sonst nicht mehr.",
+ "ML35": "Eine Kopie des aktuellen Spielstands liegt in {0}."
 }

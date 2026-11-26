@@ -22,5 +22,16 @@
  "ML21": "sem tecla",
  "ML22": "também usada por {0}",
  "ML23": "Melvor Mod Loader {0}, mods: {1}",
- "ML24": "Clique em uma tecla para alterá-la e pressione a nova tecla (Ctrl, Shift ou Alt podem acompanhar; Esc cancela).\n“Nenhuma” libera a tecla; a janela continua abrindo por aqui. Salvo em mods\\hotkeys.json."
+ "ML24": "Clique em uma tecla para alterá-la e pressione a nova tecla (Ctrl, Shift ou Alt podem acompanhar; Esc cancela).\n“Nenhuma” libera a tecla; a janela continua abrindo por aqui. Salvo em mods\\hotkeys.json.",
+ "ML25": "Mod Loader:",
+ "ML26": "Estes mods não iniciaram: {0}. O jogo pode ter sido atualizado: procure uma versão mais nova do mod. Detalhes: MelvorModLoader.log.",
+ "ML27": "Este mod não iniciou: {0}. O jogo pode ter sido atualizado: procure uma versão mais nova do mod. Detalhes: MelvorModLoader.log.",
+ "ML28": "O mod {0} teve um erro e uma parte dele foi desligada até o jogo ser iniciado de novo. O jogo pode ter sido atualizado: procure uma versão mais nova do mod. Detalhes: MelvorModLoader.log.",
+ "ML29": "Tudo dos mods removidos já está no seu banco.",
+ "ML30": "Itens do mod removido {1} (quantidade: {0}) esperam espaço no seu banco. Libere alguns espaços e eles entram sozinhos.",
+ "ML31": "Itens do mod removido {1} (quantidade: {0}) não são conhecidos pelo jogo agora (falta outro mod); eles ficam guardados.",
+ "ML32": "{0} está instalado mas não iniciou, por isso os itens dele faltam nesta sessão. Eles NÃO viraram itens normais: {1} guarda uma cópia e os devolve quando o mod voltar a funcionar. Procure uma versão mais nova do mod.",
+ "ML33": "Uma cópia do seu save atual foi guardada em mods\\rescue-kept.",
+ "ML34": "O mod removido {0} tinha itens neste save, e a lista deles não pôde ser lida. Reinstale esse mod antes de continuar: o próximo save do jogo não vai conter esses itens.",
+ "ML35": "Uma cópia do save atual foi guardada em {0}."
 }

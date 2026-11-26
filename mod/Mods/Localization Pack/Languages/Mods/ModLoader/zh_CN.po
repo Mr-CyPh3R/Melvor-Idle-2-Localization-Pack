@@ -1,0 +1,139 @@
+#
+msgid ""
+msgstr ""
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "MODS"
+msgstr "模组"
+
+msgid "Open a mod window, or change its key."
+msgstr "打开模组窗口，或更改它的快捷键。"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Close  ({0})"
+msgstr "关闭（{0}）"
+
+msgid "This menu"
+msgstr "此菜单"
+
+msgid "this menu"
+msgstr "此菜单"
+
+msgid "Off"
+msgstr "无"
+
+msgid "No mod has a window here yet."
+msgstr "目前还没有模组在这里提供窗口。"
+
+msgid ""
+"Click a key to change it, then press the new key (Ctrl, Shift or Alt can "
+"come with it; Esc cancels)."
+msgstr "点击按键进行更改，然后按下新按键（可与Ctrl、Shift或Alt组合，按Esc取消）。"
+
+msgid ""
+"\"Off\" frees the key, the window still opens from here. Saved in "
+"mods\\hotkeys.json."
+msgstr "选择“无”可取消按键，仍可从这里打开窗口。保存在mods\\hotkeys.json中。"
+
+msgid "Reset all keys"
+msgstr "重置所有按键"
+
+msgid "Every key back to what its mod uses by default."
+msgstr "将所有按键恢复为各模组的默认值。"
+
+msgid "Mods"
+msgstr "模组"
+
+msgid "Open any mod window, or change or switch off its key."
+msgstr "打开任意模组窗口，或更改、停用它的快捷键。"
+
+msgid "Press a key..."
+msgstr "请按下按键..."
+
+msgid "Press the new key now. Esc cancels."
+msgstr "请按下新按键。按Esc取消。"
+
+msgid "Click, then press the new key."
+msgstr "点击后按下新按键。"
+
+msgid "No key for this window."
+msgstr "此窗口没有快捷键。"
+
+msgid "The key that opens this menu."
+msgstr "打开此菜单的按键。"
+
+msgid "Two mods use the same key: open this to fix it."
+msgstr "两个模组使用了相同的按键：打开此处进行修正。"
+
+msgid "no key"
+msgstr "无按键"
+
+msgid "also used by {0}"
+msgstr "{0}也在使用"
+
+msgid "Melvor Mod Loader {0}  -  {1} mod"
+msgstr "Melvor Mod Loader {0}，模组：{1}"
+
+msgid ""
+"Click a key to change it, then press the new key (Ctrl, Shift or Alt can come with it; Esc cancels).\n"
+"\"Off\" frees the key, the window still opens from here. Saved in mods\\hotkeys.json."
+msgstr ""
+"点击按键进行更改，然后按下新按键（可与Ctrl、Shift或Alt组合，按Esc取消）。\n"
+"选择“无”可取消按键，仍可从这里打开窗口。保存在mods\\hotkeys.json中。"
+
+msgid "Mod loader:"
+msgstr "模组加载器："
+
+msgid ""
+"These mods did not start: {0}. The game may have been updated: look for a "
+"newer version of the mod. Details: MelvorModLoader.log."
+msgstr "这些模组未能启动：{0}。游戏可能已更新：请寻找模组的新版本。详情：MelvorModLoader.log。"
+
+msgid ""
+"This mod did not start: {0}. The game may have been updated: look for a "
+"newer version of the mod. Details: MelvorModLoader.log."
+msgstr "此模组未能启动：{0}。游戏可能已更新：请寻找模组的新版本。详情：MelvorModLoader.log。"
+
+msgid ""
+"The mod {0} ran into an error and part of it was switched off until the game"
+" is started again. The game may have been updated: look for a newer version "
+"of the mod. Details: MelvorModLoader.log."
+msgstr "模组 {0} 出错，其部分功能已关闭，直到再次启动游戏。游戏可能已更新：请寻找模组的新版本。详情：MelvorModLoader.log。"
+
+msgid "Everything of the removed mods is in your bank now."
+msgstr "已移除模组的所有物品现在都在你的银行里了。"
+
+msgid ""
+"{0} item(s) of the removed mod {1} wait for room in your bank. Free some "
+"bank slots and they go in by themselves."
+msgstr "已移除模组 {1} 的物品（{0} 个）正在等待银行空位。腾出一些银行格子，它们会自动放入。"
+
+msgid ""
+"{0} item(s) of the removed mod {1} are not known to the game now (another "
+"mod is missing); they are kept."
+msgstr "已移除模组 {1} 的物品（{0} 个）目前无法被游戏识别（缺少另一个模组）；它们已被保留。"
+
+msgid ""
+"{0} is installed but did not start, so its items are missing in this "
+"session. They were NOT turned into normal items: {1} keeps a copy of them "
+"and brings them back when it works again. Look for a newer version of the "
+"mod."
+msgstr ""
+"{0} 已安装但未能启动，因此本次游戏中缺少它的物品。它们没有被转换为普通物品：{1} 保留了副本，模组恢复正常后会归还。请寻找模组的新版本。"
+
+msgid "A copy of your save as it is now was kept in mods\\rescue-kept."
+msgstr "当前存档的副本已保存在 mods\\rescue-kept。"
+
+msgid ""
+"The removed mod {0} kept items in this save, and their list could not be "
+"read. Put that mod back before you play on: the game's next save will not "
+"hold them."
+msgstr "已移除的模组 {0} 在此存档中有物品，但无法读取其列表。继续游戏前请重新安装该模组：游戏的下一次存档将不包含这些物品。"
+
+msgid "A copy of the save as it is now was kept in {0}."
+msgstr "当前存档的副本已保存在 {0}。"
