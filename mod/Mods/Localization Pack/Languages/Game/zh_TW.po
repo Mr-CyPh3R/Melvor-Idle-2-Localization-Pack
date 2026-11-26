@@ -43033,7 +43033,7 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.Description
 #: Data/Packages/MelvorBase.json
 msgid "Good morning?"
-msgstr "早上好？"
+msgstr "早安？"
 
 #. TRANSLATORS: Quest.Steps.CompletedDescription
 #: Data/Packages/MelvorBase.json
@@ -55521,11 +55521,11 @@ msgstr "開啟或關閉篝火"
 
 #: Entities/Firemaking/firemaking_bonfire_view.tscn
 msgid "Add Logs to Bonfire"
-msgstr "向篝火添加原木"
+msgstr "向篝火加入原木"
 
 #: Entities/Firemaking/firemaking_bonfire_view.tscn
 msgid "Burning Logs is 5x more effective than manually adding."
-msgstr "燃燒原木的效果是手動添加的5倍。"
+msgstr "燃燒原木的效果是手動加入的5倍。"
 
 #: Entities/Firemaking/firemaking_bonfire_view.tscn
 msgid "25%"
