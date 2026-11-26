@@ -158,6 +158,8 @@ func _on_node_added(n: Node) -> void:
 		n.add_to_group(&"LocalizationPackCategoryFilters")
 	elif n is Control and n.has_method("UpdateStats") and "AccuracyStanceLabel" in n:
 		n.add_to_group(&"LocalizationPackOffensiveStats")
+	elif n is Control and n.has_method("UpdateDisplaySizeOptions") and n.has_method("GetMsaaLevelText") and "ScreenDropdown" in n:
+		n.add_to_group(&"LocalizationPackDisplaySettings")
 	if n is Label or n is RichTextLabel or n is Button:
 		if n.name == &"Message" and n.get_path() == ^"/root/Main/LoadingScreen/ColorRect/Message":
 			_loading_label = n
@@ -197,6 +199,21 @@ func _refresh_language_views() -> void:
 	for view in get_tree().get_nodes_in_group(&"LocalizationPackOffensiveStats"):
 		if view.is_node_ready():
 			view.call("UpdateStats")
+	# The game's own update (DisplaySettingsView.UpdateTranslations) stops with an exception at the window
+	# size list (it expects all sizes, the list only holds those that fit the screen), so the size, screen
+	# and anti-aliasing lists keep the previous language. Fill them again the way the game does.
+	for view in get_tree().get_nodes_in_group(&"LocalizationPackDisplaySettings"):
+		if not view.is_node_ready():
+			continue
+		view.call("UpdateDisplaySizeOptions")
+		var screens = view.get("ScreenDropdown")
+		if screens != null:
+			for i in int(screens.get("ItemCount")):  # FormatScreenOption cannot be called from here: same text "Monitor {0}"
+				screens.call("SetItemText", i, _t("Monitor {0}").replace("{0}", str(i)))
+		var msaa = view.get("MsaaDropdown")
+		if msaa != null:
+			for i in int(msaa.get("ItemCount")):  # items in the order of Viewport.MSAA: off, 2x, 4x, 8x
+				msaa.call("SetItemText", i, view.call("GetMsaaLevelText", i))
 
 
 func _update_loading_message(n) -> void:
