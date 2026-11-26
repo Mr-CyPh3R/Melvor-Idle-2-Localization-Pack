@@ -22,5 +22,16 @@
  "ML21": "brak klawisza",
  "ML22": "używany też przez: {0}",
  "ML23": "Melvor Mod Loader {0}, liczba modów: {1}",
- "ML24": "Kliknij klawisz, aby go zmienić, a potem naciśnij nowy klawisz (może być z Ctrl, Shift lub Alt; Esc anuluje).\n„Wył.” zwalnia klawisz, okno nadal można otworzyć stąd. Zapisywane w mods\\hotkeys.json."
+ "ML24": "Kliknij klawisz, aby go zmienić, a potem naciśnij nowy klawisz (może być z Ctrl, Shift lub Alt; Esc anuluje).\n„Wył.” zwalnia klawisz, okno nadal można otworzyć stąd. Zapisywane w mods\\hotkeys.json.",
+ "ML25": "Mod Loader:",
+ "ML26": "Te mody się nie uruchomiły: {0}. Gra mogła zostać zaktualizowana: poszukaj nowszej wersji moda. Szczegóły: MelvorModLoader.log.",
+ "ML27": "Ten mod się nie uruchomił: {0}. Gra mogła zostać zaktualizowana: poszukaj nowszej wersji moda. Szczegóły: MelvorModLoader.log.",
+ "ML28": "Mod {0} napotkał błąd i jego część została wyłączona do ponownego uruchomienia gry. Gra mogła zostać zaktualizowana: poszukaj nowszej wersji moda. Szczegóły: MelvorModLoader.log.",
+ "ML29": "Wszystko z usuniętych modów jest już w twoim banku.",
+ "ML30": "Przedmioty usuniętego moda {1} (liczba: {0}) czekają na miejsce w banku. Zwolnij kilka miejsc, a trafią tam same.",
+ "ML31": "Przedmioty usuniętego moda {1} (liczba: {0}) są teraz nieznane grze (brakuje innego moda); są przechowywane.",
+ "ML32": "{0} jest zainstalowany, ale się nie uruchomił, więc jego przedmiotów brakuje w tej sesji. NIE zamieniono ich w zwykłe przedmioty: {1} przechowuje ich kopię i odda je, gdy mod znów zadziała. Poszukaj nowszej wersji moda.",
+ "ML33": "Kopia twojego obecnego zapisu jest w mods\\rescue-kept.",
+ "ML34": "Usunięty mod {0} miał przedmioty w tym zapisie, a ich listy nie dało się odczytać. Przywróć ten mod, zanim zagrasz dalej: następny zapis gry nie będzie ich zawierał.",
+ "ML35": "Kopia obecnego zapisu jest w {0}."
 }

@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.4.0 (Unreleased)
+## 1.4.0 (2026-11-26)
 
 ### New languages
 * Chinese, Simplified (简体中文): 13,708 texts. 11,394 (83%) from the game's own Chinese translation, which is included in the game files but not available in the language menu yet, 2,314 (17%) translated or corrected by AI. The Mod Loader menu (F1) is translated too.
@@ -12,6 +12,9 @@
 * Tracker bar: the tracking period list ("1 minute", "10 minutes" and its heading), the target level ("Level 3") and the time left ("1m 9s") are now translated.
 * Short times like "1m 9s" are written with the units of the language (German "1 Min. 9 Sek.", French "1 min 9 s"), also in the character selection ("less than 1m") and in the empty tracker ("--h --m --s"). German shows "/Std." instead of "/h" there.
 * Russian and Polish: durations use the right plural form again ("1 минута", "12 секунд" instead of "1 минуты", "12 секунды"), for example in the tracker, the offline progress and the last save time.
+
+### Melvor Mod Loader
+* The notes Mod Loader 0.3.0 shows in the game (a mod did not start, a mod was partly switched off after an error, items of removed mods waiting for room in the bank) are translated into every language of the pack.
 
 ### Other
 * In the game view, the game version ("Melvor Idle 2: v0.11.7-alpha") is shown right of the logo in the top left corner instead of the top centre, so it no longer covers the window title and the skill header.

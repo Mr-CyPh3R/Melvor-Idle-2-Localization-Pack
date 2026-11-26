@@ -10,8 +10,9 @@ extends Node
 
 const MOD_DIR := "Mods/Localization Pack"
 const CHECKS_PER_FRAME := 200   # known text controls re-checked per frame
-const MAX_TEMPLATE_LEN := 200   # longer texts are not used as patterns
+const MAX_TEMPLATE_LEN := 300   # longer texts are not used as patterns
 const LOG_IGNORE := ["Games by Malcs (C)"]  # texts that stay English on purpose (start of text)
+const LOADER_NOTE := "Mod loader: "  # Melvor Mod Loader notes: this prefix and one or more messages
 
 var _languages: PackedStringArray = []    # language codes of this pack, e.g. ["de"]
 var _loading_label: Control
@@ -438,6 +439,8 @@ func _translate(s: String) -> String:
 	var t := _t(s)
 	if t != s:
 		return t
+	if s.begins_with(LOADER_NOTE):
+		return _translate_note(s)
 	var core := s.strip_edges()
 	if core != s and _t(core) != core:
 		return s.replace(core, _t(core))
@@ -455,6 +458,28 @@ func _translate(s: String) -> String:
 	if t != core:
 		return s.replace(core, _replace_units(t))
 	return _replace_units(s)
+
+
+## A Mod Loader note: "Mod loader: " and messages joined by spaces, each translated on its own (exact text or
+## pattern). The note stays as it is unless every message is known.
+func _translate_note(s: String) -> String:
+	var out := PackedStringArray([_t(LOADER_NOTE.strip_edges())])
+	var rest := s.substr(LOADER_NOTE.length())
+	while not rest.is_empty():
+		var end := rest.find(". ")
+		while true:  # shortest piece ending in "." that is a known message
+			var piece := rest if end < 0 else rest.substr(0, end + 1)
+			var t := _t(piece)
+			if t == piece:
+				t = _from_template(piece)
+			if t != piece:
+				out.append(t)
+				rest = "" if end < 0 else rest.substr(end + 2)
+				break
+			if end < 0:
+				return s
+			end = rest.find(". ", end + 1)
+	return " ".join(out)
 
 
 ## Build patterns from all translated entries with placeholders, e.g. "{0:N0} Unlocks Available".

@@ -22,5 +22,16 @@
  "ML21": "không có phím",
  "ML22": "cũng được {0} sử dụng",
  "ML23": "Melvor Mod Loader {0}, số mod: {1}",
- "ML24": "Nhấp vào một phím để đổi, rồi nhấn phím mới (có thể kèm Ctrl, Shift hoặc Alt; Esc để hủy).\n“Tắt” sẽ bỏ gán phím, cửa sổ vẫn mở được từ đây. Lưu trong mods\\hotkeys.json."
+ "ML24": "Nhấp vào một phím để đổi, rồi nhấn phím mới (có thể kèm Ctrl, Shift hoặc Alt; Esc để hủy).\n“Tắt” sẽ bỏ gán phím, cửa sổ vẫn mở được từ đây. Lưu trong mods\\hotkeys.json.",
+ "ML25": "Trình tải mod:",
+ "ML26": "Các mod này không khởi động được: {0}. Có thể trò chơi đã được cập nhật: hãy tìm phiên bản mới hơn của mod. Chi tiết: MelvorModLoader.log.",
+ "ML27": "Mod này không khởi động được: {0}. Có thể trò chơi đã được cập nhật: hãy tìm phiên bản mới hơn của mod. Chi tiết: MelvorModLoader.log.",
+ "ML28": "Mod {0} gặp lỗi và một phần của nó đã bị tắt cho đến lần khởi động trò chơi tiếp theo. Có thể trò chơi đã được cập nhật: hãy tìm phiên bản mới hơn của mod. Chi tiết: MelvorModLoader.log.",
+ "ML29": "Mọi thứ của các mod đã gỡ giờ đều nằm trong ngân hàng của bạn.",
+ "ML30": "Vật phẩm của mod đã gỡ {1} (số lượng: {0}) đang chờ chỗ trống trong ngân hàng. Hãy dọn bớt vài ô, chúng sẽ tự vào.",
+ "ML31": "Vật phẩm của mod đã gỡ {1} (số lượng: {0}) hiện trò chơi không nhận ra (thiếu một mod khác); chúng được giữ lại.",
+ "ML32": "{0} đã được cài nhưng không khởi động được, nên vật phẩm của nó bị thiếu trong phiên này. Chúng KHÔNG bị đổi thành vật phẩm thường: {1} giữ một bản sao và trả lại khi mod hoạt động trở lại. Hãy tìm phiên bản mới hơn của mod.",
+ "ML33": "Một bản sao của bản lưu hiện tại đã được giữ trong mods\\rescue-kept.",
+ "ML34": "Mod đã gỡ {0} có vật phẩm trong bản lưu này, và không đọc được danh sách của chúng. Hãy cài lại mod đó trước khi chơi tiếp: lần lưu tiếp theo của trò chơi sẽ không còn chúng.",
+ "ML35": "Một bản sao của bản lưu hiện tại đã được giữ trong {0}."
 }

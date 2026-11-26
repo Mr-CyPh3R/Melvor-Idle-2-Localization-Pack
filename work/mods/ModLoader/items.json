@@ -94,5 +94,49 @@
  {
   "id": "ML24",
   "en": "Click a key to change it, then press the new key (Ctrl, Shift or Alt can come with it; Esc cancels).\n\"Off\" frees the key, the window still opens from here. Saved in mods\\hotkeys.json."
+ },
+ {
+  "id": "ML25",
+  "en": "Mod loader:"
+ },
+ {
+  "id": "ML26",
+  "en": "These mods did not start: {0}. The game may have been updated: look for a newer version of the mod. Details: MelvorModLoader.log."
+ },
+ {
+  "id": "ML27",
+  "en": "This mod did not start: {0}. The game may have been updated: look for a newer version of the mod. Details: MelvorModLoader.log."
+ },
+ {
+  "id": "ML28",
+  "en": "The mod {0} ran into an error and part of it was switched off until the game is started again. The game may have been updated: look for a newer version of the mod. Details: MelvorModLoader.log."
+ },
+ {
+  "id": "ML29",
+  "en": "Everything of the removed mods is in your bank now."
+ },
+ {
+  "id": "ML30",
+  "en": "{0} item(s) of the removed mod {1} wait for room in your bank. Free some bank slots and they go in by themselves."
+ },
+ {
+  "id": "ML31",
+  "en": "{0} item(s) of the removed mod {1} are not known to the game now (another mod is missing); they are kept."
+ },
+ {
+  "id": "ML32",
+  "en": "{0} is installed but did not start, so its items are missing in this session. They were NOT turned into normal items: {1} keeps a copy of them and brings them back when it works again. Look for a newer version of the mod."
+ },
+ {
+  "id": "ML33",
+  "en": "A copy of your save as it is now was kept in mods\\rescue-kept."
+ },
+ {
+  "id": "ML34",
+  "en": "The removed mod {0} kept items in this save, and their list could not be read. Put that mod back before you play on: the game's next save will not hold them."
+ },
+ {
+  "id": "ML35",
+  "en": "A copy of the save as it is now was kept in {0}."
  }
 ]

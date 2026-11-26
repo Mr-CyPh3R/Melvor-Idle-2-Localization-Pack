@@ -85,3 +85,56 @@ msgid ""
 msgstr ""
 "點擊按鍵進行更改，然後按下新按鍵（可與Ctrl、Shift或Alt組合，按Esc取消）。\n"
 "選擇「無」可取消按鍵，仍可從這裡打開視窗。儲存在mods\\hotkeys.json中。"
+
+msgid "Mod loader:"
+msgstr "模組載入器："
+
+msgid ""
+"These mods did not start: {0}. The game may have been updated: look for a "
+"newer version of the mod. Details: MelvorModLoader.log."
+msgstr "這些模組未能啟動：{0}。遊戲可能已更新：請尋找模組的新版本。詳情：MelvorModLoader.log。"
+
+msgid ""
+"This mod did not start: {0}. The game may have been updated: look for a "
+"newer version of the mod. Details: MelvorModLoader.log."
+msgstr "此模組未能啟動：{0}。遊戲可能已更新：請尋找模組的新版本。詳情：MelvorModLoader.log。"
+
+msgid ""
+"The mod {0} ran into an error and part of it was switched off until the game"
+" is started again. The game may have been updated: look for a newer version "
+"of the mod. Details: MelvorModLoader.log."
+msgstr ""
+"模組 {0} 發生錯誤，其部分功能已關閉，直到再次啟動遊戲。遊戲可能已更新：請尋找模組的新版本。詳情：MelvorModLoader.log。"
+
+msgid "Everything of the removed mods is in your bank now."
+msgstr "已移除模組的所有物品現在都在你的銀行裡了。"
+
+msgid ""
+"{0} item(s) of the removed mod {1} wait for room in your bank. Free some "
+"bank slots and they go in by themselves."
+msgstr "已移除模組 {1} 的物品（{0} 個）正在等待銀行空位。騰出一些銀行格子，它們會自動放入。"
+
+msgid ""
+"{0} item(s) of the removed mod {1} are not known to the game now (another "
+"mod is missing); they are kept."
+msgstr "已移除模組 {1} 的物品（{0} 個）目前無法被遊戲識別（缺少另一個模組）；它們已被保留。"
+
+msgid ""
+"{0} is installed but did not start, so its items are missing in this "
+"session. They were NOT turned into normal items: {1} keeps a copy of them "
+"and brings them back when it works again. Look for a newer version of the "
+"mod."
+msgstr ""
+"{0} 已安裝但未能啟動，因此本次遊戲中缺少它的物品。它們沒有被轉換為普通物品：{1} 保留了副本，模組恢復正常後會歸還。請尋找模組的新版本。"
+
+msgid "A copy of your save as it is now was kept in mods\\rescue-kept."
+msgstr "目前存檔的副本已儲存在 mods\\rescue-kept。"
+
+msgid ""
+"The removed mod {0} kept items in this save, and their list could not be "
+"read. Put that mod back before you play on: the game's next save will not "
+"hold them."
+msgstr "已移除的模組 {0} 在此存檔中有物品，但無法讀取其清單。繼續遊戲前請重新安裝該模組：遊戲的下一次存檔將不包含這些物品。"
+
+msgid "A copy of the save as it is now was kept in {0}."
+msgstr "目前存檔的副本已儲存在 {0}。"

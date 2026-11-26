@@ -34857,7 +34857,7 @@ msgid ""
 "Topaz Bolts will let me climb just fine."
 msgstr ""
 "Không, không. Đồ thông thường vừa không vừa, vừa không chịu nổi thân hình "
-"tráng lệ của Gol. Tên nỏ hoàng ngọc là đủ cho tôi leo rồi."
+"tráng lệ của Gol. Tên nỏ hoàng ngọc là đủ cho Gol leo rồi."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -34871,7 +34871,7 @@ msgid ""
 "shafts will hold me!"
 msgstr ""
 "Đầu tên sẽ cắm vào bất kỳ bề mặt nào, nếu đập đủ mạnh. Rồi thân tên bằng sắt"
-" sẽ giữ tôi lại!"
+" sẽ giữ Gol lại!"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -34974,8 +34974,8 @@ msgid ""
 "baubles we've found, but I'm far from talentless. Don't you want to learn if"
 " it's even worth digging up this hillside before you do so?"
 msgstr ""
-"Sao ngài dám chứ? Có thể tôi có lơ đãng đi xem vài món đồ trang sức được yểm"
-" phép mà chúng ta tìm thấy, nhưng tôi chẳng hề vô dụng. Chẳng lẽ ngài không "
+"Sao ông dám chứ? Có thể tôi có lơ đãng đi xem vài món đồ trang sức được yểm "
+"phép mà chúng ta tìm thấy, nhưng tôi chẳng hề vô dụng. Chẳng lẽ ông không "
 "muốn biết sườn đồi này có đáng đào hay không trước khi đào sao?"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
@@ -35182,7 +35182,7 @@ msgstr "Có bẫy, tôi e là vậy. Chúng ta phải vô hiệu hóa nó trư�
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "You're sure we can't just smack it and run?"
-msgstr "Ông chắc là bọn ta không thể đập một phát rồi chạy à?"
+msgstr "Ngươi chắc là bọn ta không thể đập một phát rồi chạy à?"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -35719,7 +35719,7 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.Description
 #: Data/Packages/MelvorBase.json
 msgid "I never fancied myself a teacher, but let's take a stab at it."
-msgstr "Tôi chưa bao giờ nghĩ mình hợp làm thầy, nhưng cứ thử xem sao."
+msgstr "Mình chưa bao giờ nghĩ mình hợp làm thầy, nhưng cứ thử xem sao."
 
 #. TRANSLATORS: Quest.Steps.CompletedDescription
 #: Data/Packages/MelvorBase.json
@@ -35998,7 +35998,7 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.CompletedDescription
 #: Data/Packages/MelvorBase.json
 msgid "I have faith in her. Kind of."
-msgstr "Tôi tin cô ấy. Kiểu vậy."
+msgstr "Mình tin cô ấy. Kiểu vậy."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -36189,7 +36189,7 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.Description
 #: Data/Packages/MelvorBase.json
 msgid "I'm not too sure how much they'll need... let's get quite a bit."
-msgstr "Tôi không chắc họ cần bao nhiêu… cứ lấy thật nhiều vào."
+msgstr "Mình không chắc họ cần bao nhiêu… cứ lấy thật nhiều vào."
 
 #. TRANSLATORS: Quest.Steps.CompletedDescription
 #: Data/Packages/MelvorBase.json
@@ -38321,8 +38321,8 @@ msgid ""
 "Lovely work you've got here... Don't know if you made these or found 'em, "
 "but my boys will appreciate it nonetheless."
 msgstr ""
-"Đồ đẹp đấy… Không biết bạn tự làm hay tìm được, nhưng đám thợ của tôi sẽ quý"
-" lắm."
+"Đồ đẹp đấy… Không biết ngươi tự làm hay tìm được, nhưng đám thợ của ta sẽ "
+"quý lắm."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -38330,8 +38330,8 @@ msgid ""
 "Ha! Won't even make you swing a pick this time, think Morlin's got some more"
 " important work for ya."
 msgstr ""
-"Ha! Lần này khỏi bắt bạn vung cuốc nữa, chắc Morlin có việc quan trọng hơn "
-"cho bạn."
+"Ha! Lần này khỏi bắt ngươi vung cuốc nữa, chắc Morlin có việc quan trọng hơn"
+" cho ngươi."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -38422,7 +38422,7 @@ msgstr "Đó là việc đầu tiên Whudgrath làm đấy."
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "I blew up a lil' bit."
-msgstr "Tôi bị nổ tung một tí."
+msgstr "Ta bị nổ tung một tí."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -38435,7 +38435,7 @@ msgid ""
 "Never better! But now I'm pretty keen on opening it up too. Gotta be "
 "something good in there, I'm sure."
 msgstr ""
-"Khỏe hơn bao giờ hết! Mà giờ tôi cũng háo hức mở nó ra lắm rồi. Bên trong "
+"Khỏe hơn bao giờ hết! Mà giờ ta cũng háo hức mở nó ra lắm rồi. Bên trong "
 "chắc chắn phải có thứ gì hay ho."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
@@ -38478,7 +38478,7 @@ msgid ""
 "the crossbowmen were the best answer to riddling those flimsy little mages "
 "with bolts."
 msgstr ""
-"Hồi trước tôi có một thời gian ở trong một đại đội quân sự, và lúc nào cũng "
+"Hồi trước ta có một thời gian ở trong một đại đội quân sự, và lúc nào cũng "
 "thấy lính nỏ là giải pháp tốt nhất để găm tên nỏ đầy người mấy tên pháp sư "
 "yếu ớt."
 
@@ -38577,13 +38577,13 @@ msgid ""
 "Now, I'm as game for a scrap as anyone, but you don't find it concerning at "
 "all, giving them weapons?"
 msgstr ""
-"Này, tôi cũng ham đánh nhau như ai, nhưng mọi người không thấy lo chút nào "
+"Này, ta cũng ham đánh nhau như ai, nhưng các ngươi không thấy lo chút nào "
 "khi đưa vũ khí cho chúng sao?"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "Just me?"
-msgstr "Chỉ mình tôi thấy vậy à?"
+msgstr "Chỉ mình ta thấy vậy à?"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -38600,8 +38600,8 @@ msgid ""
 "Right, and... do you think the city's guardians would take too kindly to us "
 "plundering their home?"
 msgstr ""
-"Phải, và… cô nghĩ những người canh giữ thành phố sẽ vui vẻ để chúng ta cướp "
-"bóc nhà của họ à?"
+"Phải, và… nhóc nghĩ những người canh giữ thành phố sẽ vui vẻ để chúng ta "
+"cướp bóc nhà của họ à?"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -38615,7 +38615,7 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "I'll do my best to appear... friendly. How's my smile?"
-msgstr "Tôi sẽ cố tỏ ra… thân thiện. Nụ cười của tôi thế nào?"
+msgstr "Ta sẽ cố tỏ ra… thân thiện. Nụ cười của ta thế nào?"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -40910,7 +40910,7 @@ msgstr ""
 msgid ""
 "Just... you and me, clearing a rockslide? How well can you swing a pick?"
 msgstr ""
-"Chỉ… bạn và tôi, đi dọn một vụ lở đá? Bạn vung cuốc chim giỏi đến mức nào?"
+"Chỉ… cậu và tôi, đi dọn một vụ lở đá? Cậu vung cuốc chim giỏi đến mức nào?"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -40979,7 +40979,7 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "Wow, do you think it was on purpose?"
-msgstr "Chà, bạn nghĩ cô ta cố tình à?"
+msgstr "Chà, cậu nghĩ cô ta cố tình à?"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -42092,7 +42092,7 @@ msgid ""
 "\n"
 "\"They'll come back soon.\""
 msgstr ""
-"Trước mặt bạn là thân xác tàn tạ của Thủ lĩnh, máu tím bệnh hoạn tuôn ra từ các vết thương. Cuối cùng bạn cũng đưa mắt nhìn những người xung quanh, và bạn nhận ra… mọi chuyện đã kết thúc. Lực lượng tấn công chỉ còn lại chưa đến một nửa, nhưng người của Azamire vẫn đứng vững. Gloob đứng giữa đám dân quân, thân hình xanh lục sẫm phủ đầy máu xanh lam của lũ hobgolbin, và anh ta hò reo, tiếng reo được những người dân quân còn lại tự hào đáp lại. Jass quát ra mệnh lệnh, dùng cánh tay cụt chỉ vào những người bị thương, rồi dùng tay còn lại kéo một người bị thương về phía cổng.\n"
+"Trước mặt bạn là thân xác tàn tạ của Thủ lĩnh, máu tím bệnh hoạn tuôn ra từ các vết thương. Cuối cùng bạn cũng đưa mắt nhìn những người xung quanh, và bạn nhận ra… mọi chuyện đã kết thúc. Lực lượng tấn công chỉ còn lại chưa đến một nửa, nhưng người của Azamire vẫn đứng vững. Gloob đứng giữa đám dân quân, thân hình xanh lục sẫm phủ đầy máu xanh lam của lũ hobgolbin, và nó hò reo, tiếng reo được những người dân quân còn lại tự hào đáp lại. Jass quát ra mệnh lệnh, dùng cánh tay cụt chỉ vào những người bị thương, rồi dùng tay còn lại kéo một người bị thương về phía cổng.\n"
 "\n"
 "Nửa tá cảm xúc lướt qua gương mặt [Companion Name] ngay khi bạn nhìn sang, nhưng nổi bật nhất trong số đó là sự nhẹ nhõm. Hai người ôm chầm lấy nhau chỉ trong thoáng chốc rồi đi về phía Thủ lĩnh, kẻ giờ chỉ còn thở hắt ra từng hơi đứt quãng. Khi hai bạn đến gần, con quái bật ra một tràng cười khàn khàn rồi chuyển thành cơn ho sặc sụa. Bạn hỏi nó hai câu: những chuyến hàng đã đi đâu, và kẻ nó làm việc cho là ai?\n"
 "\n"
@@ -45861,8 +45861,8 @@ msgid ""
 "Yes. She's alright. Recovering, like you, though she got it a bit rougher "
 "than you did."
 msgstr ""
-"Phải. Con bé ổn. Đang hồi phục, giống con, dù con bé bị nặng hơn con một "
-"chút."
+"Phải. Đứa trẻ ấy ổn. Đang hồi phục, giống con, dù đứa trẻ ấy bị nặng hơn con"
+" một chút."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -47408,7 +47408,7 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "I think they just took it as a consolation prize."
-msgstr "Tôi nghĩ chúng chỉ lấy nó làm giải khuyến khích thôi."
+msgstr "Mình nghĩ chúng chỉ lấy nó làm giải khuyến khích thôi."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -47436,7 +47436,7 @@ msgstr "Đằng nào cũng phải xử lý đống xác này."
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "I've never had wolf before, but they have to be stringy right?"
-msgstr "Tôi chưa ăn thịt sói bao giờ, nhưng chắc là dai nhách nhỉ?"
+msgstr "Mình chưa ăn thịt sói bao giờ, nhưng chắc là dai nhách nhỉ?"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -47444,7 +47444,7 @@ msgid ""
 "And I don't know how keen I am on eating something that has maybe eaten a "
 "person before."
 msgstr ""
-"Mà tôi cũng không mặn mà lắm với việc ăn thứ có khi đã từng ăn thịt người."
+"Mà mình cũng không mặn mà lắm với việc ăn thứ có khi đã từng ăn thịt người."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -47452,8 +47452,8 @@ msgid ""
 "It's a rare day someone comes this far north, I'd say the odds they've eaten"
 " someone are low."
 msgstr ""
-"Hiếm lắm mới có người lên tận phương bắc xa thế này, tôi đoán khả năng chúng"
-" từng ăn ai đó là thấp thôi."
+"Hiếm lắm mới có người lên tận phương bắc xa thế này, mình đoán khả năng "
+"chúng từng ăn ai đó là thấp thôi."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -47473,12 +47473,12 @@ msgstr "…Emor là ở đâu?"
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "...Dunno. Something I heard people in the capitol saying."
-msgstr "…Chịu. Tôi nghe người ta nói thế ở kinh đô."
+msgstr "…Chịu. Mình nghe người ta nói thế ở kinh đô."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "You get some rest, I'll work on getting all these bodies prepared."
-msgstr "Cậu nghỉ ngơi đi, để tôi lo sơ chế đống xác này."
+msgstr "Cậu nghỉ ngơi đi, để mình lo sơ chế đống xác này."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -47493,7 +47493,7 @@ msgstr "Chắc chắn."
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "I'll feed you to them first, if you just jinxed us."
-msgstr "Nếu cậu vừa nói gở thì tôi sẽ đem cậu cho chúng ăn trước đấy."
+msgstr "Nếu cậu vừa nói gở thì mình sẽ đem cậu cho chúng ăn trước đấy."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -47501,8 +47501,8 @@ msgid ""
 "I will never expect you to understand or forgive our apparent betrayal, but "
 "I promise you..."
 msgstr ""
-"Tôi không bao giờ mong bạn hiểu hay tha thứ cho sự phản bội tưởng như của "
-"chúng tôi, nhưng tôi hứa với bạn…"
+"Ta sẽ không bao giờ mong các con hiểu hay tha thứ cho những gì trông như sự "
+"phản bội của chúng ta, nhưng ta hứa với các con…"
 
 #. TRANSLATORS: Quest.Steps.Description
 #: Data/Packages/MelvorBase.json
@@ -47535,7 +47535,7 @@ msgstr "Chà, món này… ngon thật đấy!"
 msgid ""
 "I think every meal is made a little better if it tried to eat you first."
 msgstr ""
-"Tôi nghĩ bữa ăn nào cũng ngon hơn một chút nếu nó từng định ăn thịt mình "
+"Mình nghĩ bữa ăn nào cũng ngon hơn một chút nếu nó từng định ăn thịt mình "
 "trước."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
@@ -47555,13 +47555,13 @@ msgid ""
 "The forest provides. Makes me wonder what other kinds of creatures taste "
 "like."
 msgstr ""
-"Rừng luôn ban tặng. Làm tôi tò mò không biết các loài sinh vật khác ăn vào "
+"Rừng luôn ban tặng. Làm mình tò mò không biết các loài sinh vật khác ăn vào "
 "có vị thế nào."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "I really liked that Stonehopper back in the Broken Pass, too."
-msgstr "Tôi cũng rất thích con Châu Chấu Đá ở Đèo Gãy hồi trước."
+msgstr "Mình cũng rất thích con Châu Chấu Đá ở Đèo Gãy hồi trước."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -47577,7 +47577,8 @@ msgstr ""
 msgid ""
 "I didn't expect to like the wolf this much, but what about some weird stuff?"
 msgstr ""
-"Tôi không ngờ lại thích thịt sói đến thế, nhưng còn mấy thứ kỳ quặc thì sao?"
+"Mình không ngờ lại thích thịt sói đến thế, nhưng còn mấy thứ kỳ quặc thì "
+"sao?"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -47610,7 +47611,7 @@ msgstr "Có thể ngon tuyệt, cũng có thể làm bọn mình trúng độc c
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "I'm down."
-msgstr "Tôi chơi."
+msgstr "Mình chơi."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -47687,12 +47688,12 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "He was sleeping, I just wanted to wake him up!"
-msgstr "Ông ấy đang ngủ, tôi chỉ muốn đánh thức ông ấy thôi mà!"
+msgstr "Ông ấy đang ngủ, mình chỉ muốn đánh thức ông ấy thôi mà!"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "Just giving you a hard time."
-msgstr "Tôi trêu cậu chút thôi."
+msgstr "Mình trêu cậu chút thôi."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -47871,7 +47872,7 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "I'm going to find those kids when we get back to the capitol."
-msgstr "Về tới kinh đô là tôi sẽ đi tìm lũ nhóc đó."
+msgstr "Về tới kinh đô là mình sẽ đi tìm lũ nhóc đó."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -47989,7 +47990,7 @@ msgid ""
 "...They've almost doubtlessly changed their names through the years, but do "
 "Era and Talm ring a bell?"
 msgstr ""
-"…Chắc chắn họ đã đổi tên qua bao năm tháng, nhưng ông có biết Era và Talm "
+"…Chắc chắn họ đã đổi tên qua bao năm tháng, nhưng ngài có biết Era và Talm "
 "không?"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
@@ -48065,15 +48066,15 @@ msgid ""
 "Don't get visitors with as much fire n' 'em as the both of you everyday. "
 "Thanks for indulging my people, they'll like you a lot more for that."
 msgstr ""
-"Đâu phải ngày nào cũng có khách nhiều lửa như hai người. Cảm ơn đã chiều "
-"thần dân của ta, nhờ vậy họ sẽ quý các người hơn nhiều."
+"Đâu phải ngày nào cũng có khách nhiều lửa như hai vị. Cảm ơn đã chiều thần "
+"dân của ta, nhờ vậy họ sẽ quý các vị hơn nhiều."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid ""
 "It didn't seem that any of you were particularly keen on letting us not "
 "participate."
-msgstr "Có vẻ chẳng ai trong các ông muốn để chúng tôi đứng ngoài cả."
+msgstr "Có vẻ chẳng ai trong các ngài muốn để chúng tôi đứng ngoài cả."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -48081,14 +48082,13 @@ msgid ""
 "You could have gone crying to your mothers at any moment, but you would have"
 " been laughed out of the courtroom."
 msgstr ""
-"Các người có thể khóc lóc chạy về với mẹ bất cứ lúc nào, nhưng rồi sẽ bị "
-"cười đến mức phải rời khỏi triều đình."
+"Các vị có thể khóc lóc chạy về với mẹ bất cứ lúc nào, nhưng rồi sẽ bị cười "
+"đến mức phải rời khỏi triều đình."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "The Archivist told me what you seek. At least, part of it."
-msgstr ""
-"Người giữ văn khố đã kể với ta các người tìm kiếm gì. Ít ra là một phần."
+msgstr "Người giữ văn khố đã kể với ta các vị tìm kiếm gì. Ít ra là một phần."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -48105,8 +48105,8 @@ msgid ""
 "I don't imagine the two of you have the time for such things, if you're "
 "telling the truth about our... mutual acquaintances."
 msgstr ""
-"Ta không nghĩ hai người có thời gian cho những chuyện như vậy, nếu các người"
-" nói thật về… những người quen chung của chúng ta."
+"Ta không nghĩ hai vị có thời gian cho những chuyện như vậy, nếu các vị nói "
+"thật về… những người quen chung của chúng ta."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -48169,8 +48169,8 @@ msgid ""
 "I believe that, which is the only reason I didn't toss you out the second it"
 " was mentioned."
 msgstr ""
-"Ta tin điều đó, và đó là lý do duy nhất ta không tống các người ra ngoài "
-"ngay khi chuyện ấy được nhắc tới."
+"Ta tin điều đó, và đó là lý do duy nhất ta không tống các vị ra ngoài ngay "
+"khi chuyện ấy được nhắc tới."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -48233,9 +48233,9 @@ msgid ""
 "Yes, and it'll be your great pleasure to do so. My lovely daughter will be "
 "your ward. You couldn't find yourself in better hands if you tried."
 msgstr ""
-"Có, và các người sẽ rất vinh hạnh được làm điều đó. Con gái yêu quý của ta "
-"sẽ trông nom các người. Có cố đến mấy các người cũng không tìm được ai đáng "
-"tin cậy hơn đâu."
+"Có, và các vị sẽ rất vinh hạnh được làm điều đó. Con gái yêu quý của ta sẽ "
+"trông nom các vị. Có cố đến mấy các vị cũng không tìm được ai đáng tin cậy "
+"hơn đâu."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -48290,7 +48290,7 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.Description
 #: Data/Packages/MelvorBase.json
 msgid "I've been working on the Stoneeeeway~"
-msgstr "Tôi miệt mài xây Đường Đááááá~"
+msgstr "Mình miệt mài xây Đường Đááááá~"
 
 #. TRANSLATORS: Quest.Steps.CompletedDescription
 #: Data/Packages/MelvorBase.json
@@ -48890,7 +48890,7 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.Description
 #: Data/Packages/MelvorBase.json
 msgid "I'll focus on breaking up the bigger rocks."
-msgstr "Tôi sẽ lo đập mấy tảng đá lớn."
+msgstr "Mình sẽ lo đập mấy tảng đá lớn."
 
 #. TRANSLATORS: Quest.Steps.CompletedDescription
 #: Data/Packages/MelvorBase.json
@@ -49195,8 +49195,8 @@ msgid ""
 "I don't know. The Soulsmiths were able to control those dead Dwarves during "
 "the Linking, maybe it has something to do with that?"
 msgstr ""
-"Tôi không biết. Thợ Rèn Hồn đã điều khiển được những người lùn đã chết trong"
-" Lễ Nối Liền, có lẽ có liên quan đến chuyện đó?"
+"Mình không biết. Thợ Rèn Hồn đã điều khiển được những người lùn đã chết "
+"trong Lễ Nối Liền, có lẽ có liên quan đến chuyện đó?"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -49221,7 +49221,7 @@ msgstr "Này, [Player Name]?"
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "I didn't want to ask in front of the princess..."
-msgstr "Tôi không muốn hỏi trước mặt công chúa…"
+msgstr "Mình không muốn hỏi trước mặt công chúa…"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -49243,8 +49243,8 @@ msgid ""
 "Guess it's a good thing we didn't save some of those explosive runes then, "
 "huh? Wouldn't have minded putting them to good use."
 msgstr ""
-"Vậy chắc may là bọn mình không giữ lại mấy phù văn nổ đó nhỉ? Tôi cũng chẳng"
-" ngại đem chúng ra dùng cho đáng đâu."
+"Vậy chắc may là bọn mình không giữ lại mấy phù văn nổ đó nhỉ? Mình cũng "
+"chẳng ngại đem chúng ra dùng cho đáng đâu."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -49367,8 +49367,8 @@ msgid ""
 "I haven't had the chance to properly thank you for returning my daughter to "
 "me, and unfortunately I am rather tied down at present."
 msgstr ""
-"Ta chưa có dịp cảm ơn các người cho đàng hoàng vì đã đưa con gái về với ta, "
-"và tiếc là hiện giờ ta khá bận bịu."
+"Ta chưa có dịp cảm ơn các vị cho đàng hoàng vì đã đưa con gái về với ta, và "
+"tiếc là hiện giờ ta khá bận bịu."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -49382,7 +49382,7 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "Would you rather I leave it to those beneath me?"
-msgstr "Các người muốn ta phó mặc cho kẻ dưới hơn à?"
+msgstr "Các vị muốn ta phó mặc cho kẻ dưới hơn à?"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -49437,7 +49437,7 @@ msgid ""
 "You have my blessing and what I can spare of my men, though free hands are "
 "in short supply."
 msgstr ""
-"Các người có sự ủng hộ của ta và số binh lính ta có thể điều được, dù người "
+"Các vị có sự ủng hộ của ta và số binh lính ta có thể điều được, dù người "
 "rảnh tay đang thiếu lắm."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
@@ -49460,7 +49460,7 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
 msgid "I'm sure we can figure something out, can't we [Player Name]?"
-msgstr "Tôi chắc bọn mình sẽ nghĩ ra cách thôi, phải không [Player Name]?"
+msgstr "Mình chắc là bọn mình sẽ nghĩ ra cách thôi, phải không [Player Name]?"
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -50223,7 +50223,7 @@ msgid ""
 "I imagine it'd look a little like a balloon filled with red paint hitting a "
 "wall."
 msgstr ""
-"Tôi tưởng tượng trông sẽ giống một quả bóng bay đựng đầy sơn đỏ đập vào "
+"Mình tưởng tượng trông sẽ giống một quả bóng bay đựng đầy sơn đỏ đập vào "
 "tường."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
@@ -50459,12 +50459,12 @@ msgstr ""
 #. TRANSLATORS: Quest.Steps.Description
 #: Data/Packages/MelvorBase.json
 msgid "I feel soggy and miserable."
-msgstr "Tôi thấy ướt sũng và khổ sở quá."
+msgstr "Mình thấy ướt sũng và khổ sở quá."
 
 #. TRANSLATORS: Quest.Steps.CompletedDescription
 #: Data/Packages/MelvorBase.json
 msgid "I just want to find the beast and get back home."
-msgstr "Tôi chỉ muốn tìm ra con quái thú rồi về nhà."
+msgstr "Mình chỉ muốn tìm ra con quái thú rồi về nhà."
 
 #. TRANSLATORS: Quest.Steps.Dialogue.DialogueText
 #: Data/Packages/MelvorBase.json
@@ -71495,7 +71495,7 @@ msgstr "Vâng, tôi… nổi tiếng là thỉnh thoảng kiếm được vài t
 
 #. Zusatztext (nicht in der offiziellen Vorlage)
 msgid "What would you... contacts, want?"
-msgstr "Mấy… mối quen biết của ngươi muốn gì?"
+msgstr "Mấy… mối quen biết của cậu muốn gì?"
 
 #. Zusatztext (nicht in der offiziellen Vorlage)
 msgid ""
