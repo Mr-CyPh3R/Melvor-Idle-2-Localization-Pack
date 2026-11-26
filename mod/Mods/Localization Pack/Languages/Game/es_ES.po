@@ -67960,11 +67960,11 @@ msgstr "Esperando una acción..."
 
 #: Components/Trackers/TrackerExperienceView.cs.uid
 msgid "--h --m --s"
-msgstr "--h --m --s"
+msgstr "-- h -- min -- s"
 
 #: Components/Trackers/TrackerExperienceView.cs.uid
 msgid "[b]--h --m --s[/b] left to"
-msgstr "[b]--h --m --s[/b] restantes para"
+msgstr "[b]-- h -- min -- s[/b] restantes para"
 
 #: Components/Trackers/TrackerExperienceView.cs.uid
 msgid "[b]{0:time:d m full abbr}[/b] left to"

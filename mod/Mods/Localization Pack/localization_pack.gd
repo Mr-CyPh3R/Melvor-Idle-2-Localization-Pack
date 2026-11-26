@@ -49,6 +49,9 @@ var _re_unit: RegEx      # number + time unit in English or any pack language (b
 var _re_short_time := RegEx.create_from_string("(?<![\\p{L}\\d])\\d+[hms](?: \\d+[hms])*(?![\\p{L}\\d])")  # "1m 11s"
 var _re_short_part := RegEx.create_from_string("(\\d+)([hms])")
 var _item_texts := {}     # popup instance_id -> {item index: [original, written]}
+var _version_bar: Control  # background panel of the game version label
+var _version_home := []    # its original anchors and offsets
+var _game_logo: Control    # logo in the top left corner of the game view
 var _unit_words := {}     # lower-case unit word -> unit key ("sekunden" -> "second")
 
 
@@ -168,6 +171,11 @@ func _on_node_added(n: Node) -> void:
 		n.add_to_group(&"LocalizationPackOffensiveStats")
 	elif n is Control and n.name == &"Container" and n.get_parent() != null and n.get_parent().name == &"GameVersion":
 		_move_version_info.call_deferred(n)
+	elif n is TextureRect and n.get_parent() != null and n.get_parent().name == &"LogoContainer":
+		_game_logo = n
+		n.item_rect_changed.connect(_place_version_info, CONNECT_DEFERRED)
+		n.visibility_changed.connect(_place_version_info, CONNECT_DEFERRED)
+		_place_version_info.call_deferred()
 	elif n is Control and n.has_method("UpdateDisplaySizeOptions") and n.has_method("GetMsaaLevelText") and "ScreenDropdown" in n:
 		n.add_to_group(&"LocalizationPackDisplaySettings")
 	elif n is SpinBox:  # tracker target level: prefix "Level"
@@ -202,16 +210,31 @@ func _refresh_save_times(local_time: Label, cloud_time: Label) -> void:
 
 
 # The game version ("Melvor Idle 2: v0.11.7-alpha") sits at the top centre over the window title and the
-# skill header; move it to the bottom centre.
+# skill header. In the game view, show it right of the logo in the top left corner, centred on the logo.
 func _move_version_info(container: Control) -> void:
 	var bar = container.get_node_or_null(^"Control/Background") if is_instance_valid(container) else null
-	if bar is Control and bar.anchor_top == 0.0:
-		# The bar hangs from the top edge (offsets -4 to 20); mirror it to hang from the bottom edge.
-		var top: float = bar.offset_top
-		bar.anchor_top = 1.0
-		bar.anchor_bottom = 1.0
-		bar.offset_top = -bar.offset_bottom
-		bar.offset_bottom = -top
+	if bar is Control:
+		_version_bar = bar
+		_version_home = [bar.anchor_left, bar.anchor_top, bar.anchor_right, bar.anchor_bottom, bar.offset_left, bar.offset_top, bar.offset_right, bar.offset_bottom]
+		_place_version_info()
+
+
+func _place_version_info() -> void:
+	if not is_instance_valid(_version_bar) or _version_home.is_empty():
+		return
+	var home: Array = _version_home
+	var values := home
+	if is_instance_valid(_game_logo) and _game_logo.is_visible_in_tree():
+		var logo := _game_logo.get_global_rect()
+		var width: float = home[6] - home[4]
+		var height: float = home[7] - home[5]
+		var left := logo.end.x + 8.0
+		var top := logo.get_center().y - height / 2.0
+		values = [0.0, 0.0, 0.0, 0.0, left, top, left + width, top + height]
+	for k in 4:
+		_version_bar.set(["anchor_left", "anchor_top", "anchor_right", "anchor_bottom"][k], values[k])
+	for k in 4:
+		_version_bar.set(["offset_left", "offset_top", "offset_right", "offset_bottom"][k], values[k + 4])
 
 
 func _translate_items(popup: PopupMenu) -> void:
@@ -373,8 +396,9 @@ func _short_units(s: String) -> String:
 	var matches := _re_short_time.search_all(s)
 	if matches.is_empty():
 		return s
-	var parts := _t("--h --m --s").split("--")
-	if parts.size() != 4 or parts[1].strip_edges() == "h":
+	var units := _t("--h --m --s")
+	var parts := units.split("--")
+	if parts.size() != 4 or units == "--h --m --s":
 		return s
 	var letters := {"h": parts[1].strip_edges(false, true), "m": parts[2].strip_edges(false, true), "s": parts[3].strip_edges(false, true)}
 	for i in range(matches.size() - 1, -1, -1):

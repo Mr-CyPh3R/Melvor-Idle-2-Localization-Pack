@@ -67941,11 +67941,11 @@ msgstr "Aguardando ação..."
 
 #: Components/Trackers/TrackerExperienceView.cs.uid
 msgid "--h --m --s"
-msgstr "--h --m --s"
+msgstr "-- h -- min -- s"
 
 #: Components/Trackers/TrackerExperienceView.cs.uid
 msgid "[b]--h --m --s[/b] left to"
-msgstr "Faltam [b]--h --m --s[/b] para"
+msgstr "Faltam [b]-- h -- min -- s[/b] para"
 
 #: Components/Trackers/TrackerExperienceView.cs.uid
 msgid "[b]{0:time:d m full abbr}[/b] left to"
