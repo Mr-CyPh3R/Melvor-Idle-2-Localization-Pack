@@ -9,6 +9,8 @@
 
 ### Fixes
 * After a language change, the window size, screen and anti-aliasing lists in the display settings now show the new language too.
+* Tracker bar: the tracking period list ("1 minute", "10 minutes" and its heading), the target level ("Level 3") and the time left ("1m 9s") are now translated.
+* Russian and Polish: durations use the right plural form again ("1 минута", "12 секунд" instead of "1 минуты", "12 секунды"), for example in the tracker, the offline progress and the last save time.
 
 ### Other
 * The game version ("Melvor Idle 2: v0.11.7-alpha") is shown at the bottom centre instead of the top centre, so it no longer covers the window title and the skill header.

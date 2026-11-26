@@ -16,7 +16,7 @@ const LOG_IGNORE := ["Games by Malcs (C)"]  # texts that stay English on purpose
 var _languages: PackedStringArray = []    # language codes of this pack, e.g. ["de"]
 var _loading_label: Control
 const ENGLISH_UNITS := {"units": {"day": ["day", "days"], "hour": ["hour", "hours"], "minute": ["minute", "minutes"], "second": ["second", "seconds"], "turn": ["turn", "turns"]}}
-const PLURAL_PROBE := "Localization Pack plural probe"  # helper message, see _plural_index
+const PLURAL_SELF_TEST := "nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);"  # Russian rule for the self-check in _read_config
 const LOADING_MESSAGES := ["Loading...", "Loading Game View...", "Loading Offline Progress...", "Loading Save...", "Preloading Base Game Data...", "Loading Entity Resources...", "Loading Data Editor..."]
 var _loading_messages := {}
 var _log_missing := false
@@ -24,7 +24,6 @@ var _log_file: FileAccess
 var _logged := {}
 
 var _active := ""          # currently active pack language ("" = off)
-var _plural_probes := {}   # languages whose catalog already holds PLURAL_PROBE
 var _nodes: Array = []     # tracked text controls (WeakRef)
 var _queue: Array = []     # newly added controls
 var _pos := 0
@@ -47,6 +46,9 @@ var _re_latin := RegEx.create_from_string("[A-Za-z]{3,}")
 var _re_word := RegEx.create_from_string("[A-Za-z]{4,}")
 var _re_token := RegEx.create_from_string("\\{[^{}]+\\}")
 var _re_unit: RegEx      # number + time unit in English or any pack language (built in _read_config)
+var _re_short_time := RegEx.create_from_string("(?<![\\p{L}\\d])\\d+[hms](?: \\d+[hms])*(?![\\p{L}\\d])")  # "1m 11s"
+var _re_short_part := RegEx.create_from_string("(\\d+)([hms])")
+var _item_texts := {}     # popup instance_id -> {item index: [original, written]}
 var _unit_words := {}     # lower-case unit word -> unit key ("sekunden" -> "second")
 
 
@@ -99,6 +101,12 @@ func _read_config() -> void:
 		alternatives.append(_escape(w))
 	_re_unit = RegEx.create_from_string("(?i)(?<![\\p{Latin}\\d])(\\d+(?:[.,]\\d+)?) ?(" + "|".join(alternatives) + ")(?!\\p{Latin})")
 	_log_missing = cfg.get("log_missing", false)
+	# Self-check of the plural rule evaluation (Russian rule): 1, 2, 5, 11, 12, 21, 22, 111
+	var got := []
+	for n in [1, 2, 5, 11, 12, 21, 22, 111]:
+		got.append(_plural_rule_index(PLURAL_SELF_TEST, n))
+	if got != [0, 1, 2, 2, 2, 0, 1, 2]:
+		push_warning("Localization Pack: plural rule self-check failed: %s" % [got])
 	print("Localization Pack %s loaded, languages: %s" % [cfg.get("version", "?"), ", ".join(_languages)])
 
 
@@ -162,6 +170,12 @@ func _on_node_added(n: Node) -> void:
 		_move_version_info.call_deferred(n)
 	elif n is Control and n.has_method("UpdateDisplaySizeOptions") and n.has_method("GetMsaaLevelText") and "ScreenDropdown" in n:
 		n.add_to_group(&"LocalizationPackDisplaySettings")
+	elif n is SpinBox:  # tracker target level: prefix "Level"
+		n.add_to_group(&"LocalizationPackSpinBoxes")
+		_translate_spin_box.call_deferred(n)
+	if n is OptionButton:  # tracker period list: items "1 minute", "10 minutes" set by the game
+		var popup: PopupMenu = n.get_popup()
+		popup.about_to_popup.connect(_translate_items.bind(popup))
 	if n is Label or n is RichTextLabel or n is Button:
 		if n.name == &"Message" and n.get_path() == ^"/root/Main/LoadingScreen/ColorRect/Message":
 			_loading_label = n
@@ -200,7 +214,36 @@ func _move_version_info(container: Control) -> void:
 		bar.offset_bottom = -top
 
 
+func _translate_items(popup: PopupMenu) -> void:
+	var items: Dictionary = _item_texts.get(popup.get_instance_id(), {})
+	for i in popup.item_count:
+		var s := popup.get_item_text(i)
+		var entry: Array = items.get(i, [])
+		var original: String = entry[0] if not entry.is_empty() and entry[1] == s else s
+		var t := _convert(original) if _active != "" else original
+		items[i] = [original, t]
+		if t != s:
+			popup.set_item_text(i, t)
+	_item_texts[popup.get_instance_id()] = items
+
+
+func _translate_spin_box(box) -> void:
+	if not is_instance_valid(box):
+		return
+	for property in ["prefix", "suffix"]:
+		var meta: String = "localization_pack_" + property
+		var s: String = box.get(property)
+		var entry: Array = box.get_meta(meta, [])
+		var original: String = entry[0] if not entry.is_empty() and entry[1] == s else s
+		var t := _convert(original) if _active != "" and not original.is_empty() else original
+		box.set_meta(meta, [original, t])
+		if t != s:
+			box.set(property, t)
+
+
 func _refresh_language_views() -> void:
+	for box in get_tree().get_nodes_in_group(&"LocalizationPackSpinBoxes"):
+		_translate_spin_box(box)
 	for card in get_tree().get_nodes_in_group(&"LocalizationPackShopCards"):
 		var quantity: int = card.get("_purchaseQuantity")
 		if card.is_node_ready() and quantity >= 0:
@@ -312,7 +355,7 @@ func _restore_all() -> void:
 func _convert(s: String) -> String:
 	if _cache.has(s):
 		return _cache[s]
-	var t := _translate(s)
+	var t := _short_units(_translate(s))
 	if _cache.size() > 20000:
 		_cache.clear()
 	_cache[s] = t
@@ -322,6 +365,25 @@ func _convert(s: String) -> String:
 			_logged[key] = true
 			_log_line(s)
 	return t
+
+
+## "1m 11s" (tracker time to level, game formats it in English) with the unit letters of the active
+## language, taken from its translation of "--h --m --s" ("--ч --м --с", "-- giờ -- phút -- giây").
+func _short_units(s: String) -> String:
+	var matches := _re_short_time.search_all(s)
+	if matches.is_empty():
+		return s
+	var parts := _t("--h --m --s").split("--")
+	if parts.size() != 4 or parts[1].strip_edges() == "h":
+		return s
+	var letters := {"h": parts[1].strip_edges(false, true), "m": parts[2].strip_edges(false, true), "s": parts[3].strip_edges(false, true)}
+	for i in range(matches.size() - 1, -1, -1):
+		var m: RegExMatch = matches[i]
+		var pieces := PackedStringArray()
+		for p in _re_short_part.search_all(m.get_string()):
+			pieces.append(p.get_string(1) + letters[p.get_string(2)])
+		s = s.substr(0, m.get_start()) + " ".join(pieces) + s.substr(m.get_end())
+	return s
 
 
 func _ignored(s: String) -> bool:
@@ -500,23 +562,79 @@ func _replace_units(s: String) -> String:
 
 
 ## Which of the unit forms in mod.json fits the number. Two forms: "1" singular, else plural (as before).
-## More forms (Polish: 1 / 2-4 / 5+): Godot evaluates the "Plural-Forms" rule of the active .po
-## (tools/build.py writes it from "plural_forms" in mod.json), so no language is named here.
+## More forms (Polish: 1 / 2-4 / 5+): the "plural_forms" rule from mod.json, so no language is named here.
+## Not Godot's get_plural_message: Godot 4.7 returns wrong forms for the Russian rule ("1 минуты").
 func _plural_index(number: String, count: int) -> int:
 	if count <= 2 or not number.is_valid_int():
 		# Decimals ("1.5") take the second form: plural in two-form languages, Polish "1,5 sekundy".
 		return 0 if number == "1" else mini(1, count - 1)
-	var catalog := _game_catalog(_active, _units.get(_active, {}))
-	if catalog == null:
-		return 0 if number == "1" else mini(1, count - 1)
-	if not _plural_probes.has(_active):
-		var forms := PackedStringArray()
-		for i in count:
-			forms.append(str(i))
-		catalog.add_plural_message(PLURAL_PROBE, forms)
-		_plural_probes[_active] = true
-	var index := String(catalog.get_plural_message(PLURAL_PROBE, PLURAL_PROBE, number.to_int()))
-	return clampi(index.to_int(), 0, count - 1) if index.is_valid_int() else mini(1, count - 1)
+	var index := _plural_rule_index(String(_units.get(_active, {}).get("plural_forms", "")), number.to_int())
+	return clampi(index, 0, count - 1) if index >= 0 else mini(1, count - 1)
+
+
+## Form index for n from a gettext rule ("nplurals=3; plural=(n==1 ? 0 : ...);"), -1 if it cannot be read.
+func _plural_rule_index(forms: String, n: int) -> int:
+	var start := forms.find("plural=")
+	if start < 0:
+		return -1
+	return _eval_plural(forms.substr(start + 7).strip_edges().trim_suffix(";"), n)
+
+
+## Evaluates a C ternary chain "c1 ? 0 : c2 ? 1 : 2"; the conditions go to Godot's Expression.
+func _eval_plural(rule: String, n: int) -> int:
+	var e := rule.strip_edges()
+	while e.begins_with("(") and _paren_end(e) == e.length() - 1:
+		e = e.substr(1, e.length() - 2).strip_edges()
+	var question := -1
+	var colon := -1
+	var depth := 0
+	var nested := 0
+	for i in e.length():
+		var c := e[i]
+		if c == "(":
+			depth += 1
+		elif c == ")":
+			depth -= 1
+		elif depth == 0 and c == "?":
+			if question < 0:
+				question = i
+			else:
+				nested += 1
+		elif depth == 0 and c == ":" and question >= 0:
+			if nested == 0:
+				colon = i
+				break
+			nested -= 1
+	if question < 0:
+		var value = _eval_condition(e, n)
+		return -1 if value == null else int(value)
+	if colon < 0:
+		return -1
+	var condition = _eval_condition(e.substr(0, question), n)
+	if condition == null:
+		return -1
+	return _eval_plural(e.substr(question + 1, colon - question - 1) if condition else e.substr(colon + 1), n)
+
+
+## Index of the bracket that closes the "(" at position 0.
+func _paren_end(e: String) -> int:
+	var depth := 0
+	for i in e.length():
+		if e[i] == "(":
+			depth += 1
+		elif e[i] == ")":
+			depth -= 1
+			if depth == 0:
+				return i
+	return -1
+
+
+func _eval_condition(code: String, n: int) -> Variant:
+	var expr := Expression.new()
+	if expr.parse(code.replace("&&", " and ").replace("||", " or "), ["n"]) != OK:
+		return null
+	var value = expr.execute([n])
+	return null if expr.has_execute_failed() else value
 
 
 func _escape(s: String) -> String:
