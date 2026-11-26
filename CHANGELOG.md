@@ -14,7 +14,7 @@
 * Russian and Polish: durations use the right plural form again ("1 минута", "12 секунд" instead of "1 минуты", "12 секунды"), for example in the tracker, the offline progress and the last save time.
 
 ### Melvor Mod Loader
-* The notes Mod Loader 0.3.0 shows in the game (a mod did not start, a mod was partly switched off after an error, items of removed mods waiting for room in the bank) are translated into every language of the pack.
+* All 10 notes that Mod Loader 0.3.0 shows in the game (for example a mod did not start, a mod was partly switched off after an error, items of removed mods waiting for room in the bank) are translated into every language of the pack. Messages that only go to MelvorModLoader.log stay in English.
 
 ### Other
 * In the game view, the game version ("Melvor Idle 2: v0.11.7-alpha") is shown right of the logo in the top left corner instead of the top centre, so it no longer covers the window title and the skill header.
