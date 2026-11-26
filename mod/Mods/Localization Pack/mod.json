@@ -291,6 +291,37 @@
       "less_than": "不到{0}",
       "wrap_anywhere": true,
       "plural_forms": "nplurals=1; plural=0;"
+    },
+    "vi_VN": {
+      "name": "Tiếng Việt",
+      "english_name": "Vietnamese",
+      "file": "Languages/Game/vi_VN.po",
+      "display": "Tiếng Việt, Việt Nam",
+      "locale": "vi",
+      "units": {
+        "day": [
+          "ngày",
+          "ngày"
+        ],
+        "hour": [
+          "giờ",
+          "giờ"
+        ],
+        "minute": [
+          "phút",
+          "phút"
+        ],
+        "second": [
+          "giây",
+          "giây"
+        ],
+        "turn": [
+          "lượt",
+          "lượt"
+        ]
+      },
+      "less_than": "dưới {0}",
+      "plural_forms": "nplurals=1; plural=0;"
     }
   }
 }
