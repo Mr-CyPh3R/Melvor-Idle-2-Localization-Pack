@@ -37,3 +37,16 @@ Tên riêng: tên người và địa danh một từ giữ nguyên (Azamire, Hi
 
 ## Tên đã thống nhất
 (Bổ sung sau mỗi vòng dịch theo dạng English=Tiếng Việt.)
+
+Vòng 1 (gói 000–023):
+- Staff (chung)=Gậy phép; gậy nguyên tố=Gậy gió/nước/đất/lửa; Battlestaff=Gậy chiến · Battlewand=Đũa chiến · Sceptre=Quyền trượng · Mageshield=Khiên pháp sư
+- Ward=Kết giới (mọi chỗ, kể cả "Maximum Ward"=Kết giới tối đa, Ward Breaker=phá kết giới) · Defender=Khiên phụ · Mallet=Búa vồ · Boomerang=Bumerang · Javelin=Lao · Arrowtips=Đầu mũi tên · Throw Hammer=Búa ném · Twin Blades=Song đao · Morning Star=Chùy gai · Katana=Katana
+- Vambraces=Hộ cổ tay · Cowl=Mũ trùm · Chaps=Quần da · Chainmail=giáp xích · Studded=đính đinh · Hard Leather=da cứng · Camo=ngụy trang · (u)=(nâng cấp) · (Lit)=(đã thắp) · (Damaged)=(hư hỏng)
+- Gỗ: Normal=thường · Oak=sồi · Willow=liễu · Teak=tếch · Maple=phong · Mahogany=gụ · Yew=thủy tùng · Magic=ma thuật (Gỗ ma thuật, Cung ma thuật) · Redwood=gỗ đỏ · Hard Oak=sồi cứng
+- Đá quý: Topaz=hoàng ngọc · Jadestone=ngọc bích · Black Opal=ngọc mắt mèo đen · Uncut=… thô
+- Phù văn: Air/Mind/Water/Earth/Fire/Chaos/Body/Death/Decay/Blood/Soul = gió/tâm trí/nước/đất/lửa/hỗn mang/thể xác/tử thần/mục rữa/máu/linh hồn
+- Vật liệu/tiền tố: Dawnsteel=thép Bình Minh (trong tên ghép viết thường "thép") · Refined=tinh luyện · Astral=tinh tú (đứng cuối) · Dragonrune=long văn · Nightscale=vảy đêm · Moonscale=vảy trăng · Nightreed=sậy đêm · Shadowflame=hắc diễm · Ivory Athanaeum=học viện ngà · Mystic=huyền bí · Infernal=hỏa ngục · Blackstone=Đá Đen · Dragon Bone=xương rồng (Cactus=cây xương rồng)
+- Bậc: Basic/Reinforced/Fortified=cơ bản/gia cố/kiên cố · Novice/Intermediate/Adept/Elite=sơ cấp/trung cấp/trung cấp/tinh nhuệ · "X Rank N"=X bậc N · Hội: Initiate=Nhập môn, Apprentice=học việc, Journeyman=lành nghề, Skilled=thành thạo, Veteran=lão luyện, Prime=thượng thừa
+- Thuốc: "Thuốc <kỹ năng> P1-A", Super=… siêu cấp ("Thuốc câu cá siêu cấp P1-A")
+- Sinh vật: Elk=nai · Caribou=tuần lộc · Wildebeast=linh dương đầu bò · Phantom=bóng ma · Spectre=u linh · Harpy=yêu điểu · Raptor=mãnh cầm · Griffin=sư điểu · Wurm=giun khổng lồ · Wyvern=phi long · Drake=tiểu long · Stonehopper=Châu Chấu Đá · Soulsmith=Thợ Rèn Hồn · Golbin, Dracolith, Kraken giữ nguyên
+- Chiến đấu/hệ thống: Power Rating=chỉ số uy lực · Protection Rating=chỉ số bảo vệ · critical hit=chí mạng · Crush=Đập · Accurate=Chuẩn xác · Powerful=Uy lực · Long-Range=Tầm dài · Stealth=độ ẩn nấp · Fortune=vận may · Tracking=truy dấu · Trapping=đặt bẫy · Knowledge (Chiêm tinh)=tri thức · Junk=rác · Gold Pieces=Vàng · Slayer Coins=Xu diệt quái · Prayer Points=Điểm cầu nguyện · Set Bonus=Thưởng bộ · Toolbelt slot=ô thắt lưng công cụ · Geode=Hốc tinh thể · Lantern=Đèn lồng · "Act 1 - X"=Hồi 1: X
