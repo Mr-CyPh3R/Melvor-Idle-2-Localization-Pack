@@ -1,0 +1,152 @@
+{
+ "13543": "Sát thương tối đa có thể:",
+ "13544": "Công thức (nếu có) sẽ hiện ở đây. Nhiều vật phẩm có công thức thay thế.",
+ "13545": "Công dụng sẽ hiện ở đây. Công dụng riêng biệt sẽ được đánh dấu “hoàn thành”",
+ "13546": "Nguồn sẽ hiện ở đây. Nguồn riêng biệt sẽ được đánh dấu “Hoàn thành”",
+ "13547": "Các thống kê được theo dõi sẽ hiện ở đây",
+ "13548": "Yêu cầu / Đề xuất",
+ "13549": "Hoàn thành đường vượt chướng ngại",
+ "13550": "Luyện Nhanh nhẹn bằng cách thử sức với các đường vượt chướng ngại. Mỗi chướng ngại vật có một tỉ lệ thành công. Thất bại ở một chướng ngại vật sẽ khiến đường vượt chướng ngại bắt đầu lại từ đầu.",
+ "13551": "Thất bại ở chướng ngại vật",
+ "13552": "[color=orange_red]Thất bại ở chướng ngại vật sẽ gây sát thương cho bạn[/color]. Hãy trang bị Thức ăn để tự động hồi máu và trụ được qua nhiều lần thử liên tiếp.",
+ "13553": "Luyện kỹ thuật",
+ "13554": "Luyện các kỹ thuật Nhanh nhẹn khác nhau trong hạng mục luyện tập tương ứng để nâng cao khả năng vượt chướng ngại vật.",
+ "13555": "Độ khó chướng ngại vật",
+ "13556": "Cấp kỹ thuật của bạn so với độ khó của chướng ngại vật quyết định tỉ lệ thành công. Một số chướng ngại vật, như Bẫy, thì có tỉ lệ thành công cố định.",
+ "13557": "[color=green]Tìm các vật phẩm Bản đồ đặc biệt[/color] khắp trò chơi để mở khóa lối mòn đặc biệt. Hoàn thành các lối mòn này sẽ mở ra nội dung mới mạnh mẽ.",
+ "13558": "Kiếm Dấu Nhanh nhẹn (vật phẩm)",
+ "13559": "Hoàn thành đường vượt chướng ngại có thể được thưởng Dấu, dùng được trong Cửa hàng Nhanh nhẹn để đổi lấy vật phẩm giá trị.",
+ "13560": "Khám phá lối mòn đặc biệt",
+ "13561": "Luyện tập tại đấu trường",
+ "13562": "Tham gia Đấu trường Nhanh nhẹn để nhận phần thưởng đặc biệt, dùng được trong Cửa hàng Nhanh nhẹn.",
+ "13563": "Chế thuốc",
+ "13564": "Dùng thảo dược từ Trồng trọt cùng các nguyên liệu khác để chế thuốc mang lại thưởng mạnh cho nhiều kỹ năng.",
+ "13565": "Hiệu lực thuốc",
+ "13566": "Mỗi loại thuốc có một mức hiệu lực. Hiệu lực càng cao thì thưởng khi dùng càng mạnh.",
+ "13567": "Hạng thuốc",
+ "13568": "Thuốc có hai hạng: A và B. Mỗi hạng cho thưởng khác nhau, giúp bạn chọn thứ phù hợp nhất với nhu cầu của mình.",
+ "13569": "Bậc thuốc",
+ "13570": "Mở khóa các bậc thuốc cao hơn, như Thuốc siêu cấp, gộp thưởng của các bậc trước vào một loại thuốc mạnh mẽ.",
+ "13571": "So sánh với:",
+ "13572": "(Chuyển bộ trang bị bằng TAB)",
+ "13573": "Nghiên cứu chòm sao",
+ "13574": "Nghiên cứu chòm sao để nhận tri thức. Mỗi chòm sao gắn với những kỹ năng nhất định.",
+ "13575": "Mở khóa nút chính và nút phụ",
+ "13576": "Tích lũy đủ tri thức để mở khóa nút chính và nút phụ, mang lại thưởng vĩnh viễn và nội dung mở khóa mới cho các kỹ năng liên quan.",
+ "13577": "Quan sát sự kiện hiếm",
+ "13578": "Khám phá các sự kiện hiếm, như Mưa sao băng và Sao rơi, để mở khóa hoặc tiếp cận thêm nội dung khắp trò chơi.",
+ "13579": "Hiện nút Chiến đấu trên thanh tiêu đề ở chế độ kiểu cũ",
+ "13580": "Có hiện nút điều hướng Chiến đấu trên thanh tiêu đề của trò chơi khi dùng Thanh bên kiểu cũ hay không",
+ "13581": "Chọn biểu tượng NPC",
+ "13582": "Đặt tên cho NPC này",
+ "13583": "Bạn không thể đổi tên nhân vật ở đây.",
+ "13584": "Tiểu sử / Gợi ý đặt tên",
+ "13585": "Bạn có thể sửa mục này bất cứ lúc nào.",
+ "13586": "Tùy chỉnh NPC",
+ "13587": "Tên kỹ thuật",
+ "13588": "Bắt buộc",
+ "13589": "Đề xuất",
+ "13590": "Đặt lại cấp kỹ năng về 60?",
+ "13591": "Trong bản dùng thử, kỹ năng bị giới hạn ở cấp 60, nhưng vẫn có thể nhận XP vượt quá giới hạn này.",
+ "13592": "Ở bản Truy cập sớm, lượng XP dư này có thể khiến kỹ năng nhảy vọt nhiều cấp, bỏ qua các mở khóa và lộ trình tiến triển dự kiến.",
+ "13593": "Chúng tôi khuyên bạn đặt lại về cấp 60 để có trải nghiệm tiến triển tự nhiên hơn, nhưng việc này không bắt buộc.",
+ "13594": "Chỉ những kỹ năng có XP vượt cấp 60 mới bị ảnh hưởng. Mọi tiến độ khác vẫn giữ nguyên.",
+ "13595": "Bạn có muốn đặt lại phần XP kỹ năng vượt cấp 60 không?",
+ "13596": "Có, đặt lại về cấp 60 (giữ để xác nhận)",
+ "13597": "Có, đặt lại về cấp 60",
+ "13598": "Không, giữ XP của tôi",
+ "13599": "Tiếng Trung (Đài Loan)",
+ "13600": "Tiếng Trung (Phồn thể, Đài Loan)",
+ "13601": "Tiếng Anh (Vương quốc Anh)",
+ "13602": "Nâng cấp kỹ thuật Nhanh nhẹn để vượt qua những chướng ngại vật khó hơn và nhận thưởng.",
+ "13603": "Tiếng Nga",
+ "13604": "Tiếng Nga, Nga",
+ "13605": "Chìa khóa Hầm Vực Thẳm",
+ "13606": [
+  "Áo choàng pháp sư đất"
+ ],
+ "13607": [
+  "Áo choàng pháp sư lửa"
+ ],
+ "13608": [
+  "Mồi rau"
+ ],
+ "13609": [
+  "Kính một mắt thợ thủ công"
+ ],
+ "13610": [
+  "Áo choàng phép máu"
+ ],
+ "13611": [
+  "Áo choàng phép chết đuối"
+ ],
+ "13612": [
+  "Áo choàng phép vảy đêm"
+ ],
+ "13613": [
+  "Mũ trùm học viện ngà"
+ ],
+ "13614": [
+  "Áo choàng phép học viện ngà"
+ ],
+ "13615": [
+  "Quần học viện ngà"
+ ],
+ "13616": [
+  "Mảnh vực thẳm"
+ ],
+ "13617": [
+  "Mảnh ban phước"
+ ],
+ "13618": [
+  "Thỏi vực thẳm"
+ ],
+ "13619": [
+  "Áo choàng phép khối phù sa"
+ ],
+ "13620": [
+  "Khóa đai gai"
+ ],
+ "13621": [
+  "Bùa lính canh"
+ ],
+ "13622": [
+  "Sợi băng giá"
+ ],
+ "13623": [
+  "Thịt tự lành"
+ ],
+ "13624": "Thuốc phá kết giới P2-A",
+ "13625": "Là cậu.",
+ "13626": "Bạn đã tận dụng tuổi trẻ của mình, nắm lấy mọi cơ hội để khám phá ngày càng nhiều hơn mảnh thế giới nhỏ bé của mình. Từ Bờ Gió Quật đến rìa ngoài Khu Rừng Cổ Thụ, mỗi bước chân bạn đi đều có người bạn thân nhất, cũng là người bạn đồng hành không rời, bước cùng.\n\nNgười bạn ấy đến làng một mình, cũng giống như bạn chỉ một năm trước đó. Trẻ mồ côi không phải cảnh hiếm gặp ở nơi sâu trong rừng thế này, nhưng đó mới là đứa trẻ thứ hai Azamire thấy trong suốt một thập kỷ. Dân làng thỉnh thoảng cho bạn chút thức ăn thừa hoặc vài việc vặt khi dư dả được vài đồng xu, nhưng những dịp như vậy hiếm hoi lắm. Lẽ tự nhiên là hai bạn bắt đầu để mắt và chăm lo cho nhau. Cuộc sống dễ thở hơn khi các bạn lớn lên và chứng tỏ mình làm được nhiều việc hơn là lau sàn hay hái bắp cải.\n\nDù thiếu thốn, dù những bữa nhịn đói và những đêm giá lạnh, người bạn đồng hành vẫn luôn là tia sáng rạng rỡ giúp bạn vượt qua những năm tháng trưởng thành, và người bạn ấy cũng sẽ nói điều tương tự về bạn. Hai bạn đã phiêu lưu từ Vịnh Gió Muối đến rìa ngoài Khu Rừng Cổ Thụ, dừng lại lục tìm dưới từng tảng đá, từng gốc cây đổ và từng hang tối trên đường đi, người bạn ấy khi thì theo sau hai bước, khi thì đi trước một bước. Dũng cảm, tài năng và tốt bụng đến mức thái quá, bạn không thể tưởng tượng việc dành thời gian bên bất kỳ ai khác.\n\nTên của người bạn ấy là…",
+ "13627": "Phải đủ sức hạ gục một kẻ địch [color=#FFD16D]Cấp chiến đấu 1[/color] bằng [color=#FFD16D]lối đánh Tầm xa[/color]",
+ "13628": "Phải đủ sức hạ gục một kẻ địch [color=#FFD16D]Cấp chiến đấu 4[/color] nhiều lần",
+ "13629": "Phải đủ sức hạ gục một kẻ địch [color=#FFD16D]Cấp chiến đấu 8[/color]",
+ "13630": "Phải đủ sức hạ gục một [u]Trùm hầm ngục[/u] [color=#FFD16D]Cấp chiến đấu 15[/color] nhiều lần",
+ "13631": "Phải đủ sức hạ gục một kẻ địch [color=#FFD16D]Cấp chiến đấu 25[/color] nhiều lần",
+ "13632": "Phải đủ sức hạ gục một [b][u]Trùm nhỏ[/u][/b] [color=#FFD16D]Cấp chiến đấu 35[/color]",
+ "13633": "Phải đủ sức hạ gục một kẻ địch [color=#FFD16D]Cấp chiến đấu 36[/color] nhiều lần",
+ "13634": "Phải đủ sức hạ gục một [b][u]Trùm đỉnh cao[/u][/b] [color=#FFD16D]Cấp chiến đấu 39[/color]",
+ "13635": "Phải đủ sức hạ gục một kẻ địch [color=#FFD16D]Cấp chiến đấu 40[/color] nhiều lần",
+ "13636": "Phải đủ sức hạ gục một kẻ địch [color=#FFD16D]Cấp chiến đấu 42[/color] nhiều lần",
+ "13637": "Phải đủ sức hạ gục một [b][u]Trùm nhỏ[/u][/b] [color=#FFD16D]Cấp chiến đấu 40[/color]",
+ "13638": "Mở khóa khu vực chiến đấu Ốc Đảo Phù Sa.",
+ "13639": "Phải đủ sức hạ gục một kẻ địch [color=#FFD16D]Cấp chiến đấu 45[/color] nhiều lần",
+ "13640": "Mở khóa khu vực chiến đấu Vách Đá Ven Biển",
+ "13641": "Phải đủ sức hạ gục một [u]Trùm hầm ngục[/u] [color=#FFD16D]Cấp chiến đấu 50[/color]",
+ "13642": "(Sắp ra mắt) Mở khóa kỹ năng Triệu hồi\n(Sắp ra mắt) Mở khóa địa điểm trộm cắp Học Viện Ngà (chủ đề Triệu hồi)",
+ "13643": "Phải đủ sức hạ gục một kẻ địch [color=#FFD16D]Cấp chiến đấu 55[/color] nhiều lần",
+ "13644": "Phải đủ sức hạ gục một [b][u]Trùm nhỏ[/u][/b] [color=#FFD16D]Cấp chiến đấu 60[/color]",
+ "13645": "Phải đủ sức hạ gục một kẻ địch [color=#FFD16D]Cấp chiến đấu 67[/color] nhiều lần",
+ "13646": "Phải đủ sức hạ gục một [b][u]Trùm đỉnh cao[/u][/b] [color=#FFD16D]Cấp chiến đấu 69[/color]",
+ "13647": "Tên nhân vật",
+ "13648": [
+  "Hoàn thành [img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] lần"
+ ],
+ "13649": [
+  "Hoàn thành [img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] lần trong [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]"
+ ],
+ "13650": "Mức điều chỉnh cố định cho tỉ lệ nhận vật phẩm từ chướng ngại vật của bạn",
+ "13651": "Mức điều chỉnh cố định cho tỉ lệ bẫy thành công của bạn",
+ "13652": "Nếu lớn hơn 0, phần thưởng chướng ngại vật sẽ được giữ lại khi thất bại ở chướng ngại vật"
+}

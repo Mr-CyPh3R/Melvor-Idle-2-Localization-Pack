@@ -79,3 +79,8 @@ Vòng 4 (gói 075–098):
 - Hiệu ứng: Gain=Nhận · Inflict=Gây · Apply=Áp dụng · Self inflict=Tự chịu · Be afflicted by=Bị trúng · On Hit=Khi đánh trúng · On Miss=Khi đánh trượt · When Hit=Khi bị đánh trúng · On Death=Khi tử vong · Trigger=điều kiện kích hoạt · proc=lần kích hoạt · Passive=nội tại · Respawn=Hồi sinh · Combat Style=Lối đánh · "beats"=khắc
 - Trình biên tập dữ liệu: Optional.=Không bắt buộc. · "If specified X must match"=Nếu được chỉ định, X phải trùng khớp · Texture=Họa tiết · Sprite=Hình nhân vật · Audio Stream=Luồng âm thanh
 - Khác: Bank Configuration=Cấu hình ngân hàng · Codex=Bách khoa · Milestones=Mốc · Pet=thú cưng · Spell Book=Sách phép · Bank Tag=thẻ ngân hàng · Construction=Xây dựng · Archaeology=Khảo cổ · Enchantment=Phù phép · Keybinds=Phím tắt
+
+Vòng 5 (gói 099–108):
+- Expert <danh hiệu>=<danh hiệu> chuyên gia · "Skill X" (điều kiện kích hoạt)=<Kỹ năng>: X · "Activated when…"=Kích hoạt khi… · Wallet=Ví · Share code=Mã chia sẻ · namespace=không gian tên
+- Abyssal=vực thẳm · Blessed=ban phước · Fleshbound Passage=Hành Lang Huyết Nhục · Sinew Chasm=Vực Gân Cơ · Sunken Tower=Ngọn Tháp Chìm · "Act 2 - X"=Hồi 2: X · Dungeon Boss=Trùm hầm ngục · Pinnacle Boss=Trùm đỉnh cao · X Gear=Bộ đồ X · Anti-Aliasing=Khử răng cưa
+- Flinkcrest/Flintcrest: theo đúng chính tả của bản tiếng Anh từng câu.
