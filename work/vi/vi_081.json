@@ -1,0 +1,171 @@
+{
+ "10301": "Kẻ địch đang dùng nguyên tố [img height=1.25em]{ElementIcon}[/img] [color=#FFD16D]{ElementName}[/color]",
+ "10302": "Chưa chọn khu vực",
+ "10303": "{0:N0} x",
+ "10304": [
+  "Hoàn thành [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] hầm ngục"
+ ],
+ "10305": [
+  "Hoàn thành [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] hầm ngục trong [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]"
+ ],
+ "10306": [
+  "Hoàn thành [img height=1.25em]{DungeonIcon[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] lần"
+ ],
+ "10307": [
+  "Hoàn thành [img height=1.25em]{DungeonIcon[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] lần trong [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]"
+ ],
+ "10308": [
+  "Kéo dài cho đến khi bị tấn công thêm {0:N0} lần."
+ ],
+ "10309": "Nhận {0:N0} sát thương mỗi {1:F2} giây",
+ "10310": [
+  "Còn {0:N0} lần kích hoạt. ({1:F2} giây)"
+ ],
+ "10311": "Nhận {0:N0}-{1:N0} sát thương vào cuối mỗi lượt",
+ "10312": "Nhận {0:N0} sát thương vào cuối mỗi lượt",
+ "10313": "Hồi {0:N0}-{1:N0} máu vào cuối mỗi lượt",
+ "10314": "Hồi {0:N0} máu vào cuối mỗi lượt",
+ "10315": [
+  "Còn {0:N0} lượt."
+ ],
+ "10316": "Nhận [effectIcon/] {0}",
+ "10317": "Tự chịu [effectIcon/] {0}",
+ "10318": "Áp dụng [effectIcon/] {0}",
+ "10319": "Gây [effectIcon/] {0}",
+ "10320": "{0:P0} tỉ lệ nhận [effectIcon/] {1}",
+ "10321": "{0:P0} tỉ lệ tự chịu [effectIcon/] {1}",
+ "10322": "{0:P0} tỉ lệ áp dụng [effectIcon/] {1}",
+ "10323": "{0:P0} tỉ lệ gây [effectIcon/] {1}",
+ "10324": [
+  "Nhận {0:N0} tầng [effectIcon/] {1}"
+ ],
+ "10325": [
+  "Tự chịu {0:N0} tầng [effectIcon/] {1}"
+ ],
+ "10326": [
+  "Áp dụng {0:N0} tầng [effectIcon/] {1}"
+ ],
+ "10327": [
+  "Gây {0:N0} tầng [effectIcon/] {1}"
+ ],
+ "10328": [
+  "{0:P0} tỉ lệ nhận {1:N0} tầng [effectIcon/] {2}"
+ ],
+ "10329": [
+  "{0:P0} tỉ lệ tự chịu {1:N0} tầng [effectIcon/] {2}"
+ ],
+ "10330": [
+  "{0:P0} tỉ lệ áp dụng {1:N0} tầng [effectIcon/] {2}"
+ ],
+ "10331": [
+  "{0:P0} tỉ lệ gây {1:N0} tầng [effectIcon/] {2}"
+ ],
+ "10332": [
+  "Nhận [effectIcon/] {0} trong {1:N0} lượt"
+ ],
+ "10333": [
+  "Tự chịu [effectIcon/] {0} trong {1:N0} lượt"
+ ],
+ "10334": [
+  "Áp dụng [effectIcon/] {0} trong {1:N0} lượt"
+ ],
+ "10335": [
+  "Gây [effectIcon/] {0} trong {1:N0} lượt"
+ ],
+ "10336": [
+  "{0:P0} tỉ lệ nhận [effectIcon/] {1} trong {2:N0} lượt"
+ ],
+ "10337": [
+  "{0:P0} tỉ lệ tự chịu [effectIcon/] {1} trong {2:N0} lượt"
+ ],
+ "10338": [
+  "{0:P0} tỉ lệ áp dụng [effectIcon/] {1} trong {2:N0} lượt"
+ ],
+ "10339": [
+  "{0:P0} tỉ lệ gây [effectIcon/] {1} trong {2:N0} lượt"
+ ],
+ "10340": [
+  "Nhận {0:N0}-{1:N0} tầng [effectIcon/] {2} trong {3:N0} lượt"
+ ],
+ "10341": [
+  "Tự chịu {0:N0}-{1:N0} tầng [effectIcon/] {2} trong {3:N0} lượt"
+ ],
+ "10342": [
+  "Áp dụng {0:N0}-{1:N0} tầng [effectIcon/] {2} trong {3:N0} lượt"
+ ],
+ "10343": [
+  "Gây {0:N0}-{1:N0} tầng [effectIcon/] {2} trong {3:N0} lượt"
+ ],
+ "10344": [
+  "{0:P0} tỉ lệ nhận {1:N0}-{2:N0} tầng [effectIcon/] {3} trong {4:N0} lượt"
+ ],
+ "10345": [
+  "{0:P0} tỉ lệ tự chịu {1:N0}-{2:N0} tầng [effectIcon/] {3} trong {4:N0} lượt"
+ ],
+ "10346": [
+  "{0:P0} tỉ lệ áp dụng {1:N0}-{2:N0} tầng [effectIcon/] {3} trong {4:N0} lượt"
+ ],
+ "10347": [
+  "{0:P0} tỉ lệ gây {1:N0}-{2:N0} tầng [effectIcon/] {3} trong {4:N0} lượt"
+ ],
+ "10348": [
+  "Nhận [effectIcon/] {0} cho đến khi bị tấn công {1:N0} lần"
+ ],
+ "10349": [
+  "Tự chịu [effectIcon/] {0} cho đến khi bị tấn công {1:N0} lần"
+ ],
+ "10350": [
+  "Áp dụng [effectIcon/] {0} trong {1:N0} đòn tấn công"
+ ],
+ "10351": [
+  "Gây [effectIcon/] {0} trong {1:N0} đòn tấn công"
+ ],
+ "10352": [
+  "{0:P0} tỉ lệ nhận [effectIcon/] {1} cho đến khi bị tấn công {2:N0} lần"
+ ],
+ "10353": [
+  "{0:P0} tỉ lệ tự chịu [effectIcon/] {1} cho đến khi bị tấn công {2:N0} lần"
+ ],
+ "10354": [
+  "{0:P0} tỉ lệ áp dụng [effectIcon/] {1} trong {2:N0} đòn tấn công"
+ ],
+ "10355": [
+  "{0:P0} tỉ lệ gây [effectIcon/] {1} trong {2:N0} đòn tấn công"
+ ],
+ "10356": "Khi bắt đầu trận đấu:",
+ "10357": "Khi ăn thức ăn:",
+ "10358": "Khi tự tay ăn thức ăn:",
+ "10359": "Khi tự động ăn:",
+ "10360": "Khi tấn công:",
+ "10361": "Khi tấn công lần đầu trong lượt:",
+ "10362": "Khi đánh trúng:",
+ "10363": "Khi đánh trúng lần đầu trong lượt:",
+ "10364": "Khi đánh trượt:",
+ "10365": "Khi đánh trượt lần đầu trong lượt:",
+ "10366": "Nếu đòn tấn công đầu tiên trong lượt trúng:",
+ "10367": "Nếu đòn tấn công đầu tiên trong lượt trượt:",
+ "10368": "Khi tử vong:",
+ "10369": "Khi bị tấn công:",
+ "10370": "Khi bị tấn công lần đầu:",
+ "10371": "Khi bị đánh trúng:",
+ "10372": "Khi bị đánh trúng lần đầu:",
+ "10373": "Khi né được đòn tấn công:",
+ "10374": "Khi né được đòn tấn công đầu tiên:",
+ "10375": "Chịu ảnh hưởng của [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] hiệu ứng trong [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10376": "Chịu ảnh hưởng của [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] hiệu ứng",
+ "10377": "Chịu ảnh hưởng của [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] lần",
+ "10378": "Bị trúng [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] lần",
+ "10379": "Chịu ảnh hưởng của [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] lần trong [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10380": "Bị trúng [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] lần trong [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10381": "Áp dụng/gây [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] hiệu ứng trong [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10382": "Áp dụng/gây [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] hiệu ứng",
+ "10383": "Áp dụng [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] lần",
+ "10384": "Gây [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] lần",
+ "10385": "Áp dụng [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] lần trong [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10386": "Gây [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] lần trong [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10387": "Nhận/tự chịu [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] hiệu ứng trong [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+ "10388": "Nhận/tự chịu [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] hiệu ứng",
+ "10389": "Nhận [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] lần",
+ "10390": "Tự chịu [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] lần",
+ "10391": "Nhận [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] lần trong [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]"
+}
