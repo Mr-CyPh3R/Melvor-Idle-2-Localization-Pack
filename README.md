@@ -64,7 +64,7 @@ If you play with [Melvor Mod Loader](https://falorfrozen-cmd.github.io/MelvorMod
 
 1. Install Melvor Mod Loader first, then close the game.
 2. Extract the archive (only the `Mods` folder) next to `Melvor2.exe`. Keep the `override.cfg` of Mod Loader, this version does not bring its own.
-3. Start the game and choose your language in **Settings > Language**. The Mod Loader menu (F1) follows the chosen language.
+3. Start the game and choose your language in **Settings > Language**. The Mod Loader menu (F1) and its notes in the game follow the chosen language.
 
 **Uninstall:** delete the folder `Mods/Localization Pack`, then select English again in the game.
 
@@ -88,7 +88,7 @@ If you play with [Melvor Mod Loader](https://falorfrozen-cmd.github.io/MelvorMod
 |---|---|
 | `mod/` | The mod exactly as it is installed (`override.cfg`, `Mods/Localization Pack/`) |
 | `work/items.json` | All texts of the game that need a translation, with stable ids |
-| `work/<lang>/*.json` | Translations by id (`de`, `fr`, `es`, `pt_BR`, `ja`, `pl`, `ru`) |
+| `work/<lang>/*.json` | Translations by id (`de`, `fr`, `es`, `pt_BR`, `ja`, `pl`, `ru`, `zh_CN`, `zh_TW`, `vi`) |
 | `work/mods/<Mod>/` | Texts of other mods (`items.json`) and their translations (`<lang>.json`) |
 | `modloader/` | `LocalizationPack.dll` for Melvor Mod Loader (C#, .NET 10) |
 | `work/STYLE.md`, `work/STYLE_<lang>.md` | Translation rules and terms per language |
