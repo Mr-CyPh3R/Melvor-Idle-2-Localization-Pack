@@ -67589,7 +67589,7 @@ msgstr "現在只有你一個人在線上練習這個動作 :("
 #: GameMenus/Footer/PresenceFooterView.cs.uid
 msgid "{0:N0} other player online & training this same action"
 msgid_plural "{0:N0} other players online & training this same action"
-msgstr[0] "還有{0:N0}名玩家正在線練習這個動作"
+msgstr[0] "還有{0:N0}名玩家正在線上練習這個動作"
 
 #: GameMenus/GameView.cs.uid Main.GameState.cs.uid
 msgid "Error Saving Game"
@@ -70614,7 +70614,7 @@ msgstr ""
 "\n"
 "最重要的是玩得開心！盡情探索，大膽嘗試，好好享受你在《梅爾沃放置2》中邁出的第一步吧！\n"
 "\n"
-"別忘了，[color=FFD16D]《梅爾沃放置2》是一款放置遊戲！[/color]你可以給角色安排一項任務，讓角色在後台繼續忙碌，自己去體驗參加Steam新品節的其他精彩遊戲。等你回來，梅爾沃還在這裡等著你！\n"
+"別忘了，[color=FFD16D]《梅爾沃放置2》是一款放置遊戲！[/color]你可以給角色安排一項任務，讓角色在背景繼續忙碌，自己去體驗參加Steam新品節的其他精彩遊戲。等你回來，梅爾沃還在這裡等著你！\n"
 "\n"
 "感謝你一路相伴！[/color]\n"
 "\n"
@@ -70881,7 +70881,7 @@ msgstr "貨幣"
 
 #. Zusatztext (nicht in der offiziellen Vorlage)
 msgid "{0:N0} other players online & training this same action"
-msgstr "還有{0:N0}名玩家正在線練習這個動作"
+msgstr "還有{0:N0}名玩家正在線上練習這個動作"
 
 #. Zusatztext (nicht in der offiziellen Vorlage)
 msgid "Triggers"
