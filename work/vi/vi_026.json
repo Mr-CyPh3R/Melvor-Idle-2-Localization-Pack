@@ -1,0 +1,152 @@
+{
+ "04564": "A1",
+ "04565": "A2",
+ "04566": "A3",
+ "04567": "A4",
+ "04568": "B1",
+ "04569": "B2",
+ "04570": "B3",
+ "04571": "B4",
+ "04572": "C1",
+ "04573": "C2",
+ "04574": "C3",
+ "04575": "C4",
+ "04576": "D1",
+ "04577": "D2",
+ "04578": "D3",
+ "04579": "D4",
+ "04580": "Nút chính 1",
+ "04581": "Mọc um tùm cho +1 số lượng khi đập và khi chặt. Mỗi lần chặt hoàn chỉnh tiêu hao một tầng. ",
+ "04582": "Nút chính 2",
+ "04583": "Đánh trúng điểm yếu gây (0.1 * Máu tối đa + 3) sát thương",
+ "04584": "Nút chính 3",
+ "04585": "Nút chính 4",
+ "04586": "Vỡ vụn cho +200% số lượng sản phẩm thưởng và +100% XP kỹ năng thưởng",
+ "04587": "Mở khóa khả năng quan sát các sự kiện [color=#FFD16D]Mưa sao băng[/color] và [color=#FFD16D]Sao rơi[/color] trong Đốt lửa",
+ "04588": "Mở khóa khả năng nhận [color=#FFD16D]Đom đóm[/color] khi đốt gỗ trong Đốt lửa",
+ "04589": "Mở khóa nút bật [color=#FFD16D]Lễ vật tinh tú[/color] trong Chế tác da thú cho Vũ khí thú và Giáp thú, cho phép bạn dâng vật phẩm đã chế tác để có cơ hội nhận một món quà.",
+ "04590": "Mở khóa [color=#FFD16D]Đe tế lễ[/color] trong Rèn, cho phép bạn hiến tế vật phẩm đã rèn để đổi lấy thêm XP kỹ năng, vàng hoặc một vật sưu tầm hiếm",
+ "04591": "Mở khóa [color=#FFD16D]Luyện kim -> Lò rèn sao[/color] trong Rèn, cho phép bạn tạo thỏi hợp kim như thép sắt hoặc long văn",
+ "04592": "Mở khóa [color=#FFD16D]Trang sức tinh tú[/color] trong Chế tác",
+ "04593": "Mở khóa [color=#FFD16D]Chạy nước rút ban đêm[/color] trong Nhanh nhẹn.",
+ "04594": "Mở khóa [color=#FFD16D]ô thắt lưng công cụ Chất xúc tác[/color] trong Thảo dược",
+ "04595": [
+  "Quan sát"
+ ],
+ "04596": "Bạn chăm chú nghiên cứu các vì sao, nhưng chúng vẫn im lặng.",
+ "04597": "Lần này chòm sao không mang lại điều gì để chiêm nghiệm.",
+ "04598": "Dù các vì sao từng mang thông điệp gì, nó cũng đã trôi mất.",
+ "04599": "Bạn cảm nhận một sự hiện diện mờ nhạt giữa các vì sao, nhưng nó nhanh chóng tan biến.",
+ "04600": "Ánh sáng của chòm sao chập chờn mà không hé lộ bí mật nào.",
+ "04601": "Bạn kiên nhẫn chờ một dấu hiệu, nhưng chẳng có gì xuất hiện.",
+ "04602": "Bạn gần như đọc được một thông điệp thì nó biến mất khỏi tâm trí.",
+ "04603": "Chòm sao lịch sự từ chối giải thích thêm.",
+ "04604": "Bạn chắc chắn rằng các vì sao đã chấm điểm nỗ lực của bạn. Chúng không bình luận gì thêm.",
+ "04605": "Ngay cả các vì sao cũng có ngày chẳng ra gì.",
+ "04606": "Bạn tiếp tục quan sát các vì sao và xác nhận rằng chúng đúng là các vì sao.",
+ "04607": [
+  "Quan sát Deedree"
+ ],
+ "04608": "Các vì sao khẳng định trò chuyện với cây cối là có ích. Chúng từ chối cho biết cây có nghe hay không.",
+ "04609": "Chòm sao cảnh báo rằng cái cây cao nhất luôn thắng trong cuộc cãi vã với một cây rìu cùn.",
+ "04610": "Các vì sao tiết lộ rằng cỏ dại chỉ là cây trồng có lòng tự tin phi thường.",
+ "04611": "Các vì sao gợi ý rằng trồng cây hôm nay khôn ngoan hơn hứa hẹn ngày mai sẽ trồng.",
+ "04612": "Chòm sao cho rằng mỗi cây sồi hùng vĩ đều từng là một hạt giống đã phớt lờ những lời khuyên tệ hại.",
+ "04613": "Các vì sao khẽ nhắc bạn rằng chặt cây trước khi hái quả hiếm khi là chiến lược tối ưu.",
+ "04614": [
+  "Quan sát Terra"
+ ],
+ "04615": "Các vì sao thắc mắc sao bạn không đi đào than đá ngay lúc này.",
+ "04616": "Các vì sao khẳng định đập đá mạnh hơn là một chiến lược khai khoáng hợp lệ.",
+ "04617": "Chòm sao khẳng định bạn chỉ còn cách món đồ hiếm đó đúng một hốc tinh thể nữa thôi.",
+ "04618": "Các vì sao thắc mắc việc nhìn chằm chằm vào chúng suốt đêm giúp tăng Sức mạnh kiểu gì.",
+ "04619": "Chòm sao nhắc bạn rằng cấp Sức mạnh cao cũng không cứu bạn khỏi các mỏ than đá.",
+ "04620": "Các vì sao nhìn chằm chằm lại bạn.",
+ "04621": [
+  "Quan sát Ameria"
+ ],
+ "04622": "Các vì sao thì thầm rằng cá kém hợp tác hơn hẳn khi nhận ra mình nằm trong thực đơn.",
+ "04623": "Các vì sao gợi ý hãy phơi khô củi trước khi than phiền rằng nó không cháy.",
+ "04624": "Chòm sao nhắc bạn rằng nấu cá thường dễ hơn sau khi bạn đã bắt được nó.",
+ "04625": "Chòm sao khẳng định một đống lửa trại ấm áp đã kết thúc nhiều cuộc phiêu lưu hơn bất kỳ con quái vật nào.",
+ "04626": "Các vì sao dẫn bạn tới một dòng suối hẻo lánh trong Sông Mảnh Vỡ.",
+ "04627": "[color=green]Lần quan sát này cho bạn quyền vào điểm câu cá Suối Ánh Trăng.[/color]",
+ "04628": [
+  "Vũng Nửa Đêm của Ameria"
+ ],
+ "04629": "Các vì sao dẫn bạn tới một điểm ẩn dọc Bờ Biển Lộng Gió.",
+ "04630": "[color=green]Lần quan sát này cho bạn quyền vào điểm câu cá Vũng Nửa Đêm.[/color]",
+ "04631": [
+  "Quan sát Ceedyr"
+ ],
+ "04632": "Chòm sao cho rằng mỗi tấm da hoàn hảo đều từng thuộc về một sinh vật rất muốn giữ nó lại.",
+ "04633": "Chòm sao thắc mắc sao các sinh vật lại quý những nguyên liệu mà rõ ràng bạn cần để chế tác đến thế.",
+ "04634": "Các vì sao nhắc bạn rằng đuổi theo thú hoang dễ hơn nhiều khi không phải mang theo nửa cái xưởng.",
+ "04635": "Các vì sao khẳng định câu \"săn thêm một con nữa thôi\" đã đánh lừa vô số nhà thám hiểm.",
+ "04636": "Chòm sao tiết lộ rằng gom nguyên liệu \"phòng khi cần\" rồi sẽ thành vấn đề về chỗ chứa.",
+ "04637": [
+  "Đồi Ánh Trăng của Ceedyr"
+ ],
+ "04638": "Chòm sao soi sáng con đường dẫn tới một lối vào ẩn trong những ngọn đồi.",
+ "04639": "[color=green]Lần quan sát này cho bạn quyền vào địa điểm săn bắn Đồi Ánh Trăng.[/color]",
+ "04640": [
+  "Hồ Trăng Khuyết của Iridan"
+ ],
+ "04641": "Chòm sao chỉ về một hồ nước yên bình, nơi mặt nước uốn cong như vầng trăng khuyết. Một bờ hồ ẩn giấu đang vẫy gọi những ai sẵn lòng tìm kiếm.",
+ "04642": "[color=green]Lần quan sát này cho bạn quyền vào khu vực chiến đấu Hồ Trăng Khuyết.[/color]",
+ "04643": [
+  "Quan sát Iridan"
+ ],
+ "04644": "Các vì sao cho rằng vừa hét vừa tấn công sẽ tăng độ chính xác.",
+ "04645": "Các vì sao nhắc bạn rằng mỗi vết lõm trên giáp là một bài học quý giá. Tốt nhất là bài học của người khác.",
+ "04646": "Chòm sao khẳng định đánh trượt mục tiêu không phải là một chiến lược hợp lệ.",
+ "04647": "Các vì sao cho rằng mọi vũ khí độc nhất đều khởi đầu là món \"tạm dùng được\".",
+ "04648": "Các vì sao khẳng định đánh mạnh hơn là một chiến lược hoàn toàn hợp lệ.",
+ "04649": [
+  "Quan sát Syllia"
+ ],
+ "04650": "Chòm sao cho rằng mũi tên nào cũng bay thẳng cho đến khi cơn gió bắt đầu có cá tính riêng.",
+ "04651": "Các vì sao gợi ý hãy ngắm bắn trước khi ăn mừng phát bắn.",
+ "04652": "Chòm sao nhắc bạn rằng cây cối hiếm khi tự nguyện trở thành mũi tên.",
+ "04653": "Các vì sao thắc mắc sao mũi tên luôn nằm ở những chỗ bất tiện nhất.",
+ "04654": "Chòm sao cho rằng ống tên chỉ là một bộ sưu tập rất ngăn nắp những sai lầm trong tương lai.",
+ "04655": "Chòm sao khuyên bạn nhớ rằng bumerang được thiết kế để quay trở lại.",
+ "04656": [
+  "Quan sát Haemir"
+ ],
+ "04657": "Nội dung tạm thời, sẽ được thay thế.",
+ "04658": [
+  "Quan sát Arachi"
+ ],
+ "04659": "Các vì sao khẳng định mọi phép đều hoàn toàn an toàn cho đến khi được chứng minh là ngược lại.",
+ "04660": "Chòm sao thắc mắc sao các pháp sư cứ ghi chép mãi trong khi họ còn khó đọc nổi sách phép của chính mình.",
+ "04661": "Thiên giới khẳng định các vụ nổ phép thuật chỉ là những thành công quá nhiệt tình.",
+ "04662": "Các vì sao tiết lộ rằng mọi pháp sư vĩ đại đều từng vô tình thi triển thứ mà họ hoàn toàn không định làm.",
+ "04663": "Chòm sao nhắc bạn rằng nhìn chằm chằm vào nó suốt đêm sẽ không giải quyết được chuyện thiếu phù văn.",
+ "04664": [
+  "Học vấn tinh tú của Arachi"
+ ],
+ "04665": "Bằng cách nào đó, bạn học được một dạng Phép thuật mới chỉ nhờ nhìn các vì sao và giả vờ đọc chúng, hay đại loại thế, haha.",
+ "04666": "[color=green]Lần quan sát này cho bạn kiến thức để dùng Phép tinh tú.[/color]",
+ "04667": [
+  "Học vấn tinh tú của Hyden"
+ ],
+ "04668": "Chòm sao hé lộ một nghi lễ cổ xưa. Những lời thiêng của thiên giới đánh thức sức mạnh của Cầu nguyện tinh tú.",
+ "04669": "[color=green]Lần quan sát này cho bạn kiến thức để dùng Cầu nguyện tinh tú.[/color]",
+ "04670": [
+  "Quan sát Hyden"
+ ],
+ "04671": "Các vì sao tiết lộ rằng gỗ được ban phước cháy sáng hơn gỗ thường. Có lẽ chỉ là trùng hợp.",
+ "04672": "Các vì sao thắc mắc ai là người đầu tiên nhìn một đống xương rồi nghĩ: \"Thần linh sẽ thích lắm đây.\"",
+ "04673": "Chòm sao khẳng định ân sủng thần linh không thể mua được. Tuy nhiên, lễ vật thì luôn được vui vẻ đón nhận.",
+ "04674": "Chòm sao cho rằng thần linh rất sành lễ vật, dù sở thích của họ cụ thể một cách kỳ lạ.",
+ "04675": "Chòm sao nhận thấy thần linh hiếm khi giải thích vì sao họ thích xương. Đơn giản là họ thích.",
+ "04676": [
+  "Hố Sẹo Trăng của Vale"
+ ],
+ "04677": "Các vì sao hé lộ một miệng hố nơi ánh trăng không bao giờ thực sự phai nhạt. Một thứ cổ xưa vẫn còn cựa quậy trong vết sẹo ấy.",
+ "04678": "[color=green]Lần quan sát này cho bạn quyền vào khu vực diệt quái Hố Sẹo Trăng.[/color]",
+ "04679": [
+  "Quan sát Vale"
+ ]
+}

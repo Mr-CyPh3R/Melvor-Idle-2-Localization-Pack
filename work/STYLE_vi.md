@@ -50,3 +50,15 @@ Vòng 1 (gói 000–023):
 - Thuốc: "Thuốc <kỹ năng> P1-A", Super=… siêu cấp ("Thuốc câu cá siêu cấp P1-A")
 - Sinh vật: Elk=nai · Caribou=tuần lộc · Wildebeast=linh dương đầu bò · Phantom=bóng ma · Spectre=u linh · Harpy=yêu điểu · Raptor=mãnh cầm · Griffin=sư điểu · Wurm=giun khổng lồ · Wyvern=phi long · Drake=tiểu long · Stonehopper=Châu Chấu Đá · Soulsmith=Thợ Rèn Hồn · Golbin, Dracolith, Kraken giữ nguyên
 - Chiến đấu/hệ thống: Power Rating=chỉ số uy lực · Protection Rating=chỉ số bảo vệ · critical hit=chí mạng · Crush=Đập · Accurate=Chuẩn xác · Powerful=Uy lực · Long-Range=Tầm dài · Stealth=độ ẩn nấp · Fortune=vận may · Tracking=truy dấu · Trapping=đặt bẫy · Knowledge (Chiêm tinh)=tri thức · Junk=rác · Gold Pieces=Vàng · Slayer Coins=Xu diệt quái · Prayer Points=Điểm cầu nguyện · Set Bonus=Thưởng bộ · Toolbelt slot=ô thắt lưng công cụ · Geode=Hốc tinh thể · Lantern=Đèn lồng · "Act 1 - X"=Hồi 1: X
+
+Vòng 2 (gói 024–038):
+- Viết hoa: tên vật phẩm chỉ viết hoa chữ đầu ("Nanh bão"); tên kẻ địch/trùm viết hoa từng âm tiết ("Nanh Bão", "Thạch Nhân"); danh hiệu trùm sau dấu phẩy ("Kythiss, Nữ Hoàng Nọc Độc"); "Phase N" = "(giai đoạn N)".
+- Nhanh nhẹn: chướng ngại vật "<Đường> N, chướng ngại vật đơn giản/nâng cao K" · Climbing=Leo trèo · Jumping=Nhảy · Evading=Né tránh · Balancing=Giữ thăng bằng · Rappelling=Đu dây
+- Chiêm tinh: Starfall=Sao rơi (cả trong tên vật phẩm) · Blue Moon=Trăng xanh · Blood Moon=Trăng máu · Sighting=Phát hiện · Observation=Quan sát · Rare Event=Sự kiện hiếm · "X's Pathway"=Lối đi của X · Astral Learning=Học vấn tinh tú · tên chòm sao giữ nguyên
+- Chiến đấu: "A vs. B"=A khắc B · Neutral=Trung tính · Normal Damage=Sát thương thường · Golem=Thạch Nhân · Amalgamation=Hợp Thể · Elemental=Nguyên Tố
+- Trồng trọt: Allotment=Ruộng rau · Herb plot=Ô thảo dược · Tree plot=Ô cây · Orchard=Vườn cây ăn quả · Compost Bin=Thùng ủ phân · "X Tree"=Cây X · Potency=Hiệu lực
+- Đốt lửa/khai khoáng: "X Bonfire"=Lửa trại gỗ X · Brazier=Chậu lửa · Vein=Mạch · Fallen Star=Ngôi sao rơi
+- Săn bắn: Tracking Stick=Gậy truy dấu · Binoculars=Ống nhòm · Animal Whistle=Còi gọi thú · Spirit Lantern=Đèn lồng linh hồn · Air/Water/Earth/Fire Spirit=Tinh linh gió/nước/đất/lửa · Alpha X=X đầu đàn · Tame=thuần hóa · Wild=hoang
+- Cá: Trout=Cá hồi vân (Raw Trout=Cá hồi vân sống); món nấu chín mang đúng tên vật phẩm
+- Địa danh/nhân vật: the capital=kinh đô · Windswept Shores=Bờ Gió Quật · Windy Coastline=Bờ Biển Lộng Gió · Lifebinder Pool=Hồ Kết Sinh · Lemvor Pier=Bến Tàu Lemvor · Spiced Honey Tavern=Quán rượu Mật Ong Gia Vị · Slayers Guild=Hội Diệt quái · Blackthorn Sisters=Chị em nhà Blackthorn · Archivist=Người giữ văn khố · Hacksmith=Thợ Rèn Vụng · Dwarf=Người lùn · Harvest Festival=Lễ hội mùa gặt
+- Xưng hô đã dùng: Gol tự xưng "Gol", gọi người chơi "bạn hiền", lời kể gọi "gã" · Whudgrath: ta/ngươi, "nhóc", lời kể "ông ấy" · Lira: tôi/bạn, người chơi gọi "cô" · Hapren, Morlin, Dixon: "ông" (Dixon gọi người chơi "cậu") · Magnavous: "cô", gọi Lira "chị" · Petal là chị, Clove là em

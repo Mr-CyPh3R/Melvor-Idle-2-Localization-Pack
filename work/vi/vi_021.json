@@ -1,436 +1,436 @@
 {
- "03685": "Trang bị vào Khai khoáng để khai thác Quặng thiên thạch",
- "03686": [
-  "Nhật ký quan sát sao băng"
- ],
- "03687": [
-  "Nhật ký quan sát sao băng vàng"
- ],
- "03688": [
-  "Nhẫn bạc hoàng ngọc tinh tú"
- ],
- "03689": [
-  "Nhẫn bạc ngọc lam tinh tú"
- ],
- "03690": [
-  "Nhẫn bạc hồng ngọc tinh tú"
- ],
- "03691": [
-  "Nhẫn bạc ngọc lục bảo tinh tú"
- ],
- "03692": [
-  "Nhẫn bạc kim cương tinh tú"
- ],
- "03693": [
-  "Nhẫn bạc ngọc bích tinh tú"
- ],
- "03694": [
-  "Nhẫn vàng hoàng ngọc tinh tú"
- ],
- "03695": [
-  "Nhẫn vàng ngọc lam tinh tú"
- ],
- "03696": [
-  "Nhẫn vàng hồng ngọc tinh tú"
- ],
- "03697": [
-  "Nhẫn vàng ngọc lục bảo tinh tú"
- ],
- "03698": [
-  "Nhẫn vàng kim cương tinh tú"
- ],
- "03699": [
-  "Nhẫn vàng ngọc bích tinh tú"
- ],
- "03700": [
-  "Bùa hộ mệnh bạc hoàng ngọc tinh tú"
- ],
- "03701": [
-  "Bùa hộ mệnh bạc ngọc lam tinh tú"
- ],
- "03702": [
-  "Bùa hộ mệnh bạc hồng ngọc tinh tú"
- ],
- "03703": [
-  "Bùa hộ mệnh bạc ngọc lục bảo tinh tú"
- ],
- "03704": [
-  "Bùa hộ mệnh bạc kim cương tinh tú"
- ],
- "03705": [
-  "Bùa hộ mệnh bạc ngọc bích tinh tú"
- ],
- "03706": [
-  "Bùa hộ mệnh vàng hoàng ngọc tinh tú"
- ],
- "03707": [
-  "Bùa hộ mệnh vàng ngọc lam tinh tú"
- ],
- "03708": [
-  "Bùa hộ mệnh vàng hồng ngọc tinh tú"
- ],
- "03709": [
-  "Bùa hộ mệnh vàng ngọc lục bảo tinh tú"
- ],
- "03710": [
-  "Bùa hộ mệnh vàng kim cương tinh tú"
- ],
- "03711": [
-  "Bùa hộ mệnh vàng ngọc bích tinh tú"
- ],
- "03712": [
-  "Thỏi thiên thạch"
- ],
- "03713": [
-  "Chùy gai thiên thạch"
- ],
- "03714": [
-  "Đầu lao thiên thạch"
- ],
- "03715": [
-  "Găng tay thiên thạch"
- ],
- "03716": [
-  "Trượng thiên thạch"
- ],
- "03717": [
-  "Mũ giáp thiên thạch"
- ],
- "03718": [
-  "Giày thiên thạch"
- ],
- "03719": [
-  "Song đao thiên thạch"
- ],
- "03720": [
-  "Giáp chân thiên thạch"
- ],
- "03721": [
-  "Giáp ngực thiên thạch"
- ],
- "03722": [
-  "Thỏi thiên thạch tinh luyện"
- ],
- "03723": [
-  "Chùy gai thiên thạch tinh luyện"
- ],
- "03724": [
-  "Đầu lao thiên thạch tinh luyện"
- ],
- "03725": [
-  "Găng tay thiên thạch tinh luyện"
- ],
- "03726": [
-  "Trượng thiên thạch tinh luyện"
- ],
- "03727": [
-  "Mũ giáp thiên thạch tinh luyện"
- ],
- "03728": [
-  "Giày thiên thạch tinh luyện"
- ],
- "03729": [
-  "Song đao thiên thạch tinh luyện"
- ],
- "03730": [
-  "Giáp chân thiên thạch tinh luyện"
- ],
- "03731": [
-  "Giáp ngực thiên thạch tinh luyện"
- ],
- "03732": [
-  "Thỏi thép sắt"
- ],
- "03733": [
-  "Găng tay thép sắt"
- ],
- "03734": [
-  "Mũ giáp thép sắt"
- ],
- "03735": [
-  "Giày thép sắt"
- ],
- "03736": [
-  "Gai thép sắt"
- ],
- "03737": [
-  "Khiên gai thép sắt"
- ],
- "03738": [
-  "Kích thép sắt"
- ],
- "03739": [
-  "Giáp chân thép sắt"
- ],
- "03740": [
-  "Giáp ngực thép sắt"
- ],
- "03741": [
-  "Thỏi long văn"
- ],
- "03742": [
-  "Găng tay long văn"
- ],
- "03743": [
-  "Mũ giáp long văn"
- ],
- "03744": [
-  "Giày long văn"
- ],
- "03745": [
-  "Đại kiếm long văn"
- ],
- "03746": [
-  "Giáp chân long văn"
- ],
- "03747": [
-  "Giáp ngực long văn"
- ],
- "03748": [
-  "Bẫy hố thép sắt"
- ],
- "03749": [
-  "Bẫy thòng lọng long văn"
- ],
- "03750": [
-  "Đom đóm"
- ],
- "03751": [
-  "Hũ đom đóm (Trồng trọt)"
- ],
- "03752": [
-  "Hũ đom đóm (Chăn nuôi)"
- ],
- "03753": [
-  "Hũ đom đóm (Đốt lửa)"
- ],
- "03754": [
-  "Gậy thòng lọng đom đóm"
- ],
- "03755": [
-  "Quà đơn sơ của Ceedyr"
- ],
- "03756": [
-  "Quà hào phóng của Ceedyr"
- ],
- "03757": [
-  "Dao Ceedyr"
- ],
- "03758": [
-  "Áo choàng Ceedyr"
- ],
- "03759": [
-  "Mũ Ceedyr"
- ],
- "03760": [
-  "Cá tuế ánh trăng sống"
- ],
- "03761": [
-  "Cá đối sọc sống"
- ],
- "03762": [
-  "Bùa ánh trăng"
- ],
- "03763": [
-  "Cá tuế ánh trăng"
- ],
- "03764": [
-  "Cá đối sọc"
- ],
- "03765": [
-  "Bánh cá tuế"
- ],
- "03766": [
-  "Cá đối hầm"
- ],
- "03767": [
-  "Hũ bướm trăng khuyết"
- ],
- "03768": [
-  "Hạt giống sậy đêm"
- ],
- "03769": [
-  "Sậy đêm"
- ],
- "03770": [
-  "Bím sậy đêm"
- ],
- "03771": [
-  "Vảy trăng"
- ],
- "03772": [
-  "Lông cáo bóng tối"
- ],
- "03773": [
-  "Mũ vảy đêm"
- ],
- "03774": [
-  "Quần vảy đêm"
- ],
- "03775": [
-  "Áo choàng phép vảy đêm"
- ],
- "03776": [
-  "Lưới vảy trăng"
- ],
- "03777": [
-  "Áo choàng bóng tối"
- ],
- "03778": [
-  "Hũ bướm trăng khuyết phát sáng (c)"
- ],
- "03779": [
-  "Lông quạ trắng (c)"
- ],
- "03780": [
-  "Vảy bạc (c)"
- ],
- "03781": [
-  "Đuôi cáo hoàng hôn (c)"
- ],
- "03782": [
-  "Phù văn tinh tú"
- ],
- "03783": [
-  "Quyền trượng gió thiên thạch"
- ],
- "03784": [
-  "Quyền trượng nước thiên thạch"
- ],
- "03785": [
-  "Quyền trượng đất thiên thạch"
- ],
- "03786": [
-  "Quyền trượng lửa thiên thạch"
- ],
- "03787": [
-  "Cung thiên thạch"
- ],
- "03788": [
-  "Lao thiên thạch"
- ],
- "03789": [
-  "Quyền trượng gió thiên thạch tinh luyện"
- ],
- "03790": [
-  "Quyền trượng nước thiên thạch tinh luyện"
- ],
- "03791": [
-  "Quyền trượng đất thiên thạch tinh luyện"
- ],
- "03792": [
-  "Quyền trượng lửa thiên thạch tinh luyện"
- ],
- "03793": [
-  "Cung thiên thạch tinh luyện"
- ],
- "03794": [
-  "Lao thiên thạch tinh luyện"
- ],
- "03795": [
-  "Thuốc phá kết giới P1-A"
- ],
- "03796": [
-  "Đao chém sao"
- ],
- "03797": [
-  "Thuốc phá kết giới P2-A"
- ],
- "03798": [
-  "Thuốc phá kết giới P2-B"
- ],
- "03799": [
-  "Thuốc phá kết giới siêu cấp P1-A"
- ],
- "03800": [
-  "Thuốc phá kết giới siêu cấp P2-A"
- ],
- "03801": [
-  "Thuốc phá kết giới siêu cấp P2-B"
- ],
- "03802": [
-  "Dao găm nanh đêm"
- ],
- "03803": [
-  "Khiên cá Cul"
- ],
- "03804": [
-  "Giáp ngực cá Tor"
- ],
- "03805": [
-  "Túi bột tinh độc"
- ],
- "03806": [
-  "Đũa phép tinh độc"
- ],
- "03807": [
-  "Kiếm tinh độc"
- ],
- "03808": [
-  "Nỏ tinh độc"
- ],
- "03809": [
-  "Kính ngắm trăng"
- ],
- "03810": [
-  "Đá sẹo cộng hưởng"
- ],
- "03811": [
-  "Đèn lồng long văn"
- ],
- "03812": [
-  "Đèn lồng long văn (đã thắp)"
- ],
- "03813": [
-  "Hũ đom đóm (Chiến đấu)"
- ],
- "03814": [
-  "Quần đuôi bóng tối"
- ],
- "03815": [
-  "Hộp đánh lửa hắc diễm"
- ],
- "03816": [
-  "Khiên pháp sư cơ bản"
- ],
- "03817": [
-  "Khiên pháp sư trung cấp"
- ],
- "03818": [
-  "Khiên pháp sư cao cấp"
- ],
- "03819": [
-  "Áo choàng sậy đêm"
- ],
- "03820": [
-  "Áo choàng tinh tú"
- ],
- "03821": [
-  "Bút khắc phù văn thiên thạch"
- ],
- "03822": [
-  "Găng tay sậy đêm"
- ],
- "03823": [
-  "Găng tay chiến pháp sư"
- ],
- "03824": [
-  "Găng tay Ceedyr"
- ],
- "03825": [
-  "Sách tôn kính tinh tú"
- ],
- "03826": "Stellas videmus et clamorem earum observamus. Echo quod nunc relinquunt, omnia nobis necessaria narrant, nam aliquando redibimus.",
- "03827": [
-  "Găng tay nhiễm tinh độc"
- ],
- "03828": [
-  "Hộ cổ tay nhiễm tinh độc"
- ],
- "03829": [
-  "Găng giáp nhiễm tinh độc"
- ],
- "03830": [
-  "Nhẫn nhiễm tinh độc"
- ]
+"03685": "Trang bị vào Khai khoáng để khai thác Quặng thiên thạch",
+"03686": [
+"Nhật ký quan sát sao rơi"
+],
+"03687": [
+"Nhật ký quan sát sao rơi vàng"
+],
+"03688": [
+"Nhẫn bạc hoàng ngọc tinh tú"
+],
+"03689": [
+"Nhẫn bạc ngọc lam tinh tú"
+],
+"03690": [
+"Nhẫn bạc hồng ngọc tinh tú"
+],
+"03691": [
+"Nhẫn bạc ngọc lục bảo tinh tú"
+],
+"03692": [
+"Nhẫn bạc kim cương tinh tú"
+],
+"03693": [
+"Nhẫn bạc ngọc bích tinh tú"
+],
+"03694": [
+"Nhẫn vàng hoàng ngọc tinh tú"
+],
+"03695": [
+"Nhẫn vàng ngọc lam tinh tú"
+],
+"03696": [
+"Nhẫn vàng hồng ngọc tinh tú"
+],
+"03697": [
+"Nhẫn vàng ngọc lục bảo tinh tú"
+],
+"03698": [
+"Nhẫn vàng kim cương tinh tú"
+],
+"03699": [
+"Nhẫn vàng ngọc bích tinh tú"
+],
+"03700": [
+"Bùa hộ mệnh bạc hoàng ngọc tinh tú"
+],
+"03701": [
+"Bùa hộ mệnh bạc ngọc lam tinh tú"
+],
+"03702": [
+"Bùa hộ mệnh bạc hồng ngọc tinh tú"
+],
+"03703": [
+"Bùa hộ mệnh bạc ngọc lục bảo tinh tú"
+],
+"03704": [
+"Bùa hộ mệnh bạc kim cương tinh tú"
+],
+"03705": [
+"Bùa hộ mệnh bạc ngọc bích tinh tú"
+],
+"03706": [
+"Bùa hộ mệnh vàng hoàng ngọc tinh tú"
+],
+"03707": [
+"Bùa hộ mệnh vàng ngọc lam tinh tú"
+],
+"03708": [
+"Bùa hộ mệnh vàng hồng ngọc tinh tú"
+],
+"03709": [
+"Bùa hộ mệnh vàng ngọc lục bảo tinh tú"
+],
+"03710": [
+"Bùa hộ mệnh vàng kim cương tinh tú"
+],
+"03711": [
+"Bùa hộ mệnh vàng ngọc bích tinh tú"
+],
+"03712": [
+"Thỏi thiên thạch"
+],
+"03713": [
+"Chùy gai thiên thạch"
+],
+"03714": [
+"Đầu lao thiên thạch"
+],
+"03715": [
+"Găng tay thiên thạch"
+],
+"03716": [
+"Trượng thiên thạch"
+],
+"03717": [
+"Mũ giáp thiên thạch"
+],
+"03718": [
+"Giày thiên thạch"
+],
+"03719": [
+"Song đao thiên thạch"
+],
+"03720": [
+"Giáp chân thiên thạch"
+],
+"03721": [
+"Giáp ngực thiên thạch"
+],
+"03722": [
+"Thỏi thiên thạch tinh luyện"
+],
+"03723": [
+"Chùy gai thiên thạch tinh luyện"
+],
+"03724": [
+"Đầu lao thiên thạch tinh luyện"
+],
+"03725": [
+"Găng tay thiên thạch tinh luyện"
+],
+"03726": [
+"Trượng thiên thạch tinh luyện"
+],
+"03727": [
+"Mũ giáp thiên thạch tinh luyện"
+],
+"03728": [
+"Giày thiên thạch tinh luyện"
+],
+"03729": [
+"Song đao thiên thạch tinh luyện"
+],
+"03730": [
+"Giáp chân thiên thạch tinh luyện"
+],
+"03731": [
+"Giáp ngực thiên thạch tinh luyện"
+],
+"03732": [
+"Thỏi thép sắt"
+],
+"03733": [
+"Găng tay thép sắt"
+],
+"03734": [
+"Mũ giáp thép sắt"
+],
+"03735": [
+"Giày thép sắt"
+],
+"03736": [
+"Gai thép sắt"
+],
+"03737": [
+"Khiên gai thép sắt"
+],
+"03738": [
+"Kích thép sắt"
+],
+"03739": [
+"Giáp chân thép sắt"
+],
+"03740": [
+"Giáp ngực thép sắt"
+],
+"03741": [
+"Thỏi long văn"
+],
+"03742": [
+"Găng tay long văn"
+],
+"03743": [
+"Mũ giáp long văn"
+],
+"03744": [
+"Giày long văn"
+],
+"03745": [
+"Đại kiếm long văn"
+],
+"03746": [
+"Giáp chân long văn"
+],
+"03747": [
+"Giáp ngực long văn"
+],
+"03748": [
+"Bẫy hố thép sắt"
+],
+"03749": [
+"Bẫy thòng lọng long văn"
+],
+"03750": [
+"Đom đóm"
+],
+"03751": [
+"Hũ đom đóm (Trồng trọt)"
+],
+"03752": [
+"Hũ đom đóm (Chăn nuôi)"
+],
+"03753": [
+"Hũ đom đóm (Đốt lửa)"
+],
+"03754": [
+"Gậy thòng lọng đom đóm"
+],
+"03755": [
+"Quà đơn sơ của Ceedyr"
+],
+"03756": [
+"Quà hào phóng của Ceedyr"
+],
+"03757": [
+"Dao Ceedyr"
+],
+"03758": [
+"Áo choàng Ceedyr"
+],
+"03759": [
+"Mũ Ceedyr"
+],
+"03760": [
+"Cá tuế ánh trăng sống"
+],
+"03761": [
+"Cá đối sọc sống"
+],
+"03762": [
+"Bùa ánh trăng"
+],
+"03763": [
+"Cá tuế ánh trăng"
+],
+"03764": [
+"Cá đối sọc"
+],
+"03765": [
+"Bánh cá tuế"
+],
+"03766": [
+"Cá đối hầm"
+],
+"03767": [
+"Hũ bướm trăng khuyết"
+],
+"03768": [
+"Hạt giống sậy đêm"
+],
+"03769": [
+"Sậy đêm"
+],
+"03770": [
+"Bím sậy đêm"
+],
+"03771": [
+"Vảy trăng"
+],
+"03772": [
+"Lông cáo bóng tối"
+],
+"03773": [
+"Mũ vảy đêm"
+],
+"03774": [
+"Quần vảy đêm"
+],
+"03775": [
+"Áo choàng phép vảy đêm"
+],
+"03776": [
+"Lưới vảy trăng"
+],
+"03777": [
+"Áo choàng bóng tối"
+],
+"03778": [
+"Hũ bướm trăng khuyết phát sáng (c)"
+],
+"03779": [
+"Lông quạ trắng (c)"
+],
+"03780": [
+"Vảy bạc (c)"
+],
+"03781": [
+"Đuôi cáo hoàng hôn (c)"
+],
+"03782": [
+"Phù văn tinh tú"
+],
+"03783": [
+"Quyền trượng gió thiên thạch"
+],
+"03784": [
+"Quyền trượng nước thiên thạch"
+],
+"03785": [
+"Quyền trượng đất thiên thạch"
+],
+"03786": [
+"Quyền trượng lửa thiên thạch"
+],
+"03787": [
+"Cung thiên thạch"
+],
+"03788": [
+"Lao thiên thạch"
+],
+"03789": [
+"Quyền trượng gió thiên thạch tinh luyện"
+],
+"03790": [
+"Quyền trượng nước thiên thạch tinh luyện"
+],
+"03791": [
+"Quyền trượng đất thiên thạch tinh luyện"
+],
+"03792": [
+"Quyền trượng lửa thiên thạch tinh luyện"
+],
+"03793": [
+"Cung thiên thạch tinh luyện"
+],
+"03794": [
+"Lao thiên thạch tinh luyện"
+],
+"03795": [
+"Thuốc phá kết giới P1-A"
+],
+"03796": [
+"Đao chém sao"
+],
+"03797": [
+"Thuốc phá kết giới P2-A"
+],
+"03798": [
+"Thuốc phá kết giới P2-B"
+],
+"03799": [
+"Thuốc phá kết giới siêu cấp P1-A"
+],
+"03800": [
+"Thuốc phá kết giới siêu cấp P2-A"
+],
+"03801": [
+"Thuốc phá kết giới siêu cấp P2-B"
+],
+"03802": [
+"Dao găm nanh đêm"
+],
+"03803": [
+"Khiên cá Cul"
+],
+"03804": [
+"Giáp ngực cá Tor"
+],
+"03805": [
+"Túi bột tinh độc"
+],
+"03806": [
+"Đũa phép tinh độc"
+],
+"03807": [
+"Kiếm tinh độc"
+],
+"03808": [
+"Nỏ tinh độc"
+],
+"03809": [
+"Kính ngắm trăng"
+],
+"03810": [
+"Đá sẹo cộng hưởng"
+],
+"03811": [
+"Đèn lồng long văn"
+],
+"03812": [
+"Đèn lồng long văn (đã thắp)"
+],
+"03813": [
+"Hũ đom đóm (Chiến đấu)"
+],
+"03814": [
+"Quần đuôi bóng tối"
+],
+"03815": [
+"Hộp đánh lửa hắc diễm"
+],
+"03816": [
+"Khiên pháp sư cơ bản"
+],
+"03817": [
+"Khiên pháp sư trung cấp"
+],
+"03818": [
+"Khiên pháp sư cao cấp"
+],
+"03819": [
+"Áo choàng sậy đêm"
+],
+"03820": [
+"Áo choàng tinh tú"
+],
+"03821": [
+"Bút khắc phù văn thiên thạch"
+],
+"03822": [
+"Găng tay sậy đêm"
+],
+"03823": [
+"Găng tay chiến pháp sư"
+],
+"03824": [
+"Găng tay Ceedyr"
+],
+"03825": [
+"Sách tôn kính tinh tú"
+],
+"03826": "Stellas videmus et clamorem earum observamus. Echo quod nunc relinquunt, omnia nobis necessaria narrant, nam aliquando redibimus.",
+"03827": [
+"Găng tay nhiễm tinh độc"
+],
+"03828": [
+"Hộ cổ tay nhiễm tinh độc"
+],
+"03829": [
+"Găng giáp nhiễm tinh độc"
+],
+"03830": [
+"Nhẫn nhiễm tinh độc"
+]
 }
