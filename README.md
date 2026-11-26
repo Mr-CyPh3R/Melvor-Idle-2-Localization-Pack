@@ -60,7 +60,7 @@ Melvor Idle 2/
 
 ### Installation with Melvor Mod Loader
 
-If you play with [Melvor Mod Loader](https://falorfrozen-cmd.github.io/MelvorModLoader/) (0.2.0 or newer), download the **Mod Loader version** (`Localization_Pack_v<version>_ModLoader_<loader>.zip`) instead. It works together with other Mod Loader mods.
+If you play with [Melvor Mod Loader](https://falorfrozen-cmd.github.io/MelvorModLoader/) (0.2.0 or newer), download the **Mod Loader version** (`Localization_Pack_v<version>_ModLoader.zip`) instead. It works together with other Mod Loader mods.
 
 1. Install Melvor Mod Loader first, then close the game.
 2. Extract the archive (only the `Mods` folder) next to `Melvor2.exe`. Keep the `override.cfg` of Mod Loader, this version does not bring its own.

@@ -83,7 +83,7 @@ if os.path.exists(dll):
         + readme[readme.index('NOTES\n'):].replace('- Only one mod can use override.cfg. Remove other translation mods first.', '- Remove other translation mods first.')
     loader = cfg['mod_loader_version']  # Titel: "1.2.0 (Mod Loader 0.2.0)"
     loader_readme = loader_readme.replace(f'Version {cfg["version"]},', f'Version {cfg["version"]} (Mod Loader {loader}),', 1)
-    loader_zip = f'dist/Localization_Pack_v{cfg["version"]}_ModLoader_{loader}.zip'
+    loader_zip = f'dist/Localization_Pack_v{cfg["version"]}_ModLoader.zip'
     with zipfile.ZipFile(loader_zip, 'w', zipfile.ZIP_DEFLATED) as z:
         for root, _, files in os.walk(MOD_DIR):
             for f in files:
