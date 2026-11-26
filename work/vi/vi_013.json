@@ -1,494 +1,494 @@
 {
- "02405": [
-  "Lươn khổng lồ sống"
- ],
- "02406": [
-  "Bumerang sồi"
- ],
- "02407": [
-  "Bumerang liễu"
- ],
- "02408": [
-  "Bumerang phong"
- ],
- "02409": [
-  "Bumerang thủy tùng"
- ],
- "02410": [
-  "Bumerang ma thuật"
- ],
- "02411": [
-  "Bumerang gỗ đỏ"
- ],
- "02412": [
-  "Nỏ sắt"
- ],
- "02413": [
-  "Nỏ thép"
- ],
- "02414": [
-  "Nỏ bí ngân"
- ],
- "02415": [
-  "Nỏ tinh kim"
- ],
- "02416": [
-  "Nỏ phù thạch"
- ],
- "02417": [
-  "Nỏ thép Bình Minh"
- ],
- "02418": [
-  "Nỏ long thạch"
- ],
- "02419": [
-  "Nỏ hai tay thép"
- ],
- "02420": [
-  "Nỏ hai tay bí ngân"
- ],
- "02421": [
-  "Nỏ hai tay tinh kim"
- ],
- "02422": [
-  "Nỏ hai tay phù thạch"
- ],
- "02423": [
-  "Nỏ hai tay thép Bình Minh"
- ],
- "02424": [
-  "Nỏ hai tay long thạch"
- ],
- "02425": [
-  "Phù văn mục rữa"
- ],
- "02426": [
-  "Đũa phép gió"
- ],
- "02427": [
-  "Gậy gió"
- ],
- "02428": [
-  "Đũa phép nước"
- ],
- "02429": [
-  "Gậy nước"
- ],
- "02430": [
-  "Đũa phép đất"
- ],
- "02431": [
-  "Gậy đất"
- ],
- "02432": [
-  "Đũa phép lửa"
- ],
- "02433": [
-  "Gậy lửa"
- ],
- "02434": [
-  "Mũ pháp sư gió"
- ],
- "02435": "Thông tin thưởng bộ sẽ sớm có (tạm thời hãy trang bị để xem).",
- "02436": [
-  "Giày pháp sư gió"
- ],
- "02437": [
-  "Quần pháp sư gió"
- ],
- "02438": [
-  "Áo choàng pháp sư gió"
- ],
- "02439": [
-  "Mũ pháp sư nước"
- ],
- "02440": [
-  "Giày pháp sư nước"
- ],
- "02441": [
-  "Quần pháp sư nước"
- ],
- "02442": [
-  "Áo choàng pháp sư nước"
- ],
- "02443": [
-  "Mũ pháp sư đất"
- ],
- "02444": [
-  "Giày pháp sư đất"
- ],
- "02445": [
-  "Quần pháp sư đất"
- ],
- "02446": [
-  "Áo choàng pháp sư đất"
- ],
- "02447": [
-  "Mũ pháp sư lửa"
- ],
- "02448": [
-  "Giày pháp sư lửa"
- ],
- "02449": [
-  "Quần pháp sư lửa"
- ],
- "02450": [
-  "Áo choàng pháp sư lửa"
- ],
- "02451": [
-  "Kiếm đá"
- ],
- "02452": [
-  "Đầu giáo đá"
- ],
- "02453": [
-  "Đầu giáo thép"
- ],
- "02454": [
-  "Đầu giáo bí ngân"
- ],
- "02455": [
-  "Đầu giáo tinh kim"
- ],
- "02456": [
-  "Đầu giáo phù thạch"
- ],
- "02457": [
-  "Đầu giáo thép Bình Minh"
- ],
- "02458": [
-  "Đầu giáo long thạch"
- ],
- "02459": [
-  "Thân mũi tên"
- ],
- "02460": [
-  "Lao đồng"
- ],
- "02461": [
-  "Lao sắt"
- ],
- "02462": "Ném thứ này vào quái vật và xem chuyện gì xảy ra.",
- "02463": [
-  "Lao thép"
- ],
- "02464": [
-  "Lao bí ngân"
- ],
- "02465": [
-  "Lao tinh kim"
- ],
- "02466": [
-  "Lao phù thạch"
- ],
- "02467": [
-  "Lao thép Bình Minh"
- ],
- "02468": [
-  "Lao long thạch"
- ],
- "02469": [
-  "Khiên da"
- ],
- "02470": [
-  "Áo da"
- ],
- "02471": [
-  "Hộ cổ tay da cứng"
- ],
- "02472": [
-  "Giày da cứng"
- ],
- "02473": [
-  "Mũ trùm da cứng"
- ],
- "02474": [
-  "Khiên da cứng"
- ],
- "02475": [
-  "Quần da cứng"
- ],
- "02476": [
-  "Áo da cứng"
- ],
- "02477": [
-  "Hộ cổ tay da đính đinh"
- ],
- "02478": [
-  "Giày da đính đinh"
- ],
- "02479": [
-  "Mũ trùm da đính đinh"
- ],
- "02480": [
-  "Khiên da đính đinh"
- ],
- "02481": [
-  "Quần da đính đinh"
- ],
- "02482": [
-  "Áo da đính đinh"
- ],
- "02483": [
-  "Hộ cổ tay lưới xích"
- ],
- "02484": [
-  "Giày lưới xích"
- ],
- "02485": [
-  "Mũ trùm lưới xích"
- ],
- "02486": [
-  "Khiên lưới xích"
- ],
- "02487": [
-  "Quần lưới xích"
- ],
- "02488": [
-  "Áo lưới xích"
- ],
- "02489": [
-  "Mũ trùm da rồng lục"
- ],
- "02490": [
-  "Quần da rồng lục"
- ],
- "02491": [
-  "Áo da rồng lục"
- ],
- "02492": [
-  "Mũ trùm da rồng xanh"
- ],
- "02493": [
-  "Quần da rồng xanh"
- ],
- "02494": [
-  "Áo da rồng xanh"
- ],
- "02495": [
-  "Mũ trùm da rồng đỏ"
- ],
- "02496": [
-  "Quần da rồng đỏ"
- ],
- "02497": [
-  "Áo da rồng đỏ"
- ],
- "02498": [
-  "Mũ trùm da rồng đen"
- ],
- "02499": [
-  "Quần da rồng đen"
- ],
- "02500": [
-  "Áo da rồng đen"
- ],
- "02501": [
-  "Nhẫn bạc hoàng ngọc"
- ],
- "02502": [
-  "Nhẫn bạc ngọc lam"
- ],
- "02503": [
-  "Nhẫn bạc hồng ngọc"
- ],
- "02504": [
-  "Nhẫn bạc ngọc lục bảo"
- ],
- "02505": [
-  "Nhẫn bạc kim cương"
- ],
- "02506": [
-  "Nhẫn bạc ngọc bích"
- ],
- "02507": [
-  "Nhẫn vàng ngọc lam"
- ],
- "02508": [
-  "Nhẫn vàng hồng ngọc"
- ],
- "02509": [
-  "Nhẫn vàng ngọc lục bảo"
- ],
- "02510": [
-  "Nhẫn vàng kim cương"
- ],
- "02511": [
-  "Nhẫn vàng ngọc bích"
- ],
- "02512": [
-  "Bùa hộ mệnh bạc hoàng ngọc"
- ],
- "02513": [
-  "Bùa hộ mệnh bạc ngọc lam"
- ],
- "02514": [
-  "Bùa hộ mệnh bạc hồng ngọc"
- ],
- "02515": [
-  "Bùa hộ mệnh bạc ngọc lục bảo"
- ],
- "02516": [
-  "Bùa hộ mệnh bạc kim cương"
- ],
- "02517": [
-  "Bùa hộ mệnh bạc ngọc bích"
- ],
- "02518": [
-  "Bùa hộ mệnh vàng hoàng ngọc"
- ],
- "02519": [
-  "Bùa hộ mệnh vàng ngọc lam"
- ],
- "02520": [
-  "Bùa hộ mệnh vàng hồng ngọc"
- ],
- "02521": [
-  "Bùa hộ mệnh vàng ngọc lục bảo"
- ],
- "02522": [
-  "Bùa hộ mệnh vàng kim cương"
- ],
- "02523": [
-  "Bùa hộ mệnh vàng ngọc bích"
- ],
- "02524": [
-  "Lông yêu điểu"
- ],
- "02525": [
-  "Than đá"
- ],
- "02526": [
-  "Hoàng ngọc thô"
- ],
- "02527": [
-  "Ngọc lam thô"
- ],
- "02528": [
-  "Hồng ngọc thô"
- ],
- "02529": [
-  "Ngọc lục bảo thô"
- ],
- "02530": [
-  "Kim cương thô"
- ],
- "02531": [
-  "Ngọc bích thô"
- ],
- "02532": [
-  "Đất sét"
- ],
- "02533": [
-  "Xô nước"
- ],
- "02534": [
-  "Xô cát"
- ],
- "02535": [
-  "Thủy tinh nóng chảy"
- ],
- "02536": [
-  "Gói lọ"
- ],
- "02537": [
-  "Quả cầu chưa nạp năng lượng"
- ],
- "02538": [
-  "Đèn lồng rỗng"
- ],
- "02539": [
-  "Hạt giống cây gỗ đỏ"
- ],
- "02540": [
-  "Than củi"
- ],
- "02541": [
-  "Tro"
- ],
- "02542": [
-  "Bồ hóng"
- ],
- "02543": [
-  "Than hồng"
- ],
- "02544": [
-  "Cung sồi cứng"
- ],
- "02545": [
-  "Gỗ sồi cứng"
- ],
- "02546": [
-  "Bumerang sồi cứng"
- ],
- "02547": [
-  "Nỏ hai tay sắt"
- ],
- "02548": [
-  "Tinh chất tinh khiết"
- ],
- "02549": [
-  "Giáo thép"
- ],
- "02550": [
-  "Giáo bí ngân"
- ],
- "02551": [
-  "Giáo tinh kim"
- ],
- "02552": [
-  "Giáo phù thạch"
- ],
- "02553": [
-  "Giáo thép Bình Minh"
- ],
- "02554": [
-  "Giáo long thạch"
- ],
- "02555": [
-  "Trai ngọc"
- ],
- "02556": "Vật phẩm giá trị, dùng để bán.",
- "02557": [
-  "Vòng cổ vỏ sò"
- ],
- "02558": [
-  "Dao găm cổ gỉ sét"
- ],
- "02559": [
-  "Găng tay chống mảnh văng"
- ],
- "02560": [
-  "Lưới vững chãi"
- ],
- "02561": [
-  "Vải buồm cổ rách"
- ],
- "02562": [
-  "Đá phát sáng biển sâu"
- ],
- "02563": [
-  "Nhẫn câu cá thất lạc"
- ],
- "02564": [
-  "Vòng cổ răng cá mập"
- ],
- "02565": [
-  "San hô cầu vồng"
- ],
- "02566": [
-  "Nhẫn vảy lấp lánh"
- ],
- "02567": [
-  "Búi rong biển"
- ],
- "02568": [
-  "Phù văn linh hồn"
- ],
- "02569": [
-  "Đũa chiến gió"
- ],
- "02570": [
-  "Đũa chiến nước"
- ]
+"02405": [
+"Lươn khổng lồ sống"
+],
+"02406": [
+"Bumerang sồi"
+],
+"02407": [
+"Bumerang liễu"
+],
+"02408": [
+"Bumerang phong"
+],
+"02409": [
+"Bumerang thủy tùng"
+],
+"02410": [
+"Bumerang ma thuật"
+],
+"02411": [
+"Bumerang gỗ đỏ"
+],
+"02412": [
+"Nỏ sắt"
+],
+"02413": [
+"Nỏ thép"
+],
+"02414": [
+"Nỏ bí ngân"
+],
+"02415": [
+"Nỏ tinh kim"
+],
+"02416": [
+"Nỏ phù thạch"
+],
+"02417": [
+"Nỏ thép Bình Minh"
+],
+"02418": [
+"Nỏ long thạch"
+],
+"02419": [
+"Nỏ hai tay thép"
+],
+"02420": [
+"Nỏ hai tay bí ngân"
+],
+"02421": [
+"Nỏ hai tay tinh kim"
+],
+"02422": [
+"Nỏ hai tay phù thạch"
+],
+"02423": [
+"Nỏ hai tay thép Bình Minh"
+],
+"02424": [
+"Nỏ hai tay long thạch"
+],
+"02425": [
+"Phù văn mục rữa"
+],
+"02426": [
+"Đũa phép gió"
+],
+"02427": [
+"Gậy gió"
+],
+"02428": [
+"Đũa phép nước"
+],
+"02429": [
+"Gậy nước"
+],
+"02430": [
+"Đũa phép đất"
+],
+"02431": [
+"Gậy đất"
+],
+"02432": [
+"Đũa phép lửa"
+],
+"02433": [
+"Gậy lửa"
+],
+"02434": [
+"Mũ pháp sư gió"
+],
+"02435": "Thông tin thưởng bộ sẽ sớm có (tạm thời hãy trang bị để xem).",
+"02436": [
+"Giày pháp sư gió"
+],
+"02437": [
+"Quần pháp sư gió"
+],
+"02438": [
+"Áo choàng pháp sư gió"
+],
+"02439": [
+"Mũ pháp sư nước"
+],
+"02440": [
+"Giày pháp sư nước"
+],
+"02441": [
+"Quần pháp sư nước"
+],
+"02442": [
+"Áo choàng pháp sư nước"
+],
+"02443": [
+"Mũ pháp sư đất"
+],
+"02444": [
+"Giày pháp sư đất"
+],
+"02445": [
+"Quần pháp sư đất"
+],
+"02446": [
+"Áo choàng pháp sư đất"
+],
+"02447": [
+"Mũ pháp sư lửa"
+],
+"02448": [
+"Giày pháp sư lửa"
+],
+"02449": [
+"Quần pháp sư lửa"
+],
+"02450": [
+"Áo choàng pháp sư lửa"
+],
+"02451": [
+"Kiếm đá"
+],
+"02452": [
+"Đầu giáo đá"
+],
+"02453": [
+"Đầu giáo thép"
+],
+"02454": [
+"Đầu giáo bí ngân"
+],
+"02455": [
+"Đầu giáo tinh kim"
+],
+"02456": [
+"Đầu giáo phù thạch"
+],
+"02457": [
+"Đầu giáo thép Bình Minh"
+],
+"02458": [
+"Đầu giáo long thạch"
+],
+"02459": [
+"Thân mũi tên"
+],
+"02460": [
+"Lao đồng"
+],
+"02461": [
+"Lao sắt"
+],
+"02462": "Ném thứ này vào quái vật và xem chuyện gì xảy ra.",
+"02463": [
+"Lao thép"
+],
+"02464": [
+"Lao bí ngân"
+],
+"02465": [
+"Lao tinh kim"
+],
+"02466": [
+"Lao phù thạch"
+],
+"02467": [
+"Lao thép Bình Minh"
+],
+"02468": [
+"Lao long thạch"
+],
+"02469": [
+"Khiên da"
+],
+"02470": [
+"Áo da"
+],
+"02471": [
+"Hộ cổ tay da cứng"
+],
+"02472": [
+"Giày da cứng"
+],
+"02473": [
+"Mũ trùm da cứng"
+],
+"02474": [
+"Khiên da cứng"
+],
+"02475": [
+"Quần da cứng"
+],
+"02476": [
+"Áo da cứng"
+],
+"02477": [
+"Hộ cổ tay da đính đinh"
+],
+"02478": [
+"Giày da đính đinh"
+],
+"02479": [
+"Mũ trùm da đính đinh"
+],
+"02480": [
+"Khiên da đính đinh"
+],
+"02481": [
+"Quần da đính đinh"
+],
+"02482": [
+"Áo da đính đinh"
+],
+"02483": [
+"Hộ cổ tay lưới xích"
+],
+"02484": [
+"Giày lưới xích"
+],
+"02485": [
+"Mũ trùm lưới xích"
+],
+"02486": [
+"Khiên lưới xích"
+],
+"02487": [
+"Quần lưới xích"
+],
+"02488": [
+"Áo lưới xích"
+],
+"02489": [
+"Mũ trùm da rồng lục"
+],
+"02490": [
+"Quần da rồng lục"
+],
+"02491": [
+"Áo da rồng lục"
+],
+"02492": [
+"Mũ trùm da rồng xanh lam"
+],
+"02493": [
+"Quần da rồng xanh lam"
+],
+"02494": [
+"Áo da rồng xanh lam"
+],
+"02495": [
+"Mũ trùm da rồng đỏ"
+],
+"02496": [
+"Quần da rồng đỏ"
+],
+"02497": [
+"Áo da rồng đỏ"
+],
+"02498": [
+"Mũ trùm da rồng đen"
+],
+"02499": [
+"Quần da rồng đen"
+],
+"02500": [
+"Áo da rồng đen"
+],
+"02501": [
+"Nhẫn bạc hoàng ngọc"
+],
+"02502": [
+"Nhẫn bạc ngọc lam"
+],
+"02503": [
+"Nhẫn bạc hồng ngọc"
+],
+"02504": [
+"Nhẫn bạc ngọc lục bảo"
+],
+"02505": [
+"Nhẫn bạc kim cương"
+],
+"02506": [
+"Nhẫn bạc ngọc bích"
+],
+"02507": [
+"Nhẫn vàng ngọc lam"
+],
+"02508": [
+"Nhẫn vàng hồng ngọc"
+],
+"02509": [
+"Nhẫn vàng ngọc lục bảo"
+],
+"02510": [
+"Nhẫn vàng kim cương"
+],
+"02511": [
+"Nhẫn vàng ngọc bích"
+],
+"02512": [
+"Bùa hộ mệnh bạc hoàng ngọc"
+],
+"02513": [
+"Bùa hộ mệnh bạc ngọc lam"
+],
+"02514": [
+"Bùa hộ mệnh bạc hồng ngọc"
+],
+"02515": [
+"Bùa hộ mệnh bạc ngọc lục bảo"
+],
+"02516": [
+"Bùa hộ mệnh bạc kim cương"
+],
+"02517": [
+"Bùa hộ mệnh bạc ngọc bích"
+],
+"02518": [
+"Bùa hộ mệnh vàng hoàng ngọc"
+],
+"02519": [
+"Bùa hộ mệnh vàng ngọc lam"
+],
+"02520": [
+"Bùa hộ mệnh vàng hồng ngọc"
+],
+"02521": [
+"Bùa hộ mệnh vàng ngọc lục bảo"
+],
+"02522": [
+"Bùa hộ mệnh vàng kim cương"
+],
+"02523": [
+"Bùa hộ mệnh vàng ngọc bích"
+],
+"02524": [
+"Lông yêu điểu"
+],
+"02525": [
+"Than đá"
+],
+"02526": [
+"Hoàng ngọc thô"
+],
+"02527": [
+"Ngọc lam thô"
+],
+"02528": [
+"Hồng ngọc thô"
+],
+"02529": [
+"Ngọc lục bảo thô"
+],
+"02530": [
+"Kim cương thô"
+],
+"02531": [
+"Ngọc bích thô"
+],
+"02532": [
+"Đất sét"
+],
+"02533": [
+"Xô nước"
+],
+"02534": [
+"Xô cát"
+],
+"02535": [
+"Thủy tinh nóng chảy"
+],
+"02536": [
+"Gói lọ"
+],
+"02537": [
+"Quả cầu chưa nạp năng lượng"
+],
+"02538": [
+"Đèn lồng rỗng"
+],
+"02539": [
+"Hạt giống cây gỗ đỏ"
+],
+"02540": [
+"Than củi"
+],
+"02541": [
+"Tro"
+],
+"02542": [
+"Bồ hóng"
+],
+"02543": [
+"Than hồng"
+],
+"02544": [
+"Cung sồi cứng"
+],
+"02545": [
+"Gỗ sồi cứng"
+],
+"02546": [
+"Bumerang sồi cứng"
+],
+"02547": [
+"Nỏ hai tay sắt"
+],
+"02548": [
+"Tinh chất tinh khiết"
+],
+"02549": [
+"Giáo thép"
+],
+"02550": [
+"Giáo bí ngân"
+],
+"02551": [
+"Giáo tinh kim"
+],
+"02552": [
+"Giáo phù thạch"
+],
+"02553": [
+"Giáo thép Bình Minh"
+],
+"02554": [
+"Giáo long thạch"
+],
+"02555": [
+"Trai ngọc"
+],
+"02556": "Vật phẩm giá trị, dùng để bán.",
+"02557": [
+"Vòng cổ vỏ sò"
+],
+"02558": [
+"Dao găm cổ gỉ sét"
+],
+"02559": [
+"Găng tay chống mảnh văng"
+],
+"02560": [
+"Lưới vững chãi"
+],
+"02561": [
+"Vải buồm cổ rách"
+],
+"02562": [
+"Đá phát sáng biển sâu"
+],
+"02563": [
+"Nhẫn câu cá thất lạc"
+],
+"02564": [
+"Vòng cổ răng cá mập"
+],
+"02565": [
+"San hô cầu vồng"
+],
+"02566": [
+"Nhẫn vảy lấp lánh"
+],
+"02567": [
+"Búi rong biển"
+],
+"02568": [
+"Phù văn linh hồn"
+],
+"02569": [
+"Đũa chiến gió"
+],
+"02570": [
+"Đũa chiến nước"
+]
 }

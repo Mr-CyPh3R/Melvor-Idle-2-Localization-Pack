@@ -1,529 +1,529 @@
 {
- "02228": [
-  "Đầu mũi tên bí ngân"
- ],
- "02229": [
-  "Đầu lao bí ngân"
- ],
- "02230": [
-  "Kiếm bí ngân"
- ],
- "02231": [
-  "Găng tay bí ngân"
- ],
- "02232": [
-  "Mã tấu bí ngân"
- ],
- "02233": [
-  "Mũ giáp bí ngân"
- ],
- "02234": [
-  "Giày bí ngân"
- ],
- "02235": [
-  "Khiên bí ngân"
- ],
- "02236": [
-  "Kiếm hai tay bí ngân"
- ],
- "02237": [
-  "Búa vồ bí ngân"
- ],
- "02238": [
-  "Đầu nỏ bí ngân"
- ],
- "02239": [
-  "Giáp chân bí ngân"
- ],
- "02240": [
-  "Giáp ngực bí ngân"
- ],
- "02241": [
-  "Dao găm tinh kim"
- ],
- "02242": [
-  "Khiên phụ tinh kim"
- ],
- "02243": [
-  "Đầu mũi tên tinh kim"
- ],
- "02244": [
-  "Đầu lao tinh kim"
- ],
- "02245": [
-  "Kiếm tinh kim"
- ],
- "02246": [
-  "Găng tay tinh kim"
- ],
- "02247": [
-  "Mã tấu tinh kim"
- ],
- "02248": [
-  "Mũ giáp tinh kim"
- ],
- "02249": [
-  "Giày tinh kim"
- ],
- "02250": [
-  "Khiên tinh kim"
- ],
- "02251": [
-  "Kiếm hai tay tinh kim"
- ],
- "02252": [
-  "Búa vồ tinh kim"
- ],
- "02253": [
-  "Đầu nỏ tinh kim"
- ],
- "02254": [
-  "Giáp chân tinh kim"
- ],
- "02255": [
-  "Giáp ngực tinh kim"
- ],
- "02256": [
-  "Dao găm phù thạch"
- ],
- "02257": [
-  "Khiên phụ phù thạch"
- ],
- "02258": [
-  "Đầu mũi tên phù thạch"
- ],
- "02259": [
-  "Đầu lao phù thạch"
- ],
- "02260": [
-  "Kiếm phù thạch"
- ],
- "02261": [
-  "Găng tay phù thạch"
- ],
- "02262": [
-  "Mã tấu phù thạch"
- ],
- "02263": [
-  "Mũ giáp phù thạch"
- ],
- "02264": [
-  "Giày phù thạch"
- ],
- "02265": [
-  "Khiên phù thạch"
- ],
- "02266": [
-  "Kiếm hai tay phù thạch"
- ],
- "02267": [
-  "Búa vồ phù thạch"
- ],
- "02268": [
-  "Đầu nỏ phù thạch"
- ],
- "02269": [
-  "Giáp chân phù thạch"
- ],
- "02270": [
-  "Giáp ngực phù thạch"
- ],
- "02271": [
-  "Dao găm thép Bình Minh"
- ],
- "02272": [
-  "Khiên phụ thép Bình Minh"
- ],
- "02273": [
-  "Đầu mũi tên thép Bình Minh"
- ],
- "02274": [
-  "Đầu lao thép Bình Minh"
- ],
- "02275": [
-  "Kiếm thép Bình Minh"
- ],
- "02276": [
-  "Găng tay thép Bình Minh"
- ],
- "02277": [
-  "Mã tấu thép Bình Minh"
- ],
- "02278": [
-  "Mũ giáp thép Bình Minh"
- ],
- "02279": "Thưởng bộ (với 3 món đồ thép Bình Minh, trừ găng tay): +5 ánh sáng",
- "02280": [
-  "Giày thép Bình Minh"
- ],
- "02281": [
-  "Khiên thép Bình Minh"
- ],
- "02282": [
-  "Kiếm hai tay thép Bình Minh"
- ],
- "02283": [
-  "Búa vồ thép Bình Minh"
- ],
- "02284": [
-  "Đầu nỏ thép Bình Minh"
- ],
- "02285": [
-  "Giáp chân thép Bình Minh"
- ],
- "02286": "Thưởng bộ (với 3 món đồ thép Bình Minh, trừ găng tay và khiên): +5 ánh sáng",
- "02287": [
-  "Giáp ngực thép Bình Minh"
- ],
- "02288": [
-  "Dao găm long thạch"
- ],
- "02289": [
-  "Khiên phụ long thạch"
- ],
- "02290": [
-  "Đầu mũi tên long thạch"
- ],
- "02291": [
-  "Đầu lao long thạch"
- ],
- "02292": [
-  "Kiếm long thạch"
- ],
- "02293": [
-  "Găng tay long thạch"
- ],
- "02294": [
-  "Mã tấu long thạch"
- ],
- "02295": [
-  "Mũ giáp long thạch"
- ],
- "02296": [
-  "Giày long thạch"
- ],
- "02297": [
-  "Khiên long thạch"
- ],
- "02298": [
-  "Kiếm hai tay long thạch"
- ],
- "02299": [
-  "Búa vồ long thạch"
- ],
- "02300": [
-  "Đầu nỏ long thạch"
- ],
- "02301": [
-  "Giáp chân long thạch"
- ],
- "02302": [
-  "Giáp ngực long thạch"
- ],
- "02303": [
-  "Hoàng ngọc"
- ],
- "02304": [
-  "Ngọc lam"
- ],
- "02305": [
-  "Hồng ngọc"
- ],
- "02306": [
-  "Ngọc lục bảo"
- ],
- "02307": [
-  "Kim cương"
- ],
- "02308": [
-  "Ngọc bích"
- ],
- "02309": [
-  "Thỏi bạc"
- ],
- "02310": [
-  "Hạt giống cây sồi"
- ],
- "02311": [
-  "Hạt giống cây liễu"
- ],
- "02312": [
-  "Hạt giống cây tếch"
- ],
- "02313": [
-  "Hạt giống cây phong"
- ],
- "02314": [
-  "Hạt giống cây gụ"
- ],
- "02315": [
-  "Hạt giống cây thủy tùng"
- ],
- "02316": [
-  "Hạt giống cây ma thuật"
- ],
- "02317": [
-  "Hạt giống cây sồi cứng"
- ],
- "02318": [
-  "Cung thường"
- ],
- "02319": [
-  "Cung sồi"
- ],
- "02320": [
-  "Cung liễu"
- ],
- "02321": [
-  "Cung phong"
- ],
- "02322": [
-  "Cung thủy tùng"
- ],
- "02323": [
-  "Cung ma thuật"
- ],
- "02324": [
-  "Cung gỗ đỏ"
- ],
- "02325": [
-  "Mũi tên đá"
- ],
- "02326": [
-  "Mũi tên đồng"
- ],
- "02327": [
-  "Mũi tên sắt"
- ],
- "02328": [
-  "Mũi tên thép"
- ],
- "02329": [
-  "Mũi tên bí ngân"
- ],
- "02330": [
-  "Mũi tên tinh kim"
- ],
- "02331": [
-  "Mũi tên phù thạch"
- ],
- "02332": [
-  "Mũi tên thép Bình Minh"
- ],
- "02333": [
-  "Mũi tên long thạch"
- ],
- "02334": [
-  "Mũi tên không đầu"
- ],
- "02335": [
-  "Lông vũ"
- ],
- "02336": [
-  "Dây cung"
- ],
- "02337": [
-  "Da"
- ],
- "02338": [
-  "Da rồng lục"
- ],
- "02339": [
-  "Da thuộc rồng lục"
- ],
- "02340": [
-  "Da rồng xanh"
- ],
- "02341": [
-  "Da thuộc rồng xanh"
- ],
- "02342": [
-  "Da rồng đỏ"
- ],
- "02343": [
-  "Da thuộc rồng đỏ"
- ],
- "02344": [
-  "Da rồng đen"
- ],
- "02345": [
-  "Da thuộc rồng đen"
- ],
- "02346": [
-  "Giày da"
- ],
- "02347": [
-  "Mũ trùm da"
- ],
- "02348": [
-  "Hộ cổ tay da"
- ],
- "02349": [
-  "Quần da"
- ],
- "02350": [
-  "Nhẫn vàng hoàng ngọc"
- ],
- "02351": [
-  "Tinh chất phù văn"
- ],
- "02352": [
-  "Phù văn gió"
- ],
- "02353": [
-  "Phù văn tâm trí"
- ],
- "02354": [
-  "Phù văn nước"
- ],
- "02355": [
-  "Phù văn đất"
- ],
- "02356": [
-  "Phù văn lửa"
- ],
- "02357": [
-  "Phù văn thể xác"
- ],
- "02358": [
-  "Phù văn hỗn mang"
- ],
- "02359": [
-  "Phù văn tử thần"
- ],
- "02360": [
-  "Phù văn máu"
- ],
- "02361": [
-  "Gậy chiến gió"
- ],
- "02362": [
-  "Gậy chiến nước"
- ],
- "02363": [
-  "Gậy chiến đất"
- ],
- "02364": [
-  "Gậy chiến lửa"
- ],
- "02365": [
-  "Rong biển"
- ],
- "02366": [
-  "Dây thừng"
- ],
- "02367": [
-  "Rác"
- ],
- "02368": [
-  "Búa ném hai tay bí ngân"
- ],
- "02369": [
-  "Búa ném hai tay tinh kim"
- ],
- "02370": [
-  "Búa ném hai tay phù thạch"
- ],
- "02371": [
-  "Búa ném hai tay thép Bình Minh"
- ],
- "02372": [
-  "Búa ném hai tay long thạch"
- ],
- "02373": [
-  "Thân tên nỏ"
- ],
- "02374": [
-  "Phù văn sương"
- ],
- "02375": [
-  "Phù văn bụi"
- ],
- "02376": [
-  "Phù văn bùn"
- ],
- "02377": [
-  "Phù văn khói"
- ],
- "02378": [
-  "Phù văn hơi nước"
- ],
- "02379": [
-  "Phù văn dung nham"
- ],
- "02380": [
-  "Sừng nai"
- ],
- "02381": [
-  "Bánh mì"
- ],
- "02382": [
-  "Thịt bò sống"
- ],
- "02383": [
-  "Thịt bò"
- ],
- "02384": [
-  "Thịt sống"
- ],
- "02385": [
-  "Thịt gà sống"
- ],
- "02386": [
-  "Gà"
- ],
- "02387": [
-  "Phô mai"
- ],
- "02388": [
-  "Tên nỏ hoàng ngọc"
- ],
- "02389": [
-  "Tên nỏ ngọc lam"
- ],
- "02390": [
-  "Tên nỏ hồng ngọc"
- ],
- "02391": [
-  "Tên nỏ ngọc lục bảo"
- ],
- "02392": [
-  "Tên nỏ kim cương"
- ],
- "02393": [
-  "Tên nỏ ngọc bích"
- ],
- "02394": [
-  "Cá rô sống"
- ],
- "02395": [
-  "Cá thu sống"
- ],
- "02396": [
-  "Cá chó sống"
- ],
- "02397": [
-  "Cá vây sáng sống"
- ],
- "02398": [
-  "Cá tráp sống"
- ],
- "02399": [
-  "Cá tuyết sống"
- ],
- "02400": [
-  "Cá vược biển sống"
- ],
- "02401": [
-  "Cá sư tử sống"
- ],
- "02402": [
-  "Sứa phát sáng sống"
- ],
- "02403": [
-  "Cá ngừ sống"
- ],
- "02404": [
-  "Mực phát sáng sống"
- ]
+"02228": [
+"Đầu mũi tên bí ngân"
+],
+"02229": [
+"Đầu lao bí ngân"
+],
+"02230": [
+"Kiếm bí ngân"
+],
+"02231": [
+"Găng tay bí ngân"
+],
+"02232": [
+"Mã tấu bí ngân"
+],
+"02233": [
+"Mũ giáp bí ngân"
+],
+"02234": [
+"Giày bí ngân"
+],
+"02235": [
+"Khiên bí ngân"
+],
+"02236": [
+"Kiếm hai tay bí ngân"
+],
+"02237": [
+"Búa vồ bí ngân"
+],
+"02238": [
+"Đầu nỏ bí ngân"
+],
+"02239": [
+"Giáp chân bí ngân"
+],
+"02240": [
+"Giáp ngực bí ngân"
+],
+"02241": [
+"Dao găm tinh kim"
+],
+"02242": [
+"Khiên phụ tinh kim"
+],
+"02243": [
+"Đầu mũi tên tinh kim"
+],
+"02244": [
+"Đầu lao tinh kim"
+],
+"02245": [
+"Kiếm tinh kim"
+],
+"02246": [
+"Găng tay tinh kim"
+],
+"02247": [
+"Mã tấu tinh kim"
+],
+"02248": [
+"Mũ giáp tinh kim"
+],
+"02249": [
+"Giày tinh kim"
+],
+"02250": [
+"Khiên tinh kim"
+],
+"02251": [
+"Kiếm hai tay tinh kim"
+],
+"02252": [
+"Búa vồ tinh kim"
+],
+"02253": [
+"Đầu nỏ tinh kim"
+],
+"02254": [
+"Giáp chân tinh kim"
+],
+"02255": [
+"Giáp ngực tinh kim"
+],
+"02256": [
+"Dao găm phù thạch"
+],
+"02257": [
+"Khiên phụ phù thạch"
+],
+"02258": [
+"Đầu mũi tên phù thạch"
+],
+"02259": [
+"Đầu lao phù thạch"
+],
+"02260": [
+"Kiếm phù thạch"
+],
+"02261": [
+"Găng tay phù thạch"
+],
+"02262": [
+"Mã tấu phù thạch"
+],
+"02263": [
+"Mũ giáp phù thạch"
+],
+"02264": [
+"Giày phù thạch"
+],
+"02265": [
+"Khiên phù thạch"
+],
+"02266": [
+"Kiếm hai tay phù thạch"
+],
+"02267": [
+"Búa vồ phù thạch"
+],
+"02268": [
+"Đầu nỏ phù thạch"
+],
+"02269": [
+"Giáp chân phù thạch"
+],
+"02270": [
+"Giáp ngực phù thạch"
+],
+"02271": [
+"Dao găm thép Bình Minh"
+],
+"02272": [
+"Khiên phụ thép Bình Minh"
+],
+"02273": [
+"Đầu mũi tên thép Bình Minh"
+],
+"02274": [
+"Đầu lao thép Bình Minh"
+],
+"02275": [
+"Kiếm thép Bình Minh"
+],
+"02276": [
+"Găng tay thép Bình Minh"
+],
+"02277": [
+"Mã tấu thép Bình Minh"
+],
+"02278": [
+"Mũ giáp thép Bình Minh"
+],
+"02279": "Thưởng bộ (với 3 món đồ thép Bình Minh, trừ găng tay): +5 ánh sáng",
+"02280": [
+"Giày thép Bình Minh"
+],
+"02281": [
+"Khiên thép Bình Minh"
+],
+"02282": [
+"Kiếm hai tay thép Bình Minh"
+],
+"02283": [
+"Búa vồ thép Bình Minh"
+],
+"02284": [
+"Đầu nỏ thép Bình Minh"
+],
+"02285": [
+"Giáp chân thép Bình Minh"
+],
+"02286": "Thưởng bộ (với 3 món đồ thép Bình Minh, trừ găng tay và khiên): +5 ánh sáng",
+"02287": [
+"Giáp ngực thép Bình Minh"
+],
+"02288": [
+"Dao găm long thạch"
+],
+"02289": [
+"Khiên phụ long thạch"
+],
+"02290": [
+"Đầu mũi tên long thạch"
+],
+"02291": [
+"Đầu lao long thạch"
+],
+"02292": [
+"Kiếm long thạch"
+],
+"02293": [
+"Găng tay long thạch"
+],
+"02294": [
+"Mã tấu long thạch"
+],
+"02295": [
+"Mũ giáp long thạch"
+],
+"02296": [
+"Giày long thạch"
+],
+"02297": [
+"Khiên long thạch"
+],
+"02298": [
+"Kiếm hai tay long thạch"
+],
+"02299": [
+"Búa vồ long thạch"
+],
+"02300": [
+"Đầu nỏ long thạch"
+],
+"02301": [
+"Giáp chân long thạch"
+],
+"02302": [
+"Giáp ngực long thạch"
+],
+"02303": [
+"Hoàng ngọc"
+],
+"02304": [
+"Ngọc lam"
+],
+"02305": [
+"Hồng ngọc"
+],
+"02306": [
+"Ngọc lục bảo"
+],
+"02307": [
+"Kim cương"
+],
+"02308": [
+"Ngọc bích"
+],
+"02309": [
+"Thỏi bạc"
+],
+"02310": [
+"Hạt giống cây sồi"
+],
+"02311": [
+"Hạt giống cây liễu"
+],
+"02312": [
+"Hạt giống cây tếch"
+],
+"02313": [
+"Hạt giống cây phong"
+],
+"02314": [
+"Hạt giống cây gụ"
+],
+"02315": [
+"Hạt giống cây thủy tùng"
+],
+"02316": [
+"Hạt giống cây ma thuật"
+],
+"02317": [
+"Hạt giống cây sồi cứng"
+],
+"02318": [
+"Cung thường"
+],
+"02319": [
+"Cung sồi"
+],
+"02320": [
+"Cung liễu"
+],
+"02321": [
+"Cung phong"
+],
+"02322": [
+"Cung thủy tùng"
+],
+"02323": [
+"Cung ma thuật"
+],
+"02324": [
+"Cung gỗ đỏ"
+],
+"02325": [
+"Mũi tên đá"
+],
+"02326": [
+"Mũi tên đồng"
+],
+"02327": [
+"Mũi tên sắt"
+],
+"02328": [
+"Mũi tên thép"
+],
+"02329": [
+"Mũi tên bí ngân"
+],
+"02330": [
+"Mũi tên tinh kim"
+],
+"02331": [
+"Mũi tên phù thạch"
+],
+"02332": [
+"Mũi tên thép Bình Minh"
+],
+"02333": [
+"Mũi tên long thạch"
+],
+"02334": [
+"Mũi tên không đầu"
+],
+"02335": [
+"Lông vũ"
+],
+"02336": [
+"Dây cung"
+],
+"02337": [
+"Da"
+],
+"02338": [
+"Da rồng lục"
+],
+"02339": [
+"Da thuộc rồng lục"
+],
+"02340": [
+"Da rồng xanh lam"
+],
+"02341": [
+"Da thuộc rồng xanh lam"
+],
+"02342": [
+"Da rồng đỏ"
+],
+"02343": [
+"Da thuộc rồng đỏ"
+],
+"02344": [
+"Da rồng đen"
+],
+"02345": [
+"Da thuộc rồng đen"
+],
+"02346": [
+"Giày da"
+],
+"02347": [
+"Mũ trùm da"
+],
+"02348": [
+"Hộ cổ tay da"
+],
+"02349": [
+"Quần da"
+],
+"02350": [
+"Nhẫn vàng hoàng ngọc"
+],
+"02351": [
+"Tinh chất phù văn"
+],
+"02352": [
+"Phù văn gió"
+],
+"02353": [
+"Phù văn tâm trí"
+],
+"02354": [
+"Phù văn nước"
+],
+"02355": [
+"Phù văn đất"
+],
+"02356": [
+"Phù văn lửa"
+],
+"02357": [
+"Phù văn thể xác"
+],
+"02358": [
+"Phù văn hỗn mang"
+],
+"02359": [
+"Phù văn tử thần"
+],
+"02360": [
+"Phù văn máu"
+],
+"02361": [
+"Gậy chiến gió"
+],
+"02362": [
+"Gậy chiến nước"
+],
+"02363": [
+"Gậy chiến đất"
+],
+"02364": [
+"Gậy chiến lửa"
+],
+"02365": [
+"Rong biển"
+],
+"02366": [
+"Dây thừng"
+],
+"02367": [
+"Rác"
+],
+"02368": [
+"Búa ném hai tay bí ngân"
+],
+"02369": [
+"Búa ném hai tay tinh kim"
+],
+"02370": [
+"Búa ném hai tay phù thạch"
+],
+"02371": [
+"Búa ném hai tay thép Bình Minh"
+],
+"02372": [
+"Búa ném hai tay long thạch"
+],
+"02373": [
+"Thân tên nỏ"
+],
+"02374": [
+"Phù văn sương"
+],
+"02375": [
+"Phù văn bụi"
+],
+"02376": [
+"Phù văn bùn"
+],
+"02377": [
+"Phù văn khói"
+],
+"02378": [
+"Phù văn hơi nước"
+],
+"02379": [
+"Phù văn dung nham"
+],
+"02380": [
+"Sừng nai"
+],
+"02381": [
+"Bánh mì"
+],
+"02382": [
+"Thịt bò sống"
+],
+"02383": [
+"Thịt bò"
+],
+"02384": [
+"Thịt sống"
+],
+"02385": [
+"Thịt gà sống"
+],
+"02386": [
+"Gà"
+],
+"02387": [
+"Phô mai"
+],
+"02388": [
+"Tên nỏ hoàng ngọc"
+],
+"02389": [
+"Tên nỏ ngọc lam"
+],
+"02390": [
+"Tên nỏ hồng ngọc"
+],
+"02391": [
+"Tên nỏ ngọc lục bảo"
+],
+"02392": [
+"Tên nỏ kim cương"
+],
+"02393": [
+"Tên nỏ ngọc bích"
+],
+"02394": [
+"Cá rô sống"
+],
+"02395": [
+"Cá thu sống"
+],
+"02396": [
+"Cá chó sống"
+],
+"02397": [
+"Cá vây sáng sống"
+],
+"02398": [
+"Cá tráp sống"
+],
+"02399": [
+"Cá tuyết sống"
+],
+"02400": [
+"Cá vược biển sống"
+],
+"02401": [
+"Cá sư tử sống"
+],
+"02402": [
+"Sứa phát sáng sống"
+],
+"02403": [
+"Cá ngừ sống"
+],
+"02404": [
+"Mực phát sáng sống"
+]
 }

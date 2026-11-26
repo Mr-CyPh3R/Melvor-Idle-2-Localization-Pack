@@ -5,6 +5,10 @@
 ### New languages
 * Chinese, Simplified (简体中文): 13,708 texts. 11,394 (83%) from the game's own Chinese translation, which is included in the game files but not available in the language menu yet, 2,314 (17%) translated or corrected by AI. The Mod Loader menu (F1) is translated too.
 * Chinese, Traditional (繁體中文): 13,708 texts, converted from the Simplified texts with wording for Taiwan and terms from the official Traditional Chinese translation of Melvor Idle, proofread by AI. The Mod Loader menu (F1) is translated too.
+* Vietnamese (Tiếng Việt): 13,708 texts, all translated by AI. Melvor Idle has no official Vietnamese translation, so there were no official terms to start from. The Mod Loader menu (F1) is translated too.
+
+### Fixes
+* After a language change, the window size, screen and anti-aliasing lists in the display settings now show the new language too.
 
 ### Other
 * Languages with only one plural form are supported.

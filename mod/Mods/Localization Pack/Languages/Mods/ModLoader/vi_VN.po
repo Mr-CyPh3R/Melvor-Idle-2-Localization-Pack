@@ -1,0 +1,91 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "MODS"
+msgstr "MOD"
+
+msgid "Open a mod window, or change its key."
+msgstr "Mở cửa sổ của một mod hoặc đổi phím của nó."
+
+msgid "Close"
+msgstr "Đóng"
+
+msgid "Close  ({0})"
+msgstr "Đóng ({0})"
+
+msgid "This menu"
+msgstr "Menu này"
+
+msgid "this menu"
+msgstr "menu này"
+
+msgid "Off"
+msgstr "Tắt"
+
+msgid "No mod has a window here yet."
+msgstr "Chưa có mod nào có cửa sổ ở đây."
+
+msgid ""
+"Click a key to change it, then press the new key (Ctrl, Shift or Alt can "
+"come with it; Esc cancels)."
+msgstr ""
+"Nhấp vào một phím để đổi, rồi nhấn phím mới (có thể kèm Ctrl, Shift hoặc "
+"Alt; Esc để hủy)."
+
+msgid ""
+"\"Off\" frees the key, the window still opens from here. Saved in "
+"mods\\hotkeys.json."
+msgstr ""
+"“Tắt” sẽ bỏ gán phím, cửa sổ vẫn mở được từ đây. Lưu trong "
+"mods\\hotkeys.json."
+
+msgid "Reset all keys"
+msgstr "Đặt lại tất cả phím"
+
+msgid "Every key back to what its mod uses by default."
+msgstr "Đưa mọi phím về mặc định của mod."
+
+msgid "Mods"
+msgstr "Mod"
+
+msgid "Open any mod window, or change or switch off its key."
+msgstr "Mở cửa sổ của bất kỳ mod nào, hoặc đổi hay tắt phím của nó."
+
+msgid "Press a key..."
+msgstr "Nhấn một phím..."
+
+msgid "Press the new key now. Esc cancels."
+msgstr "Nhấn phím mới ngay bây giờ. Esc để hủy."
+
+msgid "Click, then press the new key."
+msgstr "Nhấp, rồi nhấn phím mới."
+
+msgid "No key for this window."
+msgstr "Cửa sổ này chưa có phím."
+
+msgid "The key that opens this menu."
+msgstr "Phím mở menu này."
+
+msgid "Two mods use the same key: open this to fix it."
+msgstr "Hai mod dùng cùng một phím: mở mục này để sửa."
+
+msgid "no key"
+msgstr "không có phím"
+
+msgid "also used by {0}"
+msgstr "cũng được {0} sử dụng"
+
+msgid "Melvor Mod Loader {0}  -  {1} mod"
+msgstr "Melvor Mod Loader {0}, số mod: {1}"
+
+msgid ""
+"Click a key to change it, then press the new key (Ctrl, Shift or Alt can come with it; Esc cancels).\n"
+"\"Off\" frees the key, the window still opens from here. Saved in mods\\hotkeys.json."
+msgstr ""
+"Nhấp vào một phím để đổi, rồi nhấn phím mới (có thể kèm Ctrl, Shift hoặc Alt; Esc để hủy).\n"
+"“Tắt” sẽ bỏ gán phím, cửa sổ vẫn mở được từ đây. Lưu trong mods\\hotkeys.json."
