@@ -65656,11 +65656,11 @@ msgstr "Đang chờ hành động…"
 
 #: Components/Trackers/TrackerExperienceView.cs.uid
 msgid "--h --m --s"
-msgstr "--h --m --s"
+msgstr "-- giờ -- phút -- giây"
 
 #: Components/Trackers/TrackerExperienceView.cs.uid
 msgid "[b]--h --m --s[/b] left to"
-msgstr "Còn [b]--h --m --s[/b] đến"
+msgstr "Còn [b]-- giờ -- phút -- giây[/b] đến"
 
 #: Components/Trackers/TrackerExperienceView.cs.uid
 msgid "[b]{0:time:d m full abbr}[/b] left to"
