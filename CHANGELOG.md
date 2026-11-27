@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Fixes
+* Three texts of the save menu were missing in every language and are now translated: "Backup Save", "Export Backup Save" and "View Other Saves".
+
+### Other
+* The table "How these translations were made" now also counts the texts filled in by script (names the game looks up without context, and the conversion of Chinese, Traditional), so every language shows about 15,170 texts.
+
 ## 1.4.0 (2026-11-26)
 
 ### New languages

@@ -15,23 +15,24 @@ Not affiliated with or endorsed by Games By Malcs or Jagex.
 
 Please read this first. We want to be open about where the texts come from.
 
-| Language | Texts | From Melvor Idle | From Melvor Idle 2 | Translated by AI |
-|---|---|---|---|---|
-| German (Deutsch) | 13,708 | 566 (4%) | 0 (0%) | 13,142 (96%) |
-| French (Français) | 13,708 | 586 (4%) | 0 (0%) | 13,122 (96%) |
-| Spanish (Español) | 13,708 | 601 (4%) | 0 (0%) | 13,107 (96%) |
-| Brazilian Portuguese (Português, Brasil) | 13,708 | 599 (4%) | 0 (0%) | 13,109 (96%) |
-| Japanese (日本語) | 13,708 | 618 (5%) | 0 (0%) | 13,090 (95%) |
-| Polish (Polski) | 13,708 | 0 (0%) | 0 (0%) | 13,708 (100%) |
-| Russian (Русский) | 13,708 | 622 (5%) | 0 (0%) | 13,086 (95%) |
-| Chinese, Simplified (简体中文) | 13,708 | 0 (0%) | 11,394 (83%) | 2,314 (17%) |
-| Chinese, Traditional (繁體中文) | 13,708 | 0 (0%) | 0 (0%) | 13,708 (100%) |
-| Vietnamese (Tiếng Việt) | 13,708 | 0 (0%) | 0 (0%) | 13,708 (100%) |
+| Language | Texts | Melvor Idle | Melvor Idle 2 | Translated by AI | Script |
+|---|---|---|---|---|---|
+| German (Deutsch) | 15,171 | 566 (4%) | 0 (0%) | 13,145 (87%) | 1,460 (10%) |
+| French (Français) | 15,169 | 586 (4%) | 0 (0%) | 13,125 (87%) | 1,458 (10%) |
+| Spanish (Español) | 15,171 | 601 (4%) | 0 (0%) | 13,110 (86%) | 1,460 (10%) |
+| Brazilian Portuguese (Português, Brasil) | 15,169 | 599 (4%) | 0 (0%) | 13,112 (86%) | 1,458 (10%) |
+| Japanese (日本語) | 15,173 | 618 (4%) | 0 (0%) | 13,093 (86%) | 1,462 (10%) |
+| Polish (Polski) | 15,173 | 0 (0%) | 0 (0%) | 13,711 (90%) | 1,462 (10%) |
+| Russian (Русский) | 15,173 | 622 (4%) | 0 (0%) | 13,089 (86%) | 1,462 (10%) |
+| Chinese, Simplified (简体中文) | 15,173 | 0 (0%) | 11,394 (75%) | 2,317 (15%) | 1,462 (10%) |
+| Chinese, Traditional (繁體中文) | 15,173 | 0 (0%) | 0 (0%) | 471 (3%) | 14,702 (97%) |
+| Vietnamese (Tiếng Việt) | 15,173 | 0 (0%) | 0 (0%) | 13,711 (90%) | 1,462 (10%) |
 
-* **From Melvor Idle:** texts that are identical in the first game (Melvor Idle) were taken from its official translation.
-* **From Melvor Idle 2:** texts from the game's own Chinese translation, which is included in the game files but not available in the language menu yet. Chinese, Traditional was converted from the finished Simplified texts (wording for Taiwan, terms from the official Traditional Chinese translation of Melvor Idle) and proofread by AI, so it is counted as AI.
-* **Translated by AI:** all other texts were translated with AI and checked automatically (placeholders, formatting tags and line breaks must match the original). They have not been fully reviewed by a human yet.
-* **Translated in-game by script:** some texts are assembled by the game while it runs (for example "3 Turns" or "10 minutes"). The included script translates these in the game, using the same translations.
+* **Melvor Idle:** texts that are identical in the first game (Melvor Idle) were taken from its official translation.
+* **Melvor Idle 2:** texts from the game's own Chinese translation, which is included in the game files but not available in the language menu yet.
+* **Translated by AI:** these texts were translated with AI and checked automatically (placeholders, formatting tags and line breaks must match the original). They have not been fully reviewed by a human yet.
+* **Script:** texts filled in automatically by our scripts. Names of items, monsters and places that the game also looks up without context get the same translation as the named entry. Chinese, Traditional was converted from the finished Simplified texts (wording for Taiwan, terms from the official Traditional Chinese translation of Melvor Idle); the AI column shows the texts that were corrected afterwards.
+* **Translated in-game by script:** some texts are assembled by the game while it runs (for example "3 Turns" or "10 minutes"). The included script translates these in the game, using the same translations. They are not counted in the table.
 
 Found a wrong or missing translation? Please open an issue.
 
