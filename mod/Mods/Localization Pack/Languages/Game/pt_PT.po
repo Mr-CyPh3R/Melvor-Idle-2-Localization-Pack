@@ -61639,7 +61639,7 @@ msgstr ""
 
 #: Roadmap/next_fest_comparison.tscn
 msgid "Demo"
-msgstr "Demonstração"
+msgstr "Demo"
 
 #: Roadmap/next_fest_comparison.tscn
 msgid "Early Access"
@@ -65312,7 +65312,7 @@ msgstr "Corte completo"
 
 #: Entities/Woodcutting/woodcutting_tree_select_view.tscn
 msgid "Cut "
-msgstr "Corte "
+msgstr "Cortar "
 
 #: Entities/Woodcutting/woodcutting_tree_select_view.tscn
 msgid "[color=#E9DFC1]The [color=#FFD16D]Max HP[/color] of this Tree.[/color]"
@@ -67948,11 +67948,11 @@ msgstr "À espera de uma ação..."
 
 #: Components/Trackers/TrackerExperienceView.cs.uid
 msgid "--h --m --s"
-msgstr "--h --m --s"
+msgstr "-- h -- min -- s"
 
 #: Components/Trackers/TrackerExperienceView.cs.uid
 msgid "[b]--h --m --s[/b] left to"
-msgstr "Faltam [b]--h --m --s[/b] para"
+msgstr "Faltam [b]-- h -- min -- s[/b] para"
 
 #: Components/Trackers/TrackerExperienceView.cs.uid
 msgid "[b]{0:time:d m full abbr}[/b] left to"
