@@ -13,7 +13,7 @@
 - Nomes de itens e monstros: se estiverem no glossário, copie exatamente. Senão, traduza no mesmo estilo.
 - Mesmo nome inglês = mesma tradução em todo lugar. Antes de traduzir um nome, procure se já existe em `work/pt_PT/*.json`.
 - Género neutro para o jogador e para [Companion Name] quando o inglês não indica género: reformule («Obtiveste…», «[Companion Name] acena»), evite adjetivos com género referidos ao jogador.
-- [Companion Name] é SEMPRE neutro, mesmo quando o inglês usa «she/her» (o jogador escolhe a personagem): não use «ela», «dela», «a» (pronome), «as duas», adjetivos femininos. Repita o nome, omita o sujeito ou use «a tua companhia» / «quem te acompanha». O mesmo para «vocês os dois/as duas»: use «vocês» ou «ambos» evitado, reformule.
+- [Companion Name] é SEMPRE neutro, mesmo quando o inglês usa «she/her» (o jogador escolhe a personagem): não use «ela», «dela», «a» (pronome), «as duas», adjetivos femininos. Repita o nome, omita o sujeito ou use «a tua companhia» / «quem te acompanha». O mesmo para «vocês os dois/as duas»: escreva só «vocês» ou reformule.
 - Tempo: "{0} ago" = "há {0}", "{0} remaining" = "faltam {0}".
 
 ## Intocável (senão `python -X utf8 tools/build.py --lang pt_PT --check` falha)
