@@ -59,3 +59,18 @@ Ronda 3 (pacotes 048–071):
 - Agricultura e ferramentas: Farmhand=Trabalhador Agrícola · Sprinklers=Aspersores · Plot=Terreno · Axe/Pickaxe Head=Cabeça de Machado/Picareta · Handle=Cabo · Binding=Amarra · Reel=Carreto · Fishing Pole=Cana de Pesca · Fishing Line=Linha de Pesca · Coating=Revestimento · X Station=Bancada de X · Cookstation=Fogão · Fire Pit=Fogareiro
 - Roubo e interface: Thug=Rufia · Stall=Banca · Locked X Chest=Baú X Trancado · Heists=Assaltos · Chieftain=Chefe Tribal · Slayer Permit=Licença de Assassino · Save Backups=Cópias de segurança · Hold to X=Mantém premido para X · Tooltip=Dica · Bank Tab=Separador do Banco · Main/Side/Other Quests=Missões Principais/Secundárias/Outras Missões
 - Missões: Path to the Peaks=Rumo aos Picos · Dwarf Blood=Sangue de Anão · Prince Procurement=À Procura do Príncipe · Repairing What Remains=Reparar o Que Resta · Slug Slayer=Mata-Lesmas · Misty Mystery=Mistério na Névoa · Bring Down The House=Deitar Tudo Abaixo · Unfortunate Teller=Má Sina · Starlit Sky=Céu Estrelado · Cold Plunge=Mergulho Gelado · Ship Shape=Barco a Postos · The Sunken Tower=A Torre Submersa · What Comes After=O Que Vem a Seguir · The Price of Paradise=O Preço do Paraíso
+
+### Ronda 4 (072–095)
+- Trigger=Ativador · Proc=ativação · Imbuement=Imbuição · Stance=Postura (Attack Stance=Postura de ataque) · Combat Style=Estilo de combate (Title Case só em títulos)
+- Slot=Espaço · Display name=nome apresentado · NPC=personagem não jogável · Bank Tag=Etiqueta do banco · Placeholder (banco)=Reserva · Bank Configuration=Configuração do banco
+- Course (Agility)=Percurso · Path=Caminho · Shortcut=Atalho · Minor/Major Node=Nó menor/Nó principal · Star map=mapa estelar · Study=estudo
+- Hunting Journal=Diário de Caça · Hunting Tools=Ferramentas de Caça · Insight=pista · Trapless hunting=caça sem armadilha · Survey=Sondagem · track=rasto · Trap (objetivo)=Captura · Trapping/Tracking/Surveying Interval=Intervalo de captura/rastreio/sondagem · Collectable=Colecionável · Rare Species=Espécie Rara
+- Plot=Terreno · Regrow=voltar a crescer (Regrows (Flat)=Recrescimentos (fixo)) · (Flat)=(fixo) · Variant=Variante · Codex=Códice · Major Update N=Grande atualização N · Up Next=A seguir · Roadmap=Plano
+- Stack (efeito)=Acumulação · Self inflict=Autoinfligir · Inflict=Infligir · Apply=Aplicar · Lifesteal=Roubar Pontos de Vida · Proficiency=Proficiência · Spell book=livro de feitiços
+- Pet (acariciar)=Fazer festas · Treat=Guloseima · Yeet=Despachar · Lifespan=tempo de vida · Infant=Cria · Group Bonus=Bónus de grupo · Add-ons (cercado)=Extras
+- Slayer Master=Mestre de Assassino · Reroll Task=Trocar tarefa · Extend=Prolongar · Block=Bloquear · Pickpocket=Furtar · Stage=Etapa · Weak Spot=Ponto fraco · Instant Cut=Corte imediato · Milestone=Marco
+- Standard X Potion=Poção de X Normal · Elite X Potion=Poção de X de Elite · Health Bar=barra de vida · HP=PV · Event Log=Registo de eventos · Debug Menu=Menu de depuração · Save Backup=Cópia de segurança
+- Objetivos no imperativo: Obtém, Gasta, Cria, Usa (Input), Tem (Own), Fica com (Have … remaining), Passa (tempo), Conclui, Derrota. «Be affected by»=Recebe, «Be afflicted by»=Sofre; gatilhos neutros («Ao sofrer um ataque:»).
+- Jogador neutro: «Damos-te as boas-vindas», «Sem ligação à Cloud», «Sofre um atordoamento». «vocês os dois» foi substituído por «vocês» em todo o texto (Ronda 4).
+- «Melvor Cloud» / «Cloud»; o texto oficial do MI1 (08849) mantém «Nuvem da Melvor».
+- Os separadores de listas como {1:list:0|, |, and } ficam sem tradução (o verificador exige-os iguais).
