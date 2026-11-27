@@ -1,0 +1,583 @@
+{
+ "03108": [
+  "Poção de Cozinhar P2-A",
+  "Poções de Cozinhar P2-A"
+ ],
+ "03109": [
+  "Poção de Cozinhar P2-B",
+  "Poções de Cozinhar P2-B"
+ ],
+ "03110": [
+  "Poção de Trabalhos de Ferreiro P1-A",
+  "Poções de Trabalhos de Ferreiro P1-A"
+ ],
+ "03111": [
+  "Poção de Trabalhos de Ferreiro P2-A",
+  "Poções de Trabalhos de Ferreiro P2-A"
+ ],
+ "03112": [
+  "Poção de Trabalhos de Ferreiro P2-B",
+  "Poções de Trabalhos de Ferreiro P2-B"
+ ],
+ "03113": [
+  "Poção de Artesanato P1-A",
+  "Poções de Artesanato P1-A"
+ ],
+ "03114": [
+  "Poção de Artesanato P2-A",
+  "Poções de Artesanato P2-A"
+ ],
+ "03115": [
+  "Poção de Artesanato P2-B",
+  "Poções de Artesanato P2-B"
+ ],
+ "03116": [
+  "Poção de Arco e Flecha P1-A",
+  "Poções de Arco e Flecha P1-A"
+ ],
+ "03117": [
+  "Poção de Arco e Flecha P2-A",
+  "Poções de Arco e Flecha P2-A"
+ ],
+ "03118": [
+  "Poção de Arco e Flecha P2-B",
+  "Poções de Arco e Flecha P2-B"
+ ],
+ "03119": [
+  "Poção de Criação de Runas P1-A",
+  "Poções de Criação de Runas P1-A"
+ ],
+ "03120": [
+  "Poção de Criação de Runas P2-A",
+  "Poções de Criação de Runas P2-A"
+ ],
+ "03121": [
+  "Poção de Criação de Runas P2-B",
+  "Poções de Criação de Runas P2-B"
+ ],
+ "03122": [
+  "Poção de Caça P1-A",
+  "Poções de Caça P1-A"
+ ],
+ "03123": [
+  "Poção de Caça P2-A",
+  "Poções de Caça P2-A"
+ ],
+ "03124": [
+  "Poção de Caça P2-B",
+  "Poções de Caça P2-B"
+ ],
+ "03125": [
+  "Poção de Cultivo P1-A",
+  "Poções de Cultivo P1-A"
+ ],
+ "03126": [
+  "Poção de Cultivo P2-A",
+  "Poções de Cultivo P2-A"
+ ],
+ "03127": [
+  "Poção de Cultivo P2-B",
+  "Poções de Cultivo P2-B"
+ ],
+ "03128": [
+  "Poção de Pecuária P1-A",
+  "Poções de Pecuária P1-A"
+ ],
+ "03129": [
+  "Poção de Pecuária P2-A",
+  "Poções de Pecuária P2-A"
+ ],
+ "03130": [
+  "Poção de Pecuária P2-B",
+  "Poções de Pecuária P2-B"
+ ],
+ "03131": [
+  "Poção de Especialidade em Ervas P1-A",
+  "Poções de Especialidade em Ervas P1-A"
+ ],
+ "03132": [
+  "Poção de Especialidade em Ervas P2-A",
+  "Poções de Especialidade em Ervas P2-A"
+ ],
+ "03133": [
+  "Poção de Especialidade em Ervas P2-B",
+  "Poções de Especialidade em Ervas P2-B"
+ ],
+ "03134": [
+  "Poção de Artesanato Bestial P1-A",
+  "Poções de Artesanato Bestial P1-A"
+ ],
+ "03135": [
+  "Poção de Artesanato Bestial P2-A",
+  "Poções de Artesanato Bestial P2-A"
+ ],
+ "03136": [
+  "Poção de Artesanato Bestial P2-B",
+  "Poções de Artesanato Bestial P2-B"
+ ],
+ "03137": [
+  "Poção de Agilidade P1-A",
+  "Poções de Agilidade P1-A"
+ ],
+ "03138": [
+  "Poção de Agilidade P2-A",
+  "Poções de Agilidade P2-A"
+ ],
+ "03139": [
+  "Poção de Agilidade P2-B",
+  "Poções de Agilidade P2-B"
+ ],
+ "03140": [
+  "Poção de Roubo P1-A",
+  "Poções de Roubo P1-A"
+ ],
+ "03141": [
+  "Poção de Roubo P2-A",
+  "Poções de Roubo P2-A"
+ ],
+ "03142": [
+  "Poção de Roubo P2-B",
+  "Poções de Roubo P2-B"
+ ],
+ "03143": [
+  "Superpoção de Corte de Lenha P1-A",
+  "Superpoções de Corte de Lenha P1-A"
+ ],
+ "03144": [
+  "Esporo Luminoso",
+  "Esporos Luminosos"
+ ],
+ "03145": [
+  "Superpoção de Corte de Lenha P2-A",
+  "Superpoções de Corte de Lenha P2-A"
+ ],
+ "03146": [
+  "Superpoção de Corte de Lenha P2-B ",
+  "Superpoções de Corte de Lenha P2-B "
+ ],
+ "03147": [
+  "Superpoção de Pesca P1-A",
+  "Superpoções de Pesca P1-A"
+ ],
+ "03148": [
+  "Superpoção de Pesca P2-A",
+  "Superpoções de Pesca P2-A"
+ ],
+ "03149": [
+  "Superpoção de Pesca P2-B",
+  "Superpoções de Pesca P2-B"
+ ],
+ "03150": [
+  "Superpoção de Extração P1-A",
+  "Superpoções de Extração P1-A"
+ ],
+ "03151": [
+  "Superpoção de Extração P2-A",
+  "Superpoções de Extração P2-A"
+ ],
+ "03152": [
+  "Superpoção de Extração P2-B",
+  "Superpoções de Extração P2-B"
+ ],
+ "03153": [
+  "Superpoção de Arte do Fogo P1-A",
+  "Superpoções de Arte do Fogo P1-A"
+ ],
+ "03154": [
+  "Superpoção de Arte do Fogo P2-A",
+  "Superpoções de Arte do Fogo P2-A"
+ ],
+ "03155": [
+  "Superpoção de Arte do Fogo P2-B",
+  "Superpoções de Arte do Fogo P2-B"
+ ],
+ "03156": [
+  "Superpoção de Cozinhar P1-A",
+  "Superpoções de Cozinhar P1-A"
+ ],
+ "03157": [
+  "Superpoção de Cozinhar P2-A",
+  "Superpoções de Cozinhar P2-A"
+ ],
+ "03158": [
+  "Superpoção de Cozinhar P2-B",
+  "Superpoções de Cozinhar P2-B"
+ ],
+ "03159": [
+  "Superpoção de Trabalhos de Ferreiro P1-A",
+  "Superpoções de Trabalhos de Ferreiro P1-A"
+ ],
+ "03160": [
+  "Superpoção de Trabalhos de Ferreiro P2-A",
+  "Superpoções de Trabalhos de Ferreiro P2-A"
+ ],
+ "03161": [
+  "Superpoção de Trabalhos de Ferreiro P2-B",
+  "Superpoções de Trabalhos de Ferreiro P2-B"
+ ],
+ "03162": [
+  "Superpoção de Artesanato P1-A",
+  "Superpoções de Artesanato P1-A"
+ ],
+ "03163": [
+  "Superpoção de Artesanato P2-A",
+  "Superpoções de Artesanato P2-A"
+ ],
+ "03164": [
+  "Superpoção de Artesanato P2-B",
+  "Superpoções de Artesanato P2-B"
+ ],
+ "03165": [
+  "Superpoção de Arco e Flecha P1-A",
+  "Superpoções de Arco e Flecha P1-A"
+ ],
+ "03166": [
+  "Superpoção de Arco e Flecha P2-A",
+  "Superpoções de Arco e Flecha P2-A"
+ ],
+ "03167": [
+  "Superpoção de Arco e Flecha P2-B",
+  "Superpoções de Arco e Flecha P2-B"
+ ],
+ "03168": [
+  "Superpoção de Criação de Runas P1-A",
+  "Superpoções de Criação de Runas P1-A"
+ ],
+ "03169": [
+  "Superpoção de Criação de Runas P2-A",
+  "Superpoções de Criação de Runas P2-A"
+ ],
+ "03170": [
+  "Superpoção de Criação de Runas P2-B",
+  "Superpoções de Criação de Runas P2-B"
+ ],
+ "03171": [
+  "Superpoção de Caça P1-A",
+  "Superpoções de Caça P1-A"
+ ],
+ "03172": [
+  "Superpoção de Caça P2-A",
+  "Superpoções de Caça P2-A"
+ ],
+ "03173": [
+  "Superpoção de Caça P2-B",
+  "Superpoções de Caça P2-B"
+ ],
+ "03174": [
+  "Superpoção de Cultivo P1-A",
+  "Superpoções de Cultivo P1-A"
+ ],
+ "03175": [
+  "Superpoção de Cultivo P2-A",
+  "Superpoções de Cultivo P2-A"
+ ],
+ "03176": [
+  "Superpoção de Cultivo P2-B",
+  "Superpoções de Cultivo P2-B"
+ ],
+ "03177": [
+  "Superpoção de Pecuária P1-A",
+  "Superpoções de Pecuária P1-A"
+ ],
+ "03178": [
+  "Superpoção de Pecuária P2-A",
+  "Superpoções de Pecuária P2-A"
+ ],
+ "03179": [
+  "Superpoção de Pecuária P2-B",
+  "Superpoções de Pecuária P2-B"
+ ],
+ "03180": [
+  "Superpoção de Especialidade em Ervas P1-A",
+  "Superpoções de Especialidade em Ervas P1-A"
+ ],
+ "03181": [
+  "Superpoção de Especialidade em Ervas P2-A",
+  "Superpoções de Especialidade em Ervas P2-A"
+ ],
+ "03182": [
+  "Superpoção de Especialidade em Ervas P2-B",
+  "Superpoções de Especialidade em Ervas P2-B"
+ ],
+ "03183": [
+  "Superpoção de Artesanato Bestial P1-A",
+  "Superpoções de Artesanato Bestial P1-A"
+ ],
+ "03184": [
+  "Superpoção de Artesanato Bestial P2-A",
+  "Superpoções de Artesanato Bestial P2-A"
+ ],
+ "03185": [
+  "Superpoção de Artesanato Bestial P2-B",
+  "Superpoções de Artesanato Bestial P2-B"
+ ],
+ "03186": [
+  "Superpoção de Agilidade P1-A",
+  "Superpoções de Agilidade P1-A"
+ ],
+ "03187": [
+  "Superpoção de Agilidade P2-A",
+  "Superpoções de Agilidade P2-A"
+ ],
+ "03188": [
+  "Superpoção de Agilidade P2-B",
+  "Superpoções de Agilidade P2-B"
+ ],
+ "03189": [
+  "Superpoção de Roubo P1-A",
+  "Superpoções de Roubo P1-A"
+ ],
+ "03190": [
+  "Superpoção de Roubo P2-A",
+  "Superpoções de Roubo P2-A"
+ ],
+ "03191": [
+  "Superpoção de Roubo P2-B",
+  "Superpoções de Roubo P2-B"
+ ],
+ "03192": [
+  "Cimitarra das Lâminas Tóxicas",
+  "Cimitarras das Lâminas Tóxicas"
+ ],
+ "03193": [
+  "Adaga das Estocadas Cruéis",
+  "Adagas das Estocadas Cruéis"
+ ],
+ "03194": [
+  "Adaga Sugadora de Sangue",
+  "Adagas Sugadoras de Sangue"
+ ],
+ "03195": [
+  "Chicote do Aperto Esfolador",
+  "Chicotes do Aperto Esfolador"
+ ],
+ "03196": [
+  "Grande Espada do Açoite Atordoante",
+  "Grandes Espadas do Açoite Atordoante"
+ ],
+ "03197": [
+  "Gadanha Ceifa-Sangue",
+  "Gadanhas Ceifa-Sangue"
+ ],
+ "03198": [
+  "Maço do Ferrão de Escorpião",
+  "Maços do Ferrão de Escorpião"
+ ],
+ "03199": [
+  "Maço do Abismo Sombrio",
+  "Maços do Abismo Sombrio"
+ ],
+ "03200": [
+  "Defensora Afogada",
+  "Defensoras Afogadas"
+ ],
+ "03201": [
+  "Elmo de Mithril (u)",
+  "Elmos de Mithril (u)"
+ ],
+ "03202": [
+  "Armadura de Corpo de Mithril (u)",
+  "Armaduras de Corpo de Mithril (u)"
+ ],
+ "03203": [
+  "Perneiras de Mithril (u)",
+  "Perneiras de Mithril (u)"
+ ],
+ "03204": [
+  "Botas de Mithril (u)",
+  "Botas de Mithril (u)"
+ ],
+ "03205": [
+  "Elmo de Adamantino (u)",
+  "Elmos de Adamantino (u)"
+ ],
+ "03206": [
+  "Elmo do Veado Espiritual",
+  "Elmos do Veado Espiritual"
+ ],
+ "03207": [
+  "Armadura de Corpo de Adamantino (u)",
+  "Armaduras de Corpo de Adamantino (u)"
+ ],
+ "03208": [
+  "Perneiras de Adamantino (u)",
+  "Perneiras de Adamantino (u)"
+ ],
+ "03209": [
+  "Botas de Adamantino (u)",
+  "Botas de Adamantino (u)"
+ ],
+ "03210": [
+  "Elmo de Runa (u)",
+  "Elmos de Runa (u)"
+ ],
+ "03211": [
+  "Armadura de Corpo de Runa (u)",
+  "Armaduras de Corpo de Runa (u)"
+ ],
+ "03212": [
+  "Perneiras de Runa (u)",
+  "Perneiras de Runa (u)"
+ ],
+ "03213": [
+  "Botas de Runa (u)",
+  "Botas de Runa (u)"
+ ],
+ "03214": [
+  "Armadura de Corpo de Pedra-Negra",
+  "Armaduras de Corpo de Pedra-Negra"
+ ],
+ "03215": [
+  "Manopla de Pedra-Negra",
+  "Manoplas de Pedra-Negra"
+ ],
+ "03216": [
+  "Elmo de Aço da Aurora (u)",
+  "Elmos de Aço da Aurora (u)"
+ ],
+ "03217": "Bónus de conjunto (com 3 peças de Aço da Aurora (u), exceto Luvas e Escudo): +8 de Luz",
+ "03218": [
+  "Elmo de Chifres de Caribu",
+  "Elmos de Chifres de Caribu"
+ ],
+ "03219": [
+  "Armadura de Corpo de Aço da Aurora (u)",
+  "Armaduras de Corpo de Aço da Aurora (u)"
+ ],
+ "03220": [
+  "Perneiras de Aço da Aurora (u)",
+  "Perneiras de Aço da Aurora (u)"
+ ],
+ "03221": [
+  "Botas de Aço da Aurora (u)",
+  "Botas de Aço da Aurora (u)"
+ ],
+ "03222": [
+  "Elmo do Dragão (u)",
+  "Elmos do Dragão (u)"
+ ],
+ "03223": [
+  "Armadura de Corpo do Dragão (u)",
+  "Armaduras de Corpo do Dragão (u)"
+ ],
+ "03224": [
+  "Perneiras do Dragão (u)",
+  "Perneiras do Dragão (u)"
+ ],
+ "03225": [
+  "Botas do Dragão (u)",
+  "Botas do Dragão (u)"
+ ],
+ "03226": [
+  "Elmo de Sangue",
+  "Elmos de Sangue"
+ ],
+ "03227": [
+  "Armadura de Corpo de Sangue",
+  "Armaduras de Corpo de Sangue"
+ ],
+ "03228": [
+  "Perneiras de Sangue",
+  "Perneiras de Sangue"
+ ],
+ "03229": [
+  "Botas de Sangue",
+  "Botas de Sangue"
+ ],
+ "03230": [
+  "Elmo Afogado",
+  "Elmos Afogados"
+ ],
+ "03231": [
+  "Chapéu da Mente Coletiva",
+  "Chapéus da Mente Coletiva"
+ ],
+ "03232": [
+  "Armadura de Corpo Afogada",
+  "Armaduras de Corpo Afogadas"
+ ],
+ "03233": [
+  "Perneiras Afogadas",
+  "Perneiras Afogadas"
+ ],
+ "03234": [
+  "Botas Afogadas",
+  "Botas Afogadas"
+ ],
+ "03235": [
+  "Escudo de Krakeling",
+  "Escudos de Krakeling"
+ ],
+ "03236": [
+  "Varinha do Pó Tóxico",
+  "Varinhas do Pó Tóxico"
+ ],
+ "03237": [
+  "Varinha Estilhaça-Mentes",
+  "Varinhas Estilhaça-Mentes"
+ ],
+ "03238": [
+  "Bastão dos Espigões de Sangue",
+  "Bastões dos Espigões de Sangue"
+ ],
+ "03239": [
+  "Bastão do Vórtice Sanguíneo",
+  "Bastões do Vórtice Sanguíneo"
+ ],
+ "03240": [
+  "Botas Enredadoras",
+  "Botas Enredadoras"
+ ],
+ "03241": [
+  "Chapéu do Tecelão Tóxico",
+  "Chapéus do Tecelão Tóxico"
+ ],
+ "03242": [
+  "Chapéu de Sangue",
+  "Chapéus de Sangue"
+ ],
+ "03243": [
+  "Vestes de Sangue",
+  "Vestes de Sangue"
+ ],
+ "03244": [
+  "Calças de Sangue",
+  "Calças de Sangue"
+ ],
+ "03245": [
+  "Luvas do Coração de Sangue",
+  "Luvas do Coração de Sangue"
+ ],
+ "03246": [
+  "Chapéu Afogado",
+  "Chapéus Afogados"
+ ],
+ "03247": [
+  "Vestes Afogadas",
+  "Vestes Afogadas"
+ ],
+ "03248": [
+  "Calças Afogadas",
+  "Calças Afogadas"
+ ],
+ "03249": [
+  "Arco dos Golpes Tóxicos",
+  "Arcos dos Golpes Tóxicos"
+ ],
+ "03250": [
+  "Arco da Saraivada de Sangue",
+  "Arcos da Saraivada de Sangue"
+ ],
+ "03251": [
+  "Besta Disparadora de Vapor",
+  "Bestas Disparadoras de Vapor"
+ ],
+ "03252": [
+  "Besta da Explosão Psíquica",
+  "Bestas da Explosão Psíquica"
+ ],
+ "03253": [
+  "Besta de Duas Mãos Infecciosa",
+  "Bestas de Duas Mãos Infecciosas"
+ ]
+}

@@ -34,3 +34,11 @@ Nomes próprios de lugares e pessoas sem significado ficam como no inglês (Azam
 
 ## Nomes já fixados
 (Acrescentar após cada ronda no formato English=Português.)
+
+Ronda 1 (pacotes 000–023):
+- Armas: Spear=Pique (Spear Head=Ponta de Pique) · Javelin=Lança (MI1) · 2H Crossbow=Besta de Duas Mãos · Greatsword=Montante · Staff=Bastão · Wand=Varinha · Battlewand=Varinha de Guerra · Mageshield=Escudo de Mago · Boomerang=Bumerangue · Mallet=Maço · Defender=Defensora · Morning Star=Estrela-da-Manhã · Scythe=Gadanha · Bolts=Flechas (as setas de gemas do MI1 ficam «Setas de Topázio» etc.) · Arrows=Setas
+- Armaduras: Platebody=Armadura de Corpo · Platelegs=Perneiras · Robe(s) do Feiticeiro=Veste(s) do Feiticeiro · Body (tecido)=Túnica · Mitts=Mitenes · Headwear=Gorro · Chainmail Body=Cota de Malha · Studded Leather=Pele Cravejada · Hard Oak=Carvalho Rijo · Dragonhide Leather=Couro Curtido de Dragão · (u) e (c) ficam como estão
+- Feiticeiro: Wizard=Feiticeiro · Adept=Hábil · Basic=básico/básica · elementos: do Ar, da Água, da Terra, do Fogo, do Vapor, do Pó, do Fumo, da Lama, da Lava, do Nevoeiro (Mist, oficial «Runa do Nevoeiro»), Elemental
+- Materiais: Dawnsteel=Aço da Aurora · Ironsteel=Ferro-aço · Dragonrune=Runa-dragão · Nightreed=Junco-da-Noite · Logs=Toros (Normal Log=Toro Normal) · Ashen=Cinzento · Geode=Geodo · Coal=Carvão · Charcoal=Carvão Vegetal · Uncut X=X em Bruto · Compost=Adubo · Bait/Lure=Isco
+- Criaturas: Elk=Alce · Caribou=Caribu · Wildebeast=Gnu · Thornback=Dorso-Espinhoso · Scabjaw=Queixo-de-Crosta · Dire Wolf=Lobo Atroz · Wurm=Verme · Wyvern=Serpe · Spectre=Espetro · Phantom=Fantasma · Soulsmith=Forjador de Almas
+- Sistemas: Rank=Grau · Initiate=Iniciado · Apprentice/Journeyman/Skilled/Veteran/Prime=Aprendiz/Oficial/Experiente/Veterano/Exímio · Toolbelt Slot=Espaço no Cinto de Ferramentas · Loadout=Predefinição · Coming Soon=Brevemente · Evasion/Accuracy/Power/Protection Rating=Pontuação de Evasão/Precisão/Poder/Proteção · Target Perception=Perceção do Alvo · Fortune=Fortuna · Light=Luz · Tracking=rastreio · Survey=Sondagem · Enclosure=Cercado · Grain Mill=Moinho de Cereais · Charm=Talismã · Cheat Sheet=Cábula · Starfall=Chuva de Estrelas · Starblight=Praga Estelar · Super X Potion=Superpoção de X · Ward Breaker=Quebra-Barreiras · Prayer Barrier=Baluarte · "Act 1 - X"=Ato 1: X

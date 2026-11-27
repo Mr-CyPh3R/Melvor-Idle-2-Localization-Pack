@@ -1,0 +1,603 @@
+{
+"02954": [
+"Pele de Hiena Riscada",
+"Pele de Hiena Riscada"
+],
+"02955": [
+"Chapéu Camuflado de Pelo",
+"Chapéus Camuflados de Pelo"
+],
+"02956": [
+"Calças Camufladas de Pelo",
+"Calças Camufladas de Pelo"
+],
+"02957": [
+"Armadura Camuflada de Pelo",
+"Armaduras Camufladas de Pelo"
+],
+"02958": [
+"Chapéu Camuflado de Dorso-Espinhoso",
+"Chapéus Camuflados de Dorso-Espinhoso"
+],
+"02959": [
+"Calças Camufladas Espinhosas",
+"Calças Camufladas Espinhosas"
+],
+"02960": [
+"Armadura Camuflada Espinhosa",
+"Armaduras Camufladas Espinhosas"
+],
+"02961": [
+"Chapéu Camuflado de Fera Riscada",
+"Chapéus Camuflados de Fera Riscada"
+],
+"02962": [
+"Calças Camufladas de Fera Riscada",
+"Calças Camufladas de Fera Riscada"
+],
+"02963": [
+"Armadura Camuflada de Fera Riscada",
+"Armaduras Camufladas de Fera Riscada"
+],
+"02964": [
+"Bolsa de Caça de Pelo",
+"Bolsas de Caça de Pelo"
+],
+"02965": [
+"Botas de Pelo Riscado",
+"Botas de Pelo Riscado"
+],
+"02966": [
+"Estaca de Gnu",
+"Estacas de Gnu"
+],
+"02967": [
+"Garras de Gnu",
+"Garras de Gnu"
+],
+"02968": [
+"Arco de Raptor",
+"Arcos de Raptor"
+],
+"02969": [
+"Besta de Raptor",
+"Bestas de Raptor"
+],
+"02970": [
+"Besta de Duas Mãos de Raptor",
+"Bestas de Duas Mãos de Raptor"
+],
+"02971": [
+"Arco de Grifo",
+"Arcos de Grifo"
+],
+"02972": [
+"Anel de Gnu",
+"Anéis de Gnu"
+],
+"02973": [
+"Seta de Osso de Dragão",
+"Setas de Osso de Dragão"
+],
+"02974": [
+"Flechas de Osso de Dragão",
+"Flechas de Osso de Dragão"
+],
+"02975": [
+"Pequenos Achados de Sondagem",
+"Pequenos Achados de Sondagem"
+],
+"02976": "Pequena seleção de itens que podem ser encontrados durante a sondagem na Caça.",
+"02977": [
+"Achados Médios de Sondagem",
+"Achados Médios de Sondagem"
+],
+"02978": "Seleção média de itens que podem ser encontrados durante a sondagem na Caça.",
+"02979": [
+"Grandes Achados de Sondagem",
+"Grandes Achados de Sondagem"
+],
+"02980": "Grande seleção de itens que podem ser encontrados durante a sondagem na Caça.",
+"02981": [
+"Chifre de Fera Queixo-de-Crosta",
+"Chifres de Fera Queixo-de-Crosta"
+],
+"02982": [
+"Armadilha de Torag",
+"Armadilhas de Torag"
+],
+"02983": [
+"Ovo Dourado (c)",
+"Ovos Dourados (c)"
+],
+"02984": [
+"Leitinho de Chocolate (c)",
+"Leitinhos de Chocolate (c)"
+],
+"02985": [
+"Pena de Cauda-Verde Esmeralda (c)",
+"Penas de Cauda-Verde Esmeralda (c)"
+],
+"02986": [
+"Espinho de Lagarto de Obsidiana (c)",
+"Espinhos de Lagarto de Obsidiana (c)"
+],
+"02987": [
+"Asa de Borboleta Esmeralda (c)",
+"Asas de Borboleta Esmeralda (c)"
+],
+"02988": [
+"Pena de Cauda-Azul Safira (c)",
+"Penas de Cauda-Azul Safira (c)"
+],
+"02989": [
+"Presa de Javali de Ferro (c)",
+"Presas de Javali de Ferro (c)"
+],
+"02990": [
+"Pena de Cauda-Amarela Topázio (c)",
+"Penas de Cauda-Amarela Topázio (c)"
+],
+"02991": [
+"Presa-de-Brasa (c)",
+"Presas-de-Brasa (c)"
+],
+"02992": [
+"Pena de Cauda-Negra Ónix (c)",
+"Penas de Cauda-Negra Ónix (c)"
+],
+"02993": [
+"Presa de Aranha Abissal (c)",
+"Presas de Aranha Abissal (c)"
+],
+"02994": [
+"Chifre de Corno-Estelar (c)",
+"Chifres de Corno-Estelar (c)"
+],
+"02995": [
+"Troféu do Alfa da Estepe (c)",
+"Troféus do Alfa da Estepe (c)"
+],
+"02996": [
+"Troféu do Lobo Atroz Alfa (c)",
+"Troféus do Lobo Atroz Alfa (c)"
+],
+"02997": [
+"Pena-de-Cinza (c)",
+"Penas-de-Cinza (c)"
+],
+"02998": [
+"Troféu do Alfa Risca-Noturna (c)",
+"Troféus do Alfa Risca-Noturna (c)"
+],
+"02999": [
+"Chifre de Fera Queixo-de-Ferro (c)",
+"Chifres de Fera Queixo-de-Ferro (c)"
+],
+"03000": [
+"Chifre de Fera Carmesim (c)",
+"Chifres de Fera Carmesim (c)"
+],
+"03001": [
+"Asa de Brilho-Tumular (c)",
+"Asas de Brilho-Tumular (c)"
+],
+"03002": [
+"Fio do Ar (c)",
+"Fios do Ar (c)"
+],
+"03003": [
+"Fio da Água (c)",
+"Fios da Água (c)"
+],
+"03004": [
+"Fio da Terra (c)",
+"Fios da Terra (c)"
+],
+"03005": [
+"Fio Espiritual (c)",
+"Fios Espirituais (c)"
+],
+"03006": [
+"Troféu de Raptor Primevo (c)",
+"Troféus de Raptor Primevo (c)"
+],
+"03007": [
+"Pena de Falcão Asa-de-Cinza (c)",
+"Penas de Falcão Asa-de-Cinza (c)"
+],
+"03008": [
+"Troféu de Grifo Ancestral (c)",
+"Troféus de Grifo Ancestral (c)"
+],
+"03009": [
+"Troféu de Gar Torag Alfa (c)",
+"Troféus de Gar Torag Alfa (c)"
+],
+"03010": [
+"Troféu de Fin Torag Alfa (c)",
+"Troféus de Fin Torag Alfa (c)"
+],
+"03011": [
+"Troféu de Cul Torag Alfa (c)",
+"Troféus de Cul Torag Alfa (c)"
+],
+"03012": [
+"Troféu de Belra Torag Alfa (c)",
+"Troféus de Belra Torag Alfa (c)"
+],
+"03013": [
+"Chifre de Coroa-de-Gelo (c)",
+"Chifres de Coroa-de-Gelo (c)"
+],
+"03014": [
+"Chapéu Camuflado de Presa Negra",
+"Chapéus Camuflados de Presa Negra"
+],
+"03015": [
+"Calças Camufladas de Presa Negra",
+"Calças Camufladas de Presa Negra"
+],
+"03016": [
+"Armadura Camuflada de Presa Negra",
+"Armaduras Camufladas de Presa Negra"
+],
+"03017": [
+"Cesto de Penas e Linho",
+"Cestos de Penas e Linho"
+],
+"03018": [
+"Escudo de Escamas de Dragão Verde",
+"Escudos de Escamas de Dragão Verde"
+],
+"03019": [
+"Escudo de Escamas de Dragão Azul",
+"Escudos de Escamas de Dragão Azul"
+],
+"03020": [
+"Escudo de Escamas de Dragão Vermelho",
+"Escudos de Escamas de Dragão Vermelho"
+],
+"03021": [
+"Manoplas de Fera Queixo-de-Crosta",
+"Manoplas de Fera Queixo-de-Crosta"
+],
+"03022": [
+"Escudo de Escamas de Dragão Negro",
+"Escudos de Escamas de Dragão Negro"
+],
+"03023": [
+"Cinzel de Chifre de Caribu",
+"Cinzéis de Chifre de Caribu"
+],
+"03024": [
+"Goiva de Chifre de Caribu",
+"Goivas de Chifre de Caribu"
+],
+"03025": [
+"Arco de Harpia",
+"Arcos de Harpia"
+],
+"03026": [
+"Besta de Harpia",
+"Bestas de Harpia"
+],
+"03027": [
+"Besta de Duas Mãos de Harpia",
+"Bestas de Duas Mãos de Harpia"
+],
+"03028": [
+"Varinha das Caveiras",
+"Varinhas das Caveiras"
+],
+"03029": [
+"Bastão das Caveiras",
+"Bastões das Caveiras"
+],
+"03030": [
+"Maço de Presa Negra",
+"Maços de Presa Negra"
+],
+"03031": [
+"Maço de Gnu",
+"Maços de Gnu"
+],
+"03032": [
+"Adaga de Fera Queixo-de-Crosta",
+"Adagas de Fera Queixo-de-Crosta"
+],
+"03033": [
+"Maço de Fera Queixo-de-Crosta",
+"Maços de Fera Queixo-de-Crosta"
+],
+"03034": [
+"Amuleto de Fera Queixo-de-Crosta",
+"Amuletos de Fera Queixo-de-Crosta"
+],
+"03035": [
+"Bilhete de Entrada na Arena",
+"Bilhetes de Entrada na Arena"
+],
+"03036": "Dá acesso às Arenas de Agilidade. É gasto um por cada percurso iniciado.",
+"03037": [
+"Ficha de Recompensa da Arena",
+"Fichas de Recompensa da Arena"
+],
+"03038": "Recompensa por concluíres Arenas de Agilidade. Pode ser gasta na Loja.",
+"03039": [
+"Limão",
+"Limões"
+],
+"03040": [
+"Gazua",
+"Gazuas"
+],
+"03041": [
+"Passa-montanhas",
+"Passa-montanhas"
+],
+"03042": [
+"Braçadeira de Rufia",
+"Braçadeiras de Rufia"
+],
+"03043": [
+"Anel do Chefe dos Rufias",
+"Anéis do Chefe dos Rufias"
+],
+"03044": [
+"Meia Chave do Baú dos Rufias (a)",
+"Meias Chaves do Baú dos Rufias (a)"
+],
+"03045": [
+"Meia Chave do Baú dos Rufias (b)",
+"Meias Chaves do Baú dos Rufias (b)"
+],
+"03046": [
+"Chave do Baú dos Rufias",
+"Chaves do Baú dos Rufias"
+],
+"03047": [
+"Monóculo do Artesão",
+"Monóculos do Artesão"
+],
+"03048": [
+"Impermeável do Pescador",
+"Impermeáveis do Pescador"
+],
+"03049": [
+"Chapéu do Chef",
+"Chapéus do Chef"
+],
+"03050": [
+"Chapéu de Palha",
+"Chapéus de Palha"
+],
+"03051": [
+"Meia Chave do Baú dos Criadores (a)",
+"Meias Chaves do Baú dos Criadores (a)"
+],
+"03052": [
+"Meia Chave do Baú dos Criadores (b)",
+"Meias Chaves do Baú dos Criadores (b)"
+],
+"03053": [
+"Chave do Baú dos Criadores",
+"Chaves do Baú dos Criadores"
+],
+"03054": [
+"Cinto do Criador",
+"Cintos do Criador"
+],
+"03055": [
+"Almofariz e Pilão",
+"Almofarizes e Pilões"
+],
+"03056": [
+"Tiara do Criador de Runas",
+"Tiaras do Criador de Runas"
+],
+"03057": [
+"Varinha Mistificadora",
+"Varinhas Mistificadoras"
+],
+"03058": [
+"Livro do Experimentador",
+"Livros do Experimentador"
+],
+"03059": [
+"Diadema Amaldiçoado",
+"Diademas Amaldiçoados"
+],
+"03060": [
+"Grimório Proibido",
+"Grimórios Proibidos"
+],
+"03061": [
+"Luvas de Bandido",
+"Luvas de Bandido"
+],
+"03062": [
+"Avambraço do Flecheiro",
+"Avambraços do Flecheiro"
+],
+"03063": [
+"Luvas do Lenhador",
+"Luvas do Lenhador"
+],
+"03064": [
+"Machado Frondoso",
+"Machados Frondosos"
+],
+"03065": [
+"Arco de Bandido",
+"Arcos de Bandido"
+],
+"03066": [
+"Aljava de Ouro",
+"Aljavas de Ouro"
+],
+"03067": [
+"Besta de Duas Mãos Recarregadora",
+"Bestas de Duas Mãos Recarregadoras"
+],
+"03068": [
+"Tenaz do Ferreiro",
+"Tenazes do Ferreiro"
+],
+"03069": [
+"Caixa do Banco",
+"Caixas do Banco"
+],
+"03070": [
+"Sapatos de Plebeu",
+"Sapatos de Plebeu"
+],
+"03071": [
+"Meia Chave do Baú do Banco (a)",
+"Meias Chaves do Baú do Banco (a)"
+],
+"03072": [
+"Meia Chave do Baú do Banco (b)",
+"Meias Chaves do Baú do Banco (b)"
+],
+"03073": [
+"Chave do Baú do Banco",
+"Chaves do Baú do Banco"
+],
+"03074": [
+"Capacete de Mineiro",
+"Capacetes de Mineiro"
+],
+"03075": [
+"Lanterna de Veio de Gemas",
+"Lanternas de Veio de Gemas"
+],
+"03076": [
+"Tala de Pedra Antiga",
+"Talas de Pedra Antiga"
+],
+"03077": [
+"Blusa Elegante",
+"Blusas Elegantes"
+],
+"03078": [
+"Cimitarra do Palácio",
+"Cimitarras do Palácio"
+],
+"03079": [
+"Varinha do Palácio",
+"Varinhas do Palácio"
+],
+"03080": [
+"Botas Aladas",
+"Botas Aladas"
+],
+"03081": [
+"Medalhão de Aphiros",
+"Medalhões de Aphiros"
+],
+"03082": [
+"Kit de Rerrastreio",
+"Kits de Rerrastreio"
+],
+"03083": [
+"Meia Chave do Baú da Fera (a)",
+"Meias Chaves do Baú da Fera (a)"
+],
+"03084": [
+"Meia Chave do Baú da Fera (b)",
+"Meias Chaves do Baú da Fera (b)"
+],
+"03085": [
+"Chave do Baú da Fera",
+"Chaves do Baú da Fera"
+],
+"03086": [
+"Chave de Prata (Biblioteca Proibida)",
+"Chaves de Prata (Biblioteca Proibida)"
+],
+"03087": [
+"Chave de Ouro (Biblioteca Proibida)",
+"Chaves de Ouro (Biblioteca Proibida)"
+],
+"03088": [
+"Chave de Prata (Bens Roubados)",
+"Chaves de Prata (Bens Roubados)"
+],
+"03089": [
+"Chave de Ouro (Bens Roubados)",
+"Chaves de Ouro (Bens Roubados)"
+],
+"03090": [
+"Chave de Prata (Mina Profunda)",
+"Chaves de Prata (Mina Profunda)"
+],
+"03091": [
+"Chave de Ouro (Mina Profunda)",
+"Chaves de Ouro (Mina Profunda)"
+],
+"03092": [
+"Chave de Prata (Cofre do Palácio)",
+"Chaves de Prata (Cofre do Palácio)"
+],
+"03093": [
+"Chave de Ouro (Cofre do Palácio)",
+"Chaves de Ouro (Cofre do Palácio)"
+],
+"03094": [
+"Poção de Corte de Lenha P1-A",
+"Poções de Corte de Lenha P1-A"
+],
+"03095": [
+"Essência Sintonizada",
+"Essência Sintonizada"
+],
+"03096": [
+"Poção de Corte de Lenha P2-A",
+"Poções de Corte de Lenha P2-A"
+],
+"03097": [
+"Poção de Corte de Lenha P2-B",
+"Poções de Corte de Lenha P2-B"
+],
+"03098": [
+"Poção de Pesca P1-A",
+"Poções de Pesca P1-A"
+],
+"03099": [
+"Poção de Pesca P2-A",
+"Poções de Pesca P2-A"
+],
+"03100": [
+"Poção de Pesca P2-B",
+"Poções de Pesca P2-B"
+],
+"03101": [
+"Poção de Extração P1-A",
+"Poções de Extração P1-A"
+],
+"03102": [
+"Poção de Extração P2-A",
+"Poções de Extração P2-A"
+],
+"03103": [
+"Poção de Extração P2-B",
+"Poções de Extração P2-B"
+],
+"03104": [
+"Poção de Arte do Fogo P1-A",
+"Poções de Arte do Fogo P1-A"
+],
+"03105": [
+"Poção de Arte do Fogo P2-A",
+"Poções de Arte do Fogo P2-A"
+],
+"03106": [
+"Poção de Arte do Fogo P2-B",
+"Poções de Arte do Fogo P2-B"
+],
+"03107": [
+"Poção de Cozinhar P1-A",
+"Poções de Cozinhar P1-A"
+]
+}

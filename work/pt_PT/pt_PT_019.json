@@ -1,0 +1,556 @@
+{
+ "03567": [
+  "Picareta Infernal",
+  "Picaretas Infernais"
+ ],
+ "03568": [
+  "Marca de Agilidade",
+  "Marcas de Agilidade"
+ ],
+ "03569": [
+  "Gorro Leve",
+  "Gorros Leves"
+ ],
+ "03570": "Bónus de conjunto (com 3 peças Leves): -2% de Intervalo de Agilidade",
+ "03571": [
+  "Túnica Leve",
+  "Túnicas Leves"
+ ],
+ "03572": [
+  "Calças Leves",
+  "Calças Leves"
+ ],
+ "03573": [
+  "Botas Leves",
+  "Botas Leves"
+ ],
+ "03574": [
+  "Gorro Ágil",
+  "Gorros Ágeis"
+ ],
+ "03575": "Bónus de conjunto (com 3 peças Ágeis): -4% de Intervalo de Agilidade, -2% de dano recebido em Agilidade",
+ "03576": [
+  "Túnica Ágil",
+  "Túnicas Ágeis"
+ ],
+ "03577": [
+  "Calças Ágeis",
+  "Calças Ágeis"
+ ],
+ "03578": [
+  "Botas Ágeis",
+  "Botas Ágeis"
+ ],
+ "03579": [
+  "Gorro Gracioso",
+  "Gorros Graciosos"
+ ],
+ "03580": "Bónus de conjunto (com 3 peças Graciosas): -6% de Intervalo de Agilidade, -4% de dano recebido em Agilidade",
+ "03581": [
+  "Túnica Graciosa",
+  "Túnicas Graciosas"
+ ],
+ "03582": [
+  "Calças Graciosas",
+  "Calças Graciosas"
+ ],
+ "03583": [
+  "Botas Graciosas",
+  "Botas Graciosas"
+ ],
+ "03584": [
+  "Gorro Acolchoado",
+  "Gorros Acolchoados"
+ ],
+ "03585": [
+  "Proteção Articular",
+  "Proteções Articulares"
+ ],
+ "03586": [
+  "Pacote de Sementes de Ervas I",
+  "Pacotes de Sementes de Ervas I"
+ ],
+ "03587": [
+  "Pacote de Sementes de Ervas II",
+  "Pacotes de Sementes de Ervas II"
+ ],
+ "03588": [
+  "Pacote de Runas Elementais I",
+  "Pacotes de Runas Elementais I"
+ ],
+ "03589": [
+  "Pacote de Runas Elementais II",
+  "Pacotes de Runas Elementais II"
+ ],
+ "03590": [
+  "Pacote de Runas Secundárias I",
+  "Pacotes de Runas Secundárias I"
+ ],
+ "03591": [
+  "Pacote de Runas Secundárias II",
+  "Pacotes de Runas Secundárias II"
+ ],
+ "03592": [
+  "Pacote de Munições I (Setas)",
+  "Pacotes de Munições I (Setas)"
+ ],
+ "03593": [
+  "Pacote de Munições II (Setas)",
+  "Pacotes de Munições II (Setas)"
+ ],
+ "03594": [
+  "Pacote de Munições I (Flechas)",
+  "Pacotes de Munições I (Flechas)"
+ ],
+ "03595": [
+  "Pacote de Munições II (Flechas)",
+  "Pacotes de Munições II (Flechas)"
+ ],
+ "03596": [
+  "Pacote de Munições I (Bumerangues)",
+  "Pacotes de Munições I (Bumerangues)"
+ ],
+ "03597": [
+  "Pacote de Munições II (Bumerangues)",
+  "Pacotes de Munições II (Bumerangues)"
+ ],
+ "03598": [
+  "Talismã de Evasão Corpo a Corpo",
+  "Talismãs de Evasão Corpo a Corpo"
+ ],
+ "03599": [
+  "Talismã de Evasão à Distância",
+  "Talismãs de Evasão à Distância"
+ ],
+ "03600": [
+  "Talismã de Evasão Mágica",
+  "Talismãs de Evasão Mágica"
+ ],
+ "03601": [
+  "Talismã de Precisão Corpo a Corpo",
+  "Talismãs de Precisão Corpo a Corpo"
+ ],
+ "03602": [
+  "Talismã de Precisão à Distância",
+  "Talismãs de Precisão à Distância"
+ ],
+ "03603": [
+  "Talismã de Precisão Mágica",
+  "Talismãs de Precisão Mágica"
+ ],
+ "03604": [
+  "Talismã de Proteção",
+  "Talismãs de Proteção"
+ ],
+ "03605": [
+  "Cábula de Escalada",
+  "Cábulas de Escalada"
+ ],
+ "03606": [
+  "Cábula de Salto",
+  "Cábulas de Salto"
+ ],
+ "03607": [
+  "Cábula de Esquiva",
+  "Cábulas de Esquiva"
+ ],
+ "03608": [
+  "Cábula de Equilíbrio",
+  "Cábulas de Equilíbrio"
+ ],
+ "03609": [
+  "Cábula de Rapel",
+  "Cábulas de Rapel"
+ ],
+ "03610": [
+  "Chapéu de Lenhador Novato",
+  "Chapéus de Lenhador Novato"
+ ],
+ "03611": [
+  "Túnica de Lenhador Novato",
+  "Túnicas de Lenhador Novato"
+ ],
+ "03612": [
+  "Calças de Lenhador Novato",
+  "Calças de Lenhador Novato"
+ ],
+ "03613": [
+  "Botas de Lenhador Novato",
+  "Botas de Lenhador Novato"
+ ],
+ "03614": [
+  "Chapéu de Pescador Novato",
+  "Chapéus de Pescador Novato"
+ ],
+ "03615": [
+  "Túnica de Pescador Novato",
+  "Túnicas de Pescador Novato"
+ ],
+ "03616": [
+  "Calças de Pescador Novato",
+  "Calças de Pescador Novato"
+ ],
+ "03617": [
+  "Botas de Pescador Novato",
+  "Botas de Pescador Novato"
+ ],
+ "03618": [
+  "Chapéu de Mineiro Novato",
+  "Chapéus de Mineiro Novato"
+ ],
+ "03619": [
+  "Túnica de Mineiro Novato",
+  "Túnicas de Mineiro Novato"
+ ],
+ "03620": [
+  "Calças de Mineiro Novato",
+  "Calças de Mineiro Novato"
+ ],
+ "03621": [
+  "Botas de Mineiro Novato",
+  "Botas de Mineiro Novato"
+ ],
+ "03622": [
+  "Chapéu de Lenhador Intermédio",
+  "Chapéus de Lenhador Intermédio"
+ ],
+ "03623": "Bónus de conjunto (com 3 peças de Corte de Lenha Intermédio): +0,025% de probabilidade de Ninho ou Ninho de Águia",
+ "03624": [
+  "Túnica de Lenhador Intermédio",
+  "Túnicas de Lenhador Intermédio"
+ ],
+ "03625": [
+  "Calças de Lenhador Intermédio",
+  "Calças de Lenhador Intermédio"
+ ],
+ "03626": [
+  "Botas de Lenhador Intermédio",
+  "Botas de Lenhador Intermédio"
+ ],
+ "03627": [
+  "Chapéu de Pescador Intermédio",
+  "Chapéus de Pescador Intermédio"
+ ],
+ "03628": "Bónus de conjunto (com 3 peças de Pesca Intermédio): +10% de probabilidade de itens especiais em Pesca",
+ "03629": [
+  "Túnica de Pescador Intermédio",
+  "Túnicas de Pescador Intermédio"
+ ],
+ "03630": [
+  "Calças de Pescador Intermédio",
+  "Calças de Pescador Intermédio"
+ ],
+ "03631": [
+  "Botas de Pescador Intermédio",
+  "Botas de Pescador Intermédio"
+ ],
+ "03632": [
+  "Chapéu de Mineiro Intermédio",
+  "Chapéus de Mineiro Intermédio"
+ ],
+ "03633": "Bónus de conjunto (com 3 peças de Extração Intermédio): +20% de probabilidade de Geodo",
+ "03634": [
+  "Túnica de Mineiro Intermédio",
+  "Túnicas de Mineiro Intermédio"
+ ],
+ "03635": [
+  "Calças de Mineiro Intermédio",
+  "Calças de Mineiro Intermédio"
+ ],
+ "03636": [
+  "Botas de Mineiro Intermédio",
+  "Botas de Mineiro Intermédio"
+ ],
+ "03637": [
+  "Chapéu de Lenhador de Elite",
+  "Chapéus de Lenhador de Elite"
+ ],
+ "03638": "Bónus de conjunto (com 3 peças de Corte de Lenha de Elite): +2% de probabilidade de abater Árvores e Arbustos",
+ "03639": [
+  "Túnica de Lenhador de Elite",
+  "Túnicas de Lenhador de Elite"
+ ],
+ "03640": [
+  "Calças de Lenhador de Elite",
+  "Calças de Lenhador de Elite"
+ ],
+ "03641": [
+  "Botas de Lenhador de Elite",
+  "Botas de Lenhador de Elite"
+ ],
+ "03642": [
+  "Chapéu de Pescador de Elite",
+  "Chapéus de Pescador de Elite"
+ ],
+ "03643": "Bónus de conjunto (com 3 peças de Pesca de Elite): +20% de probabilidade de itens especiais em Pesca",
+ "03644": [
+  "Túnica de Pescador de Elite",
+  "Túnicas de Pescador de Elite"
+ ],
+ "03645": [
+  "Calças de Pescador de Elite",
+  "Calças de Pescador de Elite"
+ ],
+ "03646": [
+  "Botas de Pescador de Elite",
+  "Botas de Pescador de Elite"
+ ],
+ "03647": [
+  "Chapéu de Mineiro de Elite",
+  "Chapéus de Mineiro de Elite"
+ ],
+ "03648": "Bónus de conjunto (com 3 peças de Extração de Elite): +5% de probabilidade de duplicação em Extração",
+ "03649": [
+  "Túnica de Mineiro de Elite",
+  "Túnicas de Mineiro de Elite"
+ ],
+ "03650": [
+  "Calças de Mineiro de Elite",
+  "Calças de Mineiro de Elite"
+ ],
+ "03651": [
+  "Botas de Mineiro de Elite",
+  "Botas de Mineiro de Elite"
+ ],
+ "03652": [
+  "Luvas de Ferreiro I",
+  "Luvas de Ferreiro I"
+ ],
+ "03653": [
+  "Luvas de Ferreiro II",
+  "Luvas de Ferreiro II"
+ ],
+ "03654": [
+  "Luvas de Artesanato I",
+  "Luvas de Artesanato I"
+ ],
+ "03655": [
+  "Luvas de Artesanato II",
+  "Luvas de Artesanato II"
+ ],
+ "03656": [
+  "Luvas de Arco e Flecha I",
+  "Luvas de Arco e Flecha I"
+ ],
+ "03657": [
+  "Luvas de Arco e Flecha II",
+  "Luvas de Arco e Flecha II"
+ ],
+ "03658": [
+  "Luvas de Criação de Runas I",
+  "Luvas de Criação de Runas I"
+ ],
+ "03659": [
+  "Luvas de Criação de Runas II",
+  "Luvas de Criação de Runas II"
+ ],
+ "03660": [
+  "Luvas de Artesanato Bestial I",
+  "Luvas de Artesanato Bestial I"
+ ],
+ "03661": [
+  "Luvas de Artesanato Bestial II",
+  "Luvas de Artesanato Bestial II"
+ ],
+ "03662": [
+  "Luvas de Herbanário I",
+  "Luvas de Herbanário I"
+ ],
+ "03663": [
+  "Luvas de Herbanário II",
+  "Luvas de Herbanário II"
+ ],
+ "03664": [
+  "ToolbeltOPnessItem",
+  "ToolbeltOPnessItem"
+ ],
+ "03665": [
+  "Mapa para as Terras Cinzentas",
+  "Mapas para as Terras Cinzentas"
+ ],
+ "03666": [
+  "Mapa para a Caverna Densa",
+  "Mapas para a Caverna Densa"
+ ],
+ "03667": [
+  "Mapa para os Campos de Torag",
+  "Mapas para os Campos de Torag"
+ ],
+ "03668": [
+  "Couro Curtido de Torag",
+  "Couros Curtidos de Torag"
+ ],
+ "03669": [
+  "Couro Curtido de Lince da Tempestade",
+  "Couros Curtidos de Lince da Tempestade"
+ ],
+ "03670": [
+  "Armadilha de Torag Básica",
+  "Armadilhas de Torag Básicas"
+ ],
+ "03671": [
+  "Armadilha de Torag Reforçada",
+  "Armadilhas de Torag Reforçadas"
+ ],
+ "03672": [
+  "Armadilha de Torag Fortificada",
+  "Armadilhas de Torag Fortificadas"
+ ],
+ "03673": [
+  "Bife de Grifo Cru",
+  "Bifes de Grifo Crus"
+ ],
+ "03674": [
+  "Bife de Grifo",
+  "Bifes de Grifo"
+ ],
+ "03675": [
+  "Favo de Mel Gigante",
+  "Favos de Mel Gigantes"
+ ],
+ "03676": [
+  "Invólucro de Osso de Dragão",
+  "Invólucros de Osso de Dragão"
+ ],
+ "03677": [
+  "Vagem Venenosa",
+  "Vagens Venenosas"
+ ],
+ "03678": [
+  "Frasco de Especiarias do Deserto",
+  "Frascos de Especiarias do Deserto"
+ ],
+ "03679": [
+  "Escama de Drago da Areia",
+  "Escamas de Drago da Areia"
+ ],
+ "03680": [
+  "Sol Planador",
+  "Sóis Planadores"
+ ],
+ "03681": [
+  "Minério de Meteorito",
+  "Minérios de Meteorito"
+ ],
+ "03682": [
+  "Poeira Estelar",
+  "Poeiras Estelares"
+ ],
+ "03683": [
+  "Poeira Estelar Dourada",
+  "Poeiras Estelares Douradas"
+ ],
+ "03684": [
+  "Registo de Meteoritos",
+  "Registos de Meteoritos"
+ ],
+ "03685": "Equipa isto em Extração para extrair Minério de Meteorito",
+ "03686": [
+  "Registo de Chuva de Estrelas",
+  "Registos de Chuva de Estrelas"
+ ],
+ "03687": [
+  "Registo Dourado de Chuva de Estrelas",
+  "Registos Dourados de Chuva de Estrelas"
+ ],
+ "03688": [
+  "Anel Astral de Topázio de Prata",
+  "Anéis Astrais de Topázio de Prata"
+ ],
+ "03689": [
+  "Anel Astral de Safira de Prata",
+  "Anéis Astrais de Safira de Prata"
+ ],
+ "03690": [
+  "Anel Astral de Rubi de Prata",
+  "Anéis Astrais de Rubi de Prata"
+ ],
+ "03691": [
+  "Anel Astral de Esmeralda de Prata",
+  "Anéis Astrais de Esmeralda de Prata"
+ ],
+ "03692": [
+  "Anel Astral de Diamante de Prata",
+  "Anéis Astrais de Diamante de Prata"
+ ],
+ "03693": [
+  "Anel Astral de Jade de Prata",
+  "Anéis Astrais de Jade de Prata"
+ ],
+ "03694": [
+  "Anel Astral de Topázio de Ouro",
+  "Anéis Astrais de Topázio de Ouro"
+ ],
+ "03695": [
+  "Anel Astral de Safira de Ouro",
+  "Anéis Astrais de Safira de Ouro"
+ ],
+ "03696": [
+  "Anel Astral de Rubi de Ouro",
+  "Anéis Astrais de Rubi de Ouro"
+ ],
+ "03697": [
+  "Anel Astral de Esmeralda de Ouro",
+  "Anéis Astrais de Esmeralda de Ouro"
+ ],
+ "03698": [
+  "Anel Astral de Diamante de Ouro",
+  "Anéis Astrais de Diamante de Ouro"
+ ],
+ "03699": [
+  "Anel Astral de Jade de Ouro",
+  "Anéis Astrais de Jade de Ouro"
+ ],
+ "03700": [
+  "Amuleto Astral de Topázio de Prata",
+  "Amuletos Astrais de Topázio de Prata"
+ ],
+ "03701": [
+  "Amuleto Astral de Safira de Prata",
+  "Amuletos Astrais de Safira de Prata"
+ ],
+ "03702": [
+  "Amuleto Astral de Rubi de Prata",
+  "Amuletos Astrais de Rubi de Prata"
+ ],
+ "03703": [
+  "Amuleto Astral de Esmeralda de Prata",
+  "Amuletos Astrais de Esmeralda de Prata"
+ ],
+ "03704": [
+  "Amuleto Astral de Diamante de Prata",
+  "Amuletos Astrais de Diamante de Prata"
+ ],
+ "03705": [
+  "Amuleto Astral de Jade de Prata",
+  "Amuletos Astrais de Jade de Prata"
+ ],
+ "03706": [
+  "Amuleto Astral de Topázio de Ouro",
+  "Amuletos Astrais de Topázio de Ouro"
+ ],
+ "03707": [
+  "Amuleto Astral de Safira de Ouro",
+  "Amuletos Astrais de Safira de Ouro"
+ ],
+ "03708": [
+  "Amuleto Astral de Rubi de Ouro",
+  "Amuletos Astrais de Rubi de Ouro"
+ ],
+ "03709": [
+  "Amuleto Astral de Esmeralda de Ouro",
+  "Amuletos Astrais de Esmeralda de Ouro"
+ ],
+ "03710": [
+  "Amuleto Astral de Diamante de Ouro",
+  "Amuletos Astrais de Diamante de Ouro"
+ ],
+ "03711": [
+  "Amuleto Astral de Jade de Ouro",
+  "Amuletos Astrais de Jade de Ouro"
+ ],
+ "03712": [
+  "Barra de Meteorito",
+  "Barras de Meteorito"
+ ]
+}
