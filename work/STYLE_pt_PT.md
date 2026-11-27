@@ -74,3 +74,10 @@ Ronda 3 (pacotes 048–071):
 - Jogador neutro: «Damos-te as boas-vindas», «Sem ligação à Cloud», «Sofre um atordoamento». «vocês os dois» foi substituído por «vocês» em todo o texto (Ronda 4).
 - «Melvor Cloud» / «Cloud»; o texto oficial do MI1 (08849) mantém «Nuvem da Melvor».
 - Os separadores de listas como {1:list:0|, |, and } ficam sem tradução (o verificador exige-os iguais).
+
+### Ronda 5 (096–106)
+- Gatilhos e condições: «Habilidade: ação» (Woodcutting Cut Tree=Corte de Lenha: cortar árvore) · Activated when=Ativado quando/ao · Triggers when=Ativa-se quando · Requires having=Exige ter · X Statistic=Estatística de X
+- Day Segment=período do dia · Weather=meteorologia · Openable=Abrível · Tracker=Contador · Wallet=Carteira · Share code=código de partilha · Font=Tipo de letra · Onboarding=introdução · Demo Locked=Bloqueado na demo · Dismiss=Fechar · Anti-Aliasing=Antisserrilhado · Set Bonuses=Bónus de conjunto · Item Stats=Estatísticas do item · Backup Save=Cópia de segurança
+- Abyssal Fragment/Bar=Fragmento/Barra Abissal · Blessed Fragment=Fragmento Abençoado · Sentinel Charm=Talismã da Sentinela · Combat Charms=Talismãs de Combate · Thorned Buckle=Fivela com Espinhos · Icy Strand=Fio Gelado · Veggie Bait=Isco Vegetal · X Wizard Robe=Veste do Feiticeiro de X · Drowned Robe=Veste Afogada · X Gear=Equipamento de X · Agility Cheat Sheets=Cábulas de Agilidade
+- Pest Control I–IV=Controlo de Pragas I–IV · Relics of the Past=Relíquias do Passado · Fleshbound Passage=Passagem de Carne · Sinew Chasm=Abismo de Tendões · Pinnacle Boss=Chefe Supremo · Dungeon Boss=Chefe de Masmorra · Expert X=X Especialista · Falling Stars=Estrelas Caídas
+- Flintcrest Highlands (13311) mantém «Terras Altas de Flinkcrest», como o resto do jogo.

@@ -1,0 +1,64 @@
+{
+ "13267": "Ação: moeda possuída",
+ "13268": "Exige ter uma quantidade de uma moeda na carteira de uma ação",
+ "13269": "Ação: item possuído",
+ "13270": "Exige ter uma quantidade de um item no inventário de uma ação",
+ "13271": "Ação: máximo de moeda possuída",
+ "13272": "Exige não ter mais do que uma quantidade de uma moeda na carteira de uma ação",
+ "13273": "Ação: máximo de itens possuídos",
+ "13274": "Exige não ter mais do que uma quantidade de um item no inventário de uma ação",
+ "13275": "Redimensionar",
+ "13276": "Em cima",
+ "13277": "Em baixo",
+ "13278": "Este conteúdo não está disponível na Demo",
+ "13279": "[img height=1.25em]{EntityIcon}[/img] Compra [b]{CategoryName} -> {PurchaseName} {Current} / {Max}[/b] vezes na Loja",
+ "13280": [
+  "Geodo",
+  "Geodos"
+ ],
+ "13281": [
+  "Laranja",
+  "Laranjas"
+ ],
+ "13282": [
+  "Manga",
+  "Mangas"
+ ],
+ "13283": [
+  "ToolbeltOPnessItem",
+  "ToolbeltOPnessItem"
+ ],
+ "13284": [
+  "Aurora",
+  "Auroras"
+ ],
+ "13285": "Veste do Feiticeiro da Terra",
+ "13286": "Veste do Feiticeiro do Fogo",
+ "13287": "Isco Vegetal",
+ "13288": "Monóculo do Artesão",
+ "13289": "Veste de Sangue",
+ "13290": "Veste Afogada",
+ "13291": "Veste de Escama Noturna",
+ "13292": "Capuz do Ateneu de Marfim",
+ "13293": "Capuzes do Ateneu de Marfim",
+ "13294": "Veste do Ateneu de Marfim",
+ "13295": "Vestes do Ateneu de Marfim",
+ "13296": "Calças do Ateneu de Marfim",
+ "13297": "Vestes de Massa de Lodo",
+ "13298": "Contrata um Trabalhador Agrícola I, que desbloqueia automatizações para todas as ações de Cultivo com [b]requisito de nível de Cultivo inferior a [color=orange]30[/color][/b]. Exige Vinho como pagamento pelos seus serviços.",
+ "13299": "Dá acesso a novas zonas de Assassino.",
+ "13300": "Sim, eu... sei onde encontrar umas coisas, de vez em quando.",
+ "13301": "E o que é que os teus... contactos querem?",
+ "13302": "Depois de uma curta estadia em Azamire, tu e [Companion Name] não conseguem descansar. Ainda há tanto por fazer. O Cabecilha foi apenas o primeiro passo.",
+ "13303": "O dia a seguir ao ataque ao forte do Cabecilha é recebido com uma mistura de alegria, alívio, luto e... incerteza. \nEmbora o assalto tenha sido um sucesso, as baixas contam-se às dezenas, um golpe duro para a já frágil população da tua terra.\n\nNo entanto, com o número de refugiados que hoje em dia chegam e partem, é difícil acompanhar os altos e baixos da população local. Por mais insensível que pareça, agradeces que nenhuma das pessoas que conhecias bem tenha caído, embora alguns dos primeiros recrutas da milícia que tu e [Companion Name] treinaram estivessem entre os corpos trazidos nas carroças.\n\nOs acontecimentos de ontem não chegaram para deitar abaixo nem a ti nem a [Companion Name] por muito tempo. Os dois partem de volta ao forte ao primeiro raio de luz, à procura dos rastos da caravana que viste sair do forte na vossa primeira missão de reconhecimento. Os edifícios atrás da muralha espessa ainda fumegam da noite anterior, a lembrar-vos da batalha.",
+ "13304": "Seguir a caravana leva-te uma eternidade. Viajas para norte, para fora do Bosque Ancião, até que, a apenas uma hora a pé da vila de Hirane, os rastos param. Várias carroças foram paradas aqui e queimadas, presumivelmente pelos hobgolbins que as conduziam. Parece que vários prisioneiros foram mortos, embora não saibas porquê. Pelo que consegues perceber, o grupo dividiu-se em bem mais de trinta grupos diferentes, cada um numa direção. É sem dúvida impossível segui-los a todos, mesmo sem a dificuldade acrescida de serem muito mais difíceis de rastrear do que as carroças.\n\nPor um momento preocupas-te com a segurança de Hirane, até perceberes que os golbins teriam de ter um pequeno exército para arrasar uma vila daquele tamanho. Estar situada na Estrada do Coração (uma das principais vias para a capital de Melvor) tinha certamente as suas vantagens. Poder comprar armas e armaduras de fino fabrico era a principal, mas a presença dos Golbins continuava a deixar-te de pé atrás.\n\nTu e [Companion Name] decidem entrar na vila, e o ambiente geral é... tenso. Pessoas que parecem ser cidadãos passam apressadas por aldeões desgastados e de olhar assombrado. É uma imagem que conheces bem, embora te surpreenda vê-la aqui. Pouco depois, um homem aborda-te a ti e a [Companion Name]. Tem ar picuinhas, um bigode imaculadamente tratado e uma carranca permanente gravada no rosto.",
+ "13305": "Simplesmente não tenho tempo para conversa fiada. Vocês são só mais um de muitos grupos a chegar à vila.",
+ "13306": "O Curo franze os lábios, aparentemente um pouco sem saber o que dizer a seguir. Opta por um leve aceno e depois retira-se, com os seus acompanhantes logo atrás.\n\nA mulher a quem entregaste os bens pergunta, com educação mas timidamente, se os dois podiam dar só mais uma ajudinha, já que parece que vão ficar por aqui de qualquer forma. Olhas para [Companion Name], que se limita a encolher os ombros. Mais vale. A mulher leva-vos rapidamente até uma tenda de cozinha ali perto, onde uma fila de refugiados esfomeados espera ansiosamente. Parece que a equipa atual não está a conseguir dar conta do recado.",
+ "13307": "Depois de estudares a fundo os relatórios dos batedores de Hirane, tens a certeza de uma coisa. As figuras encapuzadas que atacaram Azamire e que parecem estar a raptar e a transportar habitantes das vilas seguiram para muito longe, a leste. Com que objetivo, nem consegues arriscar um palpite.",
+ "13308": "Sais pelo portão de Hirane e dás por ti no coração do campo. Viajas para leste pela Estrada do Coração, sabendo que, se fores longe o suficiente, será quase impossível não dar com Águas Claras. Pelo que conseguiste saber com as pessoas de Hirane, Águas Claras é a principal estação de passagem entre o lado leste e o lado oeste das Planícies do Deserto. Ouviste falar de muitos pequenos pontos de descanso e aldeias entre um sítio e o outro, mas poucos eram dignos de ficar na memória.\n\nA Estrada do Coração está geralmente bem construída e bem conservada (mesmo tão longe da capital), mas, à medida que a erva dá lugar a terra árida e depois a areia, torna-se mais difícil seguir a Estrada do Coração. Apesar do que os locais em Hirane disseram sobre haver sítios para descansar entre lá e Águas Claras, a maior parte dos edifícios por que passas estão abandonados, engolidos pelas areias.\n\nO sol bate-te em cima de uma forma que só conhecias dos dias de verão mais quentes de Azamire. Não há tréguas do calor, só areia a perder de vista, no que parecem ondas de ouro sem fim.",
+ "13309": "Limpas a água de cato da boca. Os dois foram furando muitos dos catos ali perto e começaram a afastar-se do grupo original. Dão por vós a dar risadinhas e a balançar de um lado para o outro, apesar de estarem decididamente mais hidratados. Preocupa-te que algo possa estar errado, mas como poderia? Sentes-te tão bem. [Companion Name] quase cai em cima de ti num ataque de risinhos, com a areia a ondular em padrões hipnotizantes debaixo dos vossos pés.",
+ "13310": "Os catos à tua frente agora parecem... maiores. E mexem-se. Mas está tudo a mexer-se, por isso isso não é particularmente estranho. O que é estranho é que um dos catos atira um dos braços espinhosos à tua cabeça quando tentas cortá-lo com o machado. As agulhas espetadas na cara arrancam-te aos efeitos alucinogénicos da água de cato.\n\nTudo à tua volta deixa de se mexer, exceto o... cato furioso à tua frente. E todos os que estão atrás dele. Deslizam pelas areias e estendem os braços. São reais. Chamas por [Companion Name], que parece estar a ter uma revelação semelhante.",
+ "13311": "Os espinhos dos catos são difíceis de enfrentar e exigem uma forma de combater muito mais defensiva do que a que costumas usar, mas está tudo bem. O grupo de catos jaz derrotado aos teus pés, e os... efeitos da água de cato parecem ter passado.\n\nSegues para Águas Claras, bebendo apenas pequenos goles ocasionais da água de cato que recolheste quando precisas mesmo. Dás decididamente mais risadinhas do que o habitual e balanças um pouco ao andar, mas, com esta abordagem moderada, os piores efeitos nunca se manifestam.\n\nA vila de Águas Claras é um bálsamo para os olhos cansados e queimados do sol. Doem-te os pés, tens a pele queimada e morres de sede. Um pequeno grupo de habitantes junta-se à tua volta, a rir da tua desgraça e a avisar-te de alguns dos perigos que poderás encontrar mais para dentro do deserto.\n\nQuando perguntas pelas figuras, grande parte da boa disposição dá lugar ao medo. Uma boa parte da população daqui parece ter vindo das vilas exteriores abandonadas, a fugir dos... Forjadores de Almas. É estranho finalmente teres um nome para o grupo que destruiu a tua terra. Aqui, lidar com eles tem sido uma constante, e o nome não impõe qualquer solenidade. Os habitantes dizem ter visto as caravanas seguirem para leste, rumo à capital, e avisam-te para ficares bem longe da parte leste da Estrada do Coração por agora. Quando tu e [Companion Name] contam histórias de Azamire e do Cabecilha, e do vosso objetivo de levar os Forjadores de Almas à justiça, parece que metade da vila vos abre as portas de casa, mantendo-vos alimentados e hidratados enquanto recuperam.\n\nDepois de um descanso bem merecido, os dois continuam para leste, finalmente fora das dunas e de volta aos campos verdejantes. Entram em terreno mais rochoso ao aproximarem-se das Terras Altas de Flinkcrest. Grandes pedregulhos recortados salpicam o solo pedregoso, espetados em ângulos estranhos.",
+ "13312": "Dito isto, [Companion Name] continua a observar os pedregulhos enquanto os dois viajam pela Estrada do Coração, como se fossem ganhar vida e contar de onde vieram. Já tiveste a tua conta de coisas com consciência que não deviam ter, por isso tentas não ficar a olhar demasiado.\n\nPor fim, chegam a uma pequena estalagem que parece ter sido construída numa muralha de pedra e numa guarnição que ocupa toda a vasta entrada da Passagem Quebrada. A Pedra Adormecida é lendária, e com razão. Não só é a sede da Guilda dos Assassinos da região leste do continente, como atrai aventureiros de renome mundial que querem aventurar-se nos Picos Perigosos para provar que são os melhores dos melhores.\n\nA Passagem Quebrada é o caminho mais rápido para a capital, mas costuma ser percorrida por caravanas fortemente armadas, capazes de pagar a portagem para passar o portão e de se defender das bestas que descem da montanha propriamente dita. Quando ouves falar de caravanas desviadas para sul (contornando a cordilheira) por causa de um bando particularmente aguerrido de Salta-Pedras, apressas-te a oferecer os teus serviços e os de [Companion Name]. \n\nO dono da Pedra Adormecida vai ainda mais longe e diz que, se tratarem deles, terão passagem gratuita pela Passagem Quebrada para toda a vida. É um negócio bom demais para recusar.",
+ "13313": "Fazes a contagem dos corpos das bestas altas e desajeitadas. Os Salta-Pedras eram uma mistura um pouco estranha de criaturas. Tinham escamas como um lagarto e usavam uma cauda comprida, como um chicote, para se equilibrarem. Têm duas asas grandes que os ajudam a saltar de rocha em rocha (daí o nome), mas, tecnicamente, não voavam. Estas «aves» andam em duas patas poderosas que usam para dar pontapés às presas, o que, felizmente, facilitava apanhá-las nas armadilhas.\n\nO que te surpreendeu foi o número deles. Parecia que, de cada vez que apanhavas um, vias mais dois a saltar por cima de ti."
+}

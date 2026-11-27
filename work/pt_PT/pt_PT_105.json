@@ -1,0 +1,176 @@
+{
+ "13583": "Não podes alterar aqui o nome da tua personagem.",
+ "13584": "História / Ajuda com o nome",
+ "13585": "Podes editar isto a qualquer momento.",
+ "13586": "Personalizar personagem",
+ "13587": "Nome da Técnica",
+ "13588": "Obrigatório",
+ "13589": "Recomendado",
+ "13590": "Repor os níveis das habilidades no 60?",
+ "13591": "Durante a demo, as habilidades estavam limitadas ao nível 60, mas continuava a ser possível ganhar XP além desse limite.",
+ "13592": "No Acesso Antecipado, esta XP extra pode fazer as habilidades subir vários níveis de uma vez, saltando desbloqueios e a progressão prevista.",
+ "13593": "Recomendamos repor no nível 60 para uma progressão mais natural, mas não é obrigatório.",
+ "13594": "Só as habilidades com XP acima do nível 60 são afetadas. Todo o resto do progresso fica igual.",
+ "13595": "Queres repor a XP das habilidades acima do nível 60?",
+ "13596": "Sim, repor no nível 60 (mantém premido para confirmar)",
+ "13597": "Sim, repor no nível 60",
+ "13598": "Não, manter a minha XP",
+ "13599": "Chinês (Taiwan)",
+ "13600": "Chinês (Tradicional, Taiwan)",
+ "13601": "Inglês (Reino Unido)",
+ "13602": "Sobe de nível as tuas Técnicas de Agilidade para enfrentares obstáculos mais difíceis e ganhares bónus.",
+ "13603": "Russo",
+ "13604": "Russo, Rússia",
+ "13605": "Chave do Cofre Abissal",
+ "13606": [
+  "Veste do Feiticeiro da Terra",
+  "Vestes do Feiticeiro da Terra"
+ ],
+ "13607": [
+  "Veste do Feiticeiro do Fogo",
+  "Vestes do Feiticeiro do Fogo"
+ ],
+ "13608": [
+  "Isco Vegetal",
+  "Isco Vegetal"
+ ],
+ "13609": [
+  "Monóculo do Artesão",
+  "Monóculos do Artesão"
+ ],
+ "13610": [
+  "Veste de Sangue",
+  "Vestes de Sangue"
+ ],
+ "13611": [
+  "Veste Afogada",
+  "Vestes Afogadas"
+ ],
+ "13612": [
+  "Veste de Escama Noturna",
+  "Vestes de Escama Noturna"
+ ],
+ "13613": [
+  "Capuz do Ateneu de Marfim",
+  "Capuzes do Ateneu de Marfim"
+ ],
+ "13614": [
+  "Veste do Ateneu de Marfim",
+  "Vestes do Ateneu de Marfim"
+ ],
+ "13615": [
+  "Calças do Ateneu de Marfim",
+  "Calças do Ateneu de Marfim"
+ ],
+ "13616": [
+  "Fragmento Abissal",
+  "Fragmentos Abissais"
+ ],
+ "13617": [
+  "Fragmento Abençoado",
+  "Fragmentos Abençoados"
+ ],
+ "13618": [
+  "Barra Abissal",
+  "Barras Abissais"
+ ],
+ "13619": [
+  "Veste de Massa de Lodo",
+  "Vestes de Massa de Lodo"
+ ],
+ "13620": [
+  "Fivela com Espinhos",
+  "Fivelas com Espinhos"
+ ],
+ "13621": [
+  "Talismã da Sentinela",
+  "Talismãs da Sentinela"
+ ],
+ "13622": [
+  "Fio Gelado",
+  "Fios Gelados"
+ ],
+ "13623": [
+  "Carne Regeneradora",
+  "Carne Regeneradora"
+ ],
+ "13624": "Poção Quebra-Barreiras P2-A",
+ "13625": "És tu.",
+ "13626": "Aproveitaste ao máximo a juventude, agarrando todas as oportunidades para conhecer cada vez mais do teu pequeno pedaço de mundo. Das Costas Ventosas à orla do Bosque Ancião, cada passo que deste foi acompanhado pela pessoa que te é mais próxima, a tua companhia de sempre.\n\nChegou à aldeia sem ninguém, tal como tu tinhas chegado apenas um ano antes. Os órfãos não eram raros tão no fundo da floresta, mas aquele era só o segundo que Azamire via numa década. Os habitantes davam-vos restos de comida ou pequenas tarefas quando tinham umas moedas a mais, mas essas oportunidades eram raras. Foi natural começarem a proteger-se e a sustentar-se mutuamente. A vida foi ficando mais fácil à medida que cresciam e provavam que eram capazes de mais do que esfregar o chão ou apanhar couves.\n\nApesar da escassez, das refeições saltadas e das noites frias, a tua companhia foi uma luz radiante e constante que te ajudou a atravessar os anos de crescimento, e diria o mesmo de ti. Aventuraram-se da Baía do Vento Salgado à orla do Bosque Ancião, parando para procurar debaixo de cada pedra, de cada árvore tombada e em cada gruta escura pelo caminho, sempre com essa pessoa dois passos atrás ou um passo à frente. Coragem, talento e uma bondade sem limites: não conseguias imaginar passar o tempo com mais ninguém.\n\nChama-se...",
+ "13627": "Tens de conseguir derrotar um inimigo de [color=#FFD16D]Nível de Combate 1[/color] usando o [color=#FFD16D]estilo de combate À Distância[/color]",
+ "13628": "Tens de conseguir derrotar um inimigo de [color=#FFD16D]Nível de Combate 4[/color] várias vezes",
+ "13629": "Tens de conseguir derrotar um inimigo de [color=#FFD16D]Nível de Combate 8[/color]",
+ "13630": "Tens de conseguir derrotar um [u]Chefe de Masmorra[/u] de [color=#FFD16D]Nível de Combate 15[/color] várias vezes",
+ "13631": "Tens de conseguir derrotar um inimigo de [color=#FFD16D]Nível de Combate 25[/color] várias vezes",
+ "13632": "Tens de conseguir derrotar um [b][u]Subchefe[/u][/b] de [color=#FFD16D]Nível de Combate 35[/color]",
+ "13633": "Tens de conseguir derrotar um inimigo de [color=#FFD16D]Nível de Combate 36[/color] várias vezes",
+ "13634": "Tens de conseguir derrotar um [b][u]Chefe Supremo[/u][/b] de [color=#FFD16D]Nível de Combate 39[/color]",
+ "13635": "Tens de conseguir derrotar um inimigo de [color=#FFD16D]Nível de Combate 40[/color] várias vezes",
+ "13636": "Tens de conseguir derrotar um inimigo de [color=#FFD16D]Nível de Combate 42[/color] várias vezes",
+ "13637": "Tens de conseguir derrotar um [b][u]Subchefe[/u][/b] de [color=#FFD16D]Nível de Combate 40[/color]",
+ "13638": "Desbloqueia a Área de Combate Oásis Assoreado.",
+ "13639": "Tens de conseguir derrotar um inimigo de [color=#FFD16D]Nível de Combate 45[/color] várias vezes",
+ "13640": "Desbloqueia a Área de Combate Falésia Marítima",
+ "13641": "Tens de conseguir derrotar um [u]Chefe de Masmorra[/u] de [color=#FFD16D]Nível de Combate 50[/color]",
+ "13642": "(Brevemente) Desbloqueia a habilidade Invocação\n(Brevemente) Desbloqueia o local de Roubo Ateneu de Marfim (com temática de Invocação)",
+ "13643": "Tens de conseguir derrotar um inimigo de [color=#FFD16D]Nível de Combate 55[/color] várias vezes",
+ "13644": "Tens de conseguir derrotar um [b][u]Subchefe[/u][/b] de [color=#FFD16D]Nível de Combate 60[/color]",
+ "13645": "Tens de conseguir derrotar um inimigo de [color=#FFD16D]Nível de Combate 67[/color] várias vezes",
+ "13646": "Tens de conseguir derrotar um [b][u]Chefe Supremo[/u][/b] de [color=#FFD16D]Nível de Combate 69[/color]",
+ "13647": "CharacterName",
+ "13648": [
+  "Conclui [img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vez",
+  "Conclui [img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vezes"
+ ],
+ "13649": [
+  "Conclui [img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vez em [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]",
+  "Conclui [img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] vezes em [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b]"
+ ],
+ "13650": "O ajuste fixo à tua probabilidade de receber itens dos obstáculos",
+ "13651": "O ajuste fixo à tua probabilidade de sucesso na captura",
+ "13652": "Se for superior a 0, as recompensas dos obstáculos são mantidas ao falhar um obstáculo",
+ "13653": "Ainda não há história para esta personagem.",
+ "13654": "Erro desconhecido: {0}. Atualizar o cliente Steam pode resolver este problema.",
+ "13655": "[color=#E9DFC1]Reduz [color=#FFD16D]todo[/color] o dano sofrido num valor fixo igual ao [color=#FFD16D]valor de Armadura[/color].[/color]\n\n[color=#E9DFC1]Este é o [color=#FFD16D]último[/color] passo do cálculo de dano.[/color]\n\n[color=#E9DFC1][color=#FFD16D]A Armadura pode ser partida[/color] com um golpe [color=#FFD16D]igual ou superior[/color] ao valor de Armadura.[/color]\n\n[color=#E9DFC1]XP bónus base concedida por abate:[/color]\n[color=#FFD16D]Pontos de Vida:[/color] [color=#26D345]{1:N0}[/color]\n[color=#FFD16D]Outras:[/color] [color=#26D345]{0:N0}[/color] [color=#E9DFC1](distribuída de acordo com a tua Postura)[/color]",
+ "13656": "(Multiplicado)",
+ "13657": "Editar esta personagem",
+ "13658": "Mostrar sempre as estatísticas do item nas dicas",
+ "13659": "As dicas de equipamento mostram sempre o painel de estatísticas do item, e não só enquanto manténs Shift premido.",
+ "13660": "Mostrar itens já encontrados no conteúdo de itens que se abrem",
+ "13661": "Mostra um visto ao lado dos itens que já encontraste quando vês o conteúdo possível de um item que se pode abrir.",
+ "13662": "Antisserrilhado (MSAA)",
+ "13663": "Suaviza as arestas serrilhadas. Valores mais altos podem reduzir o desempenho.",
+ "13664": "Comportamento ao clicar nas notificações da guilda",
+ "13665": "Ajusta o comportamento predefinido ao clicar nas notificações de tarefas da Guilda de Especialização.",
+ "13666": "Fechar atual",
+ "13667": "Fechar todas",
+ "13668": "Ctrl/CMD + clique para fechar todas as notificações da guilda",
+ "13669": "Ativa ou desativa o atalho para fechar rapidamente todas as notificações da Guilda de Especialização em fila.",
+ "13670": "Pôr em fila as notificações de tarefas da Guilda de Especialização",
+ "13671": "Pôr ou não em fila as notificações das tarefas da Guilda de Especialização, em vez de as mostrar todas de uma vez.",
+ "13672": "Clica para fechar",
+ "13673": "Clica para fechar todas",
+ "13674": "{0} + clique para fechar todas",
+ "13675": "+{0} mais",
+ "13676": "Concluídos: {0}",
+ "13677": "Em curso: {0}",
+ "13678": [
+  "Equipa {0:N0} item do conjunto necessário para:",
+  "Equipa {0:N0} itens do conjunto necessários para:"
+ ],
+ "13679": "Bónus de conjunto",
+ "13680": "Bónus de conjunto:",
+ "13681": "Itens do conjunto válidos:",
+ "13682": "(Alterna entre predefinições com [color=#FFD16D]{0}[/color])",
+ "13683": "(Alterna entre predefinições com [color=#FFD16D]Q[/color])",
+ "13684": "[color=#FFD16D]Mantém {0} premido[/color] para mostrar [img height=1.25em]res://Assets/Icons/StatsIcon_28.png[/img] [b]Estatísticas do item[/b]",
+ "13685": "[color=#FFD16D]Mantém Shift premido[/color] para mostrar [img height=1.25em]res://Assets/Icons/StatsIcon_28.png[/img] [b]Estatísticas do item[/b]",
+ "13686": "Definir como ícone do separador",
+ "13687": "Repor ícone do separador",
+ "13688": "Limpa o ícone guardado do separador do banco e repõe o predefinido (o primeiro item do separador).",
+ "13689": "Usar cinzento para condições não cumpridas",
+ "13690": "Mostra as condições não cumpridas a cinzento em vez de vermelho.",
+ "13691": "Últimas notícias e atualizações",
+ "13692": "Últimas notícias do Patreon",
+ "13693": "A carregar as últimas notícias... Aguarda..."
+}
