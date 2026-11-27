@@ -124,6 +124,36 @@
       },
       "plural_forms": "nplurals=2; plural=(n > 1);"
     },
+    "pt_PT": {
+      "name": "Português",
+      "english_name": "European Portuguese",
+      "file": "Languages/Game/pt_PT.po",
+      "display": "Português, Portugal",
+      "locale": "pt_PT",
+      "units": {
+        "day": [
+          "dia",
+          "dias"
+        ],
+        "hour": [
+          "hora",
+          "horas"
+        ],
+        "minute": [
+          "minuto",
+          "minutos"
+        ],
+        "second": [
+          "segundo",
+          "segundos"
+        ],
+        "turn": [
+          "turno",
+          "turnos"
+        ]
+      },
+      "plural_forms": "nplurals=2; plural=(n != 1);"
+    },
     "ja_JP": {
       "name": "日本語",
       "english_name": "Japanese",
