@@ -77077,6 +77077,18 @@ msgstr "高難度路線，獎勵取決於速度。"
 msgid "Optional. The recipe categories that cannot use this alternate mode"
 msgstr "可選。不能使用此替代模式的配方類別"
 
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Backup Save"
+msgstr "備份存檔"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Export Backup Save"
+msgstr "匯出備份存檔"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "View Other Saves"
+msgstr "檢視其他存檔"
+
 #. Kontextlos (automatisch aus PluralName)
 msgid "Combat Aurora"
 msgstr "戰鬥光環咒語"

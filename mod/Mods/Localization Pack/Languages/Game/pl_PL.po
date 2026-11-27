@@ -84550,6 +84550,18 @@ msgstr ""
 "Opcjonalne. Kategorie przepisów, które nie mogą korzystać z tego trybu "
 "alternatywnego"
 
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Backup Save"
+msgstr "Zapis zapasowy"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Export Backup Save"
+msgstr "Eksportuj zapis zapasowy"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "View Other Saves"
+msgstr "Pokaż inne zapisy"
+
 #. Kontextlos (automatisch aus PluralName)
 msgid "Combat Aurora"
 msgstr "Zorza walki"

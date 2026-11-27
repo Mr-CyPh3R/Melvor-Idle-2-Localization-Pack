@@ -80344,6 +80344,18 @@ msgid "Optional. The recipe categories that cannot use this alternate mode"
 msgstr ""
 "Không bắt buộc. Các danh mục công thức không thể dùng chế độ thay thế này"
 
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Backup Save"
+msgstr "Bản lưu dự phòng"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Export Backup Save"
+msgstr "Xuất bản lưu dự phòng"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "View Other Saves"
+msgstr "Xem các bản lưu khác"
+
 #. Kontextlos (automatisch aus PluralName)
 msgid "Combat Aurora"
 msgstr "Cực quang chiến đấu"

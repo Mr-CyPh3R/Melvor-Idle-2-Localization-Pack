@@ -79328,6 +79328,18 @@ msgstr "速さに応じて報酬がもらえる難関コースです。"
 msgid "Optional. The recipe categories that cannot use this alternate mode"
 msgstr "省略可。この代替モードを使えないレシピカテゴリー"
 
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Backup Save"
+msgstr "バックアップセーブ"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Export Backup Save"
+msgstr "バックアップセーブを書き出す"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "View Other Saves"
+msgstr "他のセーブを表示"
+
 #. Kontextlos (automatisch aus PluralName)
 msgid "Combat Aurora"
 msgstr "戦闘のオーロラ"

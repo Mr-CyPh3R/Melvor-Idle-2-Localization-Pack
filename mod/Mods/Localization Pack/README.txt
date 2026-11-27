@@ -19,16 +19,16 @@ TRANSPARENCY: HOW THESE TRANSLATIONS WERE MADE
 ----------------------------------------------
 Language                          Texts   From Melvor Idle  From Melvor Idle 2  Translated by AI
 --------------------------------  ------  ----------------  ------------------  ----------------
-German (Deutsch)                  13,708  566 (4%)          0 (0%)              13,142 (96%)
-French (Français)                 13,708  586 (4%)          0 (0%)              13,122 (96%)
-Spanish (Español)                 13,708  601 (4%)          0 (0%)              13,107 (96%)
-Brazilian Portuguese (Português)  13,708  599 (4%)          0 (0%)              13,109 (96%)
-Japanese (日本語)                    13,708  618 (5%)          0 (0%)              13,090 (95%)
-Polish (Polski)                   13,708  0 (0%)            0 (0%)              13,708 (100%)
-Russian (Русский)                 13,708  622 (5%)          0 (0%)              13,086 (95%)
-Chinese (Simplified) (简体中文)       13,708  0 (0%)            11,394 (83%)        2,314 (17%)
-Chinese (Traditional) (繁體中文)      13,708  0 (0%)            0 (0%)              13,708 (100%)
-Vietnamese (Tiếng Việt)           13,708  0 (0%)            0 (0%)              13,708 (100%)
+German (Deutsch)                  13,711  566 (4%)          0 (0%)              13,145 (96%)
+French (Français)                 13,711  586 (4%)          0 (0%)              13,125 (96%)
+Spanish (Español)                 13,711  601 (4%)          0 (0%)              13,110 (96%)
+Brazilian Portuguese (Português)  13,711  599 (4%)          0 (0%)              13,112 (96%)
+Japanese (日本語)                    13,711  618 (5%)          0 (0%)              13,093 (95%)
+Polish (Polski)                   13,711  0 (0%)            0 (0%)              13,711 (100%)
+Russian (Русский)                 13,711  622 (5%)          0 (0%)              13,089 (95%)
+Chinese (Simplified) (简体中文)       13,711  0 (0%)            11,394 (83%)        2,317 (17%)
+Chinese (Traditional) (繁體中文)      13,711  0 (0%)            0 (0%)              13,711 (100%)
+Vietnamese (Tiếng Việt)           13,711  0 (0%)            0 (0%)              13,711 (100%)
 
 - From Melvor Idle: texts that are identical in the first game (Melvor Idle) were taken from
   its official translation.

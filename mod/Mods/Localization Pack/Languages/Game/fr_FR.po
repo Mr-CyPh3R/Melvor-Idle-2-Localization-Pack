@@ -83304,6 +83304,18 @@ msgstr ""
 "Facultatif. Les catégories de recette qui ne peuvent pas utiliser ce mode "
 "alternatif"
 
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Backup Save"
+msgstr "Sauvegarde de secours"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Export Backup Save"
+msgstr "Exporter la sauvegarde de secours"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "View Other Saves"
+msgstr "Voir les autres sauvegardes"
+
 #. Kontextlos (automatisch aus PluralName)
 msgid "Combat Aurora"
 msgstr "Aurore de combat"

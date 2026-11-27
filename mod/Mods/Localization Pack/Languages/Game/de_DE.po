@@ -83212,6 +83212,18 @@ msgstr ""
 "Optional. Die Rezeptkategorien, die diesen alternativen Modus nicht nutzen "
 "können"
 
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Backup Save"
+msgstr "Sicherungsspeicherstand"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Export Backup Save"
+msgstr "Sicherungsspeicherstand exportieren"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "View Other Saves"
+msgstr "Andere Speicherstände anzeigen"
+
 #. Kontextlos (automatisch aus PluralName)
 msgid "Combat Aurora"
 msgstr "Kampf-Aurora"

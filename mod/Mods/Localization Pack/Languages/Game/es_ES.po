@@ -82857,6 +82857,18 @@ msgid "Optional. The recipe categories that cannot use this alternate mode"
 msgstr ""
 "Opcional. Las categorías de receta que no pueden usar este modo alternativo"
 
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Backup Save"
+msgstr "Copia de seguridad"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Export Backup Save"
+msgstr "Exportar copia de seguridad"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "View Other Saves"
+msgstr "Ver otras partidas guardadas"
+
 #. Kontextlos (automatisch aus PluralName)
 msgid "Combat Aurora"
 msgstr "Aurora de combate"

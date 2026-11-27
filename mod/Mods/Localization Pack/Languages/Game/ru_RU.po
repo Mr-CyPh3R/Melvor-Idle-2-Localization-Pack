@@ -84523,6 +84523,18 @@ msgstr ""
 "Необязательно. Категории рецептов, которые не могут использовать этот "
 "альтернативный режим"
 
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Backup Save"
+msgstr "Резервное сохранение"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "Export Backup Save"
+msgstr "Экспортировать резервное сохранение"
+
+#. Zusatztext (nicht in der offiziellen Vorlage)
+msgid "View Other Saves"
+msgstr "Показать другие сохранения"
+
 #. Kontextlos (automatisch aus PluralName)
 msgid "Combat Aurora"
 msgstr "Боевая аврора"
