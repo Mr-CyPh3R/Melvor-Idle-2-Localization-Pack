@@ -4,7 +4,7 @@ Version 1.4.0, made for game version 0.11.7-alpha (Steam Early Access)
 Unofficial community translations for Melvor Idle 2 in one mod.
 Not affiliated with or endorsed by Games By Malcs or Jagex.
 
-Languages: German (Deutsch), French (Français), Spanish (Español), Brazilian Portuguese (Português), European Portuguese (Português), Japanese (日本語), Polish (Polski), Russian (Русский), Chinese (Simplified) (简体中文), Chinese (Traditional) (繁體中文), Vietnamese (Tiếng Việt)
+Languages: German (Deutsch), French (Français), Spanish (Español), Brazilian Portuguese (Português), European Portuguese (Português), Japanese (日本語), Polish (Polski), Russian (Русский), Chinese (Simplified) (简体中文), Chinese (Traditional) (繁體中文), Vietnamese (Tiếng Việt), Turkish (Türkçe)
 More languages are coming. Missing your language? Suggest it (see LINKS).
 
 
@@ -30,6 +30,7 @@ Russian (Русский)                 13,711  622 (5%)          0 (0%)       
 Chinese (Simplified) (简体中文)       13,711  0 (0%)            11,394 (83%)        2,317 (17%)
 Chinese (Traditional) (繁體中文)      13,711  0 (0%)            0 (0%)              13,711 (100%)
 Vietnamese (Tiếng Việt)           13,711  0 (0%)            0 (0%)              13,711 (100%)
+Turkish (Türkçe)                  13,711  605 (4%)          0 (0%)              13,106 (96%)
 
 - From Melvor Idle: texts that are identical in the first game (Melvor Idle) were taken from
   its official translation.

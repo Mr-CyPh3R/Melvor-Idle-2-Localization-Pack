@@ -1,7 +1,7 @@
 # Localization Pack for Melvor Idle 2
 
 Unofficial community translations for Melvor Idle 2 in one mod.
-Currently **German (Deutsch)**, **French (Français)**, **Spanish (Español)**, **Brazilian Portuguese (Português, Brasil)**, **European Portuguese (Português, Portugal)**, **Japanese (日本語)**, **Polish (Polski)**, **Russian (Русский)**, **Chinese, Simplified (简体中文)**, **Chinese, Traditional (繁體中文)** and **Vietnamese (Tiếng Việt)**. More languages are coming. Missing your language? Open an issue and suggest it.
+Currently **German (Deutsch)**, **French (Français)**, **Spanish (Español)**, **Brazilian Portuguese (Português, Brasil)**, **European Portuguese (Português, Portugal)**, **Japanese (日本語)**, **Polish (Polski)**, **Russian (Русский)**, **Chinese, Simplified (简体中文)**, **Chinese, Traditional (繁體中文)**, **Vietnamese (Tiếng Việt)** and **Turkish (Türkçe)**. More languages are coming. Missing your language? Open an issue and suggest it.
 
 Not affiliated with or endorsed by Games By Malcs or Jagex.
 
@@ -28,6 +28,7 @@ Please read this first. We want to be open about where the texts come from.
 | Chinese, Simplified (简体中文) | 15,173 | 0 (0%) | 11,394 (75%) | 2,317 (15%) | 1,462 (10%) |
 | Chinese, Traditional (繁體中文) | 15,173 | 0 (0%) | 0 (0%) | 471 (3%) | 14,702 (97%) |
 | Vietnamese (Tiếng Việt) | 15,173 | 0 (0%) | 0 (0%) | 13,711 (90%) | 1,462 (10%) |
+| Turkish (Türkçe) | 15,173 | 605 (4%) | 0 (0%) | 13,106 (86%) | 1,462 (10%) |
 
 * **Melvor Idle:** texts that are identical in the first game (Melvor Idle) were taken from its official translation.
 * **Melvor Idle 2:** texts from the game's own Chinese translation, which is included in the game files but not available in the language menu yet.
@@ -90,7 +91,7 @@ If you play with [Melvor Mod Loader](https://falorfrozen-cmd.github.io/MelvorMod
 |---|---|
 | `mod/` | The mod exactly as it is installed (`override.cfg`, `Mods/Localization Pack/`) |
 | `work/items.json` | All texts of the game that need a translation, with stable ids |
-| `work/<lang>/*.json` | Translations by id (`de`, `fr`, `es`, `pt_BR`, `pt_PT`, `ja`, `pl`, `ru`, `zh_CN`, `zh_TW`, `vi`) |
+| `work/<lang>/*.json` | Translations by id (`de`, `fr`, `es`, `pt_BR`, `pt_PT`, `ja`, `pl`, `ru`, `zh_CN`, `zh_TW`, `vi`, `tr_TR`) |
 | `work/mods/<Mod>/` | Texts of other mods (`items.json`) and their translations (`<lang>.json`) |
 | `modloader/` | `LocalizationPack.dll` for Melvor Mod Loader (C#, .NET 10) |
 | `work/STYLE.md`, `work/STYLE_<lang>.md` | Translation rules and terms per language |

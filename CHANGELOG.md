@@ -4,6 +4,7 @@
 
 ### New languages
 * European Portuguese (Português, Portugal): 13,711 texts, translated from English by AI with the terms of the official European Portuguese translation of Melvor Idle (599 texts taken from it). Kept apart from Brazilian Portuguese, with the European spelling and "tu". The Mod Loader menu (F1) is translated too.
+* Turkish (Türkçe): 13,711 texts, translated from English by AI with the terms of the official Turkish translation of Melvor Idle (605 texts taken from it). Written with "sen" like Melvor Idle, short times as "2 sa 5 dk". The Mod Loader menu (F1) is translated too.
 
 ### Fixes
 * Three texts of the save menu were missing in every language and are now translated: "Backup Save", "Export Backup Save" and "View Other Saves".
