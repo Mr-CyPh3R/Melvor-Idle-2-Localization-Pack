@@ -34,7 +34,7 @@
 "00236": "{LocalContext.Component.Entity.DisplayName} yeteneğinde yalnızca {LocalContext.Category.DisplayName} için kırılmada ürün miktarına +1 olasılığı: {Value:+0.##%;-#.##%}",
 "00237": "{LocalContext.Component.Entity.DisplayName} yeteneğinde {Value:+0.##%;-#.##%} Yem tasarrufu olasılığı",
 "00238": "{LocalContext.Component.Entity.DisplayName} yeteneğinde bir Özel Eşya elde edince ikincisini elde etme olasılığı: {Value:+0.##%;-#.##%}",
-"00239": "{LocalContext.Component.Entity.DisplayName} yeteneğinde Çöp çıktığında elde edilen eşyayı yeniden belirleme olasılığı: {Value:+0.##%;-#.##%}",
+"00239": "{LocalContext.Component.Entity.DisplayName} yeteneğinde Çöp çıktığında elde edilen eşyayı tekrar belirleme olasılığı: {Value:+0.##%;-#.##%}",
 "00240": "{LocalContext.Component.Entity.DisplayName} yeteneğinde Tuzak Kurma başarısız olunca yeniden deneme olasılığı: {Value:+0.##%;-#.##%}",
 "00241": "Savaşta gömülebilir eşya düşürmelerini ikiye katlama olasılığı: {Value:+0.##%;-#.##%}",
 "00242": "Yiyecek yiyince kazanılan Sağlık Puanı: {Value:+0.##%;-#.##%}",

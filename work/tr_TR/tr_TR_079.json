@@ -149,7 +149,7 @@
 "10403": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] bölgesinde [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b] yiyerek [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] sağlık puanı yenile",
 "10404": "{0:N0}-{1:N0}",
 "10405": "Şunlardan biri için olasılık:",
-"10406": "Bu içerik [b]Demo[/b] sürümünde yok",
+"10406": "Bu içerik [b]Deneme[/b] sürümünde yok",
 "10407": "[b]{CategoryName}[/b] Toplam Tamamlanma [b]{Current:0.##%} / {Max:0.##%}[/b]",
 "10408": "Yeterli kaynak yok.",
 "10409": "Üretilen Tarifler",

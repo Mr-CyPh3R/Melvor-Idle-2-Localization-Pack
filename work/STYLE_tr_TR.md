@@ -77,3 +77,9 @@ Tur 2 (paketler 024–041):
 - Çiftlik ve hayvancılık: Farmhand=Tarım İşçisi · Sprinkler=Fıskiye · Hopper=Hazne · Plot=Parsel · Land N=Arazi N · Happiness/Hunger/Comfort=Mutluluk/Tokluk/Konfor · Pet=Sev · Yeet=Fırlat · Treats=Atıştırmalıklar · Chicken Coop=Tavuk Kümesi · Pig Pen=Domuz Ağılı · Bee Box=Arı Kovanı · Wolf Den=Kurt İni · Dragon Lair=Ejderha İni · Golem Quarry=Golem Taş Ocağı · Child/Adult=Yavru/Yetişkin
 - Aletler ve dükkân: Axe/Pickaxe Head=Balta/Kazma Başı · Handle=Sapı · Binding=Bağı · Reel=Makara · Fishing Pole=Olta Kamışı · Fishing Line=Olta Misinası · X Station=X İstasyonu · Stall=Tezgâh · Bank Slot=Depo Bölmesi · Upgrade (dükkân)=Geliştirme · Heists=Soygunlar · Chieftain=Kabile Reisi
 - Arayüz: Header=Üst Çubuk · Sidebar=Yan Çubuk · Tooltip=İpucu · Onboarding=Başlangıç Rehberi · Hold to X=X İçin Basılı Tut · Achievements=Başarımlar
+
+Tur 4 (paketler 072–095):
+- Sistemler: Imbuement(s)=Efsun(lar) (Imbued=Efsunlu; «Efsunlama» yok) · Demo=Deneme (MI1; «Deneme sürümü») · Junk=Çöp (MI1; «Hurda» yok) · Reroll=Tekrar Belirle (MI1) · Melvor Cloud=Melvor Cloud (yalnız 08849 MI1'den «Melvor Bulut») · Rank (Ustalık Loncası)=Rütbe, Rank (avcılık sıralaması, 11017/11021)=Derece
+- Savaş ve arayüz: Stance=Duruş · Combat Style=Savaş Stili · Course=Parkur · Shortcut=Kestirme · Minor/Major Node=Küçük/Büyük Düğüm · Knowledge=Bilgi · Abilities=Beceriler · Roadmap=Yol Haritası · Codex=Kodeks · Event Log=Olay Günlüğü · Construction=İnşaat · Enchantment=Büyüleme · Trapping/Tracking/Surveying=Tuzak Kurma/İz Sürme/Etüt · Brew=demle · Lifespan=Ömür · Infant=Bebek · Pickpocket=cebini çal · Stage=Aşama · Slayer Master=Katliam Ustası · (Flat)=(Sabit)
+- Sayılar: K/M/B/T=B/Mn/Mr/Tn · aralıklar «X ile Y arası»
+- Hedefler: «{EntityName} yeteneğinde», «{EntityName} bölgesinde» (yer tutucuya ek yok)
