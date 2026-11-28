@@ -1,0 +1,527 @@
+{
+"02264": [
+"Runit Botlar"
+],
+"02265": [
+"Runit Kalkan"
+],
+"02266": [
+"İki Elli Runit Kılıç"
+],
+"02267": [
+"Runit Tokmak"
+],
+"02268": [
+"Runit Arbalet Kanadı"
+],
+"02269": [
+"Runit Bacak Zırhları"
+],
+"02270": [
+"Runit Göğüs Zırhı"
+],
+"02271": [
+"Şafak Çeliği Hançer"
+],
+"02272": [
+"Şafak Çeliği Savunucu"
+],
+"02273": [
+"Şafak Çeliği Ok Ucu"
+],
+"02274": [
+"Şafak Çeliği Mızrak Ucu"
+],
+"02275": [
+"Şafak Çeliği Kılıç"
+],
+"02276": [
+"Şafak Çeliği Eldivenler"
+],
+"02277": [
+"Şafak Çeliği Pala"
+],
+"02278": [
+"Şafak Çeliği Miğfer"
+],
+"02279": "Takım Bonusu (Eldivenler hariç 3 Şafak Çeliği ekipmanla): +5 Işık",
+"02280": [
+"Şafak Çeliği Botlar"
+],
+"02281": [
+"Şafak Çeliği Kalkan"
+],
+"02282": [
+"İki Elli Şafak Çeliği Kılıç"
+],
+"02283": [
+"Şafak Çeliği Tokmak"
+],
+"02284": [
+"Şafak Çeliği Arbalet Kanadı"
+],
+"02285": [
+"Şafak Çeliği Bacak Zırhları"
+],
+"02286": "Takım Bonusu (Eldivenler ve Kalkan hariç 3 Şafak Çeliği ekipmanla): +5 Işık",
+"02287": [
+"Şafak Çeliği Göğüs Zırhı"
+],
+"02288": [
+"Ejderit Hançer"
+],
+"02289": [
+"Ejderit Savunucu"
+],
+"02290": [
+"Ejderit Ok Ucu"
+],
+"02291": [
+"Ejderit Mızrak Ucu"
+],
+"02292": [
+"Ejderit Kılıç"
+],
+"02293": [
+"Ejderit Eldivenler"
+],
+"02294": [
+"Ejderit Pala"
+],
+"02295": [
+"Ejderit Miğfer"
+],
+"02296": [
+"Ejderit Botlar"
+],
+"02297": [
+"Ejderit Kalkan"
+],
+"02298": [
+"İki Elli Ejderit Kılıç"
+],
+"02299": [
+"Ejderit Tokmak"
+],
+"02300": [
+"Ejderit Arbalet Kanadı"
+],
+"02301": [
+"Ejderit Bacak Zırhları"
+],
+"02302": [
+"Ejderit Göğüs Zırhı"
+],
+"02303": [
+"Topaz"
+],
+"02304": [
+"Safir"
+],
+"02305": [
+"Yakut"
+],
+"02306": [
+"Zümrüt"
+],
+"02307": [
+"Elmas"
+],
+"02308": [
+"Yeşim"
+],
+"02309": [
+"Gümüş Külçe"
+],
+"02310": [
+"Meşe Ağacı Tohumu"
+],
+"02311": [
+"Söğüt Ağacı Tohumu"
+],
+"02312": [
+"Tik Ağacı Tohumu"
+],
+"02313": [
+"Akçaağaç Tohumu"
+],
+"02314": [
+"Maun Ağacı Tohumu"
+],
+"02315": [
+"Porsuk Ağacı Tohumu"
+],
+"02316": [
+"Büyülü Ağaç Tohumu"
+],
+"02317": [
+"Sert Meşe Ağacı Tohumu"
+],
+"02318": [
+"Normal Yay"
+],
+"02319": [
+"Meşe Yayı"
+],
+"02320": [
+"Söğüt Yayı"
+],
+"02321": [
+"Akçaağaç Yayı"
+],
+"02322": [
+"Porsuk Yayı"
+],
+"02323": [
+"Büyü Yayı"
+],
+"02324": [
+"Kızılçam Yayı"
+],
+"02325": [
+"Taş Ok"
+],
+"02326": [
+"Bakır Ok"
+],
+"02327": [
+"Demir Ok"
+],
+"02328": [
+"Çelik Ok"
+],
+"02329": [
+"Mithril Ok"
+],
+"02330": [
+"Adamantit Ok"
+],
+"02331": [
+"Runit Ok"
+],
+"02332": [
+"Şafak Çeliği Ok"
+],
+"02333": [
+"Ejderit Ok"
+],
+"02334": [
+"Uçsuz Ok"
+],
+"02335": [
+"Tüy"
+],
+"02336": [
+"Yay Kirişi"
+],
+"02337": [
+"Deri"
+],
+"02338": [
+"Yeşil Ejderha Derisi"
+],
+"02339": [
+"Tabaklı Yeşil Ejderha Derisi"
+],
+"02340": [
+"Mavi Ejderha Derisi"
+],
+"02341": [
+"Tabaklı Mavi Ejderha Derisi"
+],
+"02342": [
+"Kırmızı Ejderha Derisi"
+],
+"02343": [
+"Tabaklı Kırmızı Ejderha Derisi"
+],
+"02344": [
+"Siyah Ejderha Derisi"
+],
+"02345": [
+"Tabaklı Siyah Ejderha Derisi"
+],
+"02346": [
+"Deri Botlar"
+],
+"02347": [
+"Deri Başlık"
+],
+"02348": [
+"Deri Kol Zırhı"
+],
+"02349": [
+"Deri Pantolon"
+],
+"02350": [
+"Altın Topaz Yüzük"
+],
+"02351": [
+"Run Özü"
+],
+"02352": [
+"Hava Runu"
+],
+"02353": [
+"Zihin Runu"
+],
+"02354": [
+"Su Runu"
+],
+"02355": [
+"Toprak Runu"
+],
+"02356": [
+"Ateş Runu"
+],
+"02357": [
+"Vücut Runu"
+],
+"02358": [
+"Kaos Runu"
+],
+"02359": [
+"Ölüm Runu"
+],
+"02360": [
+"Kan Runu"
+],
+"02361": [
+"Hava Savaş Değneği"
+],
+"02362": [
+"Su Savaş Değneği"
+],
+"02363": [
+"Toprak Savaş Değneği"
+],
+"02364": [
+"Ateş Savaş Değneği"
+],
+"02365": [
+"Suyosunu"
+],
+"02366": [
+"İp"
+],
+"02367": [
+"Hurda"
+],
+"02368": [
+"İki Elli Mithril Fırlatma Çekici"
+],
+"02369": [
+"İki Elli Adamantit Fırlatma Çekici"
+],
+"02370": [
+"İki Elli Runit Fırlatma Çekici"
+],
+"02371": [
+"İki Elli Şafak Çeliği Fırlatma Çekici"
+],
+"02372": [
+"İki Elli Ejderit Fırlatma Çekici"
+],
+"02373": [
+"Uçsuz Arbalet Oku"
+],
+"02374": [
+"Sis Runu"
+],
+"02375": [
+"Toz Runu"
+],
+"02376": [
+"Çamur Runu"
+],
+"02377": [
+"Duman Runu"
+],
+"02378": [
+"Buhar Runu"
+],
+"02379": [
+"Lav Runu"
+],
+"02380": [
+"Geyik Boynuzu"
+],
+"02381": [
+"Ekmek"
+],
+"02382": [
+"Taze Biftek"
+],
+"02383": [
+"Biftek"
+],
+"02384": [
+"Taze Et"
+],
+"02385": [
+"Taze Tavuk"
+],
+"02386": [
+"Tavuk"
+],
+"02387": [
+"Peynir"
+],
+"02388": [
+"Topaz Arbalet Oku"
+],
+"02389": [
+"Safir Arbalet Oku"
+],
+"02390": [
+"Yakut Arbalet Oku"
+],
+"02391": [
+"Zümrüt Arbalet Oku"
+],
+"02392": [
+"Elmas Arbalet Oku"
+],
+"02393": [
+"Yeşim Arbalet Oku"
+],
+"02394": [
+"Taze Tatlısu Levreği"
+],
+"02395": [
+"Taze Uskumru"
+],
+"02396": [
+"Taze Turna Balığı"
+],
+"02397": [
+"Taze Parlakyüzgeç"
+],
+"02398": [
+"Taze Çipura"
+],
+"02399": [
+"Taze Morina"
+],
+"02400": [
+"Taze Levrek"
+],
+"02401": [
+"Taze Aslanbalığı"
+],
+"02402": [
+"Taze Parlayan Denizanası"
+],
+"02403": [
+"Taze Ton Balığı"
+],
+"02404": [
+"Taze Parlayan Kalamar"
+],
+"02405": [
+"Taze Dev Yılanbalığı"
+],
+"02406": [
+"Meşe Bumerangı"
+],
+"02407": [
+"Söğüt Bumerangı"
+],
+"02408": [
+"Akçaağaç Bumerangı"
+],
+"02409": [
+"Porsuk Bumerangı"
+],
+"02410": [
+"Büyü Bumerangı"
+],
+"02411": [
+"Kızılçam Bumerangı"
+],
+"02412": [
+"Demir Arbalet"
+],
+"02413": [
+"Çelik Arbalet"
+],
+"02414": [
+"Mithril Arbalet"
+],
+"02415": [
+"Adamantit Arbalet"
+],
+"02416": [
+"Runit Arbalet"
+],
+"02417": [
+"Şafak Çeliği Arbalet"
+],
+"02418": [
+"Ejderit Arbalet"
+],
+"02419": [
+"İki Elli Çelik Arbalet"
+],
+"02420": [
+"İki Elli Mithril Arbalet"
+],
+"02421": [
+"İki Elli Adamantit Arbalet"
+],
+"02422": [
+"İki Elli Runit Arbalet"
+],
+"02423": [
+"İki Elli Şafak Çeliği Arbalet"
+],
+"02424": [
+"İki Elli Ejderit Arbalet"
+],
+"02425": [
+"Çürüten Run"
+],
+"02426": [
+"Hava Asası"
+],
+"02427": [
+"Hava Değneği"
+],
+"02428": [
+"Su Asası"
+],
+"02429": [
+"Su Değneği"
+],
+"02430": [
+"Toprak Asası"
+],
+"02431": [
+"Toprak Değneği"
+],
+"02432": [
+"Ateş Asası"
+],
+"02433": [
+"Ateş Değneği"
+],
+"02434": [
+"Hava Büyücüsü Şapkası"
+],
+"02435": "Takım bonusu bilgisi yakında geliyor (şimdilik görmek için kuşan).",
+"02436": [
+"Hava Büyücüsü Botları"
+],
+"02437": [
+"Hava Büyücüsü Eteği"
+],
+"02438": [
+"Hava Büyücüsü Cüppesi"
+],
+"02439": [
+"Su Büyücüsü Şapkası"
+],
+"02440": [
+"Su Büyücüsü Botları"
+]
+}

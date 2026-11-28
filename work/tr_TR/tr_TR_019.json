@@ -1,0 +1,420 @@
+{
+"03567": [
+"Şeytani Kazma"
+],
+"03568": [
+"Çeviklik İşareti"
+],
+"03569": [
+"Hafif Başlık"
+],
+"03570": "Takım Bonusu (3 Hafif ekipmanla): -%2 Çeviklik Aralığı",
+"03571": [
+"Hafif Yelek"
+],
+"03572": [
+"Hafif Pantolon"
+],
+"03573": [
+"Hafif Botlar"
+],
+"03574": [
+"Süratli Başlık"
+],
+"03575": "Takım Bonusu (3 Süratli ekipmanla): -%4 Çeviklik Aralığı, Çeviklikte alınan hasar -%2",
+"03576": [
+"Süratli Yelek"
+],
+"03577": [
+"Süratli Pantolon"
+],
+"03578": [
+"Süratli Botlar"
+],
+"03579": [
+"Zarif Başlık"
+],
+"03580": "Takım Bonusu (3 Zarif ekipmanla): -%6 Çeviklik Aralığı, Çeviklikte alınan hasar -%4",
+"03581": [
+"Zarif Yelek"
+],
+"03582": [
+"Zarif Pantolon"
+],
+"03583": [
+"Zarif Botlar"
+],
+"03584": [
+"Dolgulu Başlık"
+],
+"03585": [
+"Eklem Dolgusu"
+],
+"03586": [
+"Şifalı Ot Tohumu Paketi I"
+],
+"03587": [
+"Şifalı Ot Tohumu Paketi II"
+],
+"03588": [
+"Element Runu Paketi I"
+],
+"03589": [
+"Element Runu Paketi II"
+],
+"03590": [
+"İkincil Run Paketi I"
+],
+"03591": [
+"İkincil Run Paketi II"
+],
+"03592": [
+"Mühimmat Paketi I (Oklar)"
+],
+"03593": [
+"Mühimmat Paketi II (Oklar)"
+],
+"03594": [
+"Mühimmat Paketi I (Arbalet Okları)"
+],
+"03595": [
+"Mühimmat Paketi II (Arbalet Okları)"
+],
+"03596": [
+"Mühimmat Paketi I (Bumeranglar)"
+],
+"03597": [
+"Mühimmat Paketi II (Bumeranglar)"
+],
+"03598": [
+"Yakın Dövüş Kaçınma Tılsım Taşı"
+],
+"03599": [
+"Menzilli Kaçınma Tılsım Taşı"
+],
+"03600": [
+"Büyü Kaçınma Tılsım Taşı"
+],
+"03601": [
+"Yakın Dövüş İsabet Tılsım Taşı"
+],
+"03602": [
+"Menzilli İsabet Tılsım Taşı"
+],
+"03603": [
+"Büyü İsabet Tılsım Taşı"
+],
+"03604": [
+"Koruma Tılsım Taşı"
+],
+"03605": [
+"Tırmanma Kopya Kâğıdı"
+],
+"03606": [
+"Atlama Kopya Kâğıdı"
+],
+"03607": [
+"Kaçma Kopya Kâğıdı"
+],
+"03608": [
+"Denge Kopya Kâğıdı"
+],
+"03609": [
+"İple İniş Kopya Kâğıdı"
+],
+"03610": [
+"Acemi Odunculuk Şapkası"
+],
+"03611": [
+"Acemi Odunculuk Yeleği"
+],
+"03612": [
+"Acemi Odunculuk Pantolonu"
+],
+"03613": [
+"Acemi Odunculuk Botları"
+],
+"03614": [
+"Acemi Balıkçılık Şapkası"
+],
+"03615": [
+"Acemi Balıkçılık Yeleği"
+],
+"03616": [
+"Acemi Balıkçılık Pantolonu"
+],
+"03617": [
+"Acemi Balıkçılık Botları"
+],
+"03618": [
+"Acemi Madencilik Şapkası"
+],
+"03619": [
+"Acemi Madencilik Yeleği"
+],
+"03620": [
+"Acemi Madencilik Pantolonu"
+],
+"03621": [
+"Acemi Madencilik Botları"
+],
+"03622": [
+"Orta Seviye Odunculuk Şapkası"
+],
+"03623": "Takım Bonusu (3 Orta Seviye Odunculuk ekipmanıyla): Kuş/Kartal Yuvası olasılığı +%0,025",
+"03624": [
+"Orta Seviye Odunculuk Yeleği"
+],
+"03625": [
+"Orta Seviye Odunculuk Pantolonu"
+],
+"03626": [
+"Orta Seviye Odunculuk Botları"
+],
+"03627": [
+"Orta Seviye Balıkçılık Şapkası"
+],
+"03628": "Takım Bonusu (3 Orta Seviye Balıkçılık ekipmanıyla): Balıkçılıkta Özel eşya olasılığı %10 artar",
+"03629": [
+"Orta Seviye Balıkçılık Yeleği"
+],
+"03630": [
+"Orta Seviye Balıkçılık Pantolonu"
+],
+"03631": [
+"Orta Seviye Balıkçılık Botları"
+],
+"03632": [
+"Orta Seviye Madencilik Şapkası"
+],
+"03633": "Takım Bonusu (3 Orta Seviye Madencilik ekipmanıyla): Jeot olasılığı %20 artar",
+"03634": [
+"Orta Seviye Madencilik Yeleği"
+],
+"03635": [
+"Orta Seviye Madencilik Pantolonu"
+],
+"03636": [
+"Orta Seviye Madencilik Botları"
+],
+"03637": [
+"Seçkin Odunculuk Şapkası"
+],
+"03638": "Takım Bonusu (3 Seçkin Odunculuk ekipmanıyla): Ağaçları ve Çalıları devirme olasılığı +%2",
+"03639": [
+"Seçkin Odunculuk Yeleği"
+],
+"03640": [
+"Seçkin Odunculuk Pantolonu"
+],
+"03641": [
+"Seçkin Odunculuk Botları"
+],
+"03642": [
+"Seçkin Balıkçılık Şapkası"
+],
+"03643": "Takım Bonusu (3 Seçkin Balıkçılık ekipmanıyla): Balıkçılıkta Özel eşya olasılığı %20 artar",
+"03644": [
+"Seçkin Balıkçılık Yeleği"
+],
+"03645": [
+"Seçkin Balıkçılık Pantolonu"
+],
+"03646": [
+"Seçkin Balıkçılık Botları"
+],
+"03647": [
+"Seçkin Madencilik Şapkası"
+],
+"03648": "Takım Bonusu (3 Seçkin Madencilik ekipmanıyla): Madencilikte ikiye katlama olasılığı +%5",
+"03649": [
+"Seçkin Madencilik Yeleği"
+],
+"03650": [
+"Seçkin Madencilik Pantolonu"
+],
+"03651": [
+"Seçkin Madencilik Botları"
+],
+"03652": [
+"Metal İşleme Eldivenleri I"
+],
+"03653": [
+"Metal İşleme Eldivenleri II"
+],
+"03654": [
+"Zanaat Eldivenleri I"
+],
+"03655": [
+"Zanaat Eldivenleri II"
+],
+"03656": [
+"Menzilli Silah Yapımı Eldivenleri I"
+],
+"03657": [
+"Menzilli Silah Yapımı Eldivenleri II"
+],
+"03658": [
+"Run Zanaatı Eldivenleri I"
+],
+"03659": [
+"Run Zanaatı Eldivenleri II"
+],
+"03660": [
+"Canavar Zanaatı Eldivenleri I"
+],
+"03661": [
+"Canavar Zanaatı Eldivenleri II"
+],
+"03662": [
+"İksir Zanaatı Eldivenleri I"
+],
+"03663": [
+"İksir Zanaatı Eldivenleri II"
+],
+"03664": [
+"ToolbeltOPnessItem"
+],
+"03665": [
+"Kül Toprakları Haritası"
+],
+"03666": [
+"Yoğun Mağara Haritası"
+],
+"03667": [
+"Torag Toprakları Haritası"
+],
+"03668": [
+"Torag Derisi"
+],
+"03669": [
+"Fırtına Vaşağı Derisi"
+],
+"03670": [
+"Sıradan Torag Tuzağı"
+],
+"03671": [
+"Takviyeli Torag Tuzağı"
+],
+"03672": [
+"Tahkimli Torag Tuzağı"
+],
+"03673": [
+"Taze Griffon Bifteği"
+],
+"03674": [
+"Griffon Bifteği"
+],
+"03675": [
+"Dev Bal Peteği"
+],
+"03676": [
+"Ejderha Kemiği Kovan"
+],
+"03677": [
+"Zehir Kesesi"
+],
+"03678": [
+"Çöl Baharatı Kavanozu"
+],
+"03679": [
+"Kum Ejderi Pulu"
+],
+"03680": [
+"Süzülen Sol"
+],
+"03681": [
+"Meteorit Cevheri"
+],
+"03682": [
+"Yıldız Tozu"
+],
+"03683": [
+"Altın Yıldız Tozu"
+],
+"03684": [
+"Meteorit Gözlem Günlüğü"
+],
+"03685": "Meteorit Cevheri çıkarmak için bunu Madencilikte kuşan",
+"03686": [
+"Yıldız Yağmuru Gözlem Günlüğü"
+],
+"03687": [
+"Altın Yıldız Yağmuru Gözlem Günlüğü"
+],
+"03688": [
+"Astral Gümüş Topaz Yüzük"
+],
+"03689": [
+"Astral Gümüş Safir Yüzük"
+],
+"03690": [
+"Astral Gümüş Yakut Yüzük"
+],
+"03691": [
+"Astral Gümüş Zümrüt Yüzük"
+],
+"03692": [
+"Astral Gümüş Elmas Yüzük"
+],
+"03693": [
+"Astral Gümüş Yeşim Yüzük"
+],
+"03694": [
+"Astral Altın Topaz Yüzük"
+],
+"03695": [
+"Astral Altın Safir Yüzük"
+],
+"03696": [
+"Astral Altın Yakut Yüzük"
+],
+"03697": [
+"Astral Altın Zümrüt Yüzük"
+],
+"03698": [
+"Astral Altın Elmas Yüzük"
+],
+"03699": [
+"Astral Altın Yeşim Yüzük"
+],
+"03700": [
+"Astral Gümüş Topaz Tılsım"
+],
+"03701": [
+"Astral Gümüş Safir Tılsım"
+],
+"03702": [
+"Astral Gümüş Yakut Tılsım"
+],
+"03703": [
+"Astral Gümüş Zümrüt Tılsım"
+],
+"03704": [
+"Astral Gümüş Elmas Tılsım"
+],
+"03705": [
+"Astral Gümüş Yeşim Tılsım"
+],
+"03706": [
+"Astral Altın Topaz Tılsım"
+],
+"03707": [
+"Astral Altın Safir Tılsım"
+],
+"03708": [
+"Astral Altın Yakut Tılsım"
+],
+"03709": [
+"Astral Altın Zümrüt Tılsım"
+],
+"03710": [
+"Astral Altın Elmas Tılsım"
+],
+"03711": [
+"Astral Altın Yeşim Tılsım"
+],
+"03712": [
+"Meteorit Külçe"
+]
+}

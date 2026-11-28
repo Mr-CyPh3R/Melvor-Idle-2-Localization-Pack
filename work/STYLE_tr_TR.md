@@ -6,7 +6,7 @@
 - Düğmeler ve kısa etiketler: emir kipi veya isim, noktasız ve kısa: «Kaydet», «Satın Al», «Kilidini Aç», «Onayla», «İptal».
 - Başlıklar ve eşya/canavar/alan/görev adları Title Case ile (Melvor Idle 1 gibi): «Yakın Dövüş İsabet İksiri», «Meşe Kütüğü». Açıklamalar tam cümle ve noktalı.
 - İngilizcede BÜYÜK HARF olan metinler Türkçede de büyük harf; Türkçe büyük harf kuralları: i → İ, ı → I («İPTAL», «AYARLAR»).
-- Yüzde: Türkçede yüzde işareti sayıdan önce gelir: «%15», «+%10». Ama `{…}` yer tutucuları oyunun kendisi biçimlendirir, onlara dokunma (örn. `{Value:+0.##%}` olduğu gibi kalır).
+- Yüzde: metinde yazılı sayılarda Türkçe biçim «%15», «+%10». Ama yer tutucudan sonra gelen yüzde işareti İngilizcedeki gibi yer tutucunun ARKASINDA kalır: `{Value:+0;-#}% Eşya Satış Fiyatı` (önüne koyarsan oyunda «%+5» görünür). `{Value:+0.##%}` gibi biçimleri oyun kendisi «+5%» yazar, dokunma.
 - Ondalık ayırıcı virgül: «0,5 sn.».
 - Tire, uzun tire (– —) ve « - » noktalama olarak yok; virgül, iki nokta, parantez veya üç nokta kullan.
 - `work/glossary_tr_TR.tsv` (Melvor Idle 1 resmî, EN<TAB>TR) önceliklidir. Arama: `grep -P "^Terim\t" work/glossary_tr_TR.tsv`. Sözlükte olmayan terimleri `work/tr_TR/mi1.json` içinde ara.
@@ -42,3 +42,16 @@ Kısa zaman: "--h --m --s" = "-- sa -- dk -- sn" (id 10542), "/h" = "/sa" (id 09
 
 ## Sabitlenmiş adlar
 (Her turdan sonra «English=Türkçe» biçiminde eklenir.)
+
+Tur 1 (paketler 000–023):
+- Silahlar: Wand=Asa (Hava Asası) · Staff=Değnek (Hava Değneği) · Sceptre=Kral Asası · Battlewand=Savaş Asası · Spear=Kargı (Spear Head=Kargı Ucu) · Javelin=Mızrak · Greatsword=Büyük Kılıç (Ejderrun Büyük Kılıcı) · Morning Star=Çivili Topuz · Mallet=Tokmak · Defender=Savunucu · 2H Throw Hammer=İki Elli … Fırlatma Çekici · Boomerang=Bumerang (Meşe Bumerangı) · Twin Blades=İkiz Bıçaklar · Mageshield=Büyü Kalkanı · Rod=Çubuk
+- Zırhlar: Chainmail=Zincirli · Studded Leather=Çivili Deri · Cowl/Headwear=Başlık · Body=Yelek · Chaps=Pantolon · Bottoms=Etek · Robe(s)=Cüppe · Mitts=… Eldivenleri (Gece Sazı Eldivenleri; «Tek Parmaklı» yok, çok uzun) · Set=Takım · Set Bonus=Takım Bonusu · Light/Swift/Graceful=Hafif/Süratli/Zarif · Gilded=Yaldızlı · Novice/Intermediate/Elite=Acemi/Orta Seviye/Seçkin
+- Büyücü: Wizard=Büyücü · Adept (büyücü ekipmanı)=Usta · Basic=Sıradan · Dust/Steam/Mud/Smoke/Mist/Lava/Elemental Wizard=Toz/Buhar/Çamur/Duman/Sis/Lav/Element Büyücüsü · Air Strike/Bolt/Blast/Wave/Surge=Hava Vuruşu/Oku/Patlaması/Dalgası/Hücumu
+- Ustalık Loncası rütbeleri: Rank N=… Rütbesi N · Initiate=Müridi · Apprentice/Journeyman/Skilled/Adept/Veteran/Prime=Çırak/Kalfa/Becerikli/Yetkin/Kıdemli/Baş + meslek adı (Oduncu, Balıkçı, Ateş Bekçisi, Demirci, Ok Yapımcısı, Zanaatkâr, Run Zanaatkârı, Hayvancı, Otacı, Canavar Zanaatkârı)
+- Malzemeler: Copper=Bakır · Dawnsteel=Şafak Çeliği · Ironsteel=Demirçelik · Dragonrune=Ejderrun · Nightreed=Gece Sazı · Nightscale=Gece Pulu · Moonscale=Ay Pulu · Blackstone=Karataş · Black Opal=Kara Opal · Geode=Jeot · Charcoal=Mangal Kömürü · Hide=Post · Leather=Deri · Refined=Arıtılmış · Dragonhide Leather=Tabaklı … Ejderha Derisi · Raw (balık/et)=Taze (MI1) · Big Bone=İri Kemik · Crushed Bone=Ezilmiş Kemik · Junk=Hurda · Gold Nugget=Altın Tanesi
+- Yaratıklar: Elk=Geyik · Caribou=Ren Geyiği · Wildebeast=Gnu · Griffin=Griffon · Spectre=Tayf · Phantom=Hayalet · Wurm=Solucan · Wyvern=Viverna · Treant=Ağaçadam · Thornback=Dikensırt · Scabjaw=Kabukçene · Lynx=Vaşak · Glowfin=Parlakyüzgeç
+- Avcılık ve sistemler: Snare=Kement · Pitfall Trap=Çukur Tuzağı · Survey=Etüt · Trophy=… Trofesi · Alpha=Lider · Beastslayer=Canavar Avcısı · Basic/Reinforced/Fortified=Sıradan/Takviyeli/Tahkimli · Utility Item=Yardımcı Eşya · Catalyst=Katalizör · Sightings Log=Gözlem Günlüğü · Cheat Sheet=Kopya Kâğıdı · Starblight=Yıldız Afeti · Evasion/Power/Protection Rating=Kaçınma/Güç/Koruma Oranı · Target Perception=Hedef Algısı · Fortune=Şans · Light=Işık · Agility Mark=Çeviklik İşareti · Grain Mill=Tahıl Değirmeni · Animal Food=Hayvan Yemi · Ammo=Mühimmat · Global=Genel · Gold Pieces=Altın Para · SC=KS · PP=LP
+- Lütuflar: Protect=Himaye · Guard=Siper · Ward=Koruma · Swiftness=Sürat · Haste=Hızlanma
+- Bölgeler: Act 1 - X=«1. Bölüm: X» · (D)=(Z) · Strongholds=Kaleler · Slayer Zones=Katliam Bölgeleri · Murkwood=Karaorman · Ashen Lands=Kül Toprakları · Torag Grounds=Torag Toprakları · Blackstone Gauntlet (zindan)=Karataş Sınavı, (eşya)=Karataş Zırh Eldiveni
+- Çeviklik: Climb/Jump/Evade/Balance/Rappell=Tırmanış/Atlayış/Kaçış/Denge/İple İniş · Simple/Advanced Path=Basit/Zorlu Yol · Obstacle=Engel
+- Thug=Kabadayı · Bandit=Haydut · Thieving dükkânları: Finn'in Ok ve Yay Atölyesi vb.
