@@ -1,6 +1,6 @@
 {
   "name": "Localization Pack",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "game_version": "0.11.7-alpha",
   "mod_loader_version": "0.2.0",
   "description": "Unofficial community translations for Melvor Idle 2 in one mod",
@@ -123,6 +123,36 @@
         ]
       },
       "plural_forms": "nplurals=2; plural=(n > 1);"
+    },
+    "pt_PT": {
+      "name": "Português",
+      "english_name": "European Portuguese",
+      "file": "Languages/Game/pt_PT.po",
+      "display": "Português, Portugal",
+      "locale": "pt_PT",
+      "units": {
+        "day": [
+          "dia",
+          "dias"
+        ],
+        "hour": [
+          "hora",
+          "horas"
+        ],
+        "minute": [
+          "minuto",
+          "minutos"
+        ],
+        "second": [
+          "segundo",
+          "segundos"
+        ],
+        "turn": [
+          "turno",
+          "turnos"
+        ]
+      },
+      "plural_forms": "nplurals=2; plural=(n != 1);"
     },
     "ja_JP": {
       "name": "日本語",
@@ -321,6 +351,37 @@
         ]
       },
       "less_than": "dưới {0}",
+      "plural_forms": "nplurals=1; plural=0;"
+    },
+    "tr_TR": {
+      "name": "Türkçe",
+      "english_name": "Turkish",
+      "file": "Languages/Game/tr_TR.po",
+      "display": "Türkçe, Türkiye",
+      "locale": "tr",
+      "units": {
+        "day": [
+          "gün",
+          "gün"
+        ],
+        "hour": [
+          "saat",
+          "saat"
+        ],
+        "minute": [
+          "dakika",
+          "dakika"
+        ],
+        "second": [
+          "saniye",
+          "saniye"
+        ],
+        "turn": [
+          "tur",
+          "tur"
+        ]
+      },
+      "less_than": "{0} altında",
       "plural_forms": "nplurals=1; plural=0;"
     }
   }

@@ -1,0 +1,728 @@
+{
+"02605": [
+"Chapéu do Feiticeiro da Lama",
+"Chapéus do Feiticeiro da Lama"
+],
+"02606": [
+"Botas do Feiticeiro do Fumo",
+"Botas do Feiticeiro do Fumo"
+],
+"02607": [
+"Calças do Feiticeiro da Lama",
+"Calças do Feiticeiro da Lama"
+],
+"02608": [
+"Veste do Feiticeiro do Fumo",
+"Vestes do Feiticeiro do Fumo"
+],
+"02609": [
+"Chapéu do Feiticeiro do Fumo",
+"Chapéus do Feiticeiro do Fumo"
+],
+"02610": [
+"Botas do Feiticeiro da Lama",
+"Botas do Feiticeiro da Lama"
+],
+"02611": [
+"Calças do Feiticeiro do Fumo",
+"Calças do Feiticeiro do Fumo"
+],
+"02612": [
+"Veste do Feiticeiro da Lama",
+"Vestes do Feiticeiro da Lama"
+],
+"02613": [
+"Chapéu do Feiticeiro do Nevoeiro",
+"Chapéus do Feiticeiro do Nevoeiro"
+],
+"02614": [
+"Botas do Feiticeiro da Lava",
+"Botas do Feiticeiro da Lava"
+],
+"02615": [
+"Calças do Feiticeiro do Nevoeiro",
+"Calças do Feiticeiro do Nevoeiro"
+],
+"02616": [
+"Veste do Feiticeiro da Lava",
+"Vestes do Feiticeiro da Lava"
+],
+"02617": [
+"Chapéu do Feiticeiro da Lava",
+"Chapéus do Feiticeiro da Lava"
+],
+"02618": [
+"Botas do Feiticeiro do Nevoeiro",
+"Botas do Feiticeiro do Nevoeiro"
+],
+"02619": [
+"Calças do Feiticeiro da Lava",
+"Calças do Feiticeiro da Lava"
+],
+"02620": [
+"Veste do Feiticeiro do Nevoeiro",
+"Vestes do Feiticeiro do Nevoeiro"
+],
+"02621": [
+"Chapéu do Feiticeiro Elemental",
+"Chapéus do Feiticeiro Elemental"
+],
+"02622": [
+"Botas do Feiticeiro Elemental",
+"Botas do Feiticeiro Elemental"
+],
+"02623": [
+"Calças do Feiticeiro Elemental",
+"Calças do Feiticeiro Elemental"
+],
+"02624": [
+"Veste do Feiticeiro Elemental",
+"Vestes do Feiticeiro Elemental"
+],
+"02625": [
+"Ninho",
+"Ninhos"
+],
+"02626": "Contém Sementes de nível baixo para Cultivo.",
+"02627": [
+"Ninho Vazio",
+"Ninhos Vazios"
+],
+"02628": "Este não tem nada lá dentro.",
+"02629": [
+"Ninho de Águia",
+"Ninhos de Águia"
+],
+"02630": "Contém Sementes de nível alto para Cultivo.",
+"02631": [
+"Ninho de Águia Vazio",
+"Ninhos de Águia Vazios"
+],
+"02632": [
+"Ninho de Draco",
+"Ninhos de Draco"
+],
+"02633": "Guarda este item. Em breve vai poder ser aberto.",
+"02634": [
+"Ninho de Draco Vazio",
+"Ninhos de Draco Vazios"
+],
+"02635": [
+"Baú de Limões",
+"Baús de Limões"
+],
+"02636": [
+"Baú Coberto de Cracas",
+"Baús Cobertos de Cracas"
+],
+"02637": [
+"Baú do Tesouro",
+"Baús do Tesouro"
+],
+"02638": [
+"Batata",
+"Batatas"
+],
+"02639": [
+"Cebola",
+"Cebolas"
+],
+"02640": [
+"Alface",
+"Alfaces"
+],
+"02641": [
+"Morango",
+"Morangos"
+],
+"02642": [
+"Alho",
+"Alhos"
+],
+"02643": [
+"Milho",
+"Milho"
+],
+"02644": [
+"Melancia",
+"Melancias"
+],
+"02645": [
+"Erva de Cura",
+"Erva de Cura"
+],
+"02646": [
+"Tomate",
+"Tomates"
+],
+"02647": [
+"Cenoura",
+"Cenouras"
+],
+"02648": [
+"Abóbora",
+"Abóboras"
+],
+"02649": [
+"Uva Preta",
+"Uvas Pretas"
+],
+"02650": [
+"Couve",
+"Couves"
+],
+"02651": [
+"Couve-flor",
+"Couves-flor"
+],
+"02652": [
+"Erva de Penril",
+"Ervas de Penril"
+],
+"02653": [
+"Erva Amarga",
+"Ervas Amargas"
+],
+"02654": [
+"Erva de Mantalima",
+"Ervas de Mantalima"
+],
+"02655": [
+"Erva de Nomel",
+"Ervas de Nomel"
+],
+"02656": [
+"Erva de Oxilima",
+"Ervas de Oxilima"
+],
+"02657": [
+"Erva de Sporlyle",
+"Ervas de Sporlyle"
+],
+"02658": [
+"Erva de Larx",
+"Ervas de Larx"
+],
+"02659": [
+"Erva Árida",
+"Ervas Áridas"
+],
+"02660": [
+"Banana",
+"Bananas"
+],
+"02661": [
+"Maçã",
+"Maçãs"
+],
+"02662": [
+"Cereja",
+"Cerejas"
+],
+"02663": [
+"Pêssego",
+"Pêssegos"
+],
+"02664": [
+"Laranja",
+"Laranjas"
+],
+"02665": [
+"Manga",
+"Mangas"
+],
+"02666": [
+"Semente de Batata",
+"Sementes de Batata"
+],
+"02667": [
+"Semente de Cebola",
+"Sementes de Cebola"
+],
+"02668": [
+"Semente de Alface",
+"Sementes de Alface"
+],
+"02669": [
+"Semente de Morango",
+"Sementes de Morango"
+],
+"02670": [
+"Semente de Trigo",
+"Sementes de Trigo"
+],
+"02671": [
+"Caule de Cana-de-Açúcar",
+"Caules de Cana-de-Açúcar"
+],
+"02672": [
+"Semente de Alho",
+"Sementes de Alho"
+],
+"02673": [
+"Semente de Milho",
+"Sementes de Milho"
+],
+"02674": [
+"Semente de Melancia",
+"Sementes de Melancia"
+],
+"02675": [
+"Semente de Erva de Cura",
+"Sementes de Erva de Cura"
+],
+"02676": [
+"Semente de Tomate",
+"Sementes de Tomate"
+],
+"02677": [
+"Semente de Cenoura",
+"Sementes de Cenoura"
+],
+"02678": [
+"Semente de Abóbora",
+"Sementes de Abóbora"
+],
+"02679": [
+"Semente de Uva Preta",
+"Sementes de Uva Preta"
+],
+"02680": [
+"Semente de Couve",
+"Sementes de Couve"
+],
+"02681": [
+"Semente de Couve-flor",
+"Sementes de Couve-flor"
+],
+"02682": [
+"Semente de Erva de Penril",
+"Sementes de Erva de Penril"
+],
+"02683": [
+"Semente de Erva Amarga",
+"Sementes de Erva Amarga"
+],
+"02684": [
+"Semente de Erva de Mantalima",
+"Sementes de Erva de Mantalima"
+],
+"02685": [
+"Semente de Erva de Nomel",
+"Sementes de Erva de Nomel"
+],
+"02686": [
+"Semente de Erva de Oxilima",
+"Sementes de Erva de Oxilima"
+],
+"02687": [
+"Semente de Erva de Sporlyle",
+"Sementes de Erva de Sporlyle"
+],
+"02688": [
+"Semente de Erva de Larx",
+"Sementes de Erva de Larx"
+],
+"02689": [
+"Semente de Erva Árida",
+"Sementes de Erva Árida"
+],
+"02690": [
+"Semente de Bananeira",
+"Sementes de Bananeira"
+],
+"02691": [
+"Semente de Macieira",
+"Sementes de Macieira"
+],
+"02692": [
+"Semente de Cerejeira",
+"Sementes de Cerejeira"
+],
+"02693": [
+"Semente de Pessegueiro",
+"Sementes de Pessegueiro"
+],
+"02694": [
+"Semente de Laranjeira",
+"Sementes de Laranjeira"
+],
+"02695": [
+"Semente de Mangueira",
+"Sementes de Mangueira"
+],
+"02696": [
+"Semente de Girassol",
+"Sementes de Girassol"
+],
+"02697": [
+"Semente de Calêndula",
+"Sementes de Calêndula"
+],
+"02698": [
+"Semente de Capuchinha",
+"Sementes de Capuchinha"
+],
+"02699": [
+"Semente de Alecrim",
+"Sementes de Alecrim"
+],
+"02700": [
+"Semente de Lírio-Branco",
+"Sementes de Lírio-Branco"
+],
+"02701": [
+"Semente de Camomila",
+"Sementes de Camomila"
+],
+"02702": [
+"Vinho",
+"Vinho"
+],
+"02703": "Serve para pagar aos Trabalhadores Agrícolas pela automatização do Cultivo.",
+"02704": [
+"Adubo",
+"Adubo"
+],
+"02705": [
+"Superadubo",
+"Superadubo"
+],
+"02706": [
+"Carvadubo",
+"Carvadubo"
+],
+"02707": [
+"Ultra-adubo",
+"Ultra-adubo"
+],
+"02708": [
+"Fertilizante",
+"Fertilizante"
+],
+"02709": [
+"Camarão",
+"Camarões"
+],
+"02710": [
+"Sardinha",
+"Sardinhas"
+],
+"02711": [
+"Arenque",
+"Arenques"
+],
+"02712": [
+"Truta",
+"Trutas"
+],
+"02713": [
+"Salmão",
+"Salmões"
+],
+"02714": [
+"Lagosta",
+"Lagostas"
+],
+"02715": [
+"Tubarão",
+"Tubarões"
+],
+"02716": [
+"Manta",
+"Mantas"
+],
+"02717": [
+"Baleia",
+"Baleias"
+],
+"02718": [
+"Perca",
+"Percas"
+],
+"02719": [
+"Cavala",
+"Cavalas"
+],
+"02720": [
+"Lúcio",
+"Lúcios"
+],
+"02721": [
+"Peixe-Brilho",
+"Peixes-Brilho"
+],
+"02722": [
+"Dourada",
+"Douradas"
+],
+"02723": [
+"Bacalhau",
+"Bacalhaus"
+],
+"02724": [
+"Robalo",
+"Robalos"
+],
+"02725": [
+"Peixe-Leão",
+"Peixes-Leão"
+],
+"02726": [
+"Alforreca Luminosa",
+"Alforrecas Luminosas"
+],
+"02727": [
+"Atum",
+"Atuns"
+],
+"02728": [
+"Lula Luminosa",
+"Lulas Luminosas"
+],
+"02729": [
+"Enguia Gigante",
+"Enguias Gigantes"
+],
+"02730": [
+"Isco Básico",
+"Isco Básico"
+],
+"02731": [
+"Isco de Cavala",
+"Isco de Cavala"
+],
+"02732": [
+"Isco de Peixe-Brilho",
+"Isco de Peixe-Brilho"
+],
+"02733": [
+"Isco para Peixe Gigante",
+"Isco para Peixe Gigante"
+],
+"02734": [
+"Grão",
+"Grão"
+],
+"02735": "Alimento para alguns animais na Pecuária.",
+"02736": [
+"Larva-da-farinha",
+"Larvas-da-farinha"
+],
+"02737": [
+"Osso",
+"Ossos"
+],
+"02738": [
+"Seda",
+"Seda"
+],
+"02739": [
+"Couro de Vaca",
+"Couro de Vaca"
+],
+"02740": [
+"Lã",
+"Lã"
+],
+"02741": [
+"Mel",
+"Mel"
+],
+"02742": [
+"Cera de Abelha",
+"Cera de Abelha"
+],
+"02743": [
+"Girassol",
+"Girassóis"
+],
+"02744": [
+"Flor de Calêndula",
+"Flores de Calêndula"
+],
+"02745": [
+"Flor de Alecrim",
+"Flores de Alecrim"
+],
+"02746": [
+"Presa de Lobo",
+"Presas de Lobo"
+],
+"02747": [
+"Pelo de Lobo",
+"Pelo de Lobo"
+],
+"02748": [
+"Escama Pequena de Dragão Verde",
+"Escamas Pequenas de Dragão Verde"
+],
+"02749": [
+"Escama Pequena de Dragão Azul",
+"Escamas Pequenas de Dragão Azul"
+],
+"02750": [
+"Escama Pequena de Dragão Vermelho",
+"Escamas Pequenas de Dragão Vermelho"
+],
+"02751": [
+"Escama Pequena de Dragão Negro",
+"Escamas Pequenas de Dragão Negro"
+],
+"02752": [
+"Trigo",
+"Trigo"
+],
+"02753": [
+"Cana-de-Açúcar",
+"Cana-de-Açúcar"
+],
+"02754": [
+"Açúcar",
+"Açúcar"
+],
+"02755": [
+"Farinha",
+"Farinha"
+],
+"02756": [
+"Ovo",
+"Ovos"
+],
+"02757": [
+"Leite",
+"Leite"
+],
+"02758": [
+"Massa Doce",
+"Massas Doces"
+],
+"02759": [
+"Sanduíche de Carne de Vaca",
+"Sanduíches de Carne de Vaca"
+],
+"02760": [
+"Tarte de Maçã",
+"Tartes de Maçã"
+],
+"02761": [
+"Sopa de Dourada",
+"Sopas de Dourada"
+],
+"02762": [
+"Tarte de Abóbora",
+"Tartes de Abóbora"
+],
+"02763": [
+"Cheeseburger",
+"Cheeseburgers"
+],
+"02764": [
+"Base do Bolo",
+"Bases do Bolo"
+],
+"02765": [
+"Base da Sopa",
+"Bases da Sopa"
+],
+"02766": [
+"Base do Sushi",
+"Bases do Sushi"
+],
+"02767": [
+"Sanduíche de Frango",
+"Sanduíches de Frango"
+],
+"02768": [
+"Sanduíche de Lagosta",
+"Sanduíches de Lagosta"
+],
+"02769": [
+"Sanduíche de Atum",
+"Sanduíches de Atum"
+],
+"02770": [
+"Panqueca de Banana",
+"Panquecas de Banana"
+],
+"02771": [
+"Panqueca de Maçã",
+"Panquecas de Maçã"
+],
+"02772": [
+"Panqueca de Cereja",
+"Panquecas de Cereja"
+],
+"02773": [
+"Panqueca de Manga",
+"Panquecas de Manga"
+],
+"02774": [
+"Bolo de Morango",
+"Bolos de Morango"
+],
+"02775": [
+"Bolo de Cenoura",
+"Bolos de Cenoura"
+],
+"02776": [
+"Bolo de Laranja",
+"Bolos de Laranja"
+],
+"02777": [
+"Tarte de Cereja",
+"Tartes de Cereja"
+],
+"02778": [
+"Massa Básica",
+"Massas Básicas"
+],
+"02779": [
+"Sopa de Salmão",
+"Sopas de Salmão"
+],
+"02780": [
+"Sopa de Peixe-Leão",
+"Sopas de Peixe-Leão"
+],
+"02781": [
+"Sopa de Tubarão",
+"Sopas de Tubarão"
+],
+"02782": [
+"Sopa de Legumes",
+"Sopas de Legumes"
+],
+"02783": [
+"Sushi de Truta",
+"Sushi de Truta"
+],
+"02784": [
+"Sushi de Salmão",
+"Sushi de Salmão"
+],
+"02785": [
+"Sushi de Bacalhau",
+"Sushi de Bacalhau"
+],
+"02786": [
+"Sushi Luminoso",
+"Sushi Luminoso"
+],
+"02787": [
+"Sushi de Atum e Tubarão",
+"Sushi de Atum e Tubarão"
+],
+"02788": [
+"Sushi de Legumes",
+"Sushi de Legumes"
+],
+"02789": [
+"Lasanha",
+"Lasanhas"
+],
+"02790": [
+"Pizza Mista",
+"Pizzas Mistas"
+]
+}

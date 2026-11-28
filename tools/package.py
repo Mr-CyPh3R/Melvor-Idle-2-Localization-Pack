@@ -3,9 +3,10 @@
 Aufruf (im Projektordner): python tools/package.py [--install]
 Sprachen stehen in mod/Mods/Localization Pack/mod.json unter "languages" ("file": Pfad im Mod-Ordner).
 Für jede Sprache <code> wird dist/<code>.po (aus tools/build.py) an den Pfad aus "file" kopiert (Languages/Game/<code>.po),
-Übersetzungen für andere Mods (dist/mods/<Mod>/) nach Languages/Mods/<Mod>/.
-Die override.cfg wird aus dieser Liste erzeugt, damit alle Sprachen des Packs geladen werden.
-Ergebnis: dist/Localization_Pack_v<version>.zip mit override.cfg und Mods/Localization Pack/
+Übersetzungen für andere Mods (dist/mods/<Mod>/) nach Languages/Mods/<Mod>/ (nur für die Mod-Loader-Fassung).
+Die override.cfg wird aus der Liste der Spielsprachen erzeugt, damit alle Sprachen des Packs geladen werden.
+Ergebnis: dist/Localization_Pack_v<version>_Standalone.zip mit override.cfg und Mods/Localization Pack/ (ohne Languages/Mods),
+         dist/Localization_Pack_v<version>_ModLoader.zip mit Mods/Localization Pack/ samt Languages/Mods und DLL
 --install kopiert alles in den Spielordner (überschreibt nur eine eigene override.cfg).
 """
 import json, os, shutil, sys, zipfile
@@ -36,7 +37,7 @@ for mod in sorted(os.listdir('dist/mods')) if os.path.isdir('dist/mods') else []
             rel = f'Languages/Mods/{mod}/{os.path.basename(lang["file"])}'
             os.makedirs(os.path.join(MOD_DIR, os.path.dirname(rel)), exist_ok=True)
             shutil.copyfile(built, os.path.join(MOD_DIR, rel))
-            paths.append(f'res://{MOD_REL}/{rel}')
+            # nicht in die override.cfg: ohne Mod Loader gibt es diese Texte nicht, mit Mod Loader lädt sie die DLL
 
 langs = ', '.join(f'{l["english_name"]} ({l["name"]})' for c, l in cfg['languages'].items())
 
@@ -65,9 +66,12 @@ locale/translations=PackedStringArray({", ".join(f'"{p}"' for p in paths)})
 '''
 open(os.path.join(SRC, 'override.cfg'), 'w', encoding='utf-8').write(override)
 
-zip_path = f'dist/Localization_Pack_v{cfg["version"]}.zip'
+LOADER_ONLY = os.path.join(MOD_DIR, 'Languages', 'Mods')  # Texte anderer Mods nur in der Mod-Loader-Fassung
+zip_path = f'dist/Localization_Pack_v{cfg["version"]}_Standalone.zip'
 with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as z:
     for root, _, files in os.walk(SRC):
+        if os.path.normpath(root).startswith(os.path.normpath(LOADER_ONLY)):
+            continue
         for f in files:
             full = os.path.join(root, f)
             z.write(full, os.path.relpath(full, SRC).replace(os.sep, '/'))
@@ -108,5 +112,5 @@ if '--install' in sys.argv:
     shutil.copyfile(os.path.join(SRC, 'override.cfg'), target)
     dst = os.path.join(GAME, MOD_REL)
     shutil.rmtree(dst, ignore_errors=True)
-    shutil.copytree(MOD_DIR, dst)
+    shutil.copytree(MOD_DIR, dst, ignore=lambda d, names: ['Mods'] if os.path.normpath(d) == os.path.normpath(os.path.dirname(LOADER_ONLY)) else [])
     print('installiert nach', GAME)

@@ -1,11 +1,16 @@
 # Changelog
 
-## Unreleased
+## 1.5.0 (2026-11-28)
+
+### New languages
+* European Portuguese (Português, Portugal): 13,711 texts, translated from English by AI with the terms of the official European Portuguese translation of Melvor Idle (599 texts taken from it). Kept apart from Brazilian Portuguese, with the European spelling and "tu". The Mod Loader menu (F1) is translated too.
+* Turkish (Türkçe): 13,711 texts, translated from English by AI with the terms of the official Turkish translation of Melvor Idle (605 texts taken from it). Written with "sen" like Melvor Idle, short times as "2 sa 5 dk". The Mod Loader menu (F1) is translated too.
 
 ### Fixes
 * Three texts of the save menu were missing in every language and are now translated: "Backup Save", "Export Backup Save" and "View Other Saves".
 
 ### Other
+* The version without Mod Loader is now called Standalone (`Localization_Pack_v<version>_Standalone.zip`) and no longer contains the folder Languages/Mods (texts for Mod Loader, which are only used with Mod Loader).
 * The table "How these translations were made" now also counts the texts filled in by script (names the game looks up without context, and the conversion of Chinese, Traditional), so every language shows about 15,170 texts.
 
 ## 1.4.0 (2026-11-26)

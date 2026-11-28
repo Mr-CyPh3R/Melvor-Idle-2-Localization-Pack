@@ -1,0 +1,490 @@
+{
+"02441": [
+"Su Büyücüsü Eteği"
+],
+"02442": [
+"Su Büyücüsü Cüppesi"
+],
+"02443": [
+"Toprak Büyücüsü Şapkası"
+],
+"02444": [
+"Toprak Büyücüsü Botları"
+],
+"02445": [
+"Toprak Büyücüsü Eteği"
+],
+"02446": [
+"Toprak Büyücüsü Cüppesi"
+],
+"02447": [
+"Ateş Büyücüsü Şapkası"
+],
+"02448": [
+"Ateş Büyücüsü Botları"
+],
+"02449": [
+"Ateş Büyücüsü Eteği"
+],
+"02450": [
+"Ateş Büyücüsü Cüppesi"
+],
+"02451": [
+"Taş Kılıç"
+],
+"02452": [
+"Taş Kargı Ucu"
+],
+"02453": [
+"Çelik Kargı Ucu"
+],
+"02454": [
+"Mithril Kargı Ucu"
+],
+"02455": [
+"Adamantit Kargı Ucu"
+],
+"02456": [
+"Runit Kargı Ucu"
+],
+"02457": [
+"Şafak Çeliği Kargı Ucu"
+],
+"02458": [
+"Ejderit Kargı Ucu"
+],
+"02459": [
+"Ok Gövdesi"
+],
+"02460": [
+"Bakır Mızrak"
+],
+"02461": [
+"Demir Mızrak"
+],
+"02462": "Bunu bir canavara fırlat ve ne olacağını gör.",
+"02463": [
+"Çelik Mızrak"
+],
+"02464": [
+"Mithril Mızrak"
+],
+"02465": [
+"Adamantit Mızrak"
+],
+"02466": [
+"Runit Mızrak"
+],
+"02467": [
+"Şafak Çeliği Mızrak"
+],
+"02468": [
+"Ejderit Mızrak"
+],
+"02469": [
+"Deri Kalkan"
+],
+"02470": [
+"Deri Yelek"
+],
+"02471": [
+"Sert Deriden Kol Zırhı"
+],
+"02472": [
+"Sert Deri Botlar"
+],
+"02473": [
+"Sert Deri Başlık"
+],
+"02474": [
+"Sert Deri Kalkan"
+],
+"02475": [
+"Sert Deri Pantolon"
+],
+"02476": [
+"Sert Deriden Yelek"
+],
+"02477": [
+"Çivili Deri Kol Zırhı"
+],
+"02478": [
+"Çivili Deri Botlar"
+],
+"02479": [
+"Çivili Deri Başlık"
+],
+"02480": [
+"Çivili Deri Kalkan"
+],
+"02481": [
+"Çivili Deri Pantolon"
+],
+"02482": [
+"Çivili Deri Yelek"
+],
+"02483": [
+"Zincirli Kol Zırhı"
+],
+"02484": [
+"Zincirli Botlar"
+],
+"02485": [
+"Zincirli Başlık"
+],
+"02486": [
+"Zincirli Kalkan"
+],
+"02487": [
+"Zincirli Pantolon"
+],
+"02488": [
+"Zincirli Yelek"
+],
+"02489": [
+"Yeşil Ejderha Derisi Başlık"
+],
+"02490": [
+"Yeşil Ejderha Derisi Pantolon"
+],
+"02491": [
+"Yeşil Ejderha Derisi Yelek"
+],
+"02492": [
+"Mavi Ejderha Derisi Başlık"
+],
+"02493": [
+"Mavi Ejderha Derisi Pantolon"
+],
+"02494": [
+"Mavi Ejderha Derisi Yelek"
+],
+"02495": [
+"Kırmızı Ejderha Derisi Başlık"
+],
+"02496": [
+"Kırmızı Ejderha Derisi Pantolon"
+],
+"02497": [
+"Kırmızı Ejderha Derisi Yelek"
+],
+"02498": [
+"Siyah Ejderha Derisi Başlık"
+],
+"02499": [
+"Siyah Ejderha Derisi Pantolon"
+],
+"02500": [
+"Siyah Ejderha Derisi Yelek"
+],
+"02501": [
+"Gümüş Topaz Yüzük"
+],
+"02502": [
+"Gümüş Safir Yüzük"
+],
+"02503": [
+"Gümüş Yakut Yüzük"
+],
+"02504": [
+"Gümüş Zümrüt Yüzük"
+],
+"02505": [
+"Gümüş Elmas Yüzük"
+],
+"02506": [
+"Gümüş Yeşim Yüzük"
+],
+"02507": [
+"Altın Safir Yüzük"
+],
+"02508": [
+"Altın Yakut Yüzük"
+],
+"02509": [
+"Altın Zümrüt Yüzük"
+],
+"02510": [
+"Altın Elmas Yüzük"
+],
+"02511": [
+"Altın Yeşim Yüzük"
+],
+"02512": [
+"Gümüş Topaz Tılsım"
+],
+"02513": [
+"Gümüş Safir Tılsım"
+],
+"02514": [
+"Gümüş Yakut Tılsım"
+],
+"02515": [
+"Gümüş Zümrüt Tılsım"
+],
+"02516": [
+"Gümüş Elmas Tılsım"
+],
+"02517": [
+"Gümüş Yeşim Tılsım"
+],
+"02518": [
+"Altın Topaz Tılsım"
+],
+"02519": [
+"Altın Safir Tılsım"
+],
+"02520": [
+"Altın Yakut Tılsım"
+],
+"02521": [
+"Altın Zümrüt Tılsım"
+],
+"02522": [
+"Altın Elmas Tılsım"
+],
+"02523": [
+"Altın Yeşim Tılsım"
+],
+"02524": [
+"Harpi Tüyü"
+],
+"02525": [
+"Kömür"
+],
+"02526": [
+"İşlenmemiş Topaz"
+],
+"02527": [
+"İşlenmemiş Safir"
+],
+"02528": [
+"İşlenmemiş Yakut"
+],
+"02529": [
+"İşlenmemiş Zümrüt"
+],
+"02530": [
+"İşlenmemiş Elmas"
+],
+"02531": [
+"İşlenmemiş Yeşim"
+],
+"02532": [
+"Kil"
+],
+"02533": [
+"Su Kovası"
+],
+"02534": [
+"Kum Kovası"
+],
+"02535": [
+"Erimiş Cam"
+],
+"02536": [
+"Şişecik Paketi"
+],
+"02537": [
+"Güçsüz Küre"
+],
+"02538": [
+"Boş Fener"
+],
+"02539": [
+"Kızılçam Tohumu"
+],
+"02540": [
+"Mangal Kömürü"
+],
+"02541": [
+"Kül"
+],
+"02542": [
+"İs"
+],
+"02543": [
+"Kor"
+],
+"02544": [
+"Sert Meşe Yayı"
+],
+"02545": [
+"Sert Meşe Kütüğü"
+],
+"02546": [
+"Sert Meşe Bumerangı"
+],
+"02547": [
+"İki Elli Demir Arbalet"
+],
+"02548": [
+"Saf Öz"
+],
+"02549": [
+"Çelik Kargı"
+],
+"02550": [
+"Mithril Kargı"
+],
+"02551": [
+"Adamantit Kargı"
+],
+"02552": [
+"Runit Kargı"
+],
+"02553": [
+"Şafak Çeliği Kargı"
+],
+"02554": [
+"Ejderit Kargı"
+],
+"02555": [
+"İnci Midyesi"
+],
+"02556": "Satılabilecek değerli bir eşya.",
+"02557": [
+"Deniz Kabuğu Kolye"
+],
+"02558": [
+"Paslı Kadim Hançer"
+],
+"02559": [
+"Şarapnel Savar Eldivenler"
+],
+"02560": [
+"Sağlam Ağ"
+],
+"02561": [
+"Yırtık Kadim Yelken Bezi"
+],
+"02562": [
+"Derin Deniz Işıltaşı"
+],
+"02563": [
+"Kayıp Balıkçılık Yüzüğü"
+],
+"02564": [
+"Köpekbalığı Dişi Kolye"
+],
+"02565": [
+"Gökkuşağı Mercanı"
+],
+"02566": [
+"Parıltılı Pul Yüzük"
+],
+"02567": [
+"Suyosunu Yığını"
+],
+"02568": [
+"Ruh Runu"
+],
+"02569": [
+"Hava Savaş Asası"
+],
+"02570": [
+"Su Savaş Asası"
+],
+"02571": [
+"Toprak Savaş Asası"
+],
+"02572": [
+"Ateş Savaş Asası"
+],
+"02573": [
+"Gizemli Hava Asası"
+],
+"02574": [
+"Gizemli Su Asası"
+],
+"02575": [
+"Gizemli Toprak Asası"
+],
+"02576": [
+"Gizemli Ateş Asası"
+],
+"02577": [
+"Gizemli Hava Değneği"
+],
+"02578": [
+"Gizemli Su Değneği"
+],
+"02579": [
+"Gizemli Toprak Değneği"
+],
+"02580": [
+"Gizemli Ateş Değneği"
+],
+"02581": [
+"Hava Hiddet Asası"
+],
+"02582": [
+"Su Hiddet Asası"
+],
+"02583": [
+"Toprak Hiddet Asası"
+],
+"02584": [
+"Ateş Hiddet Asası"
+],
+"02585": [
+"Hava Hiddet Değneği"
+],
+"02586": [
+"Su Hiddet Değneği"
+],
+"02587": [
+"Toprak Hiddet Değneği"
+],
+"02588": [
+"Ateş Hiddet Değneği"
+],
+"02589": [
+"Sıradan Büyücü Şapkası"
+],
+"02590": [
+"Sıradan Büyücü Botları"
+],
+"02591": [
+"Sıradan Büyücü Eteği"
+],
+"02592": [
+"Sıradan Büyücü Cüppesi"
+],
+"02593": [
+"Usta Büyücü Şapkası"
+],
+"02594": [
+"Usta Büyücü Botları"
+],
+"02595": [
+"Usta Büyücü Eteği"
+],
+"02596": [
+"Usta Büyücü Cüppesi"
+],
+"02597": [
+"Toz Büyücüsü Şapkası"
+],
+"02598": [
+"Buhar Büyücüsü Botları"
+],
+"02599": [
+"Toz Büyücüsü Eteği"
+],
+"02600": [
+"Buhar Büyücüsü Cüppesi"
+],
+"02601": [
+"Buhar Büyücüsü Şapkası"
+],
+"02602": [
+"Toz Büyücüsü Botları"
+],
+"02603": [
+"Buhar Büyücüsü Eteği"
+],
+"02604": [
+"Toz Büyücüsü Cüppesi"
+]
+}

@@ -1,0 +1,613 @@
+{
+"03412": [
+"Chapéu do Feiticeiro Elemental (u)",
+"Chapéus do Feiticeiro Elemental (u)"
+],
+"03413": [
+"Vestes do Feiticeiro Elemental (u)",
+"Vestes do Feiticeiro Elemental (u)"
+],
+"03414": [
+"Calças do Feiticeiro Elemental (u)",
+"Calças do Feiticeiro Elemental (u)"
+],
+"03415": [
+"Botas do Feiticeiro Elemental (u)",
+"Botas do Feiticeiro Elemental (u)"
+],
+"03416": [
+"Botas do Mineiro",
+"Botas do Mineiro"
+],
+"03417": [
+"Gadanha de Osso",
+"Gadanhas de Osso"
+],
+"03418": [
+"Colar Cravejado",
+"Colares Cravejados"
+],
+"03419": [
+"Faca de Artesão Bestial",
+"Facas de Artesão Bestial"
+],
+"03420": [
+"Luvas de Mata-feras",
+"Luvas de Mata-feras"
+],
+"03421": [
+"Varinha do Irmão Perdido (c)",
+"Varinhas do Irmão Perdido (c)"
+],
+"03422": "Se calhar não devias ter roubado isto.",
+"03423": [
+"Pedra Valiosa (c)",
+"Pedras Valiosas (c)"
+],
+"03424": [
+"Toro Valioso (c)",
+"Toros Valiosos (c)"
+],
+"03425": [
+"Poção Corpo a Corpo P1-A",
+"Poções Corpo a Corpo P1-A"
+],
+"03426": [
+"Osso Esmagado",
+"Ossos Esmagados"
+],
+"03427": [
+"Poção Corpo a Corpo P2-A",
+"Poções Corpo a Corpo P2-A"
+],
+"03428": [
+"Poção Corpo a Corpo P2-B",
+"Poções Corpo a Corpo P2-B"
+],
+"03429": [
+"Poção à Distância P1-A",
+"Poções à Distância P1-A"
+],
+"03430": [
+"Poção à Distância P2-A",
+"Poções à Distância P2-A"
+],
+"03431": [
+"Poção à Distância P2-B",
+"Poções à Distância P2-B"
+],
+"03432": [
+"Poção de Magia P1-A",
+"Poções de Magia P1-A"
+],
+"03433": [
+"Poção de Magia P2-A",
+"Poções de Magia P2-A"
+],
+"03434": [
+"Poção de Magia P2-B",
+"Poções de Magia P2-B"
+],
+"03435": [
+"Poção de Lentidão P1-A",
+"Poções de Lentidão P1-A"
+],
+"03436": [
+"Poção de Lentidão P2-A",
+"Poções de Lentidão P2-A"
+],
+"03437": [
+"Poção de Lentidão P2-B",
+"Poções de Lentidão P2-B"
+],
+"03438": [
+"Poção de Resistência P1-A",
+"Poções de Resistência P1-A"
+],
+"03439": [
+"Poção de Resistência P2-A",
+"Poções de Resistência P2-A"
+],
+"03440": [
+"Poção de Resistência P2-B",
+"Poções de Resistência P2-B"
+],
+"03441": [
+"Poção de Assassino P1-A",
+"Poções de Assassino P1-A"
+],
+"03442": [
+"Poção de Assassino P2-A",
+"Poções de Assassino P2-A"
+],
+"03443": [
+"Poção de Assassino P2-B",
+"Poções de Assassino P2-B"
+],
+"03444": [
+"Poção de Oração P1-A",
+"Poções de Oração P1-A"
+],
+"03445": [
+"Poção de Oração P2-A",
+"Poções de Oração P2-A"
+],
+"03446": [
+"Poção de Oração P2-B",
+"Poções de Oração P2-B"
+],
+"03447": [
+"Superpoção Corpo a Corpo P1-A",
+"Superpoções Corpo a Corpo P1-A"
+],
+"03448": [
+"Essência de Sangue",
+"Essências de Sangue"
+],
+"03449": "Usada nas Superpoções de Combate em Especialidade em Ervas. Compra-se na Loja de Assassino.",
+"03450": [
+"Superpoção Corpo a Corpo P2-A",
+"Superpoções Corpo a Corpo P2-A"
+],
+"03451": [
+"Superpoção Corpo a Corpo P2-B",
+"Superpoções Corpo a Corpo P2-B"
+],
+"03452": [
+"Superpoção à Distância P1-A",
+"Superpoções à Distância P1-A"
+],
+"03453": [
+"Superpoção à Distância P2-A",
+"Superpoções à Distância P2-A"
+],
+"03454": [
+"Superpoção à Distância P2-B",
+"Superpoções à Distância P2-B"
+],
+"03455": [
+"Superpoção de Magia P1-A",
+"Superpoções de Magia P1-A"
+],
+"03456": [
+"Superpoção de Magia P2-A",
+"Superpoções de Magia P2-A"
+],
+"03457": [
+"Superpoção de Magia P2-B",
+"Superpoções de Magia P2-B"
+],
+"03458": [
+"Superpoção de Lentidão P1-A",
+"Superpoções de Lentidão P1-A"
+],
+"03459": [
+"Superpoção de Lentidão P2-A",
+"Superpoções de Lentidão P2-A"
+],
+"03460": [
+"Superpoção de Lentidão P2-B",
+"Superpoções de Lentidão P2-B"
+],
+"03461": [
+"Superpoção de Resistência P1-A",
+"Superpoções de Resistência P1-A"
+],
+"03462": [
+"Superpoção de Resistência P2-A",
+"Superpoções de Resistência P2-A"
+],
+"03463": [
+"Superpoção de Resistência P2-B",
+"Superpoções de Resistência P2-B"
+],
+"03464": [
+"Superpoção de Assassino P1-A",
+"Superpoções de Assassino P1-A"
+],
+"03465": [
+"Superpoção de Assassino P2-A",
+"Superpoções de Assassino P2-A"
+],
+"03466": [
+"Superpoção de Assassino P2-B",
+"Superpoções de Assassino P2-B"
+],
+"03467": [
+"Superpoção de Oração P1-A",
+"Superpoções de Oração P1-A"
+],
+"03468": [
+"Superpoção de Oração P2-A",
+"Superpoções de Oração P2-A"
+],
+"03469": [
+"Superpoção de Oração P2-B",
+"Superpoções de Oração P2-B"
+],
+"03470": [
+"Poção Cura-Doenças P1-A",
+"Poções Cura-Doenças P1-A"
+],
+"03471": [
+"Poção de Peixe Venenoso P1-A",
+"Poções de Peixe Venenoso P1-A"
+],
+"03472": [
+"Chifre de Serpe",
+"Chifres de Serpe"
+],
+"03473": [
+"Isco de Verme",
+"Iscos de Verme"
+],
+"03474": [
+"Amuleto das Areias Movediças",
+"Amuletos das Areias Movediças"
+],
+"03475": [
+"Toro Cinzento",
+"Toros Cinzentos"
+],
+"03476": [
+"Semente de Árvore Cinzenta",
+"Sementes de Árvore Cinzenta"
+],
+"03477": [
+"Espantalho Normal",
+"Espantalhos Normais"
+],
+"03478": [
+"Espantalho de Salgueiro",
+"Espantalhos de Salgueiro"
+],
+"03479": [
+"Espantalho de Bordo",
+"Espantalhos de Bordo"
+],
+"03480": [
+"Espantalho de Carvalho Rijo",
+"Espantalhos de Carvalho Rijo"
+],
+"03481": [
+"Espantalho Cinzento",
+"Espantalhos Cinzentos"
+],
+"03482": [
+"Espada 2M Presa da Tempestade",
+"Espadas 2M Presa da Tempestade"
+],
+"03483": [
+"Pique de Dragão Negro",
+"Piques de Dragão Negro"
+],
+"03484": [
+"Malho de Kelsarin",
+"Malhos de Kelsarin"
+],
+"03485": [
+"Defensora da Nova Eletrizante",
+"Defensoras da Nova Eletrizante"
+],
+"03486": [
+"Varinha das Ondas de Areia",
+"Varinhas das Ondas de Areia"
+],
+"03487": [
+"Bastão do Enterro na Areia",
+"Bastões do Enterro na Areia"
+],
+"03488": [
+"Bastão da Hipnose",
+"Bastões da Hipnose"
+],
+"03489": [
+"Bastão de Dragão Negro",
+"Bastões de Dragão Negro"
+],
+"03490": [
+"Bastão Elemental da Tempestade",
+"Bastões Elementais da Tempestade"
+],
+"03491": [
+"Bastão de Kelsarin",
+"Bastões de Kelsarin"
+],
+"03492": [
+"Arco de Dragão Negro",
+"Arcos de Dragão Negro"
+],
+"03493": [
+"Arco de Kelsarin",
+"Arcos de Kelsarin"
+],
+"03494": [
+"Besta de Duas Mãos do Lince da Tempestade",
+"Bestas de Duas Mãos do Lince da Tempestade"
+],
+"03495": [
+"Capa do Espreitador Luminoso",
+"Capas do Espreitador Luminoso"
+],
+"03496": [
+"Luvas do Arremesso de Areia",
+"Luvas do Arremesso de Areia"
+],
+"03497": [
+"Botas do Planador de Areia",
+"Botas do Planador de Areia"
+],
+"03498": [
+"Anel da Tempestade de Areia",
+"Anéis da Tempestade de Areia"
+],
+"03499": [
+"Amuleto Hipnótico",
+"Amuletos Hipnóticos"
+],
+"03500": [
+"Elmo do Despertar",
+"Elmos do Despertar"
+],
+"03501": [
+"Capuz de Dragão da Tempestade",
+"Capuzes de Dragão da Tempestade"
+],
+"03502": [
+"Calças de Dragão da Tempestade",
+"Calças de Dragão da Tempestade"
+],
+"03503": [
+"Armadura de Dragão da Tempestade",
+"Armaduras de Dragão da Tempestade"
+],
+"03504": [
+"Elmo de Mata-feras V",
+"Elmos de Mata-feras V"
+],
+"03505": [
+"Calças de Mata-feras V",
+"Calças de Mata-feras V"
+],
+"03506": [
+"Armadura de Mata-feras V",
+"Armaduras de Mata-feras V"
+],
+"03507": [
+"Escudo de Escamas de Dragão Gemado",
+"Escudos de Escamas de Dragão Gemados"
+],
+"03508": [
+"Amuleto do Devastador Dracolith",
+"Amuletos do Devastador Dracolith"
+],
+"03509": [
+"Amuleto do Cospe-Fogo Dracolith",
+"Amuletos do Cospe-Fogo Dracolith"
+],
+"03510": [
+"Amuleto do Tirano Dracolith",
+"Amuletos do Tirano Dracolith"
+],
+"03511": [
+"Varinha Hipnotizante",
+"Varinhas Hipnotizantes"
+],
+"03512": [
+"Arenito",
+"Arenitos"
+],
+"03513": [
+"Pele de Verme da Areia",
+"Peles de Verme da Areia"
+],
+"03514": [
+"Baú de Verme",
+"Baús de Verme"
+],
+"03515": [
+"Baú das Areias Movediças",
+"Baús das Areias Movediças"
+],
+"03516": [
+"Areias do Tempo",
+"Areias do Tempo"
+],
+"03517": [
+"Pedra do Sono",
+"Pedras do Sono"
+],
+"03518": [
+"Baú de Lula Luminosa",
+"Baús de Lula Luminosa"
+],
+"03519": [
+"Osso de Dragão Grande",
+"Ossos de Dragão Grandes"
+],
+"03520": [
+"Baú de Dragão Negro",
+"Baús de Dragão Negro"
+],
+"03521": [
+"Asa Negra Grande",
+"Asas Negras Grandes"
+],
+"03522": [
+"Pele de Lince da Tempestade",
+"Peles de Lince da Tempestade"
+],
+"03523": [
+"Essência da Tempestade",
+"Essências da Tempestade"
+],
+"03524": [
+"Tempestade Engarrafada",
+"Tempestades Engarrafadas"
+],
+"03525": [
+"Presa da Tempestade",
+"Presas da Tempestade"
+],
+"03526": [
+"Couro de Dragão da Tempestade",
+"Couros de Dragão da Tempestade"
+],
+"03527": [
+"Avambraços de Dragão da Tempestade",
+"Avambraços de Dragão da Tempestade"
+],
+"03528": [
+"Máscara de Guerra de Kelsarin",
+"Máscaras de Guerra de Kelsarin"
+],
+"03529": [
+"Luvas de Kelsarin",
+"Luvas de Kelsarin"
+],
+"03530": [
+"Lança de Kelsarin",
+"Lanças de Kelsarin"
+],
+"03531": [
+"Botas de Dracolith",
+"Botas de Dracolith"
+],
+"03532": [
+"Manoplas de Dracolith",
+"Manoplas de Dracolith"
+],
+"03533": [
+"Escama do Devastador Dracolith",
+"Escamas do Devastador Dracolith"
+],
+"03534": [
+"Escama do Cospe-Fogo Dracolith",
+"Escamas do Cospe-Fogo Dracolith"
+],
+"03535": [
+"Escama do Tirano Dracolith",
+"Escamas do Tirano Dracolith"
+],
+"03536": [
+"Cinto Coberto de Areia",
+"Cintos Cobertos de Areia"
+],
+"03537": [
+"Escama de Gema de Safira",
+"Escamas de Gema de Safira"
+],
+"03538": [
+"Escama de Gema de Rubi",
+"Escamas de Gema de Rubi"
+],
+"03539": [
+"Escama de Gema de Esmeralda",
+"Escamas de Gema de Esmeralda"
+],
+"03540": [
+"Chapéu do Deserto",
+"Chapéus do Deserto"
+],
+"03541": [
+"Manopla de Assassino Básica",
+"Manoplas de Assassino Básicas"
+],
+"03542": [
+"Contrato de Desafio de Assassino",
+"Contratos de Desafio de Assassino"
+],
+"03543": [
+"Fragmento de Pedra Preciosa",
+"Fragmentos de Pedra Preciosa"
+],
+"03544": [
+"Gancho de Escalada",
+"Ganchos de Escalada"
+],
+"03545": [
+"Couro Curtido de Dragão da Tempestade",
+"Couros Curtidos de Dragão da Tempestade"
+],
+"03546": [
+"Couro Curtido de Verme da Areia",
+"Couros Curtidos de Verme da Areia"
+],
+"03547": [
+"Núcleo Elemental da Tempestade",
+"Núcleos Elementais da Tempestade"
+],
+"03548": [
+"Fato de Apicultor",
+"Fatos de Apicultor"
+],
+"03549": [
+"Foco do Feiticeiro Negro",
+"Focos do Feiticeiro Negro"
+],
+"03550": [
+"Luvas do Extrator Cuidadoso",
+"Luvas do Extrator Cuidadoso"
+],
+"03551": [
+"Botas de Rebento",
+"Botas de Rebento"
+],
+"03552": [
+"Luvas das Brasas Ardentes",
+"Luvas das Brasas Ardentes"
+],
+"03553": [
+"Panela Nómada",
+"Panelas Nómadas"
+],
+"03554": [
+"Livro de Runas do Acólito",
+"Livros de Runas do Acólito"
+],
+"03555": [
+"Espigão Afiado de Flecheiro",
+"Espigões Afiados de Flecheiro"
+],
+"03556": [
+"Kit de Costura Presa de Dragão",
+"Kits de Costura Presa de Dragão"
+],
+"03557": [
+"Luvas de Tecelão",
+"Luvas de Tecelão"
+],
+"03558": [
+"Sacola do Ladrão de Túmulos",
+"Sacolas do Ladrão de Túmulos"
+],
+"03559": [
+"Luvas de Hobforja",
+"Luvas de Hobforja"
+],
+"03560": [
+"Pepita de Ouro",
+"Pepitas de Ouro"
+],
+"03561": [
+"Picareta do Pedreiro (Danificada)",
+"Picaretas do Pedreiro (Danificadas)"
+],
+"03562": "Se calhar devias reparar isto em Trabalhos de Ferreiro.",
+"03563": [
+"Picareta do Pedreiro",
+"Picaretas do Pedreiro"
+],
+"03564": [
+"Picareta Imbuída de Essência (Danificada)",
+"Picaretas Imbuídas de Essência (Danificadas)"
+],
+"03565": [
+"Picareta Imbuída de Essência",
+"Picaretas Imbuídas de Essência"
+],
+"03566": [
+"Picareta Infernal (Danificada)",
+"Picaretas Infernais (Danificadas)"
+]
+}

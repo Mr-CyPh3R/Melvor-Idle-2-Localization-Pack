@@ -1,0 +1,548 @@
+{
+"02605": [
+"Çamur Büyücüsü Şapkası"
+],
+"02606": [
+"Duman Büyücüsü Botları"
+],
+"02607": [
+"Çamur Büyücüsü Eteği"
+],
+"02608": [
+"Duman Büyücüsü Cüppesi"
+],
+"02609": [
+"Duman Büyücüsü Şapkası"
+],
+"02610": [
+"Çamur Büyücüsü Botları"
+],
+"02611": [
+"Duman Büyücüsü Eteği"
+],
+"02612": [
+"Çamur Büyücüsü Cüppesi"
+],
+"02613": [
+"Sis Büyücüsü Şapkası"
+],
+"02614": [
+"Lav Büyücüsü Botları"
+],
+"02615": [
+"Sis Büyücüsü Eteği"
+],
+"02616": [
+"Lav Büyücüsü Cüppesi"
+],
+"02617": [
+"Lav Büyücüsü Şapkası"
+],
+"02618": [
+"Sis Büyücüsü Botları"
+],
+"02619": [
+"Lav Büyücüsü Eteği"
+],
+"02620": [
+"Sis Büyücüsü Cüppesi"
+],
+"02621": [
+"Element Büyücüsü Şapkası"
+],
+"02622": [
+"Element Büyücüsü Botları"
+],
+"02623": [
+"Element Büyücüsü Eteği"
+],
+"02624": [
+"Element Büyücüsü Cüppesi"
+],
+"02625": [
+"Kuş Yuvası"
+],
+"02626": "Tarım için düşük seviyeli tohumlar içerir.",
+"02627": [
+"Boş Kuş Yuvası"
+],
+"02628": "Bunun içinde hiçbir şey yok.",
+"02629": [
+"Kartal Yuvası"
+],
+"02630": "Tarım için yüksek seviyeli tohumlar içerir.",
+"02631": [
+"Boş Kartal Yuvası"
+],
+"02632": [
+"Ejder Yuvası"
+],
+"02633": "Bu eşyayı sakla. Yakında açılabilecek.",
+"02634": [
+"Boş Ejder Yuvası"
+],
+"02635": [
+"Limon Sandığı"
+],
+"02636": [
+"Midye Kaplı Sandık"
+],
+"02637": [
+"Hazine Sandığı"
+],
+"02638": [
+"Patates"
+],
+"02639": [
+"Soğan"
+],
+"02640": [
+"Marul"
+],
+"02641": [
+"Çilek"
+],
+"02642": [
+"Sarımsak"
+],
+"02643": [
+"Mısır"
+],
+"02644": [
+"Karpuz"
+],
+"02645": [
+"Snape Otu"
+],
+"02646": [
+"Domates"
+],
+"02647": [
+"Havuç"
+],
+"02648": [
+"Balkabağı"
+],
+"02649": [
+"Siyah Üzüm"
+],
+"02650": [
+"Lahana"
+],
+"02651": [
+"Karnabahar"
+],
+"02652": [
+"Penril Şifalı Otu"
+],
+"02653": [
+"Kuzukulağı Şifalı Otu"
+],
+"02654": [
+"Mantalim Şifalı Otu"
+],
+"02655": [
+"Nomel Şifalı Otu"
+],
+"02656": [
+"Oksilim Şifalı Otu"
+],
+"02657": [
+"Sporlil Şifalı Otu"
+],
+"02658": [
+"Larx Şifalı Otu"
+],
+"02659": [
+"Çorakbaş Şifalı Otu"
+],
+"02660": [
+"Muz"
+],
+"02661": [
+"Elma"
+],
+"02662": [
+"Vişne"
+],
+"02663": [
+"Şeftali"
+],
+"02664": [
+"Portakal"
+],
+"02665": [
+"Mango"
+],
+"02666": [
+"Patates Tohumu"
+],
+"02667": [
+"Soğan Tohumu"
+],
+"02668": [
+"Marul Tohumu"
+],
+"02669": [
+"Çilek Tohumu"
+],
+"02670": [
+"Buğday Tohumu"
+],
+"02671": [
+"Şeker Kamışı Sapı"
+],
+"02672": [
+"Sarımsak Tohumu"
+],
+"02673": [
+"Mısır Tohumu"
+],
+"02674": [
+"Karpuz Tohumu"
+],
+"02675": [
+"Snape Otu Tohumu"
+],
+"02676": [
+"Domates Tohumu"
+],
+"02677": [
+"Havuç Tohumu"
+],
+"02678": [
+"Balkabağı Tohumu"
+],
+"02679": [
+"Siyah Üzüm Tohumu"
+],
+"02680": [
+"Lahana Tohumu"
+],
+"02681": [
+"Karnabahar Tohumu"
+],
+"02682": [
+"Penril Tohumu"
+],
+"02683": [
+"Kuzukulağı Tohumu"
+],
+"02684": [
+"Mantalim Tohumu"
+],
+"02685": [
+"Nomel Tohumu"
+],
+"02686": [
+"Oksilim Tohumu"
+],
+"02687": [
+"Sporlil Tohumu"
+],
+"02688": [
+"Larx Tohumu"
+],
+"02689": [
+"Çorakbaş Tohumu"
+],
+"02690": [
+"Muz Ağacı Tohumu"
+],
+"02691": [
+"Elma Ağacı Tohumu"
+],
+"02692": [
+"Vişne Ağacı Tohumu"
+],
+"02693": [
+"Şeftali Ağacı Tohumu"
+],
+"02694": [
+"Portakal Ağacı Tohumu"
+],
+"02695": [
+"Mango Ağacı Tohumu"
+],
+"02696": [
+"Ayçiçeği Tohumu"
+],
+"02697": [
+"Kadife Çiçeği Tohumu"
+],
+"02698": [
+"Latin Çiçeği Tohumu"
+],
+"02699": [
+"Biberiye Tohumu"
+],
+"02700": [
+"Beyaz Zambak Tohumu"
+],
+"02701": [
+"Papatya Tohumu"
+],
+"02702": [
+"Şarap"
+],
+"02703": "Tarım Otomasyonu için tarım işçilerine ödeme yapmakta kullanılır.",
+"02704": [
+"Gübre"
+],
+"02705": [
+"Süper Gübre"
+],
+"02706": [
+"Kömürlü Gübre"
+],
+"02707": [
+"Ultra Gübre"
+],
+"02708": [
+"Suni Gübre"
+],
+"02709": [
+"Karides"
+],
+"02710": [
+"Sardalya"
+],
+"02711": [
+"Ringa"
+],
+"02712": [
+"Alabalık"
+],
+"02713": [
+"Somon"
+],
+"02714": [
+"Istakoz"
+],
+"02715": [
+"Köpekbalığı"
+],
+"02716": [
+"Vatoz"
+],
+"02717": [
+"Balina"
+],
+"02718": [
+"Tatlı Su Levreği"
+],
+"02719": [
+"Uskumru"
+],
+"02720": [
+"Turna Balığı"
+],
+"02721": [
+"Parlakyüzgeç"
+],
+"02722": [
+"Çipura"
+],
+"02723": [
+"Morina"
+],
+"02724": [
+"Levrek"
+],
+"02725": [
+"Aslanbalığı"
+],
+"02726": [
+"Parlayan Denizanası"
+],
+"02727": [
+"Ton Balığı"
+],
+"02728": [
+"Parlayan Kalamar"
+],
+"02729": [
+"Dev Yılanbalığı"
+],
+"02730": [
+"Sıradan Yem"
+],
+"02731": [
+"Uskumru Yemi"
+],
+"02732": [
+"Parlakyüzgeç Yemi"
+],
+"02733": [
+"Dev Balık Yemi"
+],
+"02734": [
+"Tahıl"
+],
+"02735": "Hayvancılıkta bazı hayvanlar için yem.",
+"02736": [
+"Un Kurdu"
+],
+"02737": [
+"Kemik"
+],
+"02738": [
+"İpek"
+],
+"02739": [
+"İnek Derisi"
+],
+"02740": [
+"Yün"
+],
+"02741": [
+"Bal"
+],
+"02742": [
+"Balmumu"
+],
+"02743": [
+"Ayçiçeği"
+],
+"02744": [
+"Kadife Çiçeği"
+],
+"02745": [
+"Biberiye Çiçeği"
+],
+"02746": [
+"Kurt Dişi"
+],
+"02747": [
+"Kurt Kürkü"
+],
+"02748": [
+"Küçük Yeşil Ejderha Pulu"
+],
+"02749": [
+"Küçük Mavi Ejderha Pulu"
+],
+"02750": [
+"Küçük Kırmızı Ejderha Pulu"
+],
+"02751": [
+"Küçük Siyah Ejderha Pulu"
+],
+"02752": [
+"Buğday"
+],
+"02753": [
+"Şeker Kamışı"
+],
+"02754": [
+"Şeker"
+],
+"02755": [
+"Un"
+],
+"02756": [
+"Yumurta"
+],
+"02757": [
+"Süt"
+],
+"02758": [
+"Tatlı Hamur"
+],
+"02759": [
+"Biftekli Sandviç"
+],
+"02760": [
+"Elmalı Turta"
+],
+"02761": [
+"Çipura Çorbası"
+],
+"02762": [
+"Balkabaklı Turta"
+],
+"02763": [
+"Çizburger"
+],
+"02764": [
+"Pasta Keki"
+],
+"02765": [
+"Çorba Tabanı"
+],
+"02766": [
+"Suşi Tabanı"
+],
+"02767": [
+"Tavuklu Sandviç"
+],
+"02768": [
+"Istakozlu Sandviç"
+],
+"02769": [
+"Ton Balıklı Sandviç"
+],
+"02770": [
+"Muzlu Pankek"
+],
+"02771": [
+"Elmalı Pankek"
+],
+"02772": [
+"Vişneli Pankek"
+],
+"02773": [
+"Mangolu Pankek"
+],
+"02774": [
+"Çilekli Pasta"
+],
+"02775": [
+"Havuçlu Pasta"
+],
+"02776": [
+"Portakallı Pasta"
+],
+"02777": [
+"Vişneli Turta"
+],
+"02778": [
+"Sade Hamur"
+],
+"02779": [
+"Somon Çorbası"
+],
+"02780": [
+"Aslanbalığı Çorbası"
+],
+"02781": [
+"Köpekbalığı Çorbası"
+],
+"02782": [
+"Sebze Çorbası"
+],
+"02783": [
+"Alabalıklı Suşi"
+],
+"02784": [
+"Somonlu Suşi"
+],
+"02785": [
+"Morinalı Suşi"
+],
+"02786": [
+"Parlayan Suşi"
+],
+"02787": [
+"Ton Balıklı Köpekbalığı Suşisi"
+],
+"02788": [
+"Sebzeli Suşi"
+],
+"02789": [
+"Lazanya"
+],
+"02790": [
+"Karışık Pizza"
+]
+}

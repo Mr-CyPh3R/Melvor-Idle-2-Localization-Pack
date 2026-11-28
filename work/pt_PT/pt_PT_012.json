@@ -1,0 +1,652 @@
+{
+ "02441": [
+  "Calças do Feiticeiro da Água",
+  "Calças do Feiticeiro da Água"
+ ],
+ "02442": [
+  "Veste do Feiticeiro da Água",
+  "Vestes do Feiticeiro da Água"
+ ],
+ "02443": [
+  "Chapéu do Feiticeiro da Terra",
+  "Chapéus do Feiticeiro da Terra"
+ ],
+ "02444": [
+  "Botas do Feiticeiro da Terra",
+  "Botas do Feiticeiro da Terra"
+ ],
+ "02445": [
+  "Calças do Feiticeiro da Terra",
+  "Calças do Feiticeiro da Terra"
+ ],
+ "02446": [
+  "Vestes do Feiticeiro da Terra",
+  "Vestes do Feiticeiro da Terra"
+ ],
+ "02447": [
+  "Chapéu do Feiticeiro do Fogo",
+  "Chapéus do Feiticeiro do Fogo"
+ ],
+ "02448": [
+  "Botas do Feiticeiro do Fogo",
+  "Botas do Feiticeiro do Fogo"
+ ],
+ "02449": [
+  "Calças do Feiticeiro do Fogo",
+  "Calças do Feiticeiro do Fogo"
+ ],
+ "02450": [
+  "Vestes do Feiticeiro do Fogo",
+  "Vestes do Feiticeiro do Fogo"
+ ],
+ "02451": [
+  "Espada de Pedra",
+  "Espadas de Pedra"
+ ],
+ "02452": [
+  "Ponta de Pique de Pedra",
+  "Pontas de Pique de Pedra"
+ ],
+ "02453": [
+  "Ponta de Pique de Aço",
+  "Pontas de Pique de Aço"
+ ],
+ "02454": [
+  "Ponta de Pique de Mithril",
+  "Pontas de Pique de Mithril"
+ ],
+ "02455": [
+  "Ponta de Pique de Adamantino",
+  "Pontas de Pique de Adamantino"
+ ],
+ "02456": [
+  "Ponta de Pique de Runa",
+  "Pontas de Pique de Runa"
+ ],
+ "02457": [
+  "Ponta de Pique de Aço da Aurora",
+  "Pontas de Pique de Aço da Aurora"
+ ],
+ "02458": [
+  "Ponta de Pique do Dragão",
+  "Pontas de Pique do Dragão"
+ ],
+ "02459": [
+  "Haste de Seta",
+  "Hastes de Setas"
+ ],
+ "02460": [
+  "Lança de Cobre",
+  "Lanças de Cobre"
+ ],
+ "02461": [
+  "Lança de Ferro",
+  "Lanças de Ferro"
+ ],
+ "02462": "Atira isto a um Monstro e vê o que acontece.",
+ "02463": [
+  "Lança de Aço",
+  "Lanças de Aço"
+ ],
+ "02464": [
+  "Lança de Mithril",
+  "Lanças de Mithril"
+ ],
+ "02465": [
+  "Lança de Adamantino",
+  "Lanças de Adamantino"
+ ],
+ "02466": [
+  "Lança de Runa",
+  "Lanças de Runa"
+ ],
+ "02467": [
+  "Lança de Aço da Aurora",
+  "Lanças de Aço da Aurora"
+ ],
+ "02468": [
+  "Lança do Dragão",
+  "Lanças do Dragão"
+ ],
+ "02469": [
+  "Escudo de Pele",
+  "Escudos de Pele"
+ ],
+ "02470": [
+  "Armadura de Pele",
+  "Armaduras de Pele"
+ ],
+ "02471": [
+  "Avambraços de Pele Rígida",
+  "Avambraços de Pele Rígida"
+ ],
+ "02472": [
+  "Botas de Pele Rígida",
+  "Botas de Pele Rígida"
+ ],
+ "02473": [
+  "Capuz de Pele Rígida",
+  "Capuzes de Pele Rígida"
+ ],
+ "02474": [
+  "Escudo de Pele Rígida",
+  "Escudos de Pele Rígida"
+ ],
+ "02475": [
+  "Calças de Pele Rígida",
+  "Calças de Pele Rígida"
+ ],
+ "02476": [
+  "Armadura de Pele Rígida",
+  "Armaduras de Pele Rígida"
+ ],
+ "02477": [
+  "Avambraços de Pele Cravejada",
+  "Avambraços de Pele Cravejada"
+ ],
+ "02478": [
+  "Botas de Pele Cravejada",
+  "Botas de Pele Cravejada"
+ ],
+ "02479": [
+  "Capuz de Pele Cravejada",
+  "Capuzes de Pele Cravejada"
+ ],
+ "02480": [
+  "Escudo de Pele Cravejada",
+  "Escudos de Pele Cravejada"
+ ],
+ "02481": [
+  "Calças de Pele Cravejada",
+  "Calças de Pele Cravejada"
+ ],
+ "02482": [
+  "Armadura de Pele Cravejada",
+  "Armaduras de Pele Cravejada"
+ ],
+ "02483": [
+  "Avambraços de Malha",
+  "Avambraços de Malha"
+ ],
+ "02484": [
+  "Botas de Malha",
+  "Botas de Malha"
+ ],
+ "02485": [
+  "Capuz de Malha",
+  "Capuzes de Malha"
+ ],
+ "02486": [
+  "Escudo de Malha",
+  "Escudos de Malha"
+ ],
+ "02487": [
+  "Calças de Malha",
+  "Calças de Malha"
+ ],
+ "02488": [
+  "Cota de Malha",
+  "Cotas de Malha"
+ ],
+ "02489": [
+  "Capuz de Couro de Dragão Verde",
+  "Capuzes de Couro de Dragão Verde"
+ ],
+ "02490": [
+  "Calças de Couro de Dragão Verde",
+  "Calças de Couro de Dragão Verde"
+ ],
+ "02491": [
+  "Armadura de Couro de Dragão Verde",
+  "Armaduras de Couro de Dragão Verde"
+ ],
+ "02492": [
+  "Capuz de Couro de Dragão Azul",
+  "Capuzes de Couro de Dragão Azul"
+ ],
+ "02493": [
+  "Calças de Couro de Dragão Azul",
+  "Calças de Couro de Dragão Azul"
+ ],
+ "02494": [
+  "Armadura de Couro de Dragão Azul",
+  "Armaduras de Couro de Dragão Azul"
+ ],
+ "02495": [
+  "Capuz de Couro de Dragão Vermelho",
+  "Capuzes de Couro de Dragão Vermelho"
+ ],
+ "02496": [
+  "Calças de Couro de Dragão Vermelho",
+  "Calças de Couro de Dragão Vermelho"
+ ],
+ "02497": [
+  "Armadura de Couro de Dragão Vermelho",
+  "Armaduras de Couro de Dragão Vermelho"
+ ],
+ "02498": [
+  "Capuz de Couro de Dragão Negro",
+  "Capuzes de Couro de Dragão Negro"
+ ],
+ "02499": [
+  "Calças de Couro de Dragão Negro",
+  "Calças de Couro de Dragão Negro"
+ ],
+ "02500": [
+  "Armadura de Couro de Dragão Negro",
+  "Armaduras de Couro de Dragão Negro"
+ ],
+ "02501": [
+  "Anel de Topázio de Prata",
+  "Anéis de Topázio de Prata"
+ ],
+ "02502": [
+  "Anel de Safira de Prata",
+  "Anéis de Safira de Prata"
+ ],
+ "02503": [
+  "Anel de Rubi de Prata",
+  "Anéis de Rubi de Prata"
+ ],
+ "02504": [
+  "Anel de Esmeralda de Prata",
+  "Anéis de Esmeralda de Prata"
+ ],
+ "02505": [
+  "Anel de Diamante de Prata",
+  "Anéis de Diamante de Prata"
+ ],
+ "02506": [
+  "Anel de Jade de Prata",
+  "Anéis de Jade de Prata"
+ ],
+ "02507": [
+  "Anel de Safira de Ouro",
+  "Anéis de Safira de Ouro"
+ ],
+ "02508": [
+  "Anel de Rubi de Ouro",
+  "Anéis de Rubi de Ouro"
+ ],
+ "02509": [
+  "Anel de Esmeralda de Ouro",
+  "Anéis de Esmeralda de Ouro"
+ ],
+ "02510": [
+  "Anel de Diamante de Ouro",
+  "Anéis de Diamante de Ouro"
+ ],
+ "02511": [
+  "Anel de Jade de Ouro",
+  "Anéis de Jade de Ouro"
+ ],
+ "02512": [
+  "Amuleto de Topázio de Prata",
+  "Amuletos de Topázio de Prata"
+ ],
+ "02513": [
+  "Amuleto de Safira de Prata",
+  "Amuletos de Safira de Prata"
+ ],
+ "02514": [
+  "Amuleto de Rubi de Prata",
+  "Amuletos de Rubi de Prata"
+ ],
+ "02515": [
+  "Amuleto de Esmeralda de Prata",
+  "Amuletos de Esmeralda de Prata"
+ ],
+ "02516": [
+  "Amuleto de Diamante de Prata",
+  "Amuletos de Diamante de Prata"
+ ],
+ "02517": [
+  "Amuleto de Jade de Prata",
+  "Amuletos de Jade de Prata"
+ ],
+ "02518": [
+  "Amuleto de Topázio de Ouro",
+  "Amuletos de Topázio de Ouro"
+ ],
+ "02519": [
+  "Amuleto de Safira de Ouro",
+  "Amuletos de Safira de Ouro"
+ ],
+ "02520": [
+  "Amuleto de Rubi de Ouro",
+  "Amuletos de Rubi de Ouro"
+ ],
+ "02521": [
+  "Amuleto de Esmeralda de Ouro",
+  "Amuletos de Esmeralda de Ouro"
+ ],
+ "02522": [
+  "Amuleto de Diamante de Ouro",
+  "Amuletos de Diamante de Ouro"
+ ],
+ "02523": [
+  "Amuleto de Jade de Ouro",
+  "Amuletos de Jade de Ouro"
+ ],
+ "02524": [
+  "Pena de Harpia",
+  "Penas de Harpia"
+ ],
+ "02525": [
+  "Carvão",
+  "Carvão"
+ ],
+ "02526": [
+  "Topázio em Bruto",
+  "Topázios em Bruto"
+ ],
+ "02527": [
+  "Safira em Bruto",
+  "Safiras em Bruto"
+ ],
+ "02528": [
+  "Rubi em Bruto",
+  "Rubis em Bruto"
+ ],
+ "02529": [
+  "Esmeralda em Bruto",
+  "Esmeraldas em Bruto"
+ ],
+ "02530": [
+  "Diamante em Bruto",
+  "Diamantes em Bruto"
+ ],
+ "02531": [
+  "Jade em Bruto",
+  "Jades em Bruto"
+ ],
+ "02532": [
+  "Argila",
+  "Argila"
+ ],
+ "02533": [
+  "Balde de Água",
+  "Baldes de Água"
+ ],
+ "02534": [
+  "Balde de Areia",
+  "Baldes de Areia"
+ ],
+ "02535": [
+  "Vidro Fundido",
+  "Vidro Fundido"
+ ],
+ "02536": [
+  "Pacote de Frascos",
+  "Pacotes de Frascos"
+ ],
+ "02537": [
+  "Orbe sem Energia",
+  "Orbes sem Energia"
+ ],
+ "02538": [
+  "Lanterna Vazia",
+  "Lanternas Vazias"
+ ],
+ "02539": [
+  "Semente de Sequoia",
+  "Sementes de Sequoia"
+ ],
+ "02540": [
+  "Carvão Vegetal",
+  "Carvão Vegetal"
+ ],
+ "02541": [
+  "Cinza",
+  "Cinza"
+ ],
+ "02542": [
+  "Fuligem",
+  "Fuligem"
+ ],
+ "02543": [
+  "Brasa",
+  "Brasas"
+ ],
+ "02544": [
+  "Arco de Carvalho Rijo",
+  "Arcos de Carvalho Rijo"
+ ],
+ "02545": [
+  "Toro de Carvalho Rijo",
+  "Toros de Carvalho Rijo"
+ ],
+ "02546": [
+  "Bumerangue de Carvalho Rijo",
+  "Bumerangues de Carvalho Rijo"
+ ],
+ "02547": [
+  "Besta de Duas Mãos de Ferro",
+  "Bestas de Duas Mãos de Ferro"
+ ],
+ "02548": [
+  "Essência Pura",
+  "Essência Pura"
+ ],
+ "02549": [
+  "Pique de Aço",
+  "Piques de Aço"
+ ],
+ "02550": [
+  "Pique de Mithril",
+  "Piques de Mithril"
+ ],
+ "02551": [
+  "Pique de Adamantino",
+  "Piques de Adamantino"
+ ],
+ "02552": [
+  "Pique de Runa",
+  "Piques de Runa"
+ ],
+ "02553": [
+  "Pique de Aço da Aurora",
+  "Piques de Aço da Aurora"
+ ],
+ "02554": [
+  "Pique do Dragão",
+  "Piques do Dragão"
+ ],
+ "02555": [
+  "Amêijoa com Pérola",
+  "Amêijoas com Pérola"
+ ],
+ "02556": "Item valioso para vender.",
+ "02557": [
+  "Colar de Conchas",
+  "Colares de Conchas"
+ ],
+ "02558": [
+  "Adaga Antiga Enferrujada",
+  "Adagas Antigas Enferrujadas"
+ ],
+ "02559": [
+  "Luvas Antiestilhaços",
+  "Luvas Antiestilhaços"
+ ],
+ "02560": [
+  "Rede Firme",
+  "Redes Firmes"
+ ],
+ "02561": [
+  "Vela Antiga Rasgada",
+  "Velas Antigas Rasgadas"
+ ],
+ "02562": [
+  "Pedra Luminosa do Fundo do Mar",
+  "Pedras Luminosas do Fundo do Mar"
+ ],
+ "02563": [
+  "Anel de Pesca Perdido",
+  "Anéis de Pesca Perdidos"
+ ],
+ "02564": [
+  "Colar de Dente de Tubarão",
+  "Colares de Dente de Tubarão"
+ ],
+ "02565": [
+  "Coral Arco-Íris",
+  "Corais Arco-Íris"
+ ],
+ "02566": [
+  "Anel de Escama Cintilante",
+  "Anéis de Escama Cintilante"
+ ],
+ "02567": [
+  "Tufo de Algas",
+  "Tufos de Algas"
+ ],
+ "02568": [
+  "Runa da Alma",
+  "Runas da Alma"
+ ],
+ "02569": [
+  "Varinha de Guerra do Ar",
+  "Varinhas de Guerra do Ar"
+ ],
+ "02570": [
+  "Varinha de Guerra da Água",
+  "Varinhas de Guerra da Água"
+ ],
+ "02571": [
+  "Varinha de Guerra da Terra",
+  "Varinhas de Guerra da Terra"
+ ],
+ "02572": [
+  "Varinha de Guerra do Fogo",
+  "Varinhas de Guerra do Fogo"
+ ],
+ "02573": [
+  "Varinha Mística do Ar",
+  "Varinhas Místicas do Ar"
+ ],
+ "02574": [
+  "Varinha Mística da Água",
+  "Varinhas Místicas da Água"
+ ],
+ "02575": [
+  "Varinha Mística da Terra",
+  "Varinhas Místicas da Terra"
+ ],
+ "02576": [
+  "Varinha Mística do Fogo",
+  "Varinhas Místicas do Fogo"
+ ],
+ "02577": [
+  "Bastão Místico do Ar",
+  "Bastões Místicos do Ar"
+ ],
+ "02578": [
+  "Bastão Místico da Água",
+  "Bastões Místicos da Água"
+ ],
+ "02579": [
+  "Bastão Místico da Terra",
+  "Bastões Místicos da Terra"
+ ],
+ "02580": [
+  "Bastão Místico do Fogo",
+  "Bastões Místicos do Fogo"
+ ],
+ "02581": [
+  "Varinha da Fúria do Ar",
+  "Varinhas da Fúria do Ar"
+ ],
+ "02582": [
+  "Varinha da Fúria da Água",
+  "Varinhas da Fúria da Água"
+ ],
+ "02583": [
+  "Varinha da Fúria da Terra",
+  "Varinhas da Fúria da Terra"
+ ],
+ "02584": [
+  "Varinha da Fúria do Fogo",
+  "Varinhas da Fúria do Fogo"
+ ],
+ "02585": [
+  "Bastão da Fúria do Ar",
+  "Bastões da Fúria do Ar"
+ ],
+ "02586": [
+  "Bastão da Fúria da Água",
+  "Bastões da Fúria da Água"
+ ],
+ "02587": [
+  "Bastão da Fúria da Terra",
+  "Bastões da Fúria da Terra"
+ ],
+ "02588": [
+  "Bastão da Fúria do Fogo",
+  "Bastões da Fúria do Fogo"
+ ],
+ "02589": [
+  "Chapéu do Feiticeiro básico",
+  "Chapéus do Feiticeiro básicos"
+ ],
+ "02590": [
+  "Botas do Feiticeiro básicas",
+  "Botas do Feiticeiro básicas"
+ ],
+ "02591": [
+  "Calças do Feiticeiro básicas",
+  "Calças do Feiticeiro básicas"
+ ],
+ "02592": [
+  "Veste do Feiticeiro básica",
+  "Vestes do Feiticeiro básicas"
+ ],
+ "02593": [
+  "Chapéu do Feiticeiro Hábil",
+  "Chapéus do Feiticeiro Hábil"
+ ],
+ "02594": [
+  "Botas do Feiticeiro Hábil",
+  "Botas do Feiticeiro Hábil"
+ ],
+ "02595": [
+  "Calças do Feiticeiro Hábil",
+  "Calças do Feiticeiro Hábil"
+ ],
+ "02596": [
+  "Veste do Feiticeiro Hábil",
+  "Vestes do Feiticeiro Hábil"
+ ],
+ "02597": [
+  "Chapéu do Feiticeiro do Pó",
+  "Chapéus do Feiticeiro do Pó"
+ ],
+ "02598": [
+  "Botas do Feiticeiro do Vapor",
+  "Botas do Feiticeiro do Vapor"
+ ],
+ "02599": [
+  "Calças do Feiticeiro do Pó",
+  "Calças do Feiticeiro do Pó"
+ ],
+ "02600": [
+  "Veste do Feiticeiro do Vapor",
+  "Vestes do Feiticeiro do Vapor"
+ ],
+ "02601": [
+  "Chapéu do Feiticeiro do Vapor",
+  "Chapéus do Feiticeiro do Vapor"
+ ],
+ "02602": [
+  "Botas do Feiticeiro do Pó",
+  "Botas do Feiticeiro do Pó"
+ ],
+ "02603": [
+  "Calças do Feiticeiro do Vapor",
+  "Calças do Feiticeiro do Vapor"
+ ],
+ "02604": [
+  "Veste do Feiticeiro do Pó",
+  "Vestes do Feiticeiro do Pó"
+ ]
+}

@@ -1,0 +1,462 @@
+{
+"02069": "Tarım Bacakları",
+"02070": "Tarım Botları",
+"02071": "Tarım Eldivenleri",
+"02072": "Tarım Aleti",
+"02073": "Tarım İksiri",
+"02074": "Tarım Yardımcı Eşyası 1",
+"02075": "Tarım Yardımcı Eşyası 2",
+"02076": "Tarım Pelerini",
+"02077": "Hayvancılık Miğferi",
+"02078": "Hayvancılık Gövdesi",
+"02079": "Hayvancılık Bacakları",
+"02080": "Hayvancılık Botları",
+"02081": "Hayvancılık Eldivenleri",
+"02082": "Hayvancılık Aleti",
+"02083": "Hayvancılık İksiri",
+"02084": "Hayvancılık Yardımcı Eşyası 1",
+"02085": "Hayvancılık Yardımcı Eşyası 2",
+"02086": "Hayvancılık Pelerini",
+"02087": "Madencilik Gözlem Günlüğü",
+"02088": "Astroloji Miğferi",
+"02089": "Astroloji Gövdesi",
+"02090": "Astroloji Bacakları",
+"02091": "Astroloji Botları",
+"02092": "Astroloji Eldivenleri",
+"02093": "Astroloji Aleti",
+"02094": "Astroloji İksiri",
+"02095": "Astroloji Yardımcı Eşyası 1",
+"02096": "Astroloji Yardımcı Eşyası 2",
+"02097": "Astroloji Pelerini",
+"02098": "İksir Zanaatı Katalizörü",
+"02099": "İksir",
+"02100": "Yardımcı Eşya",
+"02101": "Alet",
+"02102": "Gözlem Günlüğü",
+"02103": "Katalizör",
+"02104": "Savaş Yardımcı Eşyası",
+"02105": "Odunculuk Yardımcı Eşyası",
+"02106": "Balıkçılık Yardımcı Eşyası",
+"02107": "Ateş Yakma Yardımcı Eşyası",
+"02108": "Aşçılık Yardımcı Eşyası",
+"02109": "Madencilik Yardımcı Eşyası",
+"02110": "Metal İşleme Yardımcı Eşyası",
+"02111": "Menzilli Silah Yapımı Yardımcı Eşyası",
+"02112": "Zanaat Yardımcı Eşyası",
+"02113": "Run Zanaatı Yardımcı Eşyası",
+"02114": "Avcılık Yardımcı Eşyası",
+"02115": "Canavar Zanaatı Yardımcı Eşyası",
+"02116": "İksir Zanaatı Yardımcı Eşyası",
+"02117": "Hırsızlık Yardımcı Eşyası",
+"02118": "Çeviklik Yardımcı Eşyası",
+"02119": "Tarım Yardımcı Eşyası",
+"02120": "Hayvancılık Yardımcı Eşyası",
+"02121": "Astroloji Yardımcı Eşyası",
+"02122": "Altın Para",
+"02125": "KS",
+"02127": "LP",
+"02128": [
+"Yumruklar"
+],
+"02129": [
+"Normal Kütük"
+],
+"02130": [
+"Meşe Kütüğü"
+],
+"02131": [
+"Söğüt Kütüğü"
+],
+"02132": [
+"Tik Kütüğü"
+],
+"02133": [
+"Akçaağaç Kütüğü"
+],
+"02134": [
+"Maun Kütüğü"
+],
+"02135": [
+"Porsuk Kütüğü"
+],
+"02136": [
+"Büyülü Kütük"
+],
+"02137": [
+"Kızılçam Kütüğü"
+],
+"02138": [
+"Keten"
+],
+"02139": [
+"Çubuk"
+],
+"02140": [
+"Kehribar Sarmaşığı Yaprağı"
+],
+"02141": [
+"Diken Yosunu Yaprağı"
+],
+"02142": [
+"Akşam Yaprağı"
+],
+"02143": [
+"Taze Karides"
+],
+"02144": [
+"Taze Sardalya"
+],
+"02145": [
+"Taze Ringa"
+],
+"02146": [
+"Taze Alabalık"
+],
+"02147": [
+"Taze Somon"
+],
+"02148": [
+"Taze Istakoz"
+],
+"02149": [
+"Taze Köpekbalığı"
+],
+"02150": [
+"Taze Vatoz"
+],
+"02151": [
+"Taze Balina"
+],
+"02152": [
+"Taş"
+],
+"02153": [
+"Bakır Cevheri"
+],
+"02154": [
+"Demir Cevheri"
+],
+"02155": [
+"Gümüş Cevheri"
+],
+"02156": [
+"Altın Cevheri"
+],
+"02157": [
+"Mithril Cevheri"
+],
+"02158": [
+"Adamantit Cevheri"
+],
+"02159": [
+"Runit Cevheri"
+],
+"02160": [
+"Şafak Çeliği Cevheri"
+],
+"02161": [
+"Ejderit Cevheri"
+],
+"02162": [
+"Jeot"
+],
+"02163": "Ödül almak için açılabilir.",
+"02164": [
+"Jeot Tozu"
+],
+"02165": "Çok tozlu",
+"02166": [
+"Bakır Külçe"
+],
+"02167": [
+"Demir Külçe"
+],
+"02168": [
+"Çelik Külçe"
+],
+"02169": [
+"Altın Külçe"
+],
+"02170": [
+"Mithril Külçe"
+],
+"02171": [
+"Adamantit Külçe"
+],
+"02172": [
+"Runit Külçe"
+],
+"02173": [
+"Şafak Çeliği Külçe"
+],
+"02174": [
+"Ejderit Külçe"
+],
+"02175": [
+"Taş Ok Ucu"
+],
+"02176": [
+"Taş Eldivenler"
+],
+"02177": [
+"Taş Miğfer"
+],
+"02178": [
+"Taş Botlar"
+],
+"02179": [
+"Taş Tokmak"
+],
+"02180": [
+"Taş Bacak Zırhları"
+],
+"02181": [
+"Taş Göğüs Zırhı"
+],
+"02182": [
+"Bakır Hançer"
+],
+"02183": [
+"Bakır Savunucu"
+],
+"02184": [
+"Bakır Ok Ucu"
+],
+"02185": [
+"Bakır Mızrak Ucu"
+],
+"02186": [
+"Bakır Kılıç"
+],
+"02187": [
+"Bakır Eldivenler"
+],
+"02188": [
+"Bakır Pala"
+],
+"02189": [
+"Bakır Miğfer"
+],
+"02190": [
+"Bakır Botlar"
+],
+"02191": [
+"Bakır Kalkan"
+],
+"02192": [
+"İki Elli Bakır Kılıç"
+],
+"02193": [
+"Bakır Tokmak"
+],
+"02194": [
+"Bakır Bacak Zırhları"
+],
+"02195": [
+"Bakır Göğüs Zırhı"
+],
+"02196": [
+"Demir Hançer"
+],
+"02197": [
+"Demir Savunucu"
+],
+"02198": [
+"Demir Ok Ucu"
+],
+"02199": [
+"Demir Mızrak Ucu"
+],
+"02200": [
+"Demir Kılıç"
+],
+"02201": [
+"Demir Eldivenler"
+],
+"02202": [
+"Demir Pala"
+],
+"02203": [
+"Demir Miğfer"
+],
+"02204": [
+"Demir Botlar"
+],
+"02205": [
+"Demir Kalkan"
+],
+"02206": [
+"İki Elli Demir Kılıç"
+],
+"02207": [
+"Demir Tokmak"
+],
+"02208": [
+"Demir Arbalet Kanadı"
+],
+"02209": [
+"Demir Bacak Zırhları"
+],
+"02210": [
+"Demir Göğüs Zırhı"
+],
+"02211": [
+"Çelik Hançer"
+],
+"02212": [
+"Çelik Savunucu"
+],
+"02213": [
+"Çelik Ok Ucu"
+],
+"02214": [
+"Çelik Mızrak Ucu"
+],
+"02215": [
+"Çelik Kılıç"
+],
+"02216": [
+"Çelik Eldivenler"
+],
+"02217": [
+"Çelik Pala"
+],
+"02218": [
+"Çelik Miğfer"
+],
+"02219": [
+"Çelik Botlar"
+],
+"02220": [
+"Çelik Kalkan"
+],
+"02221": [
+"İki Elli Çelik Kılıç"
+],
+"02222": [
+"Çelik Tokmak"
+],
+"02223": [
+"Çelik Arbalet Kanadı"
+],
+"02224": [
+"Çelik Bacak Zırhları"
+],
+"02225": [
+"Çelik Göğüs Zırhı"
+],
+"02226": [
+"Mithril Hançer"
+],
+"02227": [
+"Mithril Savunucu"
+],
+"02228": [
+"Mithril Ok Ucu"
+],
+"02229": [
+"Mithril Mızrak Ucu"
+],
+"02230": [
+"Mithril Kılıç"
+],
+"02231": [
+"Mithril Eldivenler"
+],
+"02232": [
+"Mithril Pala"
+],
+"02233": [
+"Mithril Miğfer"
+],
+"02234": [
+"Mithril Botlar"
+],
+"02235": [
+"Mithril Kalkan"
+],
+"02236": [
+"İki Elli Mithril Kılıç"
+],
+"02237": [
+"Mithril Tokmak"
+],
+"02238": [
+"Mithril Arbalet Kanadı"
+],
+"02239": [
+"Mithril Bacak Zırhları"
+],
+"02240": [
+"Mithril Göğüs Zırhı"
+],
+"02241": [
+"Adamantit Hançer"
+],
+"02242": [
+"Adamantit Savunucu"
+],
+"02243": [
+"Adamantit Ok Ucu"
+],
+"02244": [
+"Adamantit Mızrak Ucu"
+],
+"02245": [
+"Adamantit Kılıç"
+],
+"02246": [
+"Adamantit Eldivenler"
+],
+"02247": [
+"Adamantit Pala"
+],
+"02248": [
+"Adamantit Miğfer"
+],
+"02249": [
+"Adamantit Botlar"
+],
+"02250": [
+"Adamantit Kalkan"
+],
+"02251": [
+"İki Elli Adamantit Kılıç"
+],
+"02252": [
+"Adamantit Tokmak"
+],
+"02253": [
+"Adamantit Arbalet Kanadı"
+],
+"02254": [
+"Adamantit Bacak Zırhları"
+],
+"02255": [
+"Adamantit Göğüs Zırhı"
+],
+"02256": [
+"Runit Hançer"
+],
+"02257": [
+"Runit Savunucu"
+],
+"02258": [
+"Runit Ok Ucu"
+],
+"02259": [
+"Runit Mızrak Ucu"
+],
+"02260": [
+"Runit Kılıç"
+],
+"02261": [
+"Runit Eldivenler"
+],
+"02262": [
+"Runit Pala"
+],
+"02263": [
+"Runit Miğfer"
+]
+}
