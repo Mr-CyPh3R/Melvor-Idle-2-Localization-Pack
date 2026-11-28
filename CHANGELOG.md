@@ -10,7 +10,7 @@
 * Three texts of the save menu were missing in every language and are now translated: "Backup Save", "Export Backup Save" and "View Other Saves".
 
 ### Other
-* The version without Mod Loader no longer contains the folder Languages/Mods (texts for Mod Loader, which are only used with Mod Loader).
+* The version without Mod Loader is now called Standalone (`Localization_Pack_v<version>_Standalone.zip`) and no longer contains the folder Languages/Mods (texts for Mod Loader, which are only used with Mod Loader).
 * The table "How these translations were made" now also counts the texts filled in by script (names the game looks up without context, and the conversion of Chinese, Traditional), so every language shows about 15,170 texts.
 
 ## 1.4.0 (2026-11-26)

@@ -5,7 +5,7 @@ Sprachen stehen in mod/Mods/Localization Pack/mod.json unter "languages" ("file"
 Für jede Sprache <code> wird dist/<code>.po (aus tools/build.py) an den Pfad aus "file" kopiert (Languages/Game/<code>.po),
 Übersetzungen für andere Mods (dist/mods/<Mod>/) nach Languages/Mods/<Mod>/ (nur für die Mod-Loader-Fassung).
 Die override.cfg wird aus der Liste der Spielsprachen erzeugt, damit alle Sprachen des Packs geladen werden.
-Ergebnis: dist/Localization_Pack_v<version>.zip mit override.cfg und Mods/Localization Pack/ (ohne Languages/Mods),
+Ergebnis: dist/Localization_Pack_v<version>_Standalone.zip mit override.cfg und Mods/Localization Pack/ (ohne Languages/Mods),
          dist/Localization_Pack_v<version>_ModLoader.zip mit Mods/Localization Pack/ samt Languages/Mods und DLL
 --install kopiert alles in den Spielordner (überschreibt nur eine eigene override.cfg).
 """
@@ -67,7 +67,7 @@ locale/translations=PackedStringArray({", ".join(f'"{p}"' for p in paths)})
 open(os.path.join(SRC, 'override.cfg'), 'w', encoding='utf-8').write(override)
 
 LOADER_ONLY = os.path.join(MOD_DIR, 'Languages', 'Mods')  # Texte anderer Mods nur in der Mod-Loader-Fassung
-zip_path = f'dist/Localization_Pack_v{cfg["version"]}.zip'
+zip_path = f'dist/Localization_Pack_v{cfg["version"]}_Standalone.zip'
 with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as z:
     for root, _, files in os.walk(SRC):
         if os.path.normpath(root).startswith(os.path.normpath(LOADER_ONLY)):

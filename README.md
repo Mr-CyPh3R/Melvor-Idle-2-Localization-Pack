@@ -42,7 +42,7 @@ Found a wrong or missing translation? Please open an issue.
 
 1. Close the game.
 2. In Steam: right-click **Melvor Idle 2** > **Manage** > **Browse local files**.
-3. Download the latest release and extract it (`override.cfg` and the `Mods` folder) into that folder, next to `Melvor2.exe`.
+3. Download the **Standalone version** of the latest release (`Localization_Pack_v<version>_Standalone.zip`) and extract it (`override.cfg` and the `Mods` folder) into that folder, next to `Melvor2.exe`.
 4. Start the game and choose your language in **Settings > Language**.
 
 ```
