@@ -1,0 +1,161 @@
+{
+"10322": "{0:P0} olasılıkla uygula: [effectIcon/] {1}",
+"10323": "{0:P0} olasılıkla uygula: [effectIcon/] {1}",
+"10324": [
+"Kazan: {0:N0} birikme [effectIcon/] {1}"
+],
+"10325": [
+"Kendine uygula: {0:N0} birikme [effectIcon/] {1}"
+],
+"10326": [
+"Uygula: {0:N0} birikme [effectIcon/] {1}"
+],
+"10327": [
+"Uygula: {0:N0} birikme [effectIcon/] {1}"
+],
+"10328": [
+"{0:P0} olasılıkla kazan: {1:N0} birikme [effectIcon/] {2}"
+],
+"10329": [
+"{0:P0} olasılıkla kendine uygula: {1:N0} birikme [effectIcon/] {2}"
+],
+"10330": [
+"{0:P0} olasılıkla uygula: {1:N0} birikme [effectIcon/] {2}"
+],
+"10331": [
+"{0:P0} olasılıkla uygula: {1:N0} birikme [effectIcon/] {2}"
+],
+"10332": [
+"{1:N0} tur boyunca kazan: [effectIcon/] {0}"
+],
+"10333": [
+"{1:N0} tur boyunca kendine uygula: [effectIcon/] {0}"
+],
+"10334": [
+"{1:N0} tur boyunca uygula: [effectIcon/] {0}"
+],
+"10335": [
+"{1:N0} tur boyunca uygula: [effectIcon/] {0}"
+],
+"10336": [
+"{0:P0} olasılıkla {2:N0} tur boyunca kazan: [effectIcon/] {1}"
+],
+"10337": [
+"{0:P0} olasılıkla {2:N0} tur boyunca kendine uygula: [effectIcon/] {1}"
+],
+"10338": [
+"{0:P0} olasılıkla {2:N0} tur boyunca uygula: [effectIcon/] {1}"
+],
+"10339": [
+"{0:P0} olasılıkla {2:N0} tur boyunca uygula: [effectIcon/] {1}"
+],
+"10340": [
+"{3:N0} tur boyunca kazan: {0:N0}-{1:N0} birikme [effectIcon/] {2}"
+],
+"10341": [
+"{3:N0} tur boyunca kendine uygula: {0:N0}-{1:N0} birikme [effectIcon/] {2}"
+],
+"10342": [
+"{3:N0} tur boyunca uygula: {0:N0}-{1:N0} birikme [effectIcon/] {2}"
+],
+"10343": [
+"{3:N0} tur boyunca uygula: {0:N0}-{1:N0} birikme [effectIcon/] {2}"
+],
+"10344": [
+"{0:P0} olasılıkla {4:N0} tur boyunca kazan: {1:N0}-{2:N0} birikme [effectIcon/] {3}"
+],
+"10345": [
+"{0:P0} olasılıkla {4:N0} tur boyunca kendine uygula: {1:N0}-{2:N0} birikme [effectIcon/] {3}"
+],
+"10346": [
+"{0:P0} olasılıkla {4:N0} tur boyunca uygula: {1:N0}-{2:N0} birikme [effectIcon/] {3}"
+],
+"10347": [
+"{0:P0} olasılıkla {4:N0} tur boyunca uygula: {1:N0}-{2:N0} birikme [effectIcon/] {3}"
+],
+"10348": [
+"{1:N0} kez saldırıya uğrayana kadar kazan: [effectIcon/] {0}"
+],
+"10349": [
+"{1:N0} kez saldırıya uğrayana kadar kendine uygula: [effectIcon/] {0}"
+],
+"10350": [
+"{1:N0} saldırı boyunca uygula: [effectIcon/] {0}"
+],
+"10351": [
+"{1:N0} saldırı boyunca uygula: [effectIcon/] {0}"
+],
+"10352": [
+"{0:P0} olasılıkla {2:N0} kez saldırıya uğrayana kadar kazan: [effectIcon/] {1}"
+],
+"10353": [
+"{0:P0} olasılıkla {2:N0} kez saldırıya uğrayana kadar kendine uygula: [effectIcon/] {1}"
+],
+"10354": [
+"{0:P0} olasılıkla {2:N0} saldırı boyunca uygula: [effectIcon/] {1}"
+],
+"10355": [
+"{0:P0} olasılıkla {2:N0} saldırı boyunca uygula: [effectIcon/] {1}"
+],
+"10356": "Dövüşün Başında:",
+"10357": "Yiyecek Yiyince:",
+"10358": "Elle Yiyecek Yiyince:",
+"10359": "Otomatik Yemede:",
+"10360": "Saldırınca:",
+"10361": "Turun İlk Saldırısında:",
+"10362": "İsabet Edince:",
+"10363": "Turun İlk İsabetinde:",
+"10364": "Iskalayınca:",
+"10365": "Turun İlk Iskalamasında:",
+"10366": "Turun İlk Saldırısı İsabet Ederse:",
+"10367": "Turun İlk Saldırısı Iskalarsa:",
+"10368": "Ölünce:",
+"10369": "Saldırıya Uğrayınca:",
+"10370": "İlk Kez Saldırıya Uğrayınca:",
+"10371": "Vurulunca:",
+"10372": "İlk Kez Vurulunca:",
+"10373": "Saldırıdan Kaçınınca:",
+"10374": "İlk Saldırıdan Kaçınınca:",
+"10375": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] bölgesinde [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] etkiye maruz kal",
+"10376": "[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] etkiye maruz kal",
+"10377": "[img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] etkisine maruz kal: [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] kez",
+"10378": "[img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] etkisine yakalan: [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] kez",
+"10379": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] bölgesinde [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] etkisine maruz kal: [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] kez",
+"10380": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] bölgesinde [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] etkisine yakalan: [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] kez",
+"10381": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] bölgesinde [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] etki uygula",
+"10382": "[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] etki uygula",
+"10383": "[img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] etkisini uygula: [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] kez",
+"10384": "[img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] etkisini uygula: [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] kez",
+"10385": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] bölgesinde [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] etkisini uygula: [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] kez",
+"10386": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] bölgesinde [img height=1.25em]{EffectIcon}[/img] [color=#FFD16D]{EffectName}[/color] etkisini uygula: [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] kez",
+"10387": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] bölgesinde [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] etki kazan veya kendine uygula",
+"10388": "[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] etki kazan veya kendine uygula",
+"10389": "Kazan: [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b], [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] kez",
+"10390": "[img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] etkisini kendine uygula: [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] kez",
+"10391": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] bölgesinde kazan: [img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b], [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] kez",
+"10392": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] bölgesinde [img height=1.25em]{EffectIcon}[/img] [b]{EffectName}[/b] etkisini kendine uygula: [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] kez",
+"10393": "Yiyecek Seçilmedi",
+"10394": "Zaten Kuşanıldı",
+"10395": [
+"{0:N0} eşya filtre ayarları nedeniyle gizlendi"
+],
+"10396": "[b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] yiyecek ye",
+"10397": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] bölgesinde [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] yiyecek ye",
+"10398": "Ye: [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b]",
+"10399": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] bölgesinde ye: [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b]",
+"10400": "Yiyeceklerle [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] sağlık puanı yenile",
+"10401": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] bölgesinde yiyeceklerle [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] sağlık puanı yenile",
+"10402": "[img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b] yiyerek [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] sağlık puanı yenile",
+"10403": "[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] bölgesinde [img height=1.25em]{ItemIcon}[/img] [b]{ItemName}[/b] yiyerek [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] sağlık puanı yenile",
+"10404": "{0:N0}-{1:N0}",
+"10405": "Şunlardan biri için olasılık:",
+"10406": "Bu içerik [b]Demo[/b] sürümünde yok",
+"10407": "[b]{CategoryName}[/b] Toplam Tamamlanma [b]{Current:0.##%} / {Max:0.##%}[/b]",
+"10408": "Yeterli kaynak yok.",
+"10409": "Üretilen Tarifler",
+"10410": "{2.Entity.DisplayName} yeteneğinde {0:F0} / {1:F1} tarif üret",
+"10411": "{0.Quantity:N0} {0.Currency.DisplayNameShort}",
+"10412": [
+"[img height=1.25em]{ItemIcon}[/img] [b]{Current} / {Max} {ItemName}[/b] kuşanıldı"
+]
+}
