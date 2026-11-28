@@ -1,6 +1,6 @@
 Localization Pack for Melvor Idle 2
 ===================================
-Version 1.4.0, made for game version 0.11.7-alpha (Steam Early Access)
+Version 1.5.0, made for game version 0.11.7-alpha (Steam Early Access)
 Unofficial community translations for Melvor Idle 2 in one mod.
 Not affiliated with or endorsed by Games By Malcs or Jagex.
 

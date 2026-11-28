@@ -5,7 +5,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <AssemblyName>LocalizationPack</AssemblyName>
     <RootNamespace>LocalizationPack</RootNamespace>
-    <Version>1.4.0</Version>
+    <Version>1.5.0</Version>
     <Nullable>enable</Nullable>
     <DebugType>none</DebugType>
     <GenerateDependencyFile>false</GenerateDependencyFile>

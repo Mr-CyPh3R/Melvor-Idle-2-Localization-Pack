@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 1.5.0 (2026-11-28)
 
 ### New languages
 * European Portuguese (Português, Portugal): 13,711 texts, translated from English by AI with the terms of the official European Portuguese translation of Melvor Idle (599 texts taken from it). Kept apart from Brazilian Portuguese, with the European spelling and "tu". The Mod Loader menu (F1) is translated too.
