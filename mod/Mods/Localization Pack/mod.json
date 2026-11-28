@@ -352,6 +352,37 @@
       },
       "less_than": "dưới {0}",
       "plural_forms": "nplurals=1; plural=0;"
+    },
+    "tr_TR": {
+      "name": "Türkçe",
+      "english_name": "Turkish",
+      "file": "Languages/Game/tr_TR.po",
+      "display": "Türkçe, Türkiye",
+      "locale": "tr",
+      "units": {
+        "day": [
+          "gün",
+          "gün"
+        ],
+        "hour": [
+          "saat",
+          "saat"
+        ],
+        "minute": [
+          "dakika",
+          "dakika"
+        ],
+        "second": [
+          "saniye",
+          "saniye"
+        ],
+        "turn": [
+          "tur",
+          "tur"
+        ]
+      },
+      "less_than": "{0} altında",
+      "plural_forms": "nplurals=1; plural=0;"
     }
   }
 }
