@@ -52,8 +52,7 @@ Melvor Idle 2/
 └── Mods/
     └── Localization Pack/
         ├── Languages/
-        │   ├── Game/   (one .po file per language)
-        │   └── Mods/   (texts of other mods, for example Melvor Mod Loader)
+        │   └── Game/   (one .po file per language)
         ├── localization_pack.gd
         ├── mod.json
         └── README.txt
