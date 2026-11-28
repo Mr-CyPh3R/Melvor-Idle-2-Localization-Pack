@@ -83,3 +83,9 @@ Tur 4 (paketler 072–095):
 - Savaş ve arayüz: Stance=Duruş · Combat Style=Savaş Stili · Course=Parkur · Shortcut=Kestirme · Minor/Major Node=Küçük/Büyük Düğüm · Knowledge=Bilgi · Abilities=Beceriler · Roadmap=Yol Haritası · Codex=Kodeks · Event Log=Olay Günlüğü · Construction=İnşaat · Enchantment=Büyüleme · Trapping/Tracking/Surveying=Tuzak Kurma/İz Sürme/Etüt · Brew=demle · Lifespan=Ömür · Infant=Bebek · Pickpocket=cebini çal · Stage=Aşama · Slayer Master=Katliam Ustası · (Flat)=(Sabit)
 - Sayılar: K/M/B/T=B/Mn/Mr/Tn · aralıklar «X ile Y arası»
 - Hedefler: «{EntityName} yeteneğinde», «{EntityName} bölgesinde» (yer tutucuya ek yok)
+
+Tur 5 (paketler 096–106):
+- Rütbeler: Expert X=Uzman X (Rank 7)
+- Yerler ve eşyalar: Fleshbound Passage=Et Geçidi · Sinew Chasm=Sinir Uçurumu · Abyssal Vault Door=Cehennemî Mahzen Kapısı · Abyssal/Blessed Fragment=Cehennemî/Kutsanmış Parça · Abyssal Bar=Cehennemî Külçe · Thorned Buckle=Dikenli Toka · Sentinel Charm=Nöbetçi Tılsım Taşı · Icy Strand=Buzlu İplik · Veggie Bait=Sebze Yemi
+- Arayüz: Backup Save=Yedek Kayıt · Legacy Mode=Klasik Mod · Anti-Aliasing=Kenar Yumuşatma · Font=Yazı Tipi · Share code=Paylaşım kodu · Demo Locked=Denemede Kilitli · Obstacle Course=Engel Parkuru · Entry Cost=Giriş Ücreti · Potion Class/Tier=İksir Sınıfı/Kademesi · «Quest - X»=«Görev: X»
+- Tetikleyiciler: «Beceri: Eylem» (Odunculuk: Ağaç Kesme) · Activated when…=«… etkinleşir» · Triggers when…=«… tetiklenir» · Day Segment=Gün Dilimi · Tracker=Takipçi · Artisan Action=Üretim Eylemi · Flee/Chase=Kaçma/Kovalama · Damage over Time=Zamanla Hasar · Fixed=Sabit · Bury=Göm

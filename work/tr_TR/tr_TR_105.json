@@ -1,0 +1,155 @@
+{
+"13583": "Karakter adını burada değiştiremezsin.",
+"13584": "Geçmiş / Ad Seçme Yardımı",
+"13585": "Bunu istediğin zaman düzenleyebilirsin.",
+"13586": "NPC'yi Özelleştir",
+"13587": "Teknik Adı",
+"13588": "Gerekli",
+"13589": "Önerilen",
+"13590": "Yetenek Seviyelerin 60'a sıfırlansın mı?",
+"13591": "Deneme sürümünde Yetenekler Seviye 60 ile sınırlıydı, ama bu sınırın ötesinde de DP kazanılabiliyordu.",
+"13592": "Erken Erişim'de bu fazladan DP, Yeteneklerin birkaç seviye birden atlamasına, kilit açımlarının ve planlanan ilerlemenin atlanmasına yol açabilir.",
+"13593": "Daha doğal bir ilerleme deneyimi için Seviye 60'a sıfırlamanı öneriyoruz, ama bu zorunlu değil.",
+"13594": "Yalnızca DP'si Seviye 60'ın üzerinde olan Yetenekler etkilenir. Diğer tüm ilerlemen değişmeden kalır.",
+"13595": "Seviye 60'ın üzerindeki Yetenek DP'ni sıfırlamak ister misin?",
+"13596": "Evet, seviye 60'a sıfırla (Onaylamak için basılı tut)",
+"13597": "Evet, seviye 60'a sıfırla",
+"13598": "Hayır, DP'mi koru",
+"13599": "Çince (Tayvan)",
+"13600": "Çince (Geleneksel, Tayvan)",
+"13601": "İngilizce (Birleşik Krallık)",
+"13602": "Daha zorlu engellerle başa çıkmak ve bonus kazanmak için Çeviklik Tekniklerinin seviyesini yükselt.",
+"13603": "Rusça",
+"13604": "Rusça, Rusya",
+"13605": "Cehennemî Mahzen Anahtarı",
+"13606": [
+"Toprak Büyücüsü Cüppesi"
+],
+"13607": [
+"Ateş Büyücüsü Cüppesi"
+],
+"13608": [
+"Sebze Yemi"
+],
+"13609": [
+"Zanaatkâr Monoklü"
+],
+"13610": [
+"Kan Cüppesi"
+],
+"13611": [
+"Boğulmuş Cüppe"
+],
+"13612": [
+"Gece Pulu Cüppesi"
+],
+"13613": [
+"Fildişi Athenaeum Başlığı"
+],
+"13614": [
+"Fildişi Athenaeum Cüppesi"
+],
+"13615": [
+"Fildişi Athenaeum Eteği"
+],
+"13616": [
+"Cehennemî Parça"
+],
+"13617": [
+"Kutsanmış Parça"
+],
+"13618": [
+"Cehennemî Külçe"
+],
+"13619": [
+"Çamur Kütlesi Cüppesi"
+],
+"13620": [
+"Dikenli Toka"
+],
+"13621": [
+"Nöbetçi Tılsım Taşı"
+],
+"13622": [
+"Buzlu İplik"
+],
+"13623": [
+"Onarıcı Et"
+],
+"13624": "Koruma Kırıcı İksiri P2-A",
+"13625": "Bu sensin.",
+"13626": "Gençliğini sonuna kadar değerlendirdin; dünyanın sana düşen küçük köşesini giderek daha çok görmek için eline geçen her fırsatı kullandın. Rüzgârlı Sahillerden Kadim Koru'nun dış sınırına kadar attığın her adımda en iyi arkadaşın ve hiç ayrılmayan yol arkadaşın da yanındaydı.\n\nTıpkı senin ondan yalnızca bir yıl önce geldiğin gibi, o da köye yapayalnız gelmişti. Ormanın bu kadar derinlerinde yetimler pek de ender görülmezdi, ama Azamire'nin on yılda gördüğü ikinci yetimdi. Kasaba halkı, birkaç kuruş artırabildiğinde sana yemek artıkları ya da basit işler verirdi, ama bu fırsatlar çok seyrekti. İkinizin birbirini kollamaya ve birbirinizin ihtiyaçlarını karşılamaya başlaması gayet doğaldı. Büyüdükçe ve yer silmekten ya da lahana toplamaktan fazlasını yapabileceğinizi kanıtladıkça hayat kolaylaştı.\n\nKıtlığa, atlanan öğünlere ve soğuk gecelere rağmen yol arkadaşın, gelişim yıllarında sana yol gösteren hiç sönmeyen bir ışıktı; o da senin için aynısını söylerdi. Tuzlu Rüzgâr Koyu'ndan Kadim Koru'nun dış sınırına kadar dolaştınız; aradaki her kayanın, devrilmiş her ağacın ve her karanlık mağaranın altını üstüne getirdiniz, o da hep iki adım arkanda ya da bir adım önündeydi. Cesur, yetenekli ve aşırı iyi kalpli biri; başka biriyle vakit geçirmeyi hayal bile edemezdin.\n\nAdı...",
+"13627": "[color=#FFD16D]Savaş Seviyesi 1[/color] olan bir Düşmanı [color=#FFD16D]Menzilli Dövüş Savaş Stili[/color] ile yenebilmelisin",
+"13628": "[color=#FFD16D]Savaş Seviyesi 4[/color] olan bir Düşmanı yenebilmelisin (birden çok kez)",
+"13629": "[color=#FFD16D]Savaş Seviyesi 8[/color] olan bir Düşmanı yenebilmelisin",
+"13630": "[color=#FFD16D]Savaş Seviyesi 15[/color] olan bir [u]Zindan Baş Düşmanını[/u] yenebilmelisin (birden çok kez)",
+"13631": "[color=#FFD16D]Savaş Seviyesi 25[/color] olan bir Düşmanı yenebilmelisin (birden çok kez)",
+"13632": "[color=#FFD16D]Savaş Seviyesi 35[/color] olan bir [b][u]Ara Baş Düşmanı[/u][/b] yenebilmelisin",
+"13633": "[color=#FFD16D]Savaş Seviyesi 36[/color] olan bir Düşmanı yenebilmelisin (birden çok kez)",
+"13634": "[color=#FFD16D]Savaş Seviyesi 39[/color] olan bir [b][u]Zirve Baş Düşmanını[/u][/b] yenebilmelisin",
+"13635": "[color=#FFD16D]Savaş Seviyesi 40[/color] olan bir Düşmanı yenebilmelisin (birden çok kez)",
+"13636": "[color=#FFD16D]Savaş Seviyesi 42[/color] olan bir Düşmanı yenebilmelisin (birden çok kez)",
+"13637": "[color=#FFD16D]Savaş Seviyesi 40[/color] olan bir [b][u]Ara Baş Düşmanı[/u][/b] yenebilmelisin",
+"13638": "Balçıklı Vaha Savaş Alanının kilidini açar.",
+"13639": "[color=#FFD16D]Savaş Seviyesi 45[/color] olan bir Düşmanı yenebilmelisin (birden çok kez)",
+"13640": "Deniz Yamacı Savaş Alanının kilidini açar",
+"13641": "[color=#FFD16D]Savaş Seviyesi 50[/color] olan bir [u]Zindan Baş Düşmanını[/u] yenebilmelisin",
+"13642": "(Yakında) Çağırma Yeteneğinin kilidini açar\n(Yakında) Fildişi Athenaeum Hırsızlık Mekânının kilidini açar (Çağırma temalı)",
+"13643": "[color=#FFD16D]Savaş Seviyesi 55[/color] olan bir Düşmanı yenebilmelisin (birden çok kez)",
+"13644": "[color=#FFD16D]Savaş Seviyesi 60[/color] olan bir [b][u]Ara Baş Düşmanı[/u][/b] yenebilmelisin",
+"13645": "[color=#FFD16D]Savaş Seviyesi 67[/color] olan bir Düşmanı yenebilmelisin (birden çok kez)",
+"13646": "[color=#FFD16D]Savaş Seviyesi 69[/color] olan bir [b][u]Zirve Baş Düşmanını[/u][/b] yenebilmelisin",
+"13647": "Karakter Adı",
+"13648": [
+"[img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] zindanını tamamla: [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] kez"
+],
+"13649": [
+"[img height=1.25em]{EntityIcon}[/img] [b]{EntityName}[/b] bölgesinde [img height=1.25em]{DungeonIcon}[/img] [b]{DungeonName}[/b] zindanını tamamla: [b][color=#{ProgressColor}]{Current:N0} / {Max:N0}[/color][/b] kez"
+],
+"13650": "Engellerden eşya alma olasılığına uygulanan sabit değişiklik",
+"13651": "Tuzak başarı olasılığına uygulanan sabit değişiklik",
+"13652": "0'dan büyükse bir engelde başarısız olunca engel ödülleri korunur",
+"13653": "Bu NPC için henüz bir geçmiş yok.",
+"13654": "Bilinmeyen Hata: {0}. Steam istemcisini güncellemek bu sorunu çözebilir.",
+"13655": "[color=#E9DFC1]Alınan [color=#FFD16D]tüm[/color] hasarı [color=#FFD16D]Zırh değerine[/color] eşit sabit bir miktar kadar azaltır.[/color]\n\n[color=#E9DFC1]Bu, hasar hesaplamasının [color=#FFD16D]son[/color] adımıdır.[/color]\n\n[color=#E9DFC1]Zırh değerine [color=#FFD16D]eşit veya daha yüksek[/color] bir vuruşla [color=#FFD16D]Zırh kırılabilir[/color].[/color]\n\n[color=#E9DFC1]Öldürme başına verilen Temel Bonus DP:[/color]\n[color=#FFD16D]Sağlık Puanı:[/color] [color=#26D345]{1:N0}[/color]\n[color=#FFD16D]Diğer:[/color] [color=#26D345]{0:N0}[/color] [color=#E9DFC1](Duruşuna göre dağıtılır)[/color]",
+"13656": "(Çarpılmış)",
+"13657": "Bu NPC'yi Düzenle",
+"13658": "İpuçlarında Eşya İstatistiklerini her zaman göster",
+"13659": "Ekipman ipuçları, Eşya İstatistikleri panelini yalnızca Shift basılıyken değil, her zaman gösterir.",
+"13660": "Açılabilir eşya ganimetlerinde bulunan eşyaları göster",
+"13661": "Açılabilir bir eşyanın ganimetlerine bakarken daha önce bulduğun eşyaların yanında bir onay işareti gösterir.",
+"13662": "Kenar Yumuşatma (MSAA)",
+"13663": "Tırtıklı kenarları yumuşatır. Yüksek değerler performansı düşürebilir.",
+"13664": "Lonca bildirimine tıklama davranışı",
+"13665": "Ustalık Loncası görev bildirimlerine tıklandığındaki varsayılan davranışı ayarla.",
+"13666": "Geçerli olanı kapat",
+"13667": "Tümünü kapat",
+"13668": "Tüm lonca bildirimlerini kapatmak için Ctrl/CMD + Tıkla",
+"13669": "Sıradaki tüm Ustalık Loncası bildirimlerini hızla kapatan kestirmeyi açar veya kapatır.",
+"13670": "Ustalık Loncası Görev Bildirimlerini Sıraya Al",
+"13671": "Ustalık Loncası Görevleriyle ilgili bildirimlerin hepsi birden gösterilmek yerine sıraya alınıp alınmayacağı.",
+"13672": "Kapatmak için tıkla",
+"13673": "Tümünü kapatmak için tıkla",
+"13674": "Tümünü kapatmak için {0} + Tıkla",
+"13675": "+{0} daha",
+"13676": "{0} tamamlandı",
+"13677": "{0} devam ediyor",
+"13678": [
+"Şunun için {0:N0} Takım Eşyası kuşanılmalı:"
+],
+"13679": "Takım Bonusları",
+"13680": "Takım Bonusları:",
+"13681": "Geçerli Takım Eşyaları:",
+"13682": "(Donanım Setleri arasında [color=#FFD16D]{0}[/color] ile geçiş yap)",
+"13683": "(Donanım Setleri arasında [color=#FFD16D]Q[/color] ile geçiş yap)",
+"13684": "[img height=1.25em]res://Assets/Icons/StatsIcon_28.png[/img] [b]Eşya İstatistiklerini[/b] göstermek için [color=#FFD16D]{0} tuşunu basılı tut[/color]",
+"13685": "[img height=1.25em]res://Assets/Icons/StatsIcon_28.png[/img] [b]Eşya İstatistiklerini[/b] göstermek için [color=#FFD16D]Shift tuşunu basılı tut[/color]",
+"13686": "Sekme Simgesi Yap",
+"13687": "Sekme Simgesini Sıfırla",
+"13688": "Kayıtlı Depo Sekmesi simgesini siler ve varsayılana (Depo Sekmesindeki İlk Eşya) döndürür.",
+"13689": "Karşılanmayan Koşullar İçin Gri Kullan",
+"13690": "Karşılanmayan koşulları kırmızı yerine gri göster.",
+"13691": "Son Haberler ve Güncellemeler",
+"13692": "Son Patreon Haberleri",
+"13693": "Son haberler yükleniyor... Lütfen bekle..."
+}
